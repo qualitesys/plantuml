@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"ElkWithProperty" <|-- "net.sourceforge.plantuml.elk.proxy.graph.ElkNode"
+class net.sourceforge.plantuml.elk.proxy.graph.ElkNode {
++ElkNode(Object) : ElkNode [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#10]]]
++getParent() : ElkNode [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#14]]]
++getX() : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#22]]]
++getY() : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#26]]]
++getLabels() : Collection<ElkLabel> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#30]]]
++getWidth() : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#39]]]
++getHeight() : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#43]]]
++setDimensions(double;double) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#47]]]
+} 
+@enduml

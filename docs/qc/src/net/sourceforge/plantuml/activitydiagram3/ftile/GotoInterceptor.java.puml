@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.GotoInterceptor"
+class net.sourceforge.plantuml.activitydiagram3.ftile.GotoInterceptor {
++GotoInterceptor(TextBlock) : GotoInterceptor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/GotoInterceptor.java.html#15]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/GotoInterceptor.java.html#19]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/GotoInterceptor.java.html#24]]]
+} 
+@enduml

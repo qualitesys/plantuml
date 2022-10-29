@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cgraph.utils__c"
+class gen.lib.cgraph.utils__c {
++agdictobjmem(ST_dt_s;Object;size_t;ST_dtdisc_s) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/utils__c.java.html#34]]]
++agdictobjfree(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/utils__c.java.html#67]]]
++agdtopen(ST_Agraph_s;ST_dtdisc_s;ST_dtmethod_s) : ST_dt_s [[[./../../../../.././qc/src/gen/lib/cgraph/utils__c.java.html#87]]]
++agdtdelete(ST_Agraph_s;ST_dt_s;__ptr__) : __ptr__ [[[./../../../../.././qc/src/gen/lib/cgraph/utils__c.java.html#109]]]
++agdtdisc(ST_Agraph_s;ST_dt_s;ST_dtdisc_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/utils__c.java.html#123]]]
+} 
+@enduml

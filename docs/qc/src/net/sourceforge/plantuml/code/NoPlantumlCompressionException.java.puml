@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"IOException" <|-- "net.sourceforge.plantuml.code.NoPlantumlCompressionException"
+class net.sourceforge.plantuml.code.NoPlantumlCompressionException {
++NoPlantumlCompressionException(Exception) : NoPlantumlCompressionException [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/NoPlantumlCompressionException.java.html#8]]]
++NoPlantumlCompressionException(String) : NoPlantumlCompressionException [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/NoPlantumlCompressionException.java.html#12]]]
+} 
+@enduml

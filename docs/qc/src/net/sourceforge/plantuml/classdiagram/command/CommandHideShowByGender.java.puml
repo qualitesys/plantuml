@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<UmlDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandHideShowByGender"
+class net.sourceforge.plantuml.classdiagram.command.CommandHideShowByGender {
++CommandHideShowByGender() : CommandHideShowByGender [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByGender.java.html#28]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByGender.java.html#32]]]
+-emptyByGender(EntityPortion) : EntityGender [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByGender.java.html#47]]]
+executeArg(UmlDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByGender.java.html#62]]]
+-executeSequenceDiagram(SequenceDiagram;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByGender.java.html#76]]]
+-executeDescriptionDiagram(DescriptionDiagram;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByGender.java.html#82]]]
+-executeClassDiagram(AbstractClassOrObjectDiagram;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByGender.java.html#122]]]
+-getEntityPortion(String) : EntityPortion [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByGender.java.html#183]]]
+} 
+@enduml

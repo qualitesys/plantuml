@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"AFile" <|-- "net.sourceforge.plantuml.AFileZipEntry"
+class net.sourceforge.plantuml.AFileZipEntry {
++AFileZipEntry(SFile;String) : AFileZipEntry [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileZipEntry.java.html#17]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileZipEntry.java.html#23]]]
++openFile() : InputStream [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileZipEntry.java.html#27]]]
++isOk() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileZipEntry.java.html#50]]]
++hashCode() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileZipEntry.java.html#66]]]
++equals(Object) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileZipEntry.java.html#71]]]
++getParentFile() : AParentFolder [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileZipEntry.java.html#79]]]
++getUnderlyingFile() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileZipEntry.java.html#83]]]
++getSystemFolder() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileZipEntry.java.html#87]]]
+} 
+@enduml

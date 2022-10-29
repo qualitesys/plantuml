@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.pdf.PdfConverter"
+class net.sourceforge.plantuml.pdf.PdfConverter {
++convert(File;File) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#11]]]
+} 
+@enduml

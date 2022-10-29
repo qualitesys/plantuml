@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockLine" <|-- "net.sourceforge.plantuml.EmbeddedDiagramDraw"
+"CharSequence" <|-- "net.sourceforge.plantuml.EmbeddedDiagram"
+class net.sourceforge.plantuml.EmbeddedDiagram {
++splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#33]]]
+EmbeddedDiagramDraw(ISkinSimple;List<StringLocated>) : EmbeddedDiagramDraw [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#37]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#42]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#46]]]
++drawU(UGraphic) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#58]]]
+-getImageSvg() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#78]]]
+-getImage() : BufferedImage [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#86]]]
+-getImageSlow() : BufferedImage [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#93]]]
++getHorizontalAlignment() : HorizontalAlignment [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#101]]]
+-getSystem() : Diagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#105]]]
++getEmbeddedType(CharSequence) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#114]]]
++EmbeddedDiagram(Display) : EmbeddedDiagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#157]]]
++length() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#161]]]
++charAt(int) : char [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#165]]]
++subSequence(int;int) : CharSequence [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#169]]]
++asDraw(ISkinSimple) : EmbeddedDiagramDraw [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#173]]]
+} 
+@enduml

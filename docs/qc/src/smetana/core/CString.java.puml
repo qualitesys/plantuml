@@ -1,0 +1,30 @@
+@startuml
+!pragma layout smetana
+"UnsupportedC__ptr__" <|-- "smetana.core.CString"
+class smetana.core.CString {
++isSameThan(CString) : boolean [[[./../../../.././qc/src/smetana/core/CString.java.html#20]]]
++CString(String) : CString [[[./../../../.././qc/src/smetana/core/CString.java.html#28]]]
++duplicate() : CString [[[./../../../.././qc/src/smetana/core/CString.java.html#36]]]
++strdup() : CString [[[./../../../.././qc/src/smetana/core/CString.java.html#48]]]
++gmalloc(int) : CString [[[./../../../.././qc/src/smetana/core/CString.java.html#52]]]
++CString(int) : CString [[[./../../../.././qc/src/smetana/core/CString.java.html#56]]]
+-CString(List<Character>;int) : CString [[[./../../../.././qc/src/smetana/core/CString.java.html#63]]]
++getTheField(OFFSET) : __ptr__ [[[./../../../.././qc/src/smetana/core/CString.java.html#74]]]
++getParent() : ST_refstr_t [[[./../../../.././qc/src/smetana/core/CString.java.html#82]]]
++setParent(ST_refstr_t) : void [[[./../../../.././qc/src/smetana/core/CString.java.html#89]]]
++plus_(int) : CString [[[./../../../.././qc/src/smetana/core/CString.java.html#99]]]
++comparePointer(__ptr__) : int [[[./../../../.././qc/src/smetana/core/CString.java.html#103]]]
++toString() : String [[[./../../../.././qc/src/smetana/core/CString.java.html#112]]]
+-getData() : List<Character> [[[./../../../.././qc/src/smetana/core/CString.java.html#124]]]
++getContent() : String [[[./../../../.././qc/src/smetana/core/CString.java.html#128]]]
++charAt(int) : char [[[./../../../.././qc/src/smetana/core/CString.java.html#140]]]
++setCharAt(int;char) : char [[[./../../../.././qc/src/smetana/core/CString.java.html#150]]]
++length() : int [[[./../../../.././qc/src/smetana/core/CString.java.html#155]]]
++strcmp(CString) : int [[[./../../../.././qc/src/smetana/core/CString.java.html#166]]]
++strcmp(CString;int) : int [[[./../../../.././qc/src/smetana/core/CString.java.html#176]]]
++copyFrom(CString;int) : void [[[./../../../.././qc/src/smetana/core/CString.java.html#186]]]
++strchr(char) : CString [[[./../../../.././qc/src/smetana/core/CString.java.html#192]]]
++isSame(CString) : boolean [[[./../../../.././qc/src/smetana/core/CString.java.html#201]]]
++getUid() : int [[[./../../../.././qc/src/smetana/core/CString.java.html#205]]]
+} 
+@enduml

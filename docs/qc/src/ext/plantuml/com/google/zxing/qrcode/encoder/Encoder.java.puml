@@ -1,0 +1,28 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.qrcode.encoder.Encoder"
+class ext.plantuml.com.google.zxing.qrcode.encoder.Encoder {
+-Encoder() : Encoder [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#35]]]
+-calculateMaskPenalty(ByteMatrix) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#40]]]
++encode(String;ErrorCorrectionLevel;QRCode) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#50]]]
++encode(String;ErrorCorrectionLevel;Hashtable;QRCode) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#55]]]
+getAlphanumericCode(int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#114]]]
++chooseMode(String) : Mode [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#121]]]
++chooseMode(String;String) : Mode [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#126]]]
+-isOnlyDoubleByteKanji(String) : boolean [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#151]]]
+-chooseMaskPattern(BitArray;ErrorCorrectionLevel;int;ByteMatrix) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#171]]]
+-initQRCode(int;ErrorCorrectionLevel;Mode;QRCode) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#189]]]
+terminateBits(int;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#226]]]
+getNumDataBytesAndNumECBytesForBlockID(int;int;int;int;int[];int[]) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#254]]]
+interleaveWithECBytes(BitArray;int;int;int;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#304]]]
+generateECBytes(byte[];int) : byte[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#366]]]
+appendModeInfo(Mode;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#382]]]
+appendLengthInfo(int;int;Mode;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#388]]]
+appendBytes(String;Mode;BitArray;String) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#398]]]
+appendNumericBytes(String;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#413]]]
+appendAlphanumericBytes(String;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#437]]]
+append8BitBytes(String;BitArray;String) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#461]]]
+appendKanjiBytes(String;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#474]]]
+-appendECI(ECI;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#500]]]
+} 
+@enduml

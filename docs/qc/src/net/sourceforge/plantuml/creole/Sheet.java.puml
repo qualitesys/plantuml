@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Iterable<Stripe>" <|-- "net.sourceforge.plantuml.creole.Sheet"
+class net.sourceforge.plantuml.creole.Sheet {
++Sheet(HorizontalAlignment) : Sheet [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sheet.java.html#15]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sheet.java.html#20]]]
++add(Stripe) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sheet.java.html#24]]]
++iterator() : Iterator<Stripe> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sheet.java.html#28]]]
++getLastStripe() : Stripe [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sheet.java.html#32]]]
++getHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sheet.java.html#40]]]
+} 
+@enduml

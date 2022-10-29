@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Closeable" <|-- "net.sourceforge.plantuml.code.deflate.BitInputStream"
+class net.sourceforge.plantuml.code.deflate.BitInputStream {
++getBitPosition() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33]]]
++readByte() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33]]]
++read() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33]]]
++readNoEof() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33]]]
++close() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33]]]
+} 
+@enduml

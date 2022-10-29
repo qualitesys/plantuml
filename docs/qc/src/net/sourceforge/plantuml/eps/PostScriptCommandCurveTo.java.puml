@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"PostScriptCommand" <|-- "net.sourceforge.plantuml.eps.PostScriptCommandCurveTo"
+class net.sourceforge.plantuml.eps.PostScriptCommandCurveTo {
++PostScriptCommandCurveTo(double;double;double;double;double;double) : PostScriptCommandCurveTo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandCurveTo.java.html#13]]]
++toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandCurveTo.java.html#22]]]
+} 
+@enduml

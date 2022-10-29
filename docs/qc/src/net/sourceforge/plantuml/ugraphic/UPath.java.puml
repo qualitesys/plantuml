@@ -1,0 +1,38 @@
+@startuml
+!pragma layout smetana
+"AbstractShadowableIterable<USegment>" <|-- "net.sourceforge.plantuml.ugraphic.UPath"
+class net.sourceforge.plantuml.ugraphic.UPath {
++UPath(String;String) : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#22]]]
++UPath() : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#27]]]
++add(double[];USegmentType) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#31]]]
++isEmpty() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#35]]]
+-addInternal(USegment) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#39]]]
++translate(double;double) : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#53]]]
++rotate(double) : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#61]]]
++moveTo(XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#69]]]
++lineTo(XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#73]]]
++moveTo(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#77]]]
++lineTo(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#81]]]
++cubicTo(XPoint2D;XPoint2D;XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#85]]]
++cubicTo(double;double;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#89]]]
++quadTo(double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#93]]]
++quadTo(XPoint2D;XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#97]]]
++arcTo(double;double;double;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#101]]]
++arcTo(XPoint2D;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#107]]]
++closePath() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#113]]]
++getMaxX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#117]]]
++getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#121]]]
++getMinX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#125]]]
++getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#129]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#134]]]
++iterator() : Iterator<USegment> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#138]]]
++isOpenIconic() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#142]]]
++setOpenIconic(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#146]]]
++getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#150]]]
++getCodeLine() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#154]]]
++setIgnoreForCompressionOnX() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#158]]]
++setIgnoreForCompressionOnY() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#162]]]
++drawWhenCompressed(UGraphic;CompressionMode) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#166]]]
++isIgnoreForCompressionOn(CompressionMode) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#169]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStructSHAPE_INFO" <|-- "h.ST_field_t"
+class h.ST_field_t {
++toString() : String [[[./../../.././qc/src/h/ST_field_t.java.html#22]]]
++castTo(Class) : ST_field_t [[[./../../.././qc/src/h/ST_field_t.java.html#27]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_field_t.java.html#35]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandDelay"
+class net.sourceforge.plantuml.sequencediagram.command.CommandDelay {
++CommandDelay() : CommandDelay [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#17]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#21]]]
+executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#28]]]
+} 
+@enduml

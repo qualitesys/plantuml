@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"WithNoteInstruction" <|-- "net.sourceforge.plantuml.activitydiagram3.InstructionWhile"
+class net.sourceforge.plantuml.activitydiagram3.InstructionWhile {
++overwriteYes(Display) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#52]]]
++InstructionWhile(Swimlane;Instruction;Display;LinkRendering;Display;HColor;ISkinParam) : InstructionWhile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#56]]]
++add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#68]]]
++createGtile(ISkinParam;StringBounder) : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#73]]]
++createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#81]]]
++getParent() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#95]]]
++kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#100]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#109]]]
++outDisplay(Display) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#113]]]
++outColor(Rainbow) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#117]]]
++addNote(Display;NotePosition;NoteType;Colors;Swimlane) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#122]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#130]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#135]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#140]]]
++getLast() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#145]]]
++setSpecial(Instruction) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#149]]]
++containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#154]]]
++setBackward(Display;Swimlane;BoxStyle;LinkRendering;LinkRendering) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#158]]]
++incoming(LinkRendering) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionWhile.java.html#168]]]
+} 
+@enduml

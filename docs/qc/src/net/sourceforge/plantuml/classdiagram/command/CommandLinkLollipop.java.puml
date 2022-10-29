@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<AbstractClassOrObjectDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop"
+class net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop {
++CommandLinkLollipop(UmlDiagramType) : CommandLinkLollipop [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#30]]]
+getRegexConcat(UmlDiagramType) : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#34]]]
+-optionalKeywords(UmlDiagramType) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#64]]]
+-getType(String) : LeafType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#74]]]
+executeArg(AbstractClassOrObjectDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#82]]]
+-getFoo1(AbstractClassOrObjectDiagram;Code;Ident) : IEntity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#167]]]
+-addLink(AbstractClassOrObjectDiagram;Link;String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#177]]]
+-getLinkType(RegexResult) : LinkType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#199]]]
+-getQueue(RegexResult) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#203]]]
+} 
+@enduml

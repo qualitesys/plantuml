@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.GraphvizSolverB"
+class net.sourceforge.plantuml.posimo.GraphvizSolverB {
++solve(Cluster;Collection<Path>) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#54]]]
+-extractPointsList(String;int;YDelta) : List<XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#146]]]
+-getMaxX(List<XPoint2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#150]]]
+-getMinX(List<XPoint2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#160]]]
+-getMaxY(List<XPoint2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#170]]]
+-getMinY(List<XPoint2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#180]]]
+-exportPng(String;SFile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#190]]]
+-getPath(Collection<Path>;int;int) : Path [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#200]]]
+} 
+@enduml

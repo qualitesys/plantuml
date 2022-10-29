@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockRaw"
+class net.sourceforge.plantuml.graphic.TextBlockRaw {
++TextBlockRaw(List<String>;FontConfiguration) : TextBlockRaw [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRaw.java.html#18]]]
+-getLines(StringBounder) : List<Line> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRaw.java.html#23]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRaw.java.html#36]]]
+getTextDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRaw.java.html#40]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRaw.java.html#51]]]
+} 
+@enduml

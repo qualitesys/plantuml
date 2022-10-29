@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"Comparator" <|-- "ext.plantuml.com.ctreber.aclib.sort.DefaultComparator"
+class ext.plantuml.com.ctreber.aclib.sort.DefaultComparator {
++compare(Object;Object) : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/DefaultComparator.java.html#8]]]
+} 
+@enduml

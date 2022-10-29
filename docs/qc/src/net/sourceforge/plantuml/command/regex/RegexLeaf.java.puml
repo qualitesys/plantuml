@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"IRegex" <|-- "net.sourceforge.plantuml.command.regex.RegexLeaf"
+class net.sourceforge.plantuml.command.regex.RegexLeaf {
++RegexLeaf(String) : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#25]]]
++RegexLeaf(String;String) : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#29]]]
++spaceZeroOrMore() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#34]]]
++spaceOneOrMore() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#38]]]
++start() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#42]]]
++end() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#46]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#51]]]
++getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#55]]]
++getPattern() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#59]]]
++count() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#63]]]
++createPartialMatch(Iterator<String>) : Map<String,RegexPartialMatch> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#70]]]
++match(StringLocated) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#82]]]
++matcher(String) : RegexResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#86]]]
+-getSignatureP3(String) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#97]]]
++getFoxSignatureNone() : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#107]]]
++getFoxSignature() : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#111]]]
+} 
+@enduml

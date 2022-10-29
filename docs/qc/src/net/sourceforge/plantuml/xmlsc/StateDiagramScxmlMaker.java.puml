@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.xmlsc.StateDiagramScxmlMaker"
+class net.sourceforge.plantuml.xmlsc.StateDiagramScxmlMaker {
++StateDiagramScxmlMaker(StateDiagram) : StateDiagramScxmlMaker [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmlsc/StateDiagramScxmlMaker.java.html#18]]]
++createFiles(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmlsc/StateDiagramScxmlMaker.java.html#22]]]
+} 
+@enduml

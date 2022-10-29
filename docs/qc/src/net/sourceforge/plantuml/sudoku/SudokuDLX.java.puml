@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"ISudoku" <|-- "net.sourceforge.plantuml.sudoku.SudokuDLX"
+class net.sourceforge.plantuml.sudoku.SudokuDLX {
++SudokuDLX(Long) : SudokuDLX [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#15]]]
++getRatting() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#27]]]
++getSeed() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#31]]]
++getGiven(int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#35]]]
++print() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#43]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#51]]]
+} 
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+!pragma layout smetana
+"TaskDraw" <|-- "net.sourceforge.plantuml.project.draw.TaskDrawSeparator"
+class net.sourceforge.plantuml.project.draw.TaskDrawSeparator {
++TaskDrawSeparator(String;TimeScale;Real;Day;Day;StyleBuilder;HColorSet) : TaskDrawSeparator [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#43]]]
++drawTitle(UGraphic;LabelStrategy;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#55]]]
++getTitleWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#70]]]
+-getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#75]]]
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#79]]]
+-getTitle() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#83]]]
+-getFontConfiguration() : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#91]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#96]]]
++getFingerPrint(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#138]]]
++getFingerPrintNote(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#146]]]
++getFullHeightTask(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#151]]]
+-getTextHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#158]]]
++getY(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#163]]]
++getTrueRow() : TaskDraw [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#168]]]
++setColorsAndCompletion(CenterBorderColor;int;Url;Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#173]]]
++getTask() : Task [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#177]]]
++getY(StringBounder;Direction) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#182]]]
++getHeightMax(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#187]]]
++getX1(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#192]]]
++getX2(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#197]]]
+} 
+@enduml

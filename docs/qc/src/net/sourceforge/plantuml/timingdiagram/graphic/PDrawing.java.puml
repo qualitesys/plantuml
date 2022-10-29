@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"TimeProjected" <|-- "net.sourceforge.plantuml.timingdiagram.graphic.PDrawing"
+class net.sourceforge.plantuml.timingdiagram.graphic.PDrawing {
++getFullHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#14]]]
++addChange(ChangeState) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#16]]]
++getPart1(double) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#18]]]
++getPart2() : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#20]]]
++setInitialState(String;Colors) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#22]]]
++addConstraint(TimeConstraint) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#24]]]
+} 
+@enduml

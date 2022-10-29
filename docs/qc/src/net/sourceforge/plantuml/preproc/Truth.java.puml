@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.Truth"
+class net.sourceforge.plantuml.preproc.Truth {
++isTrue(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Truth.java.html#5]]]
+} 
+@enduml

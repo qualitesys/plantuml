@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.ElementBorder"
+class net.sourceforge.plantuml.salt.element.ElementBorder {
++setNorth(Element) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementBorder.java.html#19]]]
++setSouth(Element) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementBorder.java.html#23]]]
++setEast(Element) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementBorder.java.html#27]]]
++setWest(Element) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementBorder.java.html#31]]]
++setCenter(Element) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementBorder.java.html#35]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementBorder.java.html#39]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementBorder.java.html#58]]]
+} 
+@enduml

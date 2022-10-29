@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"PSystemBasicFactory<PSystemSalt>" <|-- "net.sourceforge.plantuml.salt.PSystemSaltFactory"
+class net.sourceforge.plantuml.salt.PSystemSaltFactory {
++PSystemSaltFactory(DiagramType) : PSystemSaltFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory.java.html#11]]]
++initDiagram(UmlSource;String) : PSystemSalt [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory.java.html#16]]]
++executeLine(UmlSource;PSystemSalt;String) : PSystemSalt [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory.java.html#28]]]
+} 
+@enduml

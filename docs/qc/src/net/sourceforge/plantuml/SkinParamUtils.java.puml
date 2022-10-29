@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.SkinParamUtils"
+class net.sourceforge.plantuml.SkinParamUtils {
++getFont(ISkinParam;FontParam;Stereotype) : UFont [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamUtils.java.html#13]]]
++getFontColor(ISkinParam;FontParam;Stereotype) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamUtils.java.html#17]]]
++getColor(ISkinParam;Stereotype;ColorParam...) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamUtils.java.html#21]]]
+} 
+@enduml

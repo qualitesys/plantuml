@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.core.TaskCode"
+class net.sourceforge.plantuml.project.core.TaskCode {
++TaskCode(String) : TaskCode [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskCode.java.html#8]]]
++hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskCode.java.html#13]]]
++equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskCode.java.html#18]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskCode.java.html#24]]]
++getSimpleDisplay() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskCode.java.html#28]]]
+} 
+@enduml

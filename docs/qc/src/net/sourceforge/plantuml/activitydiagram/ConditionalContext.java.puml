@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram.ConditionalContext"
+class net.sourceforge.plantuml.activitydiagram.ConditionalContext {
++ConditionalContext(ConditionalContext;IEntity;Direction) : ConditionalContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/ConditionalContext.java.html#16]]]
++getDirection() : Direction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/ConditionalContext.java.html#25]]]
++getParent() : ConditionalContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/ConditionalContext.java.html#29]]]
++getBranch() : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/ConditionalContext.java.html#33]]]
+} 
+@enduml

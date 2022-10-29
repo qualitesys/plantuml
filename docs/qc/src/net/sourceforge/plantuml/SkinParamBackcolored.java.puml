@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"SkinParamDelegator" <|-- "net.sourceforge.plantuml.SkinParamBackcolored"
+class net.sourceforge.plantuml.SkinParamBackcolored {
++SkinParamBackcolored(ISkinParam;HColor) : SkinParamBackcolored [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcolored.java.html#18]]]
++SkinParamBackcolored(ISkinParam;HColor;boolean) : SkinParamBackcolored [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcolored.java.html#22]]]
++SkinParamBackcolored(ISkinParam;HColor;HColor) : SkinParamBackcolored [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcolored.java.html#26]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcolored.java.html#31]]]
++SkinParamBackcolored(ISkinParam;HColor;HColor;boolean) : SkinParamBackcolored [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcolored.java.html#35]]]
++getBackgroundColor() : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcolored.java.html#44]]]
++getHtmlColor(ColorParam;Stereotype;boolean) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcolored.java.html#52]]]
++forceColor(ColorParam;HColor) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcolored.java.html#72]]]
+} 
+@enduml

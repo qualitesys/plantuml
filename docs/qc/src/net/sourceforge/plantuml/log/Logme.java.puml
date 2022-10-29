@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.log.Logme"
+class net.sourceforge.plantuml.log.Logme {
++error(Throwable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/log/Logme.java.html#20]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle"
+class net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle {
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#22]]]
++ExtremityArrowAndCircle(XPoint2D;double;XPoint2D;HColor) : ExtremityArrowAndCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#26]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#44]]]
+} 
+@enduml

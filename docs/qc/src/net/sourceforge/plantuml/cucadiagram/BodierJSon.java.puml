@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"Bodier" <|-- "net.sourceforge.plantuml.cucadiagram.BodierJSon"
+class net.sourceforge.plantuml.cucadiagram.BodierJSon {
++muteClassToObject() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#20]]]
++BodierJSon() : BodierJSon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#24]]]
++setLeaf(ILeaf) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#28]]]
++getMethodsToDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#34]]]
++getFieldsToDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#39]]]
++hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#44]]]
++getBody(ISkinParam;boolean;boolean;Stereotype;Style;FontConfiguration) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#49]]]
++getRawBody() : List<CharSequence> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#55]]]
++addFieldOrMethod(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#60]]]
++setJson(JsonValue) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#64]]]
+} 
+@enduml

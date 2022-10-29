@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"UDrawable" <|-- "net.sourceforge.plantuml.project.draw.ResourceDraw"
+class net.sourceforge.plantuml.project.draw.ResourceDraw {
++ResourceDraw(GanttDiagram;Resource;TimeScale;double;Day;Day) : ResourceDraw [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/ResourceDraw.java.html#30]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/ResourceDraw.java.html#39]]]
+-getFontConfiguration(int) : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/ResourceDraw.java.html#79]]]
+-getFontConfiguration(int;HColor) : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/ResourceDraw.java.html#83]]]
++getHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/ResourceDraw.java.html#88]]]
++getY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/ResourceDraw.java.html#92]]]
+} 
+@enduml

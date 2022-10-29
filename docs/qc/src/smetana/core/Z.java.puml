@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "smetana.core.Z"
+class smetana.core.Z {
++z() : Z [[[./../../../.././qc/src/smetana/core/Z.java.html#296]]]
++open() : void [[[./../../../.././qc/src/smetana/core/Z.java.html#300]]]
++close() : void [[[./../../../.././qc/src/smetana/core/Z.java.html#309]]]
+-__Shapes__(String;ST_shape_functions;ST_polygon_t) : ST_shape_desc [[[./../../../.././qc/src/smetana/core/Z.java.html#313]]]
+-createArrowtypes(int;double;CFunction) : ST_arrowtype_t [[[./../../../.././qc/src/smetana/core/Z.java.html#321]]]
+-create_arrowname_t(String;int) : ST_arrowname_t [[[./../../../.././qc/src/smetana/core/Z.java.html#329]]]
+-Z() : Z [[[./../../../.././qc/src/smetana/core/Z.java.html#336]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageEmptyPackage"
+class net.sourceforge.plantuml.svek.image.EntityImageEmptyPackage {
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageEmptyPackage.java.html#53]]]
++EntityImageEmptyPackage(ILeaf;ISkinParam;PortionShower;SName) : EntityImageEmptyPackage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageEmptyPackage.java.html#58]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageEmptyPackage.java.html#101]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageEmptyPackage.java.html#109]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageEmptyPackage.java.html#135]]]
+} 
+@enduml

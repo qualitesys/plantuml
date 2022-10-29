@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.TFunctionArgument"
+class net.sourceforge.plantuml.tim.TFunctionArgument {
++TFunctionArgument(String;TValue) : TFunctionArgument [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionArgument.java.html#11]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionArgument.java.html#16]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionArgument.java.html#21]]]
++getOptionalDefaultValue() : TValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionArgument.java.html#25]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.dotgen.decomp__c"
+class gen.lib.dotgen.decomp__c {
++begin_component() : void [[[./../../../../.././qc/src/gen/lib/dotgen/decomp__c.java.html#41]]]
++add_to_component(ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/decomp__c.java.html#56]]]
++end_component() : void [[[./../../../../.././qc/src/gen/lib/dotgen/decomp__c.java.html#80]]]
++search_component(ST_Agraph_s;ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/decomp__c.java.html#98]]]
++decompose(ST_Agraph_s;int) : void [[[./../../../../.././qc/src/gen/lib/dotgen/decomp__c.java.html#131]]]
+} 
+@enduml

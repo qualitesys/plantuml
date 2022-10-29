@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.PointAndAngle"
+class net.sourceforge.plantuml.svek.PointAndAngle {
++PointAndAngle(XPoint2D;double) : PointAndAngle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#11]]]
++getPt() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#16]]]
++getAngle() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#20]]]
++getX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#24]]]
++getY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#28]]]
+} 
+@enduml

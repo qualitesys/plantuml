@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.Margins"
+class net.sourceforge.plantuml.svek.Margins {
++uniform(double) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#13]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#18]]]
++merge(Margins) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#22]]]
++Margins(double;double;double;double) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#30]]]
++isZero() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#37]]]
++getX1() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#41]]]
++getX2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#45]]]
++getY1() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#49]]]
++getY2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#53]]]
++getTotalWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#57]]]
++getTotalHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Margins.java.html#61]]]
+} 
+@enduml

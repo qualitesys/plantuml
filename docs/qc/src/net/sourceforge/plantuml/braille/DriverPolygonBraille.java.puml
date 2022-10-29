@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"UDriver<UPolygon,BrailleGrid>" <|-- "net.sourceforge.plantuml.braille.DriverPolygonBraille"
+class net.sourceforge.plantuml.braille.DriverPolygonBraille {
++DriverPolygonBraille(ClipContainer) : DriverPolygonBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#20]]]
++draw(UPolygon;double;double;ColorMapper;UParam;BrailleGrid) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#24]]]
+} 
+@enduml

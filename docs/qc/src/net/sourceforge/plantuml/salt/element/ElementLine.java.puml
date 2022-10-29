@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.ElementLine"
+class net.sourceforge.plantuml.salt.element.ElementLine {
++ElementLine(char) : ElementLine [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementLine.java.html#15]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementLine.java.html#19]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementLine.java.html#23]]]
+-drawLine(UGraphic;double;double;double;char) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementLine.java.html#35]]]
+} 
+@enduml

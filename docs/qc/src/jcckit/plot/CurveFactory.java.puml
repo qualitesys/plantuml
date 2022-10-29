@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.plot.CurveFactory"
+class jcckit.plot.CurveFactory {
++create(int;int;ClippingShape;Legend) : Curve [[[./../../../.././qc/src/jcckit/plot/CurveFactory.java.html#9]]]
+} 
+@enduml

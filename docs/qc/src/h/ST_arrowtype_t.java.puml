@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_arrowtype_t"
+class h.ST_arrowtype_t {
++___(__struct__) : void [[[./../../.././qc/src/h/ST_arrowtype_t.java.html#15]]]
+} 
+@enduml

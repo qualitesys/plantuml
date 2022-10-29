@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"FontChange" <|-- "net.sourceforge.plantuml.graphic.ColorChange"
+class net.sourceforge.plantuml.graphic.ColorChange {
+ColorChange(String) : ColorChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ColorChange.java.html#16]]]
+getColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ColorChange.java.html#25]]]
++apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ColorChange.java.html#29]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_bezier"
+class h.ST_bezier {
++___(__struct__) : void [[[./../../.././qc/src/h/ST_bezier.java.html#20]]]
+} 
+@enduml

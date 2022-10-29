@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Comparator<O>" <|-- "net.sourceforge.plantuml.bpm.Chain"
+class net.sourceforge.plantuml.bpm.Chain {
++navigator(O) : Navigator<O> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Chain.java.html#9]]]
++contains(O) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Chain.java.html#11]]]
++toList() : List<O> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Chain.java.html#13]]]
++remove(O) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Chain.java.html#15]]]
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"__ptr__" <|-- "smetana.core.CFunction"
+class smetana.core.CFunction {
++exe(Object...) : Object [[[./../../../.././qc/src/smetana/core/CFunction.java.html#7]]]
++getName() : String [[[./../../../.././qc/src/smetana/core/CFunction.java.html#9]]]
+} 
+@enduml

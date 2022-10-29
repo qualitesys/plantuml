@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"RuntimeException" <|-- "net.sourceforge.plantuml.brotli.BrotliRuntimeException"
+class net.sourceforge.plantuml.brotli.BrotliRuntimeException {
+BrotliRuntimeException(String) : BrotliRuntimeException [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BrotliRuntimeException.java.html#16]]]
+BrotliRuntimeException(String;Throwable) : BrotliRuntimeException [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BrotliRuntimeException.java.html#16]]]
+} 
+@enduml

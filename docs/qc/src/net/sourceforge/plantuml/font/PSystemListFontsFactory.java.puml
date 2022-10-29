@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"PSystemSingleLineFactory" <|-- "net.sourceforge.plantuml.font.PSystemListFontsFactory"
+class net.sourceforge.plantuml.font.PSystemListFontsFactory {
+executeLine(UmlSource;String) : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/font/PSystemListFontsFactory.java.html#12]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.Arrows"
+class net.sourceforge.plantuml.project.Arrows {
+-asToUp() : UPolygon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Arrows.java.html#11]]]
+-asToDown() : UPolygon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Arrows.java.html#20]]]
+-asToRight() : UPolygon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Arrows.java.html#29]]]
+-asToLeft() : UPolygon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Arrows.java.html#38]]]
++asTo(Direction) : UPolygon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Arrows.java.html#47]]]
+} 
+@enduml

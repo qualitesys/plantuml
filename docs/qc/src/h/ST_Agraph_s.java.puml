@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"ST_Agobj_s" <|-- "h.ST_Agraph_s"
+class h.ST_Agraph_s {
++toString() : String [[[./../../.././qc/src/h/ST_Agraph_s.java.html#28]]]
++ST_Agraph_s() : ST_Agraph_s [[[./../../.././qc/src/h/ST_Agraph_s.java.html#32]]]
++getTheField(OFFSET) : Object [[[./../../.././qc/src/h/ST_Agraph_s.java.html#40]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_Agraph_s.java.html#51]]]
++isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_Agraph_s.java.html#56]]]
+} 
+@enduml

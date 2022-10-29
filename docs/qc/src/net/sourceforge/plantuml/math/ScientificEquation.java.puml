@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.math.ScientificEquation"
+class net.sourceforge.plantuml.math.ScientificEquation {
++getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#14]]]
++getSvg(double;Color;Color) : UImageSvg [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#16]]]
++getImage(Color;Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#20]]]
++getSource() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#24]]]
+} 
+@enduml

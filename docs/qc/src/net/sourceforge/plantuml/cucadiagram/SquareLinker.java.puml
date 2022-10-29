@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.SquareLinker"
+class net.sourceforge.plantuml.cucadiagram.SquareLinker {
++leftRight(O;O) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/SquareLinker.java.html#6]]]
++topDown(O;O) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/SquareLinker.java.html#8]]]
+} 
+@enduml

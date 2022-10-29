@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlock" <|-- "net.sourceforge.plantuml.wire.Block"
+class net.sourceforge.plantuml.wire.Block {
++Block(ISkinParam) : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#60]]]
+-Block(ISkinParam;Display;XDimension2D) : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#64]]]
+-getPins(Position) : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#71]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#85]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#92]]]
+-getBlack() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#112]]]
+-drawPins(Position;UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#116]]]
++componentEnd() : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#140]]]
++addNewBlock(String;int;int) : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#147]]]
++createContainer(String) : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#156]]]
++vspace(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#163]]]
++newColumn() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#168]]]
++addPin(Position;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Block.java.html#173]]]
+} 
+@enduml

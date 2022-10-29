@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.shader.Shader"
+class ext.plantuml.com.ctreber.acearth.shader.Shader {
++getShadedColors(int;int[]) : Color[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.html#36]]]
++init() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.html#38]]]
+getShadedColorForType(int;double) : Color [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.html#50]]]
+-shade(Color;double) : Color [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.html#93]]]
++setProjection(Projection) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.html#100]]]
++setSunPos(Coordinate) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.html#105]]]
++setDaySideBrightness(double) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.html#110]]]
++setNightSideBrightness(double) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.html#115]]]
++setTerminatorDiscontinuity(double) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.html#120]]]
+} 
+@enduml

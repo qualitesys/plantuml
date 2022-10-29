@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Exception" <|-- "ext.plantuml.com.google.zxing.WriterException"
+class ext.plantuml.com.google.zxing.WriterException {
++WriterException() : WriterException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/WriterException.java.html#8]]]
++WriterException(String) : WriterException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/WriterException.java.html#12]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlock" <|-- "net.sourceforge.plantuml.svek.Boundary"
+class net.sourceforge.plantuml.svek.Boundary {
++Boundary(SymbolContext) : Boundary [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Boundary.java.html#23]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Boundary.java.html#27]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Boundary.java.html#60]]]
+} 
+@enduml

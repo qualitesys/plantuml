@@ -1,0 +1,35 @@
+@startuml
+!pragma layout smetana
+"UShape" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.Snake"
+class net.sourceforge.plantuml.activitydiagram3.ftile.Snake {
++transformX(PiecewiseAffineTransform) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#59]]]
++move(double;double) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#69]]]
+-cloneEmpty() : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#77]]]
++ignoreForCompression() : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#82]]]
++emphasizeDirection(Direction) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#87]]]
++withoutEndDecoration() : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#91]]]
++withMerge(MergeStrategy) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#95]]]
++withLabel(TextBlock;HorizontalAlignment) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#99]]]
++withLabel(TextBlock;VerticalAlignment) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#106]]]
++create(ISkinParam;Rainbow) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#116]]]
++create(ISkinParam;Rainbow;UPolygon) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#122]]]
++create(ISkinParam;UPolygon;Rainbow;UPolygon) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#128]]]
+-Snake(ISkinParam;UPolygon;Rainbow;UPolygon;Worm;MergeStrategy;Direction;List<Text>) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#134]]]
++translate(UTranslate) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#150]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#155]]]
++addPoint(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#159]]]
++addPoint(XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#163]]]
++drawInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#167]]]
+-drawRainbow(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#178]]]
+-drawInternalLabel(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#204]]]
++getMaxX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#212]]]
+-getTextBlockPosition(StringBounder;Text) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#225]]]
++getHorizontalLines() : List<XLine2D> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#253]]]
+-getFirst() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#267]]]
++getLast() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#271]]]
+same(XPoint2D;XPoint2D) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#275]]]
++merge(Snake;StringBounder) : Snake [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#279]]]
++touches(Snake) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#305]]]
++doesHorizontalCross(MinMax) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#315]]]
+} 
+@enduml

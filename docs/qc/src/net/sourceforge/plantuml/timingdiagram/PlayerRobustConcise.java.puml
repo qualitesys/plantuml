@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"Player" <|-- "net.sourceforge.plantuml.timingdiagram.PlayerRobustConcise"
+class net.sourceforge.plantuml.timingdiagram.PlayerRobustConcise {
++PlayerRobustConcise(TimingStyle;String;ISkinParam;TimingRuler;boolean;Stereotype) : PlayerRobustConcise [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#46]]]
+getStyleSignature() : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#54]]]
+-buildPDrawing() : PDrawing [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#64]]]
++getPart1(double;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#79]]]
++getPart2() : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#96]]]
+-getTranslateForTimeDrawing(StringBounder) : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#105]]]
++getFullHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#109]]]
+-getTitleHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#113]]]
+-getTimeDrawing() : PDrawing [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#120]]]
+-computeTimeDrawing() : PDrawing [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#127]]]
+-getZoneHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#139]]]
++setState(TimeTick;String;Colors;String...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#143]]]
+-decodeState(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#156]]]
++getTimeProjection(StringBounder;TimeTick) : IntricatedPoint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#164]]]
++createConstraint(TimeTick;TimeTick;String;ArrowConfiguration) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#176]]]
++addNote(TimeTick;Display;Position) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#180]]]
++defineState(String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.html#189]]]
+} 
+@enduml

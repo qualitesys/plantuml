@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"UDrawable" <|-- "net.sourceforge.plantuml.mindmap.Finger"
+class net.sourceforge.plantuml.mindmap.Finger {
++getPhalanxThickness(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Finger.java.html#9]]]
++getNailThickness(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Finger.java.html#11]]]
++getFullThickness(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Finger.java.html#13]]]
++getPhalanxElongation(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Finger.java.html#15]]]
++getNailElongation(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Finger.java.html#17]]]
++getFullElongation(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Finger.java.html#19]]]
++doNotDrawFirstPhalanx() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Finger.java.html#21]]]
+} 
+@enduml

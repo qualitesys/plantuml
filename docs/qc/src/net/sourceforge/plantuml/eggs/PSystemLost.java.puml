@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"PlainStringsDiagram" <|-- "net.sourceforge.plantuml.eggs.PSystemLost"
+class net.sourceforge.plantuml.eggs.PSystemLost {
++PSystemLost(UmlSource) : PSystemLost [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemLost.java.html#10]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemLost.java.html#15]]]
+} 
+@enduml

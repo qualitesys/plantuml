@@ -1,0 +1,34 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.TimingRuler"
+class net.sourceforge.plantuml.timingdiagram.TimingRuler {
+applyForVLines(UGraphic;Style;ISkinParam) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#41]]]
++ensureNotEmpty() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#48]]]
++TimingRuler(ISkinParam) : TimingRuler [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#57]]]
++scaleInPixels(long;long) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#61]]]
+-tickUnitary() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#68]]]
+-highestCommonFactor() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#78]]]
+-getAbsolutesTicks() : Set<Long> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#97]]]
+-getNbTick() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#112]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#120]]]
++getPosInPixel(TimeTick) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#126]]]
+-getPosInPixelInternal(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#130]]]
+-tickToTime(int) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#135]]]
++addTime(TimeTick) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#139]]]
+-getFontConfiguration() : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#147]]]
+-getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#151]]]
+-getTimeTextBlock(long) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#156]]]
+-getTimeTextBlock(String) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#160]]]
++drawTimeAxis(UGraphic;TimeAxisStategy;Map<String,TimeTick>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#165]]]
+-drawTimeAxisManual(UGraphic;Map<String,TimeTick>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#184]]]
+-drawTimeAxisAutomatic(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#206]]]
+-getLabel(TimeTick;Map<String,TimeTick>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#224]]]
+-getFirstPositiveOrZeroValue() : BigDecimal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#232]]]
+-roundValues() : Collection<Long> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#240]]]
++drawVlines(UGraphic;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#260]]]
++getHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#269]]]
+-getMax() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#273]]]
+-getMin() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#277]]]
+-computeHighestCommonFactor(long;long) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#281]]]
+} 
+@enduml

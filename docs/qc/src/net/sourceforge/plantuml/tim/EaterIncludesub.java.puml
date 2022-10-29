@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Eater" <|-- "net.sourceforge.plantuml.tim.EaterIncludesub"
+class net.sourceforge.plantuml.tim.EaterIncludesub {
++EaterIncludesub(StringLocated) : EaterIncludesub [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html#10]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html#15]]]
++getLocation() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html#23]]]
+} 
+@enduml

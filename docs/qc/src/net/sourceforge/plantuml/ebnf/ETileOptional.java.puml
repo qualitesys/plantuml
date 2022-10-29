@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"ETile" <|-- "net.sourceforge.plantuml.ebnf.ETileOptional"
+class net.sourceforge.plantuml.ebnf.ETileOptional {
++ETileOptional(ETile;ISkinParam) : ETileOptional [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#28]]]
++getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#36]]]
+-getDeltaY(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#41]]]
++getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#47]]]
++getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#53]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#58]]]
++push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#103]]]
+addCommentAbove(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#108]]]
+addCommentBelow(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#113]]]
+-getNoteAbove(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#117]]]
+-getNoteBelow(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOptional.java.html#124]]]
+} 
+@enduml

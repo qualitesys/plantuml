@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.webp.VP8Decoder"
+class net.sourceforge.plantuml.webp.VP8Decoder {
++VP8Decoder() : VP8Decoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#17]]]
++decodeFrame(ImageInputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#21]]]
++getFrame() : VP8Frame [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#32]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#36]]]
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#40]]]
++writePGMFile(String;VP8Frame) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#45]]]
++writeYV12File(String;VP8Frame) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#90]]]
+} 
+@enduml

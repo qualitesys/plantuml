@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.elk.proxy.core.RecursiveGraphLayoutEngine"
+class net.sourceforge.plantuml.elk.proxy.core.RecursiveGraphLayoutEngine {
++layout(ElkNode;NullElkProgressMonitor) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.html#11]]]
+} 
+@enduml

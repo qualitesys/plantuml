@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.CircledCharacter"
+class net.sourceforge.plantuml.graphic.CircledCharacter {
++CircledCharacter(char;double;UFont;HColor;HColor;HColor) : CircledCharacter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/CircledCharacter.java.html#21]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/CircledCharacter.java.html#31]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/CircledCharacter.java.html#42]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/CircledCharacter.java.html#46]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/CircledCharacter.java.html#50]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.puma.PUnivers"
+class net.sourceforge.plantuml.sequencediagram.puma.PUnivers {
++createPSegment(double) : PSegment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PUnivers.java.html#12]]]
++addFixedLink(PSegment;double;PSegment;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PUnivers.java.html#18]]]
++solve() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PUnivers.java.html#25]]]
+} 
+@enduml

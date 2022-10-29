@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolTogether"
+class net.sourceforge.plantuml.graphic.USymbolTogether {
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolTogether.java.html#11]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolTogether.java.html#16]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolTogether.java.html#22]]]
+} 
+@enduml

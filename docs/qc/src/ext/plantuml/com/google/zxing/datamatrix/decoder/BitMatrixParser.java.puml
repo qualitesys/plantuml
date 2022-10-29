@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.datamatrix.decoder.BitMatrixParser"
+class ext.plantuml.com.google.zxing.datamatrix.decoder.BitMatrixParser {
+BitMatrixParser(BitMatrix) : BitMatrixParser [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#16]]]
+readVersion(BitMatrix) : Version [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#29]]]
+readCodewords() : byte[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#43]]]
+readModule(int;int;int;int) : boolean [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#114]]]
+readUtah(int;int;int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#129]]]
+readCorner1(int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#166]]]
+readCorner2(int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#203]]]
+readCorner3(int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#240]]]
+readCorner4(int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#277]]]
+extractDataRegion(BitMatrix) : BitMatrix [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#314]]]
+} 
+@enduml

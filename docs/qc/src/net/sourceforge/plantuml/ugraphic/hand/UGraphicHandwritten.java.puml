@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"UGraphicDelegatorUGraphic" <|-- "net.sourceforge.plantuml.ugraphic.hand.UGraphicHandwritten"
+class net.sourceforge.plantuml.ugraphic.hand.UGraphicHandwritten {
++UGraphicHandwritten(UGraphic) : UGraphicHandwritten [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#22]]]
++draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#29]]]
+-drawHand(UPath) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#49]]]
+-drawHand(DotPath) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#54]]]
+-drawHand(UPolygon) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#59]]]
+-drawHand(URectangle) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#64]]]
+-drawHand(ULine) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#69]]]
+-drawHand(UEllipse) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#74]]]
++apply(UChange) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#79]]]
+} 
+@enduml

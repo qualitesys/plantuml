@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.VariableManager"
+class net.sourceforge.plantuml.tim.VariableManager {
++VariableManager(TContext;TMemory;LineLocation) : VariableManager [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/VariableManager.java.html#16]]]
++replaceVariables(String;int;StringBuilder) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/VariableManager.java.html#22]]]
+-replaceJson(JsonValue;String;int;StringBuilder) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/VariableManager.java.html#48]]]
++getVarnameAt(String;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/VariableManager.java.html#106]]]
++justAfterBackslashN(String;int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/VariableManager.java.html#122]]]
+} 
+@enduml

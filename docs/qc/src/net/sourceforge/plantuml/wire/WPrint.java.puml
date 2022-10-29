@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.wire.WPrint"
+class net.sourceforge.plantuml.wire.WPrint {
++WPrint(ISkinParam;UTranslate;HColor;Display) : WPrint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#24]]]
+-getBlack() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#31]]]
+-getTextBlock() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#35]]]
++getPosition() : UChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#41]]]
++drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#45]]]
++getHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#49]]]
+} 
+@enduml

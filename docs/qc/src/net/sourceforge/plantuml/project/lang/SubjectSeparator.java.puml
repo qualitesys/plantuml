@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Subject" <|-- "net.sourceforge.plantuml.project.lang.SubjectSeparator"
+class net.sourceforge.plantuml.project.lang.SubjectSeparator {
++toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#18]]]
++getMe(GanttDiagram;RegexResult) : Failable<GanttDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#22]]]
++getSentences() : Collection<?extendsSentenceSimple> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#26]]]
+} 
+@enduml

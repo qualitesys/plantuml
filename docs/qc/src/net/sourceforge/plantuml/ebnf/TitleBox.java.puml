@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlock" <|-- "net.sourceforge.plantuml.ebnf.TitleBox"
+class net.sourceforge.plantuml.ebnf.TitleBox {
++TitleBox(String;FontConfiguration) : TitleBox [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/TitleBox.java.html#19]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/TitleBox.java.html#26]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/TitleBox.java.html#31]]]
+} 
+@enduml

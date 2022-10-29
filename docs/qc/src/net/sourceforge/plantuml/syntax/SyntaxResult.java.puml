@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.syntax.SyntaxResult"
+class net.sourceforge.plantuml.syntax.SyntaxResult {
++getUmlDiagramType() : UmlDiagramType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#25]]]
++isError() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#29]]]
++getDescription() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#33]]]
++getErrors() : Collection<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#37]]]
++setUmlDiagramType(UmlDiagramType) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#41]]]
++setError(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#45]]]
++setDescription(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#49]]]
++addErrorText(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#53]]]
++hasCmapData() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#57]]]
++setCmapData(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#61]]]
++setSystemError(PSystemError) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#65]]]
++generateDiagramDescriptionForError(OutputStream;FileFormatOption) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#69]]]
++setLineLocation(LineLocation) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#77]]]
++getLineLocation() : LineLocation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#81]]]
+} 
+@enduml

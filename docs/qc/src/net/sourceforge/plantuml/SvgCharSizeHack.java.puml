@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.SvgCharSizeHack"
+class net.sourceforge.plantuml.SvgCharSizeHack {
++transformStringForSizeHack(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SvgCharSizeHack.java.html#12]]]
+} 
+@enduml

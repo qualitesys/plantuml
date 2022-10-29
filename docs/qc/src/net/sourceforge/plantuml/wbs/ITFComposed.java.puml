@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"WBSTextBlockITF" <|-- "net.sourceforge.plantuml.wbs.ITFComposed"
+class net.sourceforge.plantuml.wbs.ITFComposed {
+-ITFComposed(ISkinParam;WElement;List<ITF>;List<ITF>) : ITFComposed [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#28]]]
++build2(ISkinParam;WElement) : ITF [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#37]]]
+getw1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#52]]]
++getT1(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#58]]]
++getT2(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#64]]]
++getF1(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#71]]]
++getF2(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#78]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#85]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#95]]]
+-getCollWidth(StringBounder;Collection<?extendsTextBlock>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#126]]]
+-getCollHeight(StringBounder;Collection<?extendsTextBlock>;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#134]]]
+} 
+@enduml

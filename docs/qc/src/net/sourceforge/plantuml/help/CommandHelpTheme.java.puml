@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<Help>" <|-- "net.sourceforge.plantuml.help.CommandHelpTheme"
+class net.sourceforge.plantuml.help.CommandHelpTheme {
++CommandHelpTheme() : CommandHelpTheme [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#19]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#23]]]
+executeArg(Help;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#31]]]
+} 
+@enduml

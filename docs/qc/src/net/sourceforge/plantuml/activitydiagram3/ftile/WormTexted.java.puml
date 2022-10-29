@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"Iterable<XPoint2D>" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.WormTexted"
+class net.sourceforge.plantuml.activitydiagram3.ftile.WormTexted {
+-WormTexted(Style) : WormTexted [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#23]]]
+-WormTexted(Worm) : WormTexted [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#27]]]
++iterator() : Iterator<XPoint2D> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#31]]]
++addPoint(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#35]]]
++drawInternalOneColor(UPolygon;UGraphic;HtmlColorAndStyle;double;Direction;UPolygon) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#39]]]
++getWorm() : Worm [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#44]]]
++get(int) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#48]]]
++size() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#52]]]
++merge(WormTexted;MergeStrategy) : WormTexted [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#56]]]
++addAll(WormTexted) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#61]]]
++setLabel(TextBlock) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#66]]]
++isEmptyText(StringBounder) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#73]]]
+-getTextBlockPosition(StringBounder) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#77]]]
++getMaxX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#89]]]
+drawInternalLabel(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#102]]]
++copyLabels(WormTexted) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#109]]]
+} 
+@enduml

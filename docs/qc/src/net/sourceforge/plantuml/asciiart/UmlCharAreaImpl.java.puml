@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"BasicCharAreaImplUmlCharArea" <|-- "net.sourceforge.plantuml.asciiart.UmlCharAreaImpl"
+class net.sourceforge.plantuml.asciiart.UmlCharAreaImpl {
++drawBoxSimple(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#10]]]
++drawBoxSimpleUnicode(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#23]]]
++drawShape(AsciiShape;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#36]]]
++drawStringsLRSimple(Collection<?extendsCharSequence>;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#40]]]
++drawStringsLRUnicode(Collection<?extendsCharSequence>;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#54]]]
++drawNoteSimple(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#68]]]
++drawNoteSimpleUnicode(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#84]]]
+} 
+@enduml

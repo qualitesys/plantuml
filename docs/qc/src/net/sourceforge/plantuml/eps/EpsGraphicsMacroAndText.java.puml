@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"EpsGraphicsMacro" <|-- "net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText"
+class net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText {
++drawText(String;FontConfiguration;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#12]]]
+-getPSName(FontConfiguration) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#23]]]
+-getTextAsEps(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#39]]]
+} 
+@enduml

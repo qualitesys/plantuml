@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"ReadFilter" <|-- "net.sourceforge.plantuml.preproc2.ReadFilterMergeLines"
+class net.sourceforge.plantuml.preproc2.ReadFilterMergeLines {
++applyFilter(ReadLine) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#14]]]
+} 
+@enduml

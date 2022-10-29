@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandSpriteFile"
+class net.sourceforge.plantuml.command.CommandSpriteFile {
++CommandSpriteFile() : CommandSpriteFile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteFile.java.html#27]]]
+-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteFile.java.html#31]]]
+executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteFile.java.html#42]]]
+-getImageFromZip(SFile;String) : Sprite [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteFile.java.html#91]]]
+-isSvg(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteFile.java.html#122]]]
+} 
+@enduml

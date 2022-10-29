@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"ETile" <|-- "net.sourceforge.plantuml.ebnf.ETileConcatenation"
+class net.sourceforge.plantuml.ebnf.ETileConcatenation {
++push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileConcatenation.java.html#17]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileConcatenation.java.html#22]]]
++getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileConcatenation.java.html#42]]]
++getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileConcatenation.java.html#52]]]
++getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileConcatenation.java.html#62]]]
+} 
+@enduml

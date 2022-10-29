@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"XmlDiagramTransformer" <|-- "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"
+class net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract {
++XmiClassDiagramAbstract(ClassDiagram) : XmiClassDiagramAbstract [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#44]]]
+forXMI(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#79]]]
+forXMI(Display) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#83]]]
++transformerXml(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#90]]]
+createEntityNode(IEntity) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#102]]]
+} 
+@enduml

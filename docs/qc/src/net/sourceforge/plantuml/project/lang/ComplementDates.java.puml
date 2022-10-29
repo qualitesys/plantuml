@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Something" <|-- "net.sourceforge.plantuml.project.lang.ComplementDates"
+class net.sourceforge.plantuml.project.lang.ComplementDates {
++toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.html#16]]]
+-toRegexB(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.html#20]]]
+-toRegexE(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.html#38]]]
++getMe(GanttDiagram;RegexResult;String) : Failable<DaysAsDates> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.html#50]]]
+-resultB(RegexResult;String) : DaysAsDates [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.html#61]]]
+-resultE(GanttDiagram;RegexResult;String) : DaysAsDates [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.html#75]]]
+} 
+@enduml

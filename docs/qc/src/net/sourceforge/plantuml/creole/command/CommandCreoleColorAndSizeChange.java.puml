@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Command" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange"
+class net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange {
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#17]]]
++create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#29]]]
++createEol() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#33]]]
+-CommandCreoleColorAndSizeChange(Pattern2) : CommandCreoleColorAndSizeChange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#37]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#41]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#49]]]
+} 
+@enduml

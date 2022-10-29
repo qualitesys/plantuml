@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"ArrowInGroupable" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndNoteBox"
+class net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndNoteBox {
++ArrowAndNoteBox(StringBounder;Arrow;List<NoteBox>) : ArrowAndNoteBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#18]]]
++getArrowOnlyWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#40]]]
++setMaxX(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#45]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#51]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#59]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#68]]]
++getActualWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#82]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#87]]]
++getDirection(StringBounder) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#96]]]
++getArrowYStartLevel(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#101]]]
++getArrowYEndLevel(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#106]]]
++getMaxX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#110]]]
++getMinX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#114]]]
++toString(StringBounder) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#118]]]
++getParticipantAt(StringBounder;NotePosition) : LivingParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#123]]]
+} 
+@enduml

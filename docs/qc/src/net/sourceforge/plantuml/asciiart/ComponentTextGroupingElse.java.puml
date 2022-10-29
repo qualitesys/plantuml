@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractComponentText" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextGroupingElse"
+class net.sourceforge.plantuml.asciiart.ComponentTextGroupingElse {
++ComponentTextGroupingElse(ComponentType;Display;FileFormat) : ComponentTextGroupingElse [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingElse.java.html#20]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingElse.java.html#27]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingElse.java.html#46]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingElse.java.html#50]]]
+} 
+@enduml

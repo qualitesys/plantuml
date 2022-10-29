@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"AbstractMessage" <|-- "net.sourceforge.plantuml.sequencediagram.MessageExo"
+class net.sourceforge.plantuml.sequencediagram.MessageExo {
++MessageExo(StyleBuilder;Participant;MessageExoType;Display;ArrowConfiguration;String;boolean) : MessageExo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#14]]]
++isShortArrow() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#22]]]
+overrideNotePosition(NotePosition) : NotePosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#27]]]
++getParticipant1() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#38]]]
++getParticipant2() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#43]]]
++getParticipant() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#47]]]
++getType() : MessageExoType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#51]]]
++dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#55]]]
++compatibleForCreate(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#60]]]
++isSelfMessage() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#64]]]
+} 
+@enduml

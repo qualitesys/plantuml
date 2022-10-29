@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"ReadFilter" <|-- "net.sourceforge.plantuml.preproc2.ReadFilterAddConfig"
+class net.sourceforge.plantuml.preproc2.ReadFilterAddConfig {
++ReadFilterAddConfig(List<String>) : ReadFilterAddConfig [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#16]]]
++applyFilter(ReadLine) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#20]]]
+} 
+@enduml

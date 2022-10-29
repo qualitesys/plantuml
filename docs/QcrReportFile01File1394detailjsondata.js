@@ -1,0 +1,96 @@
+console.log('leListeStr main01 start json de data maDataBlocs');
+var maDataBlocs = {
+"data00" : {
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/graphic/USymbolActor.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.xml" 
+ , "fic3"  : "" 
+}
+, 
+"data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "USymbolSimpleAbstract"
+ , "c2" : "net.sourceforge.plantuml.graphic.USymbolActor"
+}} 
+]
+, 
+"data02" : [
+{ "classe" : 
+ { "nomclasse" : "net.sourceforge.plantuml.graphic.USymbolActor" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#11"
+ , "c1" : "USymbolActor"
+ , "c2" : "USymbolActor(ActorStyle)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#17"
+ , "c1" : "SName"
+ , "c2" : "getSName()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#22"
+ , "c1" : "TextBlock"
+ , "c2" : "getDrawing(SymbolContext)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+] 
+}} 
+]
+, 
+"data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.svg" }
+
+] 
+, 
+"data04" : [
+]
+, 
+"data05" : [
+]
+, 
+"data06" : [
+]
+, 
+"data07" : [
+]
+, 
+"data08" : [
+]
+, 
+"data11" : [
+]
+, 
+"data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#22"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00022] For method getDrawing arguments SymbolContext  symbolContext"
+}} 
+]
+};
+console.log('leListeStr 99 main end');

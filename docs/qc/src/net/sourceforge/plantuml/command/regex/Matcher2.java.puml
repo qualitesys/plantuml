@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.command.regex.Matcher2"
+class net.sourceforge.plantuml.command.regex.Matcher2 {
+-Matcher2(Matcher;String) : Matcher2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#17]]]
++build(Pattern;CharSequence) : Matcher2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#22]]]
++matches() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#35]]]
+-addTime(long) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#44]]]
+-addTime(String;long) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#54]]]
+-getLongest() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#72]]]
++group(int) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#84]]]
++group() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#93]]]
++groupCount() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#102]]]
++find() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#111]]]
++end() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#120]]]
++start() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Matcher2.java.html#129]]]
+} 
+@enduml

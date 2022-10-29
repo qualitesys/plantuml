@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.iterator.CodePosition"
+class net.sourceforge.plantuml.tim.iterator.CodePosition {
+} 
+@enduml

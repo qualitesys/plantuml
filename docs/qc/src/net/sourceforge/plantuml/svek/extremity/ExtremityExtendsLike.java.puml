@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityExtendsLike"
+class net.sourceforge.plantuml.svek.extremity.ExtremityExtendsLike {
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtendsLike.java.html#23]]]
+-addTrigPoint(UPolygon;double;double;double;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtendsLike.java.html#116]]]
+-ExtremityExtendsLike(XPoint2D;double;HColor) : ExtremityExtendsLike [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtendsLike.java.html#123]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtendsLike.java.html#135]]]
+} 
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"GtileTopDown" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileAssembly"
+class net.sourceforge.plantuml.activitydiagram3.gtile.GtileAssembly {
++GtileAssembly(Gtile;Gtile;LinkRendering) : GtileAssembly [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileAssembly.java.html#25]]]
+supplementaryMove() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileAssembly.java.html#32]]]
++getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileAssembly.java.html#37]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileAssembly.java.html#42]]]
+getTextBlock(Display) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileAssembly.java.html#49]]]
++getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileAssembly.java.html#60]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"ST_Agobj_s" <|-- "h.ST_Agedge_s"
+class h.ST_Agedge_s {
++toString() : String [[[./../../.././qc/src/h/ST_Agedge_s.java.html#21]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_Agedge_s.java.html#26]]]
++isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_Agedge_s.java.html#36]]]
++getTheField(OFFSET) : Object [[[./../../.././qc/src/h/ST_Agedge_s.java.html#42]]]
++plus_(int) : ST_Agedge_s [[[./../../.././qc/src/h/ST_Agedge_s.java.html#55]]]
+} 
+@enduml

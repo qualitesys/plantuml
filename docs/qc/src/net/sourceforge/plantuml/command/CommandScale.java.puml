@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<AbstractPSystem>" <|-- "net.sourceforge.plantuml.command.CommandScale"
+class net.sourceforge.plantuml.command.CommandScale {
++CommandScale() : CommandScale [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScale.java.html#15]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScale.java.html#19]]]
+executeArg(AbstractPSystem;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScale.java.html#34]]]
+} 
+@enduml

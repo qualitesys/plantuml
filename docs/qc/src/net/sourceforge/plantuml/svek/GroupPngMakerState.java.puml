@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.GroupPngMakerState"
+class net.sourceforge.plantuml.svek.GroupPngMakerState {
++GroupPngMakerState(CucaDiagram;IGroup;StringBounder) : GroupPngMakerState [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#69]]]
+-getPureInnerLinks() : List<Link> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#78]]]
++getImage() : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#87]]]
+-buildImageForConcurrentState(DotData) : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#150]]]
+-containsOnlyConcurrentStates(DotData) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#160]]]
+} 
+@enduml

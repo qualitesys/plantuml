@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlock" <|-- "net.sourceforge.plantuml.wbs.WBSTextBlock"
+class net.sourceforge.plantuml.wbs.WBSTextBlock {
++WBSTextBlock(ISkinParam;StyleBuilder;int) : WBSTextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#27]]]
+drawLine(UGraphic;XPoint2D;XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#33]]]
+-getStyleUsed() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#38]]]
+drawLine(UGraphic;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#42]]]
++getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#46]]]
+buildMain(WElement) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#50]]]
+} 
+@enduml

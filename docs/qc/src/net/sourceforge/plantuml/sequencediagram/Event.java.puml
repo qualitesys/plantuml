@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.Event"
+class net.sourceforge.plantuml.sequencediagram.Event {
+dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Event.java.html#8]]]
+getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Event.java.html#10]]]
+hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Event.java.html#12]]]
+isParallel() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Event.java.html#14]]]
+setY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Event.java.html#16]]]
+} 
+@enduml

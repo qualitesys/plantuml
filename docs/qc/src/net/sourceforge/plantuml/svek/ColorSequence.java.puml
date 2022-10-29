@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.ColorSequence"
+class net.sourceforge.plantuml.svek.ColorSequence {
++getValue() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ColorSequence.java.html#10]]]
+} 
+@enduml

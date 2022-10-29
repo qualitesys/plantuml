@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ftp.FtpServer"
+class net.sourceforge.plantuml.ftp.FtpServer {
++FtpServer(int;FileFormat) : FtpServer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpServer.java.html#32]]]
++getFreePort() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpServer.java.html#37]]]
++go() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpServer.java.html#43]]]
++getIpServer() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpServer.java.html#54]]]
++getFtpConnexion(String) : FtpConnexion [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpServer.java.html#58]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpServer.java.html#67]]]
++processImage(FtpConnexion;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpServer.java.html#78]]]
++getCharset() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpServer.java.html#90]]]
+} 
+@enduml

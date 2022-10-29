@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.TextBlockUtils"
+class net.sourceforge.plantuml.graphic.TextBlockUtils {
++bordered(TextBlock;UStroke;HColor;HColor;double;ClockwiseTopRightBottomLeft;String) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#28]]]
++withMargin(TextBlock;double;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#33]]]
++withMargin(TextBlock;ClockwiseTopRightBottomLeft) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#40]]]
++withMargin(TextBlock;double;double;double;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#44]]]
++withMinWidth(TextBlock;double;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#49]]]
++empty(double;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#54]]]
++asPositionable(TextBlock;StringBounder;XPoint2D) : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#70]]]
++asPositionable(XDimension2D;StringBounder;XPoint2D) : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#74]]]
++mergeLR(TextBlock;TextBlock;VerticalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#78]]]
++mergeTB(TextBlock;TextBlock;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#88]]]
++mergeTB(TextBlock;UImage;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#98]]]
++getMinMax(UDrawable;StringBounder;boolean) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#111]]]
++isEmpty(TextBlock;StringBounder) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#117]]]
++getFontRenderContext() : FontRenderContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#125]]]
++createTextLayout(UText) : TextLayout [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#129]]]
++createTextLayout(UFont;String) : TextLayout [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#133]]]
++fullInnerPosition(TextBlock;String) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#137]]]
++addBackcolor(TextBlock;HColor) : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#163]]]
++fromUImage(UImage) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockUtils.java.html#187]]]
+} 
+@enduml

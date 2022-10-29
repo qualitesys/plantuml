@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.MutingLine"
+class net.sourceforge.plantuml.sequencediagram.teoz.MutingLine {
++MutingLine(Rose;ISkinParam;List<Event>;Participant) : MutingLine [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#32]]]
+-useContinueLineBecauseOfDelay(List<Event>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#40]]]
++drawLine(UGraphic;Context2D;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#52]]]
+-drawInternal(UGraphic;Context2D;double;double;ComponentType) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#70]]]
++delayOn(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#86]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractPSystem" <|-- "net.sourceforge.plantuml.logo.PSystemLogo"
+class net.sourceforge.plantuml.logo.PSystemLogo {
++PSystemLogo(UmlSource) : PSystemLogo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/PSystemLogo.java.html#30]]]
+exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/PSystemLogo.java.html#35]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/PSystemLogo.java.html#65]]]
++doCommandLine(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/PSystemLogo.java.html#69]]]
+} 
+@enduml

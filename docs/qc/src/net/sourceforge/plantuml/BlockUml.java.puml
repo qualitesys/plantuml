@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.BlockUml"
+class net.sourceforge.plantuml.BlockUml {
++getIncluded() : Set<FileWithSuffix> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#41]]]
+BlockUml(String...) : BlockUml [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#46]]]
++getEncodedUrl() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#50]]]
++getFlashData() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#57]]]
++convert(String...) : List<StringLocated> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#67]]]
++convert(List<String>) : List<StringLocated> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#71]]]
++BlockUml(List<StringLocated>;Defines;ISkinSimple;PreprocessorModeSet) : BlockUml [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#85]]]
++BlockUml(List<StringLocated>;Defines;ISkinSimple;PreprocessorModeSet;Charset) : BlockUml [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#89]]]
++getFileOrDirname() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#110]]]
++getDiagram() : Diagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#137]]]
++getData() : List<StringLocated> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#149]]]
+-internalEtag() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#153]]]
++etag() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#168]]]
++lastModified() : long [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#172]]]
++isStartDef(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#176]]]
++getDefinition(boolean) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#181]]]
++getLocalDefines() : Defines [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUml.java.html#192]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.blake2.Blake2b"
+class net.sourceforge.plantuml.argon2.blake2.Blake2b {
+update(byte[]) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#26]]]
+update(byte) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#34]]]
+update(byte[];int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#37]]]
+digest() : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#40]]]
+digest(byte[]) : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#43]]]
+digest(byte[];int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#46]]]
+reset() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#49]]]
+} 
+@enduml

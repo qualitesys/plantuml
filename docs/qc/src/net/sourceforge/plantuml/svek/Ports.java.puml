@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.Ports"
+class net.sourceforge.plantuml.svek.Ports {
++encodePortNameToId(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#19]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#24]]]
++translateY(double) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#28]]]
++add(String;int;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#36]]]
++addThis(Ports) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#43]]]
++getAllPortGeometry() : Collection<PortGeometry> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#52]]]
+} 
+@enduml

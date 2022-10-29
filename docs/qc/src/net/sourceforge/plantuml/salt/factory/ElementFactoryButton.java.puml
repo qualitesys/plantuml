@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"ElementFactory" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryButton"
+class net.sourceforge.plantuml.salt.factory.ElementFactoryButton {
++ElementFactoryButton(DataSource;ISkinSimple) : ElementFactoryButton [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryButton.java.html#16]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryButton.java.html#21]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryButton.java.html#32]]]
+} 
+@enduml

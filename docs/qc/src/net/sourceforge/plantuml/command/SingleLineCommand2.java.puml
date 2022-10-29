@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"Command<S>" <|-- "net.sourceforge.plantuml.command.SingleLineCommand2"
+class net.sourceforge.plantuml.command.SingleLineCommand2 {
++SingleLineCommand2(IRegex) : SingleLineCommand2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#21]]]
++SingleLineCommand2(boolean;IRegex) : SingleLineCommand2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#25]]]
++syntaxWithFinalBracket() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#30]]]
++getDescription() : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#34]]]
+-myTrim(StringLocated) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#38]]]
+-myTrim2(StringLocated) : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#45]]]
++isValid(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#52]]]
+-isValidBracket(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#78]]]
+isCommandForbidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#88]]]
+finalVerification() : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#92]]]
++execute(S;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#96]]]
+isForbidden(CharSequence) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#123]]]
+executeArg(S;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/SingleLineCommand2.java.html#127]]]
+} 
+@enduml

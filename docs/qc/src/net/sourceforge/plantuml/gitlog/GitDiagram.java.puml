@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"UmlDiagram" <|-- "net.sourceforge.plantuml.gitlog.GitDiagram"
+class net.sourceforge.plantuml.gitlog.GitDiagram {
++GitDiagram(UmlSource;GitTextArea) : GitDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#27]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#33]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#38]]]
+-drawInternal(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#44]]]
+-getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#56]]]
+} 
+@enduml

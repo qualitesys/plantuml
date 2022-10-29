@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UDriver<UImage,TikzGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.tikz.DriverImageTikz"
+class net.sourceforge.plantuml.ugraphic.tikz.DriverImageTikz {
++draw(UImage;double;double;ColorMapper;UParam;TikzGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverImageTikz.java.html#12]]]
+} 
+@enduml

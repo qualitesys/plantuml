@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Stdrpt" <|-- "net.sourceforge.plantuml.StdrptNull"
+class net.sourceforge.plantuml.StdrptNull {
++printInfo(PrintStream;Diagram) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/StdrptNull.java.html#11]]]
++finalMessage(ErrorStatus) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/StdrptNull.java.html#14]]]
++errorLine(int;File) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/StdrptNull.java.html#23]]]
+} 
+@enduml

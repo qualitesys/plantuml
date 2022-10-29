@@ -1,0 +1,26 @@
+@startuml
+!pragma layout smetana
+"PortionShower" <|-- "net.sourceforge.plantuml.cucadiagram.dot.DotData"
+class net.sourceforge.plantuml.cucadiagram.dot.DotData {
++getEntityFactory() : EntityFactory [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#42]]]
++DotData(IGroup;List<Link>;Collection<ILeaf>;UmlDiagramType;ISkinParam;GroupHierarchy;PortionShower;EntityFactory;boolean;DotMode;String;Pragma) : DotData [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#46]]]
++DotData(IGroup;List<Link>;Collection<ILeaf>;UmlDiagramType;ISkinParam;GroupHierarchy;EntityFactory;boolean;DotMode;String;Pragma) : DotData [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#65]]]
++getUmlDiagramType() : UmlDiagramType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#75]]]
++getSkinParam() : ISkinParam [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#79]]]
++getGroupHierarchy() : GroupHierarchy [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#83]]]
++getLinks() : List<Link> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#87]]]
++getLeafs() : Collection<ILeaf> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#91]]]
++getTopParent() : IGroup [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#95]]]
++isEmpty(IGroup) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#99]]]
++showPortion(EntityPortion;IEntity) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#103]]]
++getRootGroup() : IGroup [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#107]]]
++isDegeneratedWithFewEntities(int) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#111]]]
++isHideEmptyDescriptionForState() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#115]]]
++getDotMode() : DotMode [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#119]]]
++getNamespaceSeparator() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#123]]]
++getPragma() : Pragma [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#127]]]
++removeIrrelevantSametail() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#131]]]
+-getLinksOfThisLeaf(ILeaf) : List<Link> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#174]]]
+-getLeaf(String) : ILeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#184]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<CompositeDiagram>" <|-- "net.sourceforge.plantuml.compositediagram.command.CommandLinkBlock"
+class net.sourceforge.plantuml.compositediagram.command.CommandLinkBlock {
++CommandLinkBlock() : CommandLinkBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/command/CommandLinkBlock.java.html#22]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/command/CommandLinkBlock.java.html#26]]]
+executeArg(CompositeDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/command/CommandLinkBlock.java.html#45]]]
+-getLinkDecor(String) : LinkDecor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/command/CommandLinkBlock.java.html#70]]]
+} 
+@enduml

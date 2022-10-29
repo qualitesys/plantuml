@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate"
+class net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate {
++CommandAutoactivate() : CommandAutoactivate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoactivate.java.html#15]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoactivate.java.html#19]]]
+executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoactivate.java.html#27]]]
+} 
+@enduml

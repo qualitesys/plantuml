@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Task" <|-- "net.sourceforge.plantuml.project.core.AbstractTask"
+class net.sourceforge.plantuml.project.core.AbstractTask {
+AbstractTask(StyleBuilder;TaskCode) : AbstractTask [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#13]]]
++putInSameRowAs(Task) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#18]]]
++getRow() : Task [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#23]]]
++getCode() : TaskCode [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#27]]]
++getStyleBuilder() : StyleBuilder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#31]]]
+} 
+@enduml

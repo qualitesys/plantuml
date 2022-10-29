@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.flashcode.FlashCodeFactory"
+class net.sourceforge.plantuml.flashcode.FlashCodeFactory {
++getFlashCodeUtils() : FlashCodeUtils [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flashcode/FlashCodeFactory.java.html#6]]]
+} 
+@enduml

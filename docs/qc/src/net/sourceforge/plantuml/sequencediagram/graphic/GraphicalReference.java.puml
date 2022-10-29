@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"GraphicalElementInGroupable" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalReference"
+class net.sourceforge.plantuml.sequencediagram.graphic.GraphicalReference {
++GraphicalReference(double;Component;LivingParticipantBox;LivingParticipantBox;Url) : GraphicalReference [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalReference.java.html#23]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalReference.java.html#33]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalReference.java.html#55]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalReference.java.html#60]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalReference.java.html#65]]]
++getMaxX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalReference.java.html#69]]]
++getMinX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalReference.java.html#73]]]
++toString(StringBounder) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalReference.java.html#77]]]
+} 
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+!pragma layout smetana
+"Finger" <|-- "net.sourceforge.plantuml.mindmap.FingerImpl"
+class net.sourceforge.plantuml.mindmap.FingerImpl {
++build(Idea;ISkinParam;boolean) : FingerImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#39]]]
+-isTopToBottom() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#47]]]
++addInNail(FingerImpl) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#51]]]
+-FingerImpl(Idea;ISkinParam;boolean) : FingerImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#55]]]
+-getMargin() : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#61]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#65]]]
+-getLinkColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#104]]]
+-getUStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#109]]]
+-drawLine(UGraphic;XPoint2D;XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#114]]]
+-getTetris(StringBounder) : Tetris [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#132]]]
+-asSymetricalTee(StringBounder) : SymetricalTee [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#143]]]
+-getX1() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#154]]]
+-getX2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#161]]]
++getX12() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#168]]]
++getPhalanxThickness(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#172]]]
++getPhalanxElongation(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#178]]]
+-getPhalanx() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#184]]]
+-getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#211]]]
+-getStyleArrow() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#218]]]
++getNailThickness(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#222]]]
++getNailElongation(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#226]]]
++getFullThickness(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#230]]]
++getFullElongation(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#236]]]
++doNotDrawFirstPhalanx() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#240]]]
+} 
+@enduml

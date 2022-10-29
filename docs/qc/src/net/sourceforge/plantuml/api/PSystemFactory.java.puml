@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.api.PSystemFactory"
+class net.sourceforge.plantuml.api.PSystemFactory {
+createSystem(UmlSource;Map<String,String>) : Diagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/PSystemFactory.java.html#12]]]
+getDiagramType() : DiagramType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/PSystemFactory.java.html#14]]]
+} 
+@enduml

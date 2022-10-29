@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileMarged"
+class net.sourceforge.plantuml.activitydiagram3.ftile.FtileMarged {
++FtileMarged(Ftile;double;double) : FtileMarged [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#19]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#27]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#33]]]
++getOutLinkRendering() : LinkRendering [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#38]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#42]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#46]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#50]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#55]]]
++getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#61]]]
+-getTranslate() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#70]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMarged.java.html#74]]]
+} 
+@enduml

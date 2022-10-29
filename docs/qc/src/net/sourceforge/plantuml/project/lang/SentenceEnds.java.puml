@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceEnds"
+class net.sourceforge.plantuml.project.lang.SentenceEnds {
++SentenceEnds() : SentenceEnds [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.html#13]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.html#18]]]
+} 
+@enduml

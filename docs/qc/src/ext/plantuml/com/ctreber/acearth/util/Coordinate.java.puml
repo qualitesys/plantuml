@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.util.Coordinate"
+class ext.plantuml.com.ctreber.acearth.util.Coordinate {
++Coordinate() : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#16]]]
++Coordinate(double;double) : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#20]]]
++renderAsXML(Writer) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#25]]]
++getPoint3D() : Point3D [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#32]]]
++getPoint3DRads() : Point3D [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#44]]]
++eclipticToEquatorial() : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#53]]]
++add(Coordinate) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#64]]]
++wrap() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#71]]]
++getLat() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#91]]]
++getDE() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#95]]]
++getLong() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#99]]]
++getRA() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#103]]]
++check() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#107]]]
++toString() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#111]]]
+} 
+@enduml

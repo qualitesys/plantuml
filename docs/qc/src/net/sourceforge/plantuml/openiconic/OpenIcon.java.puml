@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.openiconic.OpenIcon"
+class net.sourceforge.plantuml.openiconic.OpenIcon {
++retrieve(String) : OpenIcon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#28]]]
+OpenIcon(String) : OpenIcon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#41]]]
+-getResource(String) : InputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#45]]]
+-OpenIcon(InputStream;String) : OpenIcon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#50]]]
+saveCopy(SFile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#68]]]
+-getDimension(double) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#76]]]
+-getNumber(String;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#82]]]
++asTextBlock(HColor;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#98]]]
+} 
+@enduml

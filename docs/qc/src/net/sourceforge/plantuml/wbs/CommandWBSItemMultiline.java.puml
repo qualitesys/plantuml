@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"CommandMultilines2<WBSDiagram>" <|-- "net.sourceforge.plantuml.wbs.CommandWBSItemMultiline"
+class net.sourceforge.plantuml.wbs.CommandWBSItemMultiline {
++CommandWBSItemMultiline() : CommandWBSItemMultiline [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#25]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#29]]]
++getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#40]]]
+getRegexConcatOld() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#44]]]
+executeNow(WBSDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#55]]]
+} 
+@enduml

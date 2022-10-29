@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"PSystemAbstractFactory" <|-- "net.sourceforge.plantuml.hcl.HclDiagramFactory"
+class net.sourceforge.plantuml.hcl.HclDiagramFactory {
++HclDiagramFactory() : HclDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclDiagramFactory.java.html#21]]]
++createSystem(UmlSource;Map<String,String>) : Diagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclDiagramFactory.java.html#26]]]
+} 
+@enduml

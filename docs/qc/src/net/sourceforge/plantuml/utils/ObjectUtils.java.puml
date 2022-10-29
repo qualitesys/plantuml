@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.utils.ObjectUtils"
+class net.sourceforge.plantuml.utils.ObjectUtils {
++instanceOfAny(Object;Class<?>...) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/ObjectUtils.java.html#5]]]
+} 
+@enduml

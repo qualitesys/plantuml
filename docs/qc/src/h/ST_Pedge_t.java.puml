@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_Pedge_t"
+class h.ST_Pedge_t {
+} 
+@enduml

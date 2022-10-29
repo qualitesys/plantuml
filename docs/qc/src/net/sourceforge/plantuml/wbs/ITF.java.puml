@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"TextBlock" <|-- "net.sourceforge.plantuml.wbs.ITF"
+class net.sourceforge.plantuml.wbs.ITF {
++getT1(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITF.java.html#10]]]
++getT2(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITF.java.html#12]]]
++getF1(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITF.java.html#14]]]
++getF2(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITF.java.html#16]]]
+} 
+@enduml

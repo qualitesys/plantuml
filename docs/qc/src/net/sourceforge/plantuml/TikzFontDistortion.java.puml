@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.TikzFontDistortion"
+class net.sourceforge.plantuml.TikzFontDistortion {
+-TikzFontDistortion(double;double) : TikzFontDistortion [[[./../../../../.././qc/src/net/sourceforge/plantuml/TikzFontDistortion.java.html#11]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/TikzFontDistortion.java.html#17]]]
++fromValue(String) : TikzFontDistortion [[[./../../../../.././qc/src/net/sourceforge/plantuml/TikzFontDistortion.java.html#21]]]
++getDefault() : TikzFontDistortion [[[./../../../../.././qc/src/net/sourceforge/plantuml/TikzFontDistortion.java.html#40]]]
++getMagnify() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/TikzFontDistortion.java.html#44]]]
++getDistortion() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/TikzFontDistortion.java.html#48]]]
+} 
+@enduml

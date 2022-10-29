@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"AbstractFtileStencil" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone {
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#43]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#48]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#52]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#59]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#63]]]
++FtileNoteAlone(boolean;Display;ISkinParam;boolean;Swimlane) : FtileNoteAlone [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#67]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#89]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#94]]]
+-calculateDimensionInternal(StringBounder) : XDimension2D [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#102]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#106]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#110]]]
+} 
+@enduml

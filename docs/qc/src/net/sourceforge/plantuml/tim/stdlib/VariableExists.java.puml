@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SimpleReturnFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.VariableExists"
+class net.sourceforge.plantuml.tim.stdlib.VariableExists {
++getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/VariableExists.java.html#18]]]
++canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/VariableExists.java.html#22]]]
++executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/VariableExists.java.html#26]]]
+} 
+@enduml

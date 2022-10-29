@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.skin.Context2D"
+class net.sourceforge.plantuml.skin.Context2D {
+isBackground() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Context2D.java.html#5]]]
+} 
+@enduml

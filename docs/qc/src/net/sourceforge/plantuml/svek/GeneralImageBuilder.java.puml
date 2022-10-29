@@ -1,0 +1,27 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.GeneralImageBuilder"
+class net.sourceforge.plantuml.svek.GeneralImageBuilder {
++createEntityImageBlock(ILeaf;ISkinParam;boolean;PortionShower;Bibliotekon;GraphvizVersion;UmlDiagramType;Collection<Link>) : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#97]]]
+-createEntityImageBlockInternal(ILeaf;ISkinParam;boolean;PortionShower;Bibliotekon;GraphvizVersion;UmlDiagramType;Collection<Link>) : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#106]]]
++getForcedStroke(Stereotype;ISkinParam) : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#247]]]
++GeneralImageBuilder(boolean;DotData;EntityFactory;UmlSource;Pragma;StringBounder;SName) : GeneralImageBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#266]]]
++getDefaultStyleDefinitionArrow(Stereotype) : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#278]]]
+-isOpalisable(IEntity) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#286]]]
+-getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#339]]]
++buildImage(BaseFile;String[]) : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#345]]]
+-getFontForLink(Link;ISkinParam) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#430]]]
+-isSvekTrace() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#435]]]
+-extractGraphvizVersion(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#440]]]
+-onlyOneLink(IEntity) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#449]]]
+-error(File) : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#465]]]
+-printEntities(DotStringFactory;Collection<ILeaf>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#484]]]
+-printEntity(DotStringFactory;ILeaf) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#493]]]
+-printEntityInternal(DotStringFactory;ILeaf) : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#503]]]
+-getMaxWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#521]]]
+-getUnpackagedEntities() : Collection<ILeaf> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#536]]]
+-printGroups(DotStringFactory;IGroup) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#545]]]
+-printGroup(DotStringFactory;IGroup) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#561]]]
++getWarningOrError(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#583]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.AbstractEntityImageBorder"
+class net.sourceforge.plantuml.svek.image.AbstractEntityImageBorder {
+AbstractEntityImageBorder(ILeaf;ISkinParam;Cluster;Bibliotekon;FontParam) : AbstractEntityImageBorder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html#29]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html#47]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html#51]]]
+} 
+@enduml

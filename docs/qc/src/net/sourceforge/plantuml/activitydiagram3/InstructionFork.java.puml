@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"WithNoteInstruction" <|-- "net.sourceforge.plantuml.activitydiagram3.InstructionFork"
+class net.sourceforge.plantuml.activitydiagram3.InstructionFork {
++containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#40]]]
++InstructionFork(Instruction;LinkRendering;ISkinParam;Swimlane) : InstructionFork [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#49]]]
+-getLastList() : InstructionList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#58]]]
++add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#63]]]
++createGtile(ISkinParam;StringBounder) : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#68]]]
+-getInLinkRenderingColor(ISkinParam) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#80]]]
++createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#87]]]
++getParent() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#99]]]
++forkAgain(Swimlane) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#103]]]
++kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#109]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#114]]]
++addNote(Display;NotePosition;NoteType;Colors;Swimlane) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#119]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#130]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#138]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#143]]]
++manageOutRendering(LinkRendering;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#147]]]
++setStyle(ForkStyle;String;Swimlane) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.html#157]]]
+} 
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.util.FormatElement"
+class jcckit.util.FormatElement {
+-power(double;int) : double [[[./../../../.././qc/src/jcckit/util/FormatElement.java.html#12]]]
+-power2(double;int) : double [[[./../../../.././qc/src/jcckit/util/FormatElement.java.html#17]]]
+FormatElement(String) : FormatElement [[[./../../../.././qc/src/jcckit/util/FormatElement.java.html#38]]]
++form(StringBuffer;long) : void [[[./../../../.././qc/src/jcckit/util/FormatElement.java.html#81]]]
++form(StringBuffer;double) : void [[[./../../../.././qc/src/jcckit/util/FormatElement.java.html#95]]]
+-form(boolean;String;String) : String [[[./../../../.././qc/src/jcckit/util/FormatElement.java.html#109]]]
+-formE(double) : String [[[./../../../.././qc/src/jcckit/util/FormatElement.java.html#149]]]
+-formF(double) : String [[[./../../../.././qc/src/jcckit/util/FormatElement.java.html#184]]]
+} 
+@enduml

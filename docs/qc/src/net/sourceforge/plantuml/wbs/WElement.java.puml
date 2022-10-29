@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.wbs.WElement"
+class net.sourceforge.plantuml.wbs.WElement {
+-getDefaultStyleDefinitionNode(int) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#35]]]
++withBackColor(ISkinParam) : ISkinParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#57]]]
++getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#66]]]
++WElement(HColor;Display;String;StyleBuilder;IdeaShape) : WElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#78]]]
+-WElement(HColor;int;Display;String;WElement;IdeaShape;StyleBuilder) : WElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#82]]]
++isLeaf() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#93]]]
++createElement(HColor;int;Display;String;Direction;IdeaShape;StyleBuilder) : WElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#97]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#111]]]
++getLevel() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#115]]]
++getLabel() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#119]]]
++getChildren(Direction) : Collection<WElement> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#123]]]
++getParent() : WElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#129]]]
++getShape() : IdeaShape [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#133]]]
++getStyleBuilder() : StyleBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#137]]]
+} 
+@enduml

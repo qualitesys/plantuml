@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ISourceFileReader"
+class net.sourceforge.plantuml.ISourceFileReader {
++getGeneratedImages() : List<GeneratedImage> [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#9]]]
++getBlocks() : List<BlockUml> [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#11]]]
++hasError() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#13]]]
++setFileFormatOption(FileFormatOption) : ISourceFileReader [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#15]]]
++setCheckMetadata(boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#17]]]
+} 
+@enduml

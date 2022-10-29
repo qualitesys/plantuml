@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.algorithm.Functions"
+class net.sourceforge.plantuml.argon2.algorithm.Functions {
+initialHash(byte[];byte[];byte[];byte[];byte[];byte[];byte[];byte[];byte[];byte[];byte[];byte[];byte[];byte[]) : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.html#16]]]
+blake2bLong(byte[];int) : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.html#65]]]
+-blake2b(byte[];byte[];int) : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.html#103]]]
+roundFunction(Block;int;int;int;int;int;int;int;int;int;int;int;int;int;int;int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.html#117]]]
+-F(Block;int;int;int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.html#134]]]
+-fBlaMka(Block;int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.html#150]]]
+-rotr64(Block;int;int;long) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.html#157]]]
+} 
+@enduml

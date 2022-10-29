@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.RBlock"
+class net.sourceforge.plantuml.dedication.RBlock {
+-RBlock(byte[]) : RBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlock.java.html#10]]]
++RBlock(byte[];int;int) : RBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlock.java.html#15]]]
++change(BigInteger;BigInteger) : RBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlock.java.html#23]]]
++getData(int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlock.java.html#29]]]
+} 
+@enduml

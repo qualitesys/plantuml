@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Iterator<StringLocated>" <|-- "net.sourceforge.plantuml.version.IteratorCounter2"
+class net.sourceforge.plantuml.version.IteratorCounter2 {
++currentNum() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.html#11]]]
++cloneMe() : IteratorCounter2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.html#13]]]
++peek() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.html#15]]]
++peekPrevious() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.html#17]]]
++copyStateFrom(IteratorCounter2) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.html#19]]]
++getTrace() : List<StringLocated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.html#21]]]
+} 
+@enduml

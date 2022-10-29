@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.stats.FormatCounter"
+class net.sourceforge.plantuml.stats.FormatCounter {
++FormatCounter(String) : FormatCounter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/FormatCounter.java.html#22]]]
++plusOne(FileFormat;long) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/FormatCounter.java.html#30]]]
+-createLine(String;NumberAnalyzed) : StatsLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/FormatCounter.java.html#35]]]
++getStatsTable(String) : StatsTable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/FormatCounter.java.html#45]]]
++reload(String;Preferences) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/FormatCounter.java.html#59]]]
+removeDotSaved(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/FormatCounter.java.html#76]]]
++save(Preferences;FileFormat) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/FormatCounter.java.html#80]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.board.Activity"
+class net.sourceforge.plantuml.board.Activity {
++Activity(BoardDiagram;String;ISkinParam) : Activity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/Activity.java.html#20]]]
++getBox() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/Activity.java.html#27]]]
++addRelease(int;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/Activity.java.html#31]]]
+-getArray() : BArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/Activity.java.html#48]]]
++getFullWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/Activity.java.html#57]]]
++getMaxStage() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/Activity.java.html#62]]]
++drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/Activity.java.html#67]]]
+} 
+@enduml

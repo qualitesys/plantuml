@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"VisioShape" <|-- "net.sourceforge.plantuml.ugraphic.visio.VisioText"
+class net.sourceforge.plantuml.ugraphic.visio.VisioText {
++createInches(int;String;int;double;double;double;double) : VisioText [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioText.java.html#19]]]
+-toInches(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioText.java.html#26]]]
+-VisioText(int;String;int;double;double;double;double) : VisioText [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioText.java.html#30]]]
++print(OutputStream) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioText.java.html#40]]]
++yReverse(double) : VisioShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioText.java.html#85]]]
+-out(OutputStream;String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioText.java.html#90]]]
+} 
+@enduml

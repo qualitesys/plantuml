@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cgraph.node__c"
+class gen.lib.cgraph.node__c {
++agfindnode_by_id(ST_Agraph_s;int) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#52]]]
++agfstnode(ST_Agraph_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#71]]]
++agnxtnode(ST_Agraph_s;ST_Agnode_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#89]]]
++newnode(ST_Agraph_s;int;int) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#107]]]
++installnode(ST_Agraph_s;ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#132]]]
++installnodetoroot(ST_Agraph_s;ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#155]]]
++initnode(ST_Agraph_s;ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#174]]]
++agidnode(ST_Agraph_s;int;int) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#191]]]
++agnode(ST_Agraph_s;CString;boolean) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#225]]]
++agsubnode(ST_Agraph_s;ST_Agnode_s;boolean) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#260]]]
++agsubnodeidcmpf(ST_dt_s;__ptr__;__ptr__;ST_dtdisc_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#293]]]
++agsubnodeseqcmpf(ST_dt_s;__ptr__;__ptr__;ST_dtdisc_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#317]]]
++free_subnode(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/node__c.java.html#341]]]
+} 
+@enduml

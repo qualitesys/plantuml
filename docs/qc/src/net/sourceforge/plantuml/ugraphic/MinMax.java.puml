@@ -1,0 +1,26 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.MinMax"
+class net.sourceforge.plantuml.ugraphic.MinMax {
++doesHorizontalCross(XPoint2D;XPoint2D) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#16]]]
++getEmpty(boolean) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#36]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#44]]]
++fromMutable(MinMaxMutable) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#48]]]
+-MinMax(double;double;double;double) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#52]]]
++addPoint(XPoint2D) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#71]]]
++addPoint(double;double) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#75]]]
++addMinMax(MinMax) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#79]]]
++fromMax(double;double) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#84]]]
++fromDim(XDimension2D) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#88]]]
++getMaxX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#92]]]
++getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#96]]]
++getMinX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#100]]]
++getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#104]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#108]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#112]]]
++getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#116]]]
++drawGray(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#120]]]
++draw(UGraphic;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#124]]]
++translate(UTranslate) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#130]]]
+} 
+@enduml

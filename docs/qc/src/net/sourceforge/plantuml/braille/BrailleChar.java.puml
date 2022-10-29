@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.braille.BrailleChar"
+class net.sourceforge.plantuml.braille.BrailleChar {
+-BrailleChar(int) : BrailleChar [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleChar.java.html#8]]]
++draw(BrailleGrid;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleChar.java.html#12]]]
+-drawOneSpot(BrailleGrid;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleChar.java.html#23]]]
++fromChar(char) : BrailleChar [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleChar.java.html#30]]]
+} 
+@enduml

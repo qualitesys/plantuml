@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<BpmDiagram>" <|-- "net.sourceforge.plantuml.bpm.CommandGoto"
+class net.sourceforge.plantuml.bpm.CommandGoto {
++CommandGoto() : CommandGoto [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#14]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#18]]]
+executeArg(BpmDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#27]]]
+} 
+@enduml

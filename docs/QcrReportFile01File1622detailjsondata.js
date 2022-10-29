@@ -1,0 +1,159 @@
+console.log('leListeStr main01 start json de data maDataBlocs');
+var maDataBlocs = {
+"data00" : {
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/preproc/ReadLineList.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.xml" 
+ , "fic3"  : "" 
+}
+, 
+"data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "ReadLine"
+ , "c2" : "net.sourceforge.plantuml.preproc.ReadLineList"
+}} 
+]
+, 
+"data02" : [
+{ "classe" : 
+ { "nomclasse" : "net.sourceforge.plantuml.preproc.ReadLineList" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#15"
+ , "c1" : "ReadLineList"
+ , "c2" : "ReadLineList(List<String>;LineLocation)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#20"
+ , "c1" : "void"
+ , "c2" : "close()"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#23"
+ , "c1" : "StringLocated"
+ , "c2" : "readLine()"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+] 
+}} 
+]
+, 
+"data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.svg" }
+
+] 
+, 
+"data04" : [
+]
+, 
+"data05" : [
+]
+, 
+"data06" : [
+]
+, 
+"data07" : [
+]
+, 
+"data08" : [
+]
+, 
+"data11" : [
+]
+, 
+"data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "2"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#10"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00010] The class ReadLineList contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#15"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00015] The argument definition is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.preproc.ReadLineList.readLine@POLYN147729 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.preproc.ReadLineList.readLine@POLYN147729 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#20"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00020] Void method close is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#20"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00020] Void method close is empty or contains only a return. Interface segregation"
+}} 
+]
+};
+console.log('leListeStr 99 main end');

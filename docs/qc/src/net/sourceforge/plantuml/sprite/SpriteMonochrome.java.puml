@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"Sprite" <|-- "net.sourceforge.plantuml.sprite.SpriteMonochrome"
+class net.sourceforge.plantuml.sprite.SpriteMonochrome {
++isSameKind(SpriteMonochrome) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#29]]]
++isSame(SpriteMonochrome) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#42]]]
++xor(SpriteMonochrome) : SpriteMonochrome [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#54]]]
++SpriteMonochrome(int;int;int) : SpriteMonochrome [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#72]]]
++xSymetric() : SpriteMonochrome [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#82]]]
++ySymetric() : SpriteMonochrome [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#98]]]
++setGray(int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#114]]]
++getGray(int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#127]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#137]]]
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#141]]]
++toUImage(ColorMapper;HColor;HColor) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#145]]]
+-special(ColorMapper;HColorGradient;HColor) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#165]]]
++asTextBlock(HColor;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#180]]]
++exportSprite1(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.html#194]]]
+} 
+@enduml

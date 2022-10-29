@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityDiagram" <|-- "net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram"
+class net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram {
++AbstractClassOrObjectDiagram(UmlSource;UmlDiagramType;Map<String,String>) : AbstractClassOrObjectDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#28]]]
++cleanIdent(Ident) : Ident [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#33]]]
++insertBetween(IEntity;IEntity;IEntity) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#41]]]
+-foundLink(IEntity;IEntity) : Link [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#60]]]
++getNbOfHozizontalLollipop(IEntity) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#71]]]
++associationClass(String;String;String;String;LinkType;Display) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#88]]]
+-insertPointBetween(IEntity;IEntity;IEntity) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#127]]]
++associationClass(int;String;String;IEntity;LinkType;Display) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#165]]]
+-getExistingAssociatedPoints(IEntity;IEntity) : List<Association> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#191]]]
++setLegend(DisplayPositioned) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#342]]]
+} 
+@enduml

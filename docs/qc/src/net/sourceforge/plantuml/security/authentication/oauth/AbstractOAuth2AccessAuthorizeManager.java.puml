@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"SecurityAuthorizeManager" <|-- "net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager"
+class net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager {
+headers() : Map<String,Object> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#23]]]
+buildAccessDataFromResponse(JsonObject;String) : Map<String,Object> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#31]]]
+-toMap(Map<String,Object>;JsonObject;OAuth2Tokens) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#55]]]
+urlEncode(String) : String [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#69]]]
+requestAndCreateAuthFromResponse(Proxy;String;String;SURL;String;SecurityAuthentication) : SecurityAuthentication [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#79]]]
+} 
+@enduml

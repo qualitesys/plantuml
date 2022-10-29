@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.Log"
+class net.sourceforge.plantuml.Log {
++debug(String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Log.java.html#8]]]
++info(String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Log.java.html#11]]]
++error(String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Log.java.html#18]]]
+-format(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Log.java.html#23]]]
++println(Object) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Log.java.html#65]]]
++header(String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Log.java.html#75]]]
+} 
+@enduml

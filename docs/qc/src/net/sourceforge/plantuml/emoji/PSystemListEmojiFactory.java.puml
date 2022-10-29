@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"PSystemSingleLineFactory" <|-- "net.sourceforge.plantuml.emoji.PSystemListEmojiFactory"
+class net.sourceforge.plantuml.emoji.PSystemListEmojiFactory {
+executeLine(UmlSource;String) : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/PSystemListEmojiFactory.java.html#12]]]
+} 
+@enduml

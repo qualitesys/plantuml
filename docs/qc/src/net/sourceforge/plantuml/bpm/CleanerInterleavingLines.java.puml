@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"GridCleaner" <|-- "net.sourceforge.plantuml.bpm.CleanerInterleavingLines"
+class net.sourceforge.plantuml.bpm.CleanerInterleavingLines {
++clean(Grid) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#8]]]
+-mergeLines(Grid;Line;Line) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#25]]]
+-mergeable(Grid;Line;Line) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#36]]]
+-merge(Placeable;Placeable) : Placeable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#51]]]
+-mergeable(Placeable;Placeable) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#76]]]
+-mergeablePuzzleSingle(ConnectorPuzzleEmpty;BpmElement) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#97]]]
+-mergeablePuzzleSingle(BpmElement;ConnectorPuzzleEmpty) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#107]]]
+-mergeableCC(ConnectorPuzzleEmpty;ConnectorPuzzleEmpty) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#114]]]
+} 
+@enduml

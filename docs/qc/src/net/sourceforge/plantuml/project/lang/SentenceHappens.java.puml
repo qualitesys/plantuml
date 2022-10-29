@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceHappens"
+class net.sourceforge.plantuml.project.lang.SentenceHappens {
++SentenceHappens() : SentenceHappens [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceHappens.java.html#12]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceHappens.java.html#17]]]
+} 
+@enduml

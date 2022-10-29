@@ -1,0 +1,27 @@
+@startuml
+!pragma layout smetana
+"TaskDraw" <|-- "net.sourceforge.plantuml.project.draw.AbstractTaskDraw"
+class net.sourceforge.plantuml.project.draw.AbstractTaskDraw {
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#43]]]
++setColorsAndCompletion(CenterBorderColor;int;Url;Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#47]]]
++AbstractTaskDraw(TimeScale;Real;String;Day;ISkinParam;Task;ToTaskDraw;StyleBuilder) : AbstractTaskDraw [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#54]]]
+getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#65]]]
+-getStyleSignatureUnstarted() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#67]]]
+getLineColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#71]]]
+getBackgroundColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#79]]]
+getFontConfiguration() : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#87]]]
+getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#91]]]
++getTitleWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#95]]]
+getTitle() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#101]]]
+getShapeHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#103]]]
++getFullHeightTask(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#105]]]
++getTrueRow() : TaskDraw [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#111]]]
++getY(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#116]]]
++getTask() : Task [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#123]]]
++getY(StringBounder;Direction) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#128]]]
+getStyleBuilder() : StyleBuilder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#146]]]
+getColorSet() : HColorSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#150]]]
+getColors() : CenterBorderColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#154]]]
+getCompletion() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/AbstractTaskDraw.java.html#158]]]
+} 
+@enduml

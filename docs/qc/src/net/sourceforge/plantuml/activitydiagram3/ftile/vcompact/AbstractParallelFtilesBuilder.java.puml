@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.AbstractParallelFtilesBuilder"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.AbstractParallelFtilesBuilder {
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#34]]]
++getStyleSignatureArrow() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#38]]]
++AbstractParallelFtilesBuilder(ISkinParam;StringBounder;List<Ftile>) : AbstractParallelFtilesBuilder [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#42]]]
+getFoo2(List<Ftile>) : List<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#48]]]
+-computeNewFtile(Ftile;double) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#58]]]
+computeMaxHeight(List<Ftile>) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#67]]]
++build(Ftile) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#75]]]
+doStep1(Ftile) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#80]]]
+doStep2(Ftile;Ftile) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#82]]]
+getStringBounder() : StringBounder [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#84]]]
+getRose() : Rose [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#88]]]
+skinParam() : ISkinParam [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#92]]]
+getTextBlock(Display) : TextBlock [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#96]]]
+getTextBlock(LinkRendering) : TextBlock [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#107]]]
+getHeightOfMiddle(Ftile) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#113]]]
+swimlaneOutForStep2() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#117]]]
+} 
+@enduml

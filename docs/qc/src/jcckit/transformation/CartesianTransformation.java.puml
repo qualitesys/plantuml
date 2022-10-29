@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Transformation" <|-- "jcckit.transformation.CartesianTransformation"
+class jcckit.transformation.CartesianTransformation {
++CartesianTransformation(boolean;boolean;DataPoint;GraphPoint;DataPoint;GraphPoint) : CartesianTransformation [[[./../../../.././qc/src/jcckit/transformation/CartesianTransformation.java.html#18]]]
+-check(double;String;String;double) : void [[[./../../../.././qc/src/jcckit/transformation/CartesianTransformation.java.html#38]]]
++transformToGraph(DataPoint) : GraphPoint [[[./../../../.././qc/src/jcckit/transformation/CartesianTransformation.java.html#47]]]
++transformToData(GraphPoint) : DataPoint [[[./../../../.././qc/src/jcckit/transformation/CartesianTransformation.java.html#53]]]
+} 
+@enduml

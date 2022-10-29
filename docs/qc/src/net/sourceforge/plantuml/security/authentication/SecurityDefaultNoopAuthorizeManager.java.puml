@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"SecurityAuthorizeManager" <|-- "net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAuthorizeManager"
+class net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAuthorizeManager {
++create(SecurityCredentials) : SecurityAuthentication [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAuthorizeManager.java.html#13]]]
+} 
+@enduml

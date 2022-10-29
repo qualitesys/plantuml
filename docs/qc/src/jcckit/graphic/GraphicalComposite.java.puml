@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"GraphicalElement" <|-- "jcckit.graphic.GraphicalComposite"
+class jcckit.graphic.GraphicalComposite {
++GraphicalComposite(ClippingShape) : GraphicalComposite [[[./../../../.././qc/src/jcckit/graphic/GraphicalComposite.java.html#12]]]
++getClippingShape() : ClippingShape [[[./../../../.././qc/src/jcckit/graphic/GraphicalComposite.java.html#17]]]
++addElement(GraphicalElement) : void [[[./../../../.././qc/src/jcckit/graphic/GraphicalComposite.java.html#22]]]
++removeAllElements() : void [[[./../../../.././qc/src/jcckit/graphic/GraphicalComposite.java.html#31]]]
++replaceElementAt(int;GraphicalElement) : void [[[./../../../.././qc/src/jcckit/graphic/GraphicalComposite.java.html#36]]]
+-throwNullPointerException() : void [[[./../../../.././qc/src/jcckit/graphic/GraphicalComposite.java.html#44]]]
++renderWith(Renderer) : void [[[./../../../.././qc/src/jcckit/graphic/GraphicalComposite.java.html#50]]]
+} 
+@enduml

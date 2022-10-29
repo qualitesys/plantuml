@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.salt.Positionner2"
+class net.sourceforge.plantuml.salt.Positionner2 {
++add(Terminated<Element>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#22]]]
+-moveNextColumn() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#32]]]
+-moveNextRow() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#36]]]
+-addWithoutMove(Element) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#41]]]
++mergeLeft(Terminator) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#47]]]
+-updateMax() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#58]]]
++getAll() : Map<Element,Cell> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#67]]]
++getNbRows() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#71]]]
++getNbCols() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#75]]]
+} 
+@enduml

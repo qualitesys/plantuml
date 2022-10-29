@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Eater" <|-- "net.sourceforge.plantuml.tim.EaterImport"
+class net.sourceforge.plantuml.tim.EaterImport {
++EaterImport(StringLocated) : EaterImport [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#10]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#15]]]
++getLocation() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#23]]]
+} 
+@enduml

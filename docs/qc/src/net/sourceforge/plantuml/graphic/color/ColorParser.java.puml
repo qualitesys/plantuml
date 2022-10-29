@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.color.ColorParser"
+class net.sourceforge.plantuml.graphic.color.ColorParser {
+-ColorParser(String;RegexLeaf;ColorType) : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#20]]]
++getColor(RegexResult;HColorSet) : Colors [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#26]]]
++simpleColor(ColorType) : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#38]]]
++simpleColor(ColorType;String) : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#42]]]
++mandatoryColor(ColorType) : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#46]]]
++simpleColor(String;ColorType) : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#50]]]
++exp1() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#57]]]
++exp2() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#61]]]
++exp3() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#65]]]
++exp4() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#69]]]
++exp6() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#73]]]
++exp7() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#77]]]
++getRegex() : RegexLeaf [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorParser.java.html#81]]]
+} 
+@enduml

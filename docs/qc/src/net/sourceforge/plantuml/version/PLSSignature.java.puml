@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.version.PLSSignature"
+class net.sourceforge.plantuml.version.PLSSignature {
++PLSSignature(int;byte[];long;long;String;String) : PLSSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#35]]]
+-toLicenseInfo() : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#44]]]
++retrieveDistributorImageSignature() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#48]]]
++fromRaw512(byte[]) : PLSSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#55]]]
+-readBytes(ByteArrayInputStream;int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#101]]]
+-readString(ByteArrayInputStream) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#110]]]
+-readLong(ByteArrayInputStream) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#123]]]
++retrieveNamed(String;String;boolean) : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#137]]]
++retrieveDistributor(String) : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#149]]]
+-decode(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#158]]]
+-xor(byte[];TurningBytes) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#169]]]
++xor(byte[];byte[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#175]]]
++getSalt(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#179]]]
+-getSeed(byte[]) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#186]]]
++signature() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#194]]]
+-getMacAddress() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#204]]]
+} 
+@enduml

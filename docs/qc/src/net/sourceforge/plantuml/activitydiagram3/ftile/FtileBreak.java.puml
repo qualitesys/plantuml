@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"FtileEmptyWeldingPoint" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak"
+class net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak {
++FtileBreak(ISkinParam;Swimlane) : FtileBreak [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#13]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#18]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#23]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#28]]]
++getWeldingPoints() : List<WeldingPoint> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#33]]]
+} 
+@enduml

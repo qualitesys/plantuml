@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.Highlight"
+class net.sourceforge.plantuml.timingdiagram.Highlight {
++Highlight(ISkinParam;TimeTick;TimeTick;Display;Colors) : Highlight [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#32]]]
+-getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#40]]]
+-getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#44]]]
+-getBackColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#49]]]
+-getLineColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#57]]]
+-getUStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#65]]]
++getTickFrom() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#69]]]
++getTickTo() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#73]]]
++getCaption() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#77]]]
++getCaption(ISkinParam) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#81]]]
++drawHighlightsBack(UGraphic;TimingRuler;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#86]]]
++drawHighlightsLines(UGraphic;TimingRuler;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#94]]]
+} 
+@enduml

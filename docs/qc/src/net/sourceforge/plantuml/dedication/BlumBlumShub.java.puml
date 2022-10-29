@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.BlumBlumShub"
+class net.sourceforge.plantuml.dedication.BlumBlumShub {
++BlumBlumShub(BigInteger;byte[]) : BlumBlumShub [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/BlumBlumShub.java.html#12]]]
++nextRnd(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/BlumBlumShub.java.html#17]]]
+} 
+@enduml

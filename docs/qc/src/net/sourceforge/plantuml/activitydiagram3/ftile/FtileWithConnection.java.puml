@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"FtileDecorate" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithConnection"
+class net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithConnection {
+FtileWithConnection(Ftile;Collection<Connection>) : FtileWithConnection [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithConnection.java.html#18]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithConnection.java.html#27]]]
++FtileWithConnection(Ftile;Connection) : FtileWithConnection [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithConnection.java.html#31]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithConnection.java.html#35]]]
++getInnerConnections() : Collection<Connection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithConnection.java.html#42]]]
+} 
+@enduml

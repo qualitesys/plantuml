@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.salt.element.ListWidth"
+class net.sourceforge.plantuml.salt.element.ListWidth {
++add(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#12]]]
++mergeMax(ListWidth) : ListWidth [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#16]]]
+-getWidthSafe(int) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#26]]]
++getTotalWidthWithMargin(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#33]]]
++iterator() : Iterator<Double> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#44]]]
+} 
+@enduml

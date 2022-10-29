@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.brotli.State"
+class net.sourceforge.plantuml.brotli.State {
+State() : State [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/State.java.html#84]]]
+} 
+@enduml

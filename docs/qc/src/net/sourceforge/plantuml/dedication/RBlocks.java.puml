@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.RBlocks"
+class net.sourceforge.plantuml.dedication.RBlocks {
+-RBlocks() : RBlocks [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlocks.java.html#16]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlocks.java.html#21]]]
++readFrom(byte[];int) : RBlocks [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlocks.java.html#31]]]
++change(BigInteger;BigInteger) : RBlocks [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlocks.java.html#42]]]
++writeTo(Path;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlocks.java.html#50]]]
++toByteArray(int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlocks.java.html#54]]]
++writeTo(OutputStream;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/RBlocks.java.html#63]]]
+} 
+@enduml

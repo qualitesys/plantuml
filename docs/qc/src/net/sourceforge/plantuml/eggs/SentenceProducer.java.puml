@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.eggs.SentenceProducer"
+class net.sourceforge.plantuml.eggs.SentenceProducer {
++SentenceProducer(String;String) : SentenceProducer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.html#10]]]
++getSecret() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.html#17]]]
+} 
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"AbstractGtileStencil" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithNoteOpale"
+class net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithNoteOpale {
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNoteOpale.java.html#50]]]
++getSwimlane(String) : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNoteOpale.java.html#55]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNoteOpale.java.html#60]]]
++GtileWithNoteOpale(Gtile;PositionedNote;ISkinParam;boolean) : GtileWithNoteOpale [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNoteOpale.java.html#64]]]
+getCoordImpl(String) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNoteOpale.java.html#108]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNoteOpale.java.html#113]]]
+drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNoteOpale.java.html#119]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNoteOpale.java.html#125]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNoteOpale.java.html#130]]]
+} 
+@enduml

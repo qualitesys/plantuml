@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<StateDiagram>" <|-- "net.sourceforge.plantuml.statediagram.command.CommandEndState"
+class net.sourceforge.plantuml.statediagram.command.CommandEndState {
++CommandEndState() : CommandEndState [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandEndState.java.html#16]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandEndState.java.html#20]]]
+executeArg(StateDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandEndState.java.html#27]]]
+} 
+@enduml

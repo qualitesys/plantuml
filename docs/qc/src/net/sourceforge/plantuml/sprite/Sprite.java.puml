@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sprite.Sprite"
+class net.sourceforge.plantuml.sprite.Sprite {
++asTextBlock(HColor;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/Sprite.java.html#9]]]
+} 
+@enduml

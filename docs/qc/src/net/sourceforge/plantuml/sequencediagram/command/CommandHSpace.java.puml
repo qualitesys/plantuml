@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandHSpace"
+class net.sourceforge.plantuml.sequencediagram.command.CommandHSpace {
++CommandHSpace() : CommandHSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHSpace.java.html#16]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHSpace.java.html#20]]]
+executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHSpace.java.html#28]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.openiconic.StringDecipher"
+class net.sourceforge.plantuml.openiconic.StringDecipher {
++decipher(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#6]]]
+} 
+@enduml

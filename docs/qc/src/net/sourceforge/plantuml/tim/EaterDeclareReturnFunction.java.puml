@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Eater" <|-- "net.sourceforge.plantuml.tim.EaterDeclareReturnFunction"
+class net.sourceforge.plantuml.tim.EaterDeclareReturnFunction {
++EaterDeclareReturnFunction(StringLocated) : EaterDeclareReturnFunction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#13]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#19]]]
+-peekUnquoted() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#39]]]
+-peekFinal() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#43]]]
++getFunction() : TFunctionImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#47]]]
++getFinalFlag() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#51]]]
+} 
+@enduml

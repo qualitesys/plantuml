@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.util.Point3D"
+class ext.plantuml.com.ctreber.acearth.util.Point3D {
++Point3D(double;double;double) : Point3D [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Point3D.java.html#10]]]
++getX() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Point3D.java.html#17]]]
++getY() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Point3D.java.html#22]]]
++getZ() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Point3D.java.html#27]]]
++toString() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Point3D.java.html#32]]]
++getCoordinate() : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/Point3D.java.html#37]]]
+} 
+@enduml

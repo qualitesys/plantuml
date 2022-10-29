@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.SplitParam"
+class net.sourceforge.plantuml.SplitParam {
+-empty() : SplitParam [[[./../../../../.././qc/src/net/sourceforge/plantuml/SplitParam.java.html#15]]]
++SplitParam(HColor;HColor;int) : SplitParam [[[./../../../../.././qc/src/net/sourceforge/plantuml/SplitParam.java.html#19]]]
++isSet() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/SplitParam.java.html#28]]]
++getExternalMargin() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/SplitParam.java.html#32]]]
++getBorderColor() : Color [[[./../../../../.././qc/src/net/sourceforge/plantuml/SplitParam.java.html#36]]]
++getExternalColor() : Color [[[./../../../../.././qc/src/net/sourceforge/plantuml/SplitParam.java.html#43]]]
+} 
+@enduml

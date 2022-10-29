@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Moveable" <|-- "net.sourceforge.plantuml.posimo.Positionable"
+class net.sourceforge.plantuml.posimo.Positionable {
++getSize() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Positionable.java.html#9]]]
++getPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Positionable.java.html#11]]]
+} 
+@enduml

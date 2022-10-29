@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack"
+class net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack {
++addList(InGroupableList) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#14]]]
++pop() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#22]]]
++addElement(InGroupable) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#27]]]
++getTopGroupingStructure() : InGroupableList [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#33]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"CodeIterator" <|-- "net.sourceforge.plantuml.tim.iterator.AbstractCodeIterator"
+class net.sourceforge.plantuml.tim.iterator.AbstractCodeIterator {
++AbstractCodeIterator(CodeIterator) : AbstractCodeIterator [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/AbstractCodeIterator.java.html#11]]]
++next() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/AbstractCodeIterator.java.html#15]]]
++getCodePosition() : CodePosition [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/AbstractCodeIterator.java.html#19]]]
++jumpToCodePosition(CodePosition) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/AbstractCodeIterator.java.html#23]]]
+} 
+@enduml

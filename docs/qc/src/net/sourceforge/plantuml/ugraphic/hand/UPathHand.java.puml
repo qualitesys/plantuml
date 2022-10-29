@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.hand.UPathHand"
+class net.sourceforge.plantuml.ugraphic.hand.UPathHand {
++UPathHand(UPath;Random) : UPathHand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#17]]]
++getHanddrawn() : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#64]]]
+} 
+@enduml

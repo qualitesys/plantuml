@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"StripeRaw" <|-- "net.sourceforge.plantuml.creole.legacy.StripeCode"
+class net.sourceforge.plantuml.creole.legacy.StripeCode {
++StripeCode(FontConfiguration) : StripeCode [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeCode.java.html#25]]]
++getAtoms() : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeCode.java.html#29]]]
++getLHeader() : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeCode.java.html#33]]]
++addAndCheckTermination(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeCode.java.html#38]]]
++isTerminated() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeCode.java.html#48]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeCode.java.html#52]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeCode.java.html#63]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeCode.java.html#67]]]
++splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeCode.java.html#78]]]
+} 
+@enduml

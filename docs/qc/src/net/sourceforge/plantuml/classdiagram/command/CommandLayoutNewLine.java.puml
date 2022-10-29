@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<ClassDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine"
+class net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine {
++CommandLayoutNewLine() : CommandLayoutNewLine [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#15]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#19]]]
+executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#27]]]
+} 
+@enduml

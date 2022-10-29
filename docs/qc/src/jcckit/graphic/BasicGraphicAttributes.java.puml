@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"ShapeAttributesTextAttributes" <|-- "jcckit.graphic.BasicGraphicAttributes"
+class jcckit.graphic.BasicGraphicAttributes {
++BasicGraphicAttributes(ConfigParameters) : BasicGraphicAttributes [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#29]]]
++BasicGraphicAttributes(Color;Color;double;double[];Color;String;FontStyle;double;double;Anchor;Anchor) : BasicGraphicAttributes [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#45]]]
++getTextColor() : Color [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#63]]]
++getFontName() : String [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#68]]]
++getFontStyle() : FontStyle [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#73]]]
++getFontSize() : double [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#78]]]
++getOrientationAngle() : double [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#83]]]
++getHorizontalAnchor() : Anchor [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#88]]]
++getVerticalAnchor() : Anchor [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#93]]]
+} 
+@enduml

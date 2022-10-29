@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractElementFactoryComplex" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryBorder"
+class net.sourceforge.plantuml.salt.factory.ElementFactoryBorder {
++ElementFactoryBorder(DataSource;Dictionary) : ElementFactoryBorder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#12]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#16]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#57]]]
+} 
+@enduml

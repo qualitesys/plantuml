@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cdt.dtdisc__c"
+class gen.lib.cdt.dtdisc__c {
++dtmemory(ST_dt_s;Object;size_t;ST_dtdisc_s) : Object [[[./../../../../.././qc/src/gen/lib/cdt/dtdisc__c.java.html#31]]]
++dtdisc(ST_dt_s;ST_dtdisc_s;int) : ST_dtdisc_s [[[./../../../../.././qc/src/gen/lib/cdt/dtdisc__c.java.html#55]]]
+} 
+@enduml

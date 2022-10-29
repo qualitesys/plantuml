@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"DriverShadowedG2dUDriver<ULine,Graphics2D>" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d"
+class net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d {
++DriverLineG2d(double) : DriverLineG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverLineG2d.java.html#20]]]
++draw(ULine;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverLineG2d.java.html#24]]]
+manageStroke(UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverLineG2d.java.html#37]]]
+manageStroke(UStroke;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverLineG2d.java.html#41]]]
+} 
+@enduml

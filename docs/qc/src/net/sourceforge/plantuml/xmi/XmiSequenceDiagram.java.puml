@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.xmi.XmiSequenceDiagram"
+class net.sourceforge.plantuml.xmi.XmiSequenceDiagram {
++build() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#13]]]
++XmiSequenceDiagram(SequenceDiagram;Document) : XmiSequenceDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#17]]]
+createElement(String;String[][]) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#23]]]
+setAttribute(Element;String;String) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#27]]]
+setAttributes(Element;String[][]) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#32]]]
+getDisplayString(Display) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#39]]]
+getXmiId(String;Object) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#43]]]
+} 
+@enduml

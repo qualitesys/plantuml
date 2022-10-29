@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.CoordinateChange"
+class net.sourceforge.plantuml.graphic.CoordinateChange {
++create(XPoint2D;XPoint2D) : CoordinateChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/CoordinateChange.java.html#19]]]
++CoordinateChange(double;double;double;double) : CoordinateChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/CoordinateChange.java.html#23]]]
++getTrueCoordinate(double;double) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/CoordinateChange.java.html#41]]]
++getLength() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/CoordinateChange.java.html#47]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UDriver<UPolygon,TikzGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.tikz.DriverPolygonTikz"
+class net.sourceforge.plantuml.ugraphic.tikz.DriverPolygonTikz {
++draw(UPolygon;double;double;ColorMapper;UParam;TikzGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.html#14]]]
+} 
+@enduml

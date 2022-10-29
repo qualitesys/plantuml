@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"UShape" <|-- "net.sourceforge.plantuml.ugraphic.UEmpty"
+class net.sourceforge.plantuml.ugraphic.UEmpty {
++UEmpty(double;double) : UEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#11]]]
++UEmpty(XDimension2D) : UEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#19]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#23]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#27]]]
+} 
+@enduml

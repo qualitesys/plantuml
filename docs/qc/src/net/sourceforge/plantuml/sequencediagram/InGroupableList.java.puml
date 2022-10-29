@@ -1,0 +1,24 @@
+@startuml
+!pragma layout smetana
+"InGroupable" <|-- "net.sourceforge.plantuml.sequencediagram.InGroupableList"
+class net.sourceforge.plantuml.sequencediagram.InGroupableList {
++getInnerList() : List<InGroupableList> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#25]]]
++InGroupableList(ParticipantBox;Grouping;double) : InGroupableList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#36]]]
++addInGroupable(InGroupable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#41]]]
++isEmpty() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#48]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#53]]]
++toString(StringBounder) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#57]]]
+-getMinSlow(StringBounder) : InGroupable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#66]]]
+-getMaxSlow(StringBounder) : InGroupable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#79]]]
+-getMin(StringBounder) : InGroupable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#91]]]
+-getMax(StringBounder) : InGroupable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#102]]]
++setMinWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#110]]]
++getFirstParticipantBox() : ParticipantBox [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#114]]]
++getLastParticipantBox() : ParticipantBox [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#127]]]
++getMinX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#138]]]
++getMaxX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#155]]]
+-getMaxXInternal(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#165]]]
++changeHack2(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#184]]]
++getHack2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#188]]]
+} 
+@enduml

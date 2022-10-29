@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.FontParamConstant"
+class net.sourceforge.plantuml.FontParamConstant {
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"FtileIfWithDiamonds" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfWithLinks"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfWithLinks {
++FtileIfWithLinks(Ftile;Ftile;Ftile;Ftile;Swimlane;Rainbow;ConditionEndStyle;StringBounder) : FtileIfWithLinks [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithLinks.java.html#36]]]
++addLinks(Branch;Branch;StringBounder) : Ftile [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithLinks.java.html#498]]]
+} 
+@enduml

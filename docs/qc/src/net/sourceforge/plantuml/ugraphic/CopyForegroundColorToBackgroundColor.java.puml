@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"UChange" <|-- "net.sourceforge.plantuml.ugraphic.CopyForegroundColorToBackgroundColor"
+class net.sourceforge.plantuml.ugraphic.CopyForegroundColorToBackgroundColor {
+} 
+@enduml

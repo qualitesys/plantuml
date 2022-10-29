@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<DescriptionDiagram>" <|-- "net.sourceforge.plantuml.descdiagram.command.CommandCreateElementFull"
+class net.sourceforge.plantuml.descdiagram.command.CommandCreateElementFull {
++CommandCreateElementFull() : CommandCreateElementFull [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#42]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#46]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#99]]]
+-color2() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#103]]]
+isForbidden(CharSequence) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#116]]]
+executeArg(DescriptionDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#124]]]
++existsWithBadType3(AbstractEntityDiagram;Code;Ident;LeafType;USymbol) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#249]]]
+-getCharEncoding(String) : char [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#278]]]
+} 
+@enduml

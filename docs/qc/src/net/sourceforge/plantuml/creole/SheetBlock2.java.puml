@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.creole.SheetBlock2"
+class net.sourceforge.plantuml.creole.SheetBlock2 {
++splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#22]]]
++enlargeMe(double;double) : SheetBlock2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#30]]]
++SheetBlock2(SheetBlock1;Stencil;UStroke) : SheetBlock2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#44]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#51]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#55]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#59]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#66]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#71]]]
++getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#76]]]
+} 
+@enduml

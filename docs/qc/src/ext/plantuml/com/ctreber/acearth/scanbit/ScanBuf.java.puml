@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf"
+class ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf {
++ScanBuf(int;int) : ScanBuf [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#20]]]
++addLine(double;double;double;double) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#37]]]
++containsPoints() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#107]]]
++getScanbits(int) : List [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#113]]]
++getYMax() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#158]]]
++getYMin() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#163]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SimpleReturnFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.RetrieveProcedure"
+class net.sourceforge.plantuml.tim.stdlib.RetrieveProcedure {
++getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/RetrieveProcedure.java.html#20]]]
++canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/RetrieveProcedure.java.html#24]]]
++executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/RetrieveProcedure.java.html#28]]]
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"MDAEntity" <|-- "net.sourceforge.plantuml.mda.MDAEntityImpl"
+class net.sourceforge.plantuml.mda.MDAEntityImpl {
++MDAEntityImpl(ILeaf) : MDAEntityImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html#11]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html#15]]]
+} 
+@enduml

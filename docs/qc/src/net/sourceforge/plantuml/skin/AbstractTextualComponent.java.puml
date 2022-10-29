@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"AbstractComponent" <|-- "net.sourceforge.plantuml.skin.AbstractTextualComponent"
+class net.sourceforge.plantuml.skin.AbstractTextualComponent {
++AbstractTextualComponent(Style;LineBreakStrategy;int;int;int;ISkinSimple;CharSequence) : AbstractTextualComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#35]]]
++AbstractTextualComponent(Style;LineBreakStrategy;int;int;int;ISkinSimple;Display;boolean) : AbstractTextualComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#41]]]
++AbstractTextualComponent(Style;Style;LineBreakStrategy;int;int;int;ISkinSimple;Display;boolean) : AbstractTextualComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#46]]]
+getIHtmlColorSet() : HColorSet [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#74]]]
+getTextBlock() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#78]]]
+getPureTextWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#82]]]
++getTextWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#88]]]
+getTextHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#92]]]
+getMarginX1() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#98]]]
+getMarginX2() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#102]]]
+getMarginY() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#106]]]
+getFont() : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#110]]]
+getFontColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#114]]]
+getISkinSimple() : ISkinSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#118]]]
++getHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#122]]]
+} 
+@enduml

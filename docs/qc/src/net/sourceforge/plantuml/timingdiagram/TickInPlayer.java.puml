@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.TickInPlayer"
+class net.sourceforge.plantuml.timingdiagram.TickInPlayer {
++TickInPlayer(Player;TimeTick) : TickInPlayer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TickInPlayer.java.html#11]]]
++getPlayer() : Player [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TickInPlayer.java.html#16]]]
++getTick() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TickInPlayer.java.html#20]]]
+} 
+@enduml

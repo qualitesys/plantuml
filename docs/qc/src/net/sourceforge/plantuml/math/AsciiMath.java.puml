@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"ScientificEquation" <|-- "net.sourceforge.plantuml.math.AsciiMath"
+class net.sourceforge.plantuml.math.AsciiMath {
++AsciiMath(String) : AsciiMath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#19]]]
++getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#24]]]
++getSvg(double;Color;Color) : UImageSvg [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#28]]]
++getImage(Color;Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#34]]]
++getSource() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#40]]]
+} 
+@enduml

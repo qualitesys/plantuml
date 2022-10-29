@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Command" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced"
+class net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced {
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#13]]]
++create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#19]]]
+-CommandCreoleMonospaced(String) : CommandCreoleMonospaced [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#23]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#27]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#35]]]
+} 
+@enduml

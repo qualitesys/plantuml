@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.core.Resource"
+class net.sourceforge.plantuml.project.core.Resource {
++Resource(String) : Resource [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#16]]]
++hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#21]]]
++equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#26]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#32]]]
++getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#36]]]
++getResourceDraw() : ResourceDraw [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#40]]]
++setTaskDraw(ResourceDraw) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#44]]]
++isClosedAt(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#48]]]
++addCloseDay(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#52]]]
++addForceOnDay(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#56]]]
++addCloseDay(DayOfWeek) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Resource.java.html#60]]]
+} 
+@enduml

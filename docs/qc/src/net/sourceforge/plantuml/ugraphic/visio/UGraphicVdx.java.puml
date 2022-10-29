@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"AbstractUGraphic<VisioGraphics>ClipContainer" <|-- "net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx"
+class net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx {
++dpiFactor() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#27]]]
++UGraphicVdx(HColor;ColorMapper;StringBounder) : UGraphicVdx [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#31]]]
+copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#37]]]
+-UGraphicVdx(UGraphicVdx) : UGraphicVdx [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#41]]]
+-register() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#46]]]
++writeToStream(OutputStream;String;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#61]]]
++matchesProperty(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#66]]]
+} 
+@enduml

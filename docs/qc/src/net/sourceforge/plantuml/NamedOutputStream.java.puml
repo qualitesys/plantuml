@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"OutputStream" <|-- "net.sourceforge.plantuml.NamedOutputStream"
+class net.sourceforge.plantuml.NamedOutputStream {
++NamedOutputStream(SFile) : NamedOutputStream [[[./../../../../.././qc/src/net/sourceforge/plantuml/NamedOutputStream.java.html#15]]]
++close() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NamedOutputStream.java.html#20]]]
++flush() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NamedOutputStream.java.html#25]]]
++write(byte[]) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NamedOutputStream.java.html#30]]]
++write(byte[];int;int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NamedOutputStream.java.html#35]]]
++write(int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NamedOutputStream.java.html#39]]]
++getBasefile() : BaseFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/NamedOutputStream.java.html#43]]]
+} 
+@enduml

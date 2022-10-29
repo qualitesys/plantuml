@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.bpm.BpmBranch"
+class net.sourceforge.plantuml.bpm.BpmBranch {
++BpmBranch(int) : BpmBranch [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#9]]]
++incAndGetCounter() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#13]]]
+-getEntryId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#18]]]
+-getExitId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#22]]]
++getEntryElement() : BpmElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#26]]]
++getElseElement() : BpmElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#30]]]
++getResumeEntryEvent() : BpmEvent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#34]]]
++getGoToEndEvent() : BpmEvent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#38]]]
+} 
+@enduml

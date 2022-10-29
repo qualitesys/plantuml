@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"GraphicAttributes" <|-- "jcckit.graphic.FillAttributes"
+class jcckit.graphic.FillAttributes {
++getFillColor() : Color [[[./../../../.././qc/src/jcckit/graphic/FillAttributes.java.html#9]]]
+} 
+@enduml

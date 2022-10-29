@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"SimpleReturnFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.FileExists"
+class net.sourceforge.plantuml.tim.stdlib.FileExists {
++getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/FileExists.java.html#20]]]
++canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/FileExists.java.html#24]]]
++executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/FileExists.java.html#28]]]
+-fileExists(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/FileExists.java.html#37]]]
+} 
+@enduml

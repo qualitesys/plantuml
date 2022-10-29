@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock"
+class ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock {
+-DataBlock(int;byte[]) : DataBlock [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#11]]]
+getDataBlocks(byte[];Version;ErrorCorrectionLevel) : DataBlock[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#17]]]
+getNumDataCodewords() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#85]]]
+getCodewords() : byte[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#89]]]
+} 
+@enduml

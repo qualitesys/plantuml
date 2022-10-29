@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.golem.TilesField"
+class net.sourceforge.plantuml.golem.TilesField {
++TilesField() : TilesField [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#28]]]
++getRoot() : Tile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#32]]]
++createTile(Tile;TileGeometry) : Tile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#36]]]
++addPath(Tile;Tile;TileGeometry) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#44]]]
+-buildPath(TileArea;TileArea) : Path [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#48]]]
+-isAdjoining(TileArea;TileArea) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#66]]]
+-getTileAt(Position) : Tile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#105]]]
+-getFreePosition(Tile;TileGeometry) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#114]]]
+-moveAllToEast(Position) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#123]]]
+-isOccuped(Position) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#140]]]
++getPosition(Tile) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#149]]]
+-getXmin() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#154]]]
+-getYmin() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#165]]]
+-getXmax() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#176]]]
+-getYmax() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#187]]]
++getPaths() : List<Path> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#198]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#203]]]
+-getPoint2D(XDimension2D;TileArea) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#229]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#255]]]
+} 
+@enduml

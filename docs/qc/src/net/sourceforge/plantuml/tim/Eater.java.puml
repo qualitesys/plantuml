@@ -1,0 +1,38 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.Eater"
+class net.sourceforge.plantuml.tim.Eater {
++Eater(StringLocated) : Eater [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#22]]]
+Eater(String;LineLocation) : Eater [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#26]]]
++getLineLocation() : LineLocation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#31]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#35]]]
++getCurrentPosition() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#37]]]
+eatAllToEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#41]]]
++eatExpression(TContext;TMemory) : TValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#47]]]
+eatTokenStack() : TokenStack [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#59]]]
+eatExpressionStopAtColon(TContext;TMemory) : TValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#68]]]
+addIntoTokenStack(TokenStack;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#75]]]
++eatAndGetQuotedString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#86]]]
+eatAndGetOptionalQuotedString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#98]]]
++eatAndGetNumber() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#128]]]
++eatAndGetSpaces() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#139]]]
+eatAndGetVarname() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#150]]]
+eatAndGetFunctionName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#159]]]
++skipSpaces() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#168]]]
+skipUntilChar(char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#174]]]
++peekChar() : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#180]]]
++matchAffectation() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#187]]]
++peekCharN2() : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#193]]]
+hasNextChar() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#200]]]
++eatOneChar() : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#204]]]
+checkAndEatChar(char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#210]]]
+safeCheckAndEatChar(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#217]]]
+optionallyEatChar(char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#225]]]
+checkAndEatChar(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#233]]]
+addUpToLastLetterOrUnderscoreOrDigit(StringBuilder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#239]]]
+addUpTo(char;StringBuilder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#250]]]
+eatDeclareFunction(TContext;TMemory;boolean;LineLocation;boolean;TFunctionType) : TFunctionImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#273]]]
+eatDeclareReturnFunctionWithOptionalReturn(TContext;TMemory;boolean;LineLocation) : TFunctionImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#315]]]
+eatDeclareProcedure(TContext;TMemory;boolean;LineLocation) : TFunctionImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Eater.java.html#333]]]
+} 
+@enduml

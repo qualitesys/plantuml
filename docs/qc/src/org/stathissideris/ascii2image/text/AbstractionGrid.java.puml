@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "org.stathissideris.ascii2image.text.AbstractionGrid"
+class org.stathissideris.ascii2image.text.AbstractionGrid {
++makeUsingBuffer(TextGrid) : AbstractionGrid [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#15]]]
++AbstractionGrid(TextGrid;CellSet) : AbstractionGrid [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#24]]]
+-AbstractionGrid(int;int) : AbstractionGrid [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#74]]]
++getCopyOfInternalBuffer() : TextGrid [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#78]]]
+-setInternalBuffer(TextGrid) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#82]]]
++getWidth() : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#87]]]
++getHeight() : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#91]]]
++getAsTextGrid() : TextGrid [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#95]]]
++getDistinctShapes() : ArrayList [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#113]]]
+fillCells(CellSet) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#130]]]
++set(int;int;AbstractCell) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#134]]]
+} 
+@enduml

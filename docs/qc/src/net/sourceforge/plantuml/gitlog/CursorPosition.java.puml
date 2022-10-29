@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.gitlog.CursorPosition"
+class net.sourceforge.plantuml.gitlog.CursorPosition {
++CursorPosition(GitTextArea;int;int) : CursorPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#10]]]
+-getCurrentLine() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#16]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#21]]]
++move(int;int) : CursorPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#25]]]
++matches(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#29]]]
++getCommentInLine() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#40]]]
++getCommitNameInLine(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#57]]]
++getCommitDefinition() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#71]]]
++getCommit() : Commit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#75]]]
++getDownFromHere() : CursorPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#79]]]
+-getDownFromInternal(CursorPosition) : CursorPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/CursorPosition.java.html#83]]]
+} 
+@enduml

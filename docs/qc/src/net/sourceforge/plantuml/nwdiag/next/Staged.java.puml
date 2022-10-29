@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.nwdiag.next.Staged"
+class net.sourceforge.plantuml.nwdiag.next.Staged {
++getStart() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#6]]]
++getEnd() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#8]]]
++getNWidth() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#10]]]
++contains(NStage) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#12]]]
+} 
+@enduml

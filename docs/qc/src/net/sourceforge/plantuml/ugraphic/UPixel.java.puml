@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"UShape" <|-- "net.sourceforge.plantuml.ugraphic.UPixel"
+class net.sourceforge.plantuml.ugraphic.UPixel {
+} 
+@enduml

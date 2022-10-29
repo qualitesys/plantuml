@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"Bodier" <|-- "net.sourceforge.plantuml.cucadiagram.BodierSimple"
+class net.sourceforge.plantuml.cucadiagram.BodierSimple {
++muteClassToObject() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#22]]]
+BodierSimple() : BodierSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#26]]]
++setLeaf(ILeaf) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#30]]]
++addFieldOrMethod(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#35]]]
++getMethodsToDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#42]]]
++getFieldsToDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#47]]]
++hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#52]]]
++getRawBody() : List<CharSequence> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#57]]]
++getBody(ISkinParam;boolean;boolean;Stereotype;Style;FontConfiguration) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#62]]]
+} 
+@enduml

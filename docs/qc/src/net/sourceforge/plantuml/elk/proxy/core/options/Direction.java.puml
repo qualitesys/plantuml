@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.elk.proxy.core.options.Direction"
+class net.sourceforge.plantuml.elk.proxy.core.options.Direction {
+} 
+@enduml

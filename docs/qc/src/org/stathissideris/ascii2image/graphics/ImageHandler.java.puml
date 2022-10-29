@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "org.stathissideris.ascii2image.graphics.ImageHandler"
+class org.stathissideris.ascii2image.graphics.ImageHandler {
++instance() : ImageHandler [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#13]]]
++loadImage(String) : Image [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#19]]]
+} 
+@enduml

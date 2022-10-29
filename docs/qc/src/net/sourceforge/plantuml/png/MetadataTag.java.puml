@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.png.MetadataTag"
+class net.sourceforge.plantuml.png.MetadataTag {
++MetadataTag(SFile;String) : MetadataTag [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#24]]]
++MetadataTag(java.io.File;String) : MetadataTag [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#29]]]
++MetadataTag(InputStream;String) : MetadataTag [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#34]]]
++getData() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#39]]]
+-displayMetadata(Node) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#66]]]
+-displayMetadata(Node;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#70]]]
+} 
+@enduml

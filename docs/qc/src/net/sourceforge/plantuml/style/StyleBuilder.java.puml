@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"AutomaticCounter" <|-- "net.sourceforge.plantuml.style.StyleBuilder"
+class net.sourceforge.plantuml.style.StyleBuilder {
++printMe() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#21]]]
+-StyleBuilder(SkinParam;Set<StyleSignatureBasic>) : StyleBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#27]]]
++StyleBuilder(SkinParam) : StyleBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#32]]]
++getSkinParam() : SkinParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#36]]]
++createStyle(String) : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#40]]]
++muteStyle(Style) : StyleBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#53]]]
++loadInternal(StyleSignatureBasic;Style) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#69]]]
++getNextInt() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#82]]]
++getMergedStyle(StyleSignatureBasic) : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#86]]]
++getMergedStyleSpecial(StyleSignatureBasic;int) : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#106]]]
+} 
+@enduml

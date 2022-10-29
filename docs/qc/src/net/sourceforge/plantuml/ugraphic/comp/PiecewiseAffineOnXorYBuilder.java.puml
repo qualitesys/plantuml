@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder"
+class net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder {
++build(CompressionMode;TextBlock;PiecewiseAffineTransform) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.html#20]]]
+-PiecewiseAffineOnXorYBuilder(CompressionMode;TextBlock;PiecewiseAffineTransform) : PiecewiseAffineOnXorYBuilder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.html#25]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.html#32]]]
++getMinMax(StringBounder) : MinMax [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.html#39]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.html#46]]]
++getBackcolor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.html#55]]]
+} 
+@enduml

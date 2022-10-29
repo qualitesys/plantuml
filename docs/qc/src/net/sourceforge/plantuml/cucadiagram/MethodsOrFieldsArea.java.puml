@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea"
+class net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea {
++asBlockMemberImpl() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#42]]]
++MethodsOrFieldsArea(Display;ISkinParam;ILeaf;Style) : MethodsOrFieldsArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#55]]]
++MethodsOrFieldsArea(Display;ISkinParam;HorizontalAlignment;ILeaf;Style) : MethodsOrFieldsArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#59]]]
+-hasSmallIcon() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#69]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#84]]]
+-sortBySize(Collection<String>) : Collection<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#101]]]
++getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#116]]]
+-convert(CharSequence) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#134]]]
++getElected(String;Collection<String>) : Elected [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#140]]]
+-getScore(String;String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#149]]]
+-createTextBlock(CharSequence) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#159]]]
+-getUBlock(VisibilityModifier;Url) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#222]]]
++contains(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#251]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#262]]]
+-getLayout(StringBounder) : ULayoutGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#268]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#302]]]
+} 
+@enduml

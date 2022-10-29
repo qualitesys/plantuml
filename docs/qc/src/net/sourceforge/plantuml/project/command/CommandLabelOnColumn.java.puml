@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandLabelOnColumn"
+class net.sourceforge.plantuml.project.command.CommandLabelOnColumn {
++CommandLabelOnColumn() : CommandLabelOnColumn [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#19]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#23]]]
+executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#43]]]
+} 
+@enduml

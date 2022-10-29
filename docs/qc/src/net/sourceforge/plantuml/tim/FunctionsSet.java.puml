@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.FunctionsSet"
+class net.sourceforge.plantuml.tim.FunctionsSet {
++getFunctionSmart(TFunctionSignature) : TFunction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#19]]]
++size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#35]]]
++functions() : Map<TFunctionSignature,TFunction> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#39]]]
++getLonguestMatchStartingIn(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#43]]]
++pendingFunction() : TFunctionImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#47]]]
++addFunction(TFunction) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#51]]]
++executeEndfunction() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#59]]]
++executeLegacyDefine(TContext;TMemory;StringLocated) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#64]]]
++executeLegacyDefineLong(TContext;TMemory;StringLocated) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#76]]]
++executeDeclareReturnFunction(TContext;TMemory;StringLocated) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#86]]]
++executeDeclareProcedure(TContext;TMemory;StringLocated) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#109]]]
+} 
+@enduml

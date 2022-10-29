@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.Arrows"
+class net.sourceforge.plantuml.activitydiagram3.ftile.Arrows {
++asToUp() : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Arrows.java.html#12]]]
++asToDown() : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Arrows.java.html#21]]]
++asToRight() : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Arrows.java.html#30]]]
++asToLeft() : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Arrows.java.html#39]]]
++asTo(Direction) : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Arrows.java.html#48]]]
+} 
+@enduml

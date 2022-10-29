@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"FileMaker" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker"
+class net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker {
++SequenceDiagramTxtMaker(SequenceDiagram;FileFormat) : SequenceDiagramTxtMaker [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#37]]]
++createOne(OutputStream;int;boolean) : ImageData [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#95]]]
++getNbPages() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#106]]]
+} 
+@enduml

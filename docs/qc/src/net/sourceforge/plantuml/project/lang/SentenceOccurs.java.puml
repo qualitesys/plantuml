@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceOccurs"
+class net.sourceforge.plantuml.project.lang.SentenceOccurs {
++SentenceOccurs() : SentenceOccurs [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceOccurs.java.html#13]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceOccurs.java.html#18]]]
+} 
+@enduml

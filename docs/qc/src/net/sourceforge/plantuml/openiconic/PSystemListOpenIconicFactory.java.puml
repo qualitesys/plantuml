@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"PSystemSingleLineFactory" <|-- "net.sourceforge.plantuml.openiconic.PSystemListOpenIconicFactory"
+class net.sourceforge.plantuml.openiconic.PSystemListOpenIconicFactory {
+executeLine(UmlSource;String) : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconicFactory.java.html#12]]]
+} 
+@enduml

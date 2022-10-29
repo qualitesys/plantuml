@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.webp.SegmentQuants"
+class net.sourceforge.plantuml.webp.SegmentQuants {
+-get_delta_q(BoolDecoder;int) : DeltaQ [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#8]]]
++SegmentQuants() : SegmentQuants [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#32]]]
++getqIndex() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#37]]]
++getSegQuants() : SegmentQuant[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#41]]]
++parse(BoolDecoder;boolean;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#45]]]
++setSegQuants(SegmentQuant[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#81]]]
+} 
+@enduml

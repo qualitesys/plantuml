@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Eater" <|-- "net.sourceforge.plantuml.tim.EaterDeclareProcedure"
+class net.sourceforge.plantuml.tim.EaterDeclareProcedure {
++EaterDeclareProcedure(StringLocated) : EaterDeclareProcedure [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#13]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#19]]]
+-peekUnquoted() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#39]]]
+-peekFinal() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#43]]]
++getFunction() : TFunctionImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#47]]]
++getFinalFlag() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#51]]]
+} 
+@enduml

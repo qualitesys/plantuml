@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"SourceFileReaderAbstractISourceFileReader" <|-- "net.sourceforge.plantuml.SourceFileReader"
+class net.sourceforge.plantuml.SourceFileReader {
++SourceFileReader(File) : SourceFileReader [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReader.java.html#19]]]
++SourceFileReader(File;File;String) : SourceFileReader [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReader.java.html#23]]]
++SourceFileReader(File;File) : SourceFileReader [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReader.java.html#28]]]
++SourceFileReader(File;File;FileFormatOption) : SourceFileReader [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReader.java.html#33]]]
++SourceFileReader(Defines;File;File;List<String>;String;FileFormatOption) : SourceFileReader [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReader.java.html#39]]]
+-getDirIfDirectory(String) : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReader.java.html#55]]]
+getSuggestedFile(BlockUml) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReader.java.html#103]]]
+} 
+@enduml

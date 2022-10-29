@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Tile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.CommonTile"
+class net.sourceforge.plantuml.sequencediagram.teoz.CommonTile {
++CommonTile(StringBounder) : CommonTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommonTile.java.html#12]]]
++callbackY(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommonTile.java.html#16]]]
+callbackY_internal(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommonTile.java.html#24]]]
+getStringBounder() : StringBounder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommonTile.java.html#30]]]
++getMiddleX() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommonTile.java.html#34]]]
++getTimeHook() : TimeHook [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommonTile.java.html#40]]]
+} 
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfAndStop"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfAndStop {
+-FtileIfAndStop(Ftile;Ftile;Rainbow;Ftile) : FtileIfAndStop [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#55]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#65]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#74]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#78]]]
+create(Swimlane;HColor;HColor;Rainbow;FtileFactory;ConditionStyle;Branch;ISkinParam;StringBounder;Display) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#82]]]
+-getTranslate1(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#116]]]
+-getSuppHeight() : int [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#127]]]
+-getTranslateDiamond1(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#131]]]
+-getTranslateStop(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#139]]]
+-getDiamondStopDistance() : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#148]]]
++getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#188]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#196]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfAndStop.java.html#205]]]
+} 
+@enduml

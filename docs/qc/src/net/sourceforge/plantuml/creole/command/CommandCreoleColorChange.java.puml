@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Command" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleColorChange"
+class net.sourceforge.plantuml.creole.command.CommandCreoleColorChange {
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorChange.java.html#18]]]
++create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorChange.java.html#28]]]
++createEol() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorChange.java.html#32]]]
+-CommandCreoleColorChange(Pattern2) : CommandCreoleColorChange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorChange.java.html#36]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorChange.java.html#40]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorChange.java.html#48]]]
+} 
+@enduml

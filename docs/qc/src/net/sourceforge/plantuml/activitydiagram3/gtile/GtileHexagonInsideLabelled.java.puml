@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"GtileWithMargin" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInsideLabelled"
+class net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInsideLabelled {
++GtileHexagonInsideLabelled(GtileHexagonInside;TextBlock;TextBlock;TextBlock) : GtileHexagonInsideLabelled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#17]]]
++withSouthLabel(TextBlock) : GtileHexagonInsideLabelled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#25]]]
++withEastLabel(TextBlock) : GtileHexagonInsideLabelled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#29]]]
++withWestLabel(TextBlock) : GtileHexagonInsideLabelled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#33]]]
+-getNorthMargin(GtileHexagonInside;TextBlock;TextBlock) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#37]]]
+-getSouthMargin(GtileHexagonInside;TextBlock) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#45]]]
+drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#51]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#68]]]
+} 
+@enduml

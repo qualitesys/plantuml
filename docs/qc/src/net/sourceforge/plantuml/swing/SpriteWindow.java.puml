@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"JFrame" <|-- "net.sourceforge.plantuml.swing.SpriteWindow"
+class net.sourceforge.plantuml.swing.SpriteWindow {
++SpriteWindow() : SpriteWindow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#31]]]
+-startTimer() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#54]]]
+-tick() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#66]]]
+-encode() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#74]]]
+-encodeColor(BufferedImage;StringBuilder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#90]]]
+-encodeCompressed(BufferedImage;SpriteGrayLevel;StringBuilder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#96]]]
+-encode(BufferedImage;SpriteGrayLevel;StringBuilder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#102]]]
+-printData(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#109]]]
++getClipboard() : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#116]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SpriteWindow.java.html#133]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"Trie" <|-- "net.sourceforge.plantuml.tim.TrieImpl"
+class net.sourceforge.plantuml.tim.TrieImpl {
++add(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TrieImpl.java.html#11]]]
+-addInternal(TrieImpl;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TrieImpl.java.html#18]]]
++remove(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TrieImpl.java.html#30]]]
+-removeInternal(TrieImpl;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TrieImpl.java.html#34]]]
+-getOrCreate(Character) : TrieImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TrieImpl.java.html#54]]]
++getLonguestMatchStartingIn(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TrieImpl.java.html#63]]]
+-getLonguestMatchStartingIn(TrieImpl;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TrieImpl.java.html#67]]]
+} 
+@enduml

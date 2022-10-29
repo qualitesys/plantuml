@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Eater" <|-- "net.sourceforge.plantuml.tim.EaterLog"
+class net.sourceforge.plantuml.tim.EaterLog {
++EaterLog(StringLocated) : EaterLog [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterLog.java.html#9]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterLog.java.html#14]]]
+} 
+@enduml

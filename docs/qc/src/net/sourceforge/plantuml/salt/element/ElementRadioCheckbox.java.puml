@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.ElementRadioCheckbox"
+class net.sourceforge.plantuml.salt.element.ElementRadioCheckbox {
++ElementRadioCheckbox(List<String>;UFont;boolean;boolean;ISkinSimple) : ElementRadioCheckbox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.html#33]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.html#41]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.html#46]]]
+-drawOther(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.html#64]]]
+-drawRadio(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.html#78]]]
+} 
+@enduml

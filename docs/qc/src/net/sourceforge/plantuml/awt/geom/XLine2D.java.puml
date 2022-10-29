@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"XShape" <|-- "net.sourceforge.plantuml.awt.geom.XLine2D"
+class net.sourceforge.plantuml.awt.geom.XLine2D {
++XLine2D() : XLine2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#12]]]
++XLine2D(double;double;double;double) : XLine2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#16]]]
++getMiddle() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#24]]]
++XLine2D(XPoint2D;XPoint2D) : XLine2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#30]]]
++getX1() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#34]]]
++getY1() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#38]]]
++getX2() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#42]]]
++getY2() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#46]]]
++getP1() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#50]]]
++getP2() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#54]]]
++withPoint1(XPoint2D) : XLine2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#58]]]
++withPoint2(XPoint2D) : XLine2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#62]]]
++ptSegDistSq(double;double;double;double;double;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#67]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.gitlog.GNodeBuilder"
+class net.sourceforge.plantuml.gitlog.GNodeBuilder {
++GNodeBuilder(List<Commit>) : GNodeBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#16]]]
+-merge() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#38]]]
++getAllNodes() : Collection<GNode> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#56]]]
+} 
+@enduml

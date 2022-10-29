@@ -1,0 +1,24 @@
+@startuml
+!pragma layout smetana
+"AbstractTaskDraw" <|-- "net.sourceforge.plantuml.project.draw.TaskDrawRegular"
+class net.sourceforge.plantuml.project.draw.TaskDrawRegular {
++TaskDrawRegular(TimeScale;Real;String;Day;Day;boolean;boolean;ISkinParam;Task;ToTaskDraw;Collection<GanttConstraint>;StyleBuilder) : TaskDrawRegular [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#52]]]
+getShapeHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#71]]]
++drawTitle(UGraphic;LabelStrategy;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#78]]]
+getTitle() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#111]]]
+-getOutPosition(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#116]]]
+-isThereRightArrow() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#123]]]
+getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#132]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#136]]]
+-getYNotePosition(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#144]]]
+-drawNote(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#150]]]
++getHeightMax(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#159]]]
+-getOpaleNote() : Opale [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#166]]]
++getFingerPrint(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#184]]]
++getFingerPrintNote(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#191]]]
+-applyColors(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#202]]]
++getX1(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#210]]]
++getX2(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#218]]]
+-drawShape(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#226]]]
+} 
+@enduml

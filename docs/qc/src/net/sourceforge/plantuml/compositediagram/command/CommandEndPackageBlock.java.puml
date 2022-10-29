@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<CompositeDiagram>" <|-- "net.sourceforge.plantuml.compositediagram.command.CommandEndPackageBlock"
+class net.sourceforge.plantuml.compositediagram.command.CommandEndPackageBlock {
++CommandEndPackageBlock() : CommandEndPackageBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/command/CommandEndPackageBlock.java.html#16]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/command/CommandEndPackageBlock.java.html#20]]]
+executeArg(CompositeDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/command/CommandEndPackageBlock.java.html#27]]]
+} 
+@enduml

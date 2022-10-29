@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"UDriver<UImage,SvgGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.svg.DriverImagePng"
+class net.sourceforge.plantuml.ugraphic.svg.DriverImagePng {
++DriverImagePng(ClipContainer) : DriverImagePng [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#19]]]
++draw(UImage;double;double;ColorMapper;UParam;SvgGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#23]]]
+} 
+@enduml

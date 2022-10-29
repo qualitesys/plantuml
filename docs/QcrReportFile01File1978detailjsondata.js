@@ -1,0 +1,140 @@
+console.log('leListeStr main01 start json de data maDataBlocs');
+var maDataBlocs = {
+"data00" : {
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.xml" 
+ , "fic3"  : "" 
+}
+, 
+"data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "GroupingGraphicalElement"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail"
+}} 
+]
+, 
+"data02" : [
+{ "classe" : 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#11"
+ , "c1" : "GroupingGraphicalElementTail"
+ , "c2" : "GroupingGraphicalElementTail(double;InGroupableList;boolean)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#17"
+ , "c1" : "void"
+ , "c2" : "drawInternalU(UGraphic;double;Context2D)"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#21"
+ , "c1" : "double"
+ , "c2" : "getPreferredHeight(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#26"
+ , "c1" : "double"
+ , "c2" : "getPreferredWidth(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+] 
+}} 
+]
+, 
+"data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.svg" }
+
+] 
+, 
+"data04" : [
+]
+, 
+"data05" : [
+]
+, 
+"data06" : [
+]
+, 
+"data07" : [
+]
+, 
+"data08" : [
+]
+, 
+"data11" : [
+]
+, 
+"data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "3"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#17"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00017] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#21"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00021] For method getPreferredHeight arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#22"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail.getPreferredHeight@POLYN147562 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#26"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00026] For method getPreferredWidth arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail.getPreferredWidth@POLYN147686 the MagicNumber/String  0 should be converted to const"
+}} 
+]
+};
+console.log('leListeStr 99 main end');

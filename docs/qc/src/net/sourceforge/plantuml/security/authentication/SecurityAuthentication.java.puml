@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"SecurityCredentialsContainer" <|-- "net.sourceforge.plantuml.security.authentication.SecurityAuthentication"
+class net.sourceforge.plantuml.security.authentication.SecurityAuthentication {
++SecurityAuthentication(String;Map<String,Object>) : SecurityAuthentication [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#22]]]
++SecurityAuthentication(String;String;String;Map<String,Object>) : SecurityAuthentication [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#26]]]
++getType() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#33]]]
++getShape() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#37]]]
++getGrantType() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#41]]]
++isPublic() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#46]]]
++getTokens() : Map<String,Object> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#50]]]
++eraseCredentials() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#55]]]
+} 
+@enduml

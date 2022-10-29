@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.golem.MinMaxDouble"
+class net.sourceforge.plantuml.golem.MinMaxDouble {
++manage(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxDouble.java.html#11]]]
++getMinX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxDouble.java.html#26]]]
++getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxDouble.java.html#30]]]
++getMaxX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxDouble.java.html#34]]]
++getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxDouble.java.html#38]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxDouble.java.html#42]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxDouble.java.html#46]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.salt.Terminated"
+class net.sourceforge.plantuml.salt.Terminated {
++Terminated(O;Terminator) : Terminated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Terminated.java.html#11]]]
++getElement() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Terminated.java.html#16]]]
++getTerminator() : Terminator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Terminated.java.html#20]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Terminated.java.html#24]]]
+} 
+@enduml

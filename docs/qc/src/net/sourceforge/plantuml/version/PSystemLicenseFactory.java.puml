@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"PSystemSingleLineFactory" <|-- "net.sourceforge.plantuml.version.PSystemLicenseFactory"
+class net.sourceforge.plantuml.version.PSystemLicenseFactory {
+executeLine(UmlSource;String) : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.html#14]]]
+} 
+@enduml

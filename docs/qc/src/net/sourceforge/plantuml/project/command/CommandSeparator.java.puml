@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandSeparator"
+class net.sourceforge.plantuml.project.command.CommandSeparator {
++CommandSeparator() : CommandSeparator [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandSeparator.java.html#15]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandSeparator.java.html#19]]]
+executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandSeparator.java.html#27]]]
+} 
+@enduml

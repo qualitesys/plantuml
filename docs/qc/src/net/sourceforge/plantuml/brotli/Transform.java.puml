@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.brotli.Transform"
+class net.sourceforge.plantuml.brotli.Transform {
+-unpackTransforms(byte[];int[];int[];String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110]]]
+transformDictionaryWord(byte[];int;ByteBuffer;int;int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110]]]
+} 
+@enduml

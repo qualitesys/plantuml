@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Histogram" <|-- "net.sourceforge.plantuml.project.core3.HistogramSimple"
+class net.sourceforge.plantuml.project.core3.HistogramSimple {
++getNext(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/HistogramSimple.java.html#12]]]
++getPrevious(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/HistogramSimple.java.html#21]]]
++put(long;long) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/HistogramSimple.java.html#32]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/HistogramSimple.java.html#37]]]
++getValueAt(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/HistogramSimple.java.html#41]]]
+} 
+@enduml

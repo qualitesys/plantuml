@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandPragma"
+class net.sourceforge.plantuml.command.CommandPragma {
++CommandPragma() : CommandPragma [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPragma.java.html#18]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPragma.java.html#22]]]
+executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPragma.java.html#35]]]
+} 
+@enduml

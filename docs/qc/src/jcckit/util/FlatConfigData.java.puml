@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"ConfigData" <|-- "jcckit.util.FlatConfigData"
+class jcckit.util.FlatConfigData {
++FlatConfigData(String) : FlatConfigData [[[./../../../.././qc/src/jcckit/util/FlatConfigData.java.html#9]]]
++getFullKey(String) : String [[[./../../../.././qc/src/jcckit/util/FlatConfigData.java.html#14]]]
++get(String) : String [[[./../../../.././qc/src/jcckit/util/FlatConfigData.java.html#19]]]
+-get(String;String;int) : String [[[./../../../.././qc/src/jcckit/util/FlatConfigData.java.html#24]]]
++getNode(String) : ConfigData [[[./../../../.././qc/src/jcckit/util/FlatConfigData.java.html#52]]]
+getValue(String) : String [[[./../../../.././qc/src/jcckit/util/FlatConfigData.java.html#58]]]
+createConfigData(String) : ConfigData [[[./../../../.././qc/src/jcckit/util/FlatConfigData.java.html#61]]]
+} 
+@enduml

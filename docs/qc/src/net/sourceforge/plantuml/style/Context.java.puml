@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.style.Context"
+class net.sourceforge.plantuml.style.Context {
++push(String) : Context [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#15]]]
++pop() : Context [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#22]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#31]]]
++size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#35]]]
++toSignatures() : Collection<StyleSignatureBasic> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#39]]]
+} 
+@enduml

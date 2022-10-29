@@ -1,0 +1,30 @@
+@startuml
+!pragma layout smetana
+"UmlDiagram" <|-- "net.sourceforge.plantuml.nwdiag.NwDiagram"
+class net.sourceforge.plantuml.nwdiag.NwDiagram {
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#62]]]
++NwDiagram(UmlSource) : NwDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#66]]]
++init() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#70]]]
+-lastNetwork() : Network [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#74]]]
++openGroup(String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#83]]]
++openNetwork(String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#98]]]
++closeSomething() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#110]]]
+-createNetwork(String) : Network [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#120]]]
++link(String;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#126]]]
++addElement(String;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#149]]]
+-alreadyInSomeGroup(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#185]]]
+-errorNoInit() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#193]]]
+-toSet(String) : Map<String,String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#197]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#214]]]
+-getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#220]]]
+-getStyleDefinitionNetwork(SName) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#245]]]
+-toTextBlockForNetworkName(String;String) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#249]]]
+-getTotalDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#260]]]
+-drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#270]]]
+-getLinks(NServer) : Map<Network,String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#310]]]
+-buildGrid(StringBounder) : GridTextBlockDecorated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#321]]]
+-getGroupOf(NServer) : NwGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#350]]]
++setProperty(String;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#358]]]
++getDefaultMargins() : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#387]]]
+} 
+@enduml

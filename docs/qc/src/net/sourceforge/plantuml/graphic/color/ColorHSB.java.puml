@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Color" <|-- "net.sourceforge.plantuml.graphic.color.ColorHSB"
+class net.sourceforge.plantuml.graphic.color.ColorHSB {
++ColorHSB(int) : ColorHSB [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorHSB.java.html#12]]]
++ColorHSB(Color) : ColorHSB [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorHSB.java.html#20]]]
++getHue() : float [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorHSB.java.html#24]]]
++getSaturation() : float [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorHSB.java.html#28]]]
++getBrightness() : float [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorHSB.java.html#32]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/graphic/color/ColorHSB.java.html#37]]]
+} 
+@enduml

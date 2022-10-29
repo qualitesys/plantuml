@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.dotgen.flat__c"
+class gen.lib.dotgen.flat__c {
++make_vn_slot(ST_Agraph_s;int;int) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/flat__c.java.html#74]]]
++findlr(ST_Agnode_s;ST_Agnode_s;int[];int[]) : void [[[./../../../../.././qc/src/gen/lib/dotgen/flat__c.java.html#105]]]
++setbounds(ST_Agnode_s;int[];int[];int[]) : void [[[./../../../../.././qc/src/gen/lib/dotgen/flat__c.java.html#130]]]
++flat_limits(ST_Agraph_s;ST_Agedge_s) : int [[[./../../../../.././qc/src/gen/lib/dotgen/flat__c.java.html#189]]]
++flat_node(ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/flat__c.java.html#233]]]
++abomination(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/flat__c.java.html#295]]]
++checkFlatAdjacent(ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/flat__c.java.html#331]]]
++flat_edges(ST_Agraph_s) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/flat__c.java.html#373]]]
+} 
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.Path"
+class net.sourceforge.plantuml.posimo.Path {
++Path(Block;Block;Label) : Path [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#15]]]
++Path(Block;Block;Label;int;boolean) : Path [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#19]]]
++getLabel() : Label [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#30]]]
++getStart() : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#34]]]
++getEnd() : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#38]]]
++setLabelPositionCenter(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#42]]]
++setLabelPosition(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#47]]]
++setDotPath(DotPath) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#52]]]
++getDotPath() : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#57]]]
++getLength() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#61]]]
++isInvis() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Path.java.html#65]]]
+} 
+@enduml

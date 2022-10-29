@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"MonoSwimableInstruction" <|-- "net.sourceforge.plantuml.activitydiagram3.InstructionBreak"
+class net.sourceforge.plantuml.activitydiagram3.InstructionBreak {
++InstructionBreak(Swimlane;LinkRendering) : InstructionBreak [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionBreak.java.html#20]]]
++createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionBreak.java.html#26]]]
++createGtile(ISkinParam;StringBounder) : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionBreak.java.html#31]]]
++add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionBreak.java.html#36]]]
++kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionBreak.java.html#41]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionBreak.java.html#45]]]
++containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionBreak.java.html#49]]]
+} 
+@enduml

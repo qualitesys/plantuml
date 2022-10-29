@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter"
+class net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter {
+PageSplitter(double;double;Map<Newpage,Double>;double;double;double;Display) : PageSplitter [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#23]]]
++getPages() : List<Page> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#41]]]
+-lastPage() : Page [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#57]]]
+-firstPage() : Page [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#64]]]
+-onePage() : Page [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#70]]]
+-createPage(int) : Page [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#76]]]
+} 
+@enduml

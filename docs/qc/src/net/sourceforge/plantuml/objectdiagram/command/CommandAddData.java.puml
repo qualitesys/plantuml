@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<AbstractClassOrObjectDiagram>" <|-- "net.sourceforge.plantuml.objectdiagram.command.CommandAddData"
+class net.sourceforge.plantuml.objectdiagram.command.CommandAddData {
++CommandAddData() : CommandAddData [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandAddData.java.html#18]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandAddData.java.html#22]]]
+executeArg(AbstractClassOrObjectDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandAddData.java.html#32]]]
+} 
+@enduml

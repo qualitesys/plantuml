@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"SecurityAuthorizeManager" <|-- "net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager"
+class net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager {
++create(SecurityCredentials) : SecurityAuthentication [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#14]]]
+} 
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"CommandMultilines2<ClassDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandCreateClassMultilines"
+class net.sourceforge.plantuml.classdiagram.command.CommandCreateClassMultilines {
++CommandCreateClassMultilines() : CommandCreateClassMultilines [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html#51]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html#56]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html#60]]]
++syntaxWithFinalBracket() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html#108]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html#112]]]
+executeNow(ClassDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html#117]]]
++addTags(IEntity;String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html#156]]]
++manageExtends(String;ClassDiagram;RegexResult;IEntity) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html#167]]]
+-executeArg0(ClassDiagram;RegexResult) : IEntity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html#196]]]
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.FileMaker"
+class net.sourceforge.plantuml.sequencediagram.graphic.FileMaker {
+createOne(OutputStream;int;boolean) : ImageData [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java.html#11]]]
++getNbPages() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java.html#13]]]
+} 
+@enduml

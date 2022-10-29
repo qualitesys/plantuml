@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sudoku.dlx_solver"
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sudoku.dlx_generator"
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sudoku.DLXEngine"
+class net.sourceforge.plantuml.sudoku.DLXEngine {
+MWC() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#15]]]
+solve(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#51]]]
+shuffle() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#442]]]
++dlx_solver(Random) : dlx_solver [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#532]]]
+MWC() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#539]]]
+dbg(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#574]]]
++dlx_generator(Random) : dlx_generator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#581]]]
+initialize() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#587]]]
++rate(String) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#663]]]
++generate(int;int) : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#750]]]
+solve() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#882]]]
++DLXEngine(Random) : DLXEngine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#1069]]]
+generate(int;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#1074]]]
+rate(String) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#1106]]]
+solve(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#1110]]]
+} 
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"AbstractTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteLeft"
+class net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteLeft {
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#30]]]
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#35]]]
++CommunicationTileNoteLeft(Tile;AbstractMessage;Rose;ISkinParam;LivingSpace;Note;YGauge) : CommunicationTileNoteLeft [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#39]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#52]]]
+callbackY_internal(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#57]]]
+-getComponent(StringBounder) : Component [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#62]]]
+-getNotePosition(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#69]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#75]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#86]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#92]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#96]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteLeft.java.html#100]]]
+} 
+@enduml

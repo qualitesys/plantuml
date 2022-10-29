@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.Dedication"
+class net.sourceforge.plantuml.dedication.Dedication {
++getImage(TinyHashableString) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedication.java.html#15]]]
+} 
+@enduml

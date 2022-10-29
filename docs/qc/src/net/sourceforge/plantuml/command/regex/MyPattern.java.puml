@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"LinkedHashMap<K,V>" <|-- "net.sourceforge.plantuml.command.regex.MaxSizeHashMap"
+"java.lang.Object" <|-- "net.sourceforge.plantuml.command.regex.MyPattern"
+class net.sourceforge.plantuml.command.regex.MyPattern {
++MaxSizeHashMap(int) : MaxSizeHashMap [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#11]]]
+removeEldestEntry(Map.Entry<K,V>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#16]]]
++cmpile(String) : Pattern2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#31]]]
+-transform(String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#55]]]
++mtches(CharSequence;String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#64]]]
++removeAll(CharSequence;String) : CharSequence [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#68]]]
+} 
+@enduml

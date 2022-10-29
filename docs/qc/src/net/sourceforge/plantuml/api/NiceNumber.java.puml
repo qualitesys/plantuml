@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.api.NiceNumber"
+class net.sourceforge.plantuml.api.NiceNumber {
++getNicer(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NiceNumber.java.html#10]]]
++format(long) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NiceNumber.java.html#29]]]
+} 
+@enduml

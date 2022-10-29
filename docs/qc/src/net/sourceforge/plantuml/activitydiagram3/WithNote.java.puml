@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractInstruction" <|-- "net.sourceforge.plantuml.activitydiagram3.WithNote"
+class net.sourceforge.plantuml.activitydiagram3.WithNote {
++addNote(Display;NotePosition;NoteType;Colors;Swimlane) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#21]]]
+eventuallyAddNote(FtileFactory;Ftile;Swimlane;VerticalAlignment) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#26]]]
++getPositionedNotes() : Collection<PositionedNote> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#34]]]
++hasNotes() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#38]]]
+} 
+@enduml

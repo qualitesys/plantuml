@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"PSystemAbstractFactory" <|-- "net.sourceforge.plantuml.gitlog.GitDiagramFactory"
+class net.sourceforge.plantuml.gitlog.GitDiagramFactory {
++GitDiagramFactory() : GitDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitDiagramFactory.java.html#15]]]
++createSystem(UmlSource;Map<String,String>) : Diagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitDiagramFactory.java.html#20]]]
+} 
+@enduml

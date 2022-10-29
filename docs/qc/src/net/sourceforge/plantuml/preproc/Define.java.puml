@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.Define"
+class net.sourceforge.plantuml.preproc.Define {
++Define(String;List<String>;boolean;AParentFolder) : Define [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Define.java.html#22]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Define.java.html#44]]]
++apply(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Define.java.html#48]]]
+-apply2(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Define.java.html#69]]]
+-apply1(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Define.java.html#81]]]
++getFunctionName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Define.java.html#88]]]
++asTVariable() : TValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Define.java.html#92]]]
+} 
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.core.ImageData"
+class net.sourceforge.plantuml.core.ImageData {
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#10]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#13]]]
++containsCMapData() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#16]]]
++getCMapData(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#19]]]
++getWarningOrError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#21]]]
++getStatus() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#23]]]
+} 
+@enduml

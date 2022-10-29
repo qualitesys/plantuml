@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Something" <|-- "net.sourceforge.plantuml.project.lang.ComplementInColors2"
+class net.sourceforge.plantuml.project.lang.ComplementInColors2 {
++toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors2.java.html#13]]]
++getMe(GanttDiagram;RegexResult;String) : Failable<CenterBorderColor> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors2.java.html#17]]]
+} 
+@enduml

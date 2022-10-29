@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"AbstractGtileRoot" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileGroup"
+class net.sourceforge.plantuml.activitydiagram3.gtile.GtileGroup {
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#46]]]
+-suppWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#50]]]
++GtileGroup(Gtile;Display;Display;HColor;HColor;ISkinParam;USymbol;Style) : GtileGroup [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#59]]]
++getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#85]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#90]]]
++getSwimlane(String) : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#95]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#100]]]
+-suppHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#105]]]
+-getTranslate() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#110]]]
+getCoordImpl(String) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#115]]]
+drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.html#120]]]
+} 
+@enduml

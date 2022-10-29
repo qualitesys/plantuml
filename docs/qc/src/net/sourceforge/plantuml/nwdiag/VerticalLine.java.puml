@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"UDrawable" <|-- "net.sourceforge.plantuml.nwdiag.VerticalLine"
+class net.sourceforge.plantuml.nwdiag.VerticalLine {
++VerticalLine(double;double;Set<Double>) : VerticalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#17]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#23]]]
+} 
+@enduml

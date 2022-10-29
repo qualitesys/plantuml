@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Hint" <|-- "jcckit.plot.PositionHint"
+class jcckit.plot.PositionHint {
++PositionHint(ConfigParameters) : PositionHint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#16]]]
++PositionHint(GraphPoint;GraphPoint) : PositionHint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#23]]]
++getPosition() : GraphPoint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#29]]]
++getOrigin() : GraphPoint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#34]]]
+} 
+@enduml

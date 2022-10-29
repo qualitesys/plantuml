@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.AParentFolder"
+class net.sourceforge.plantuml.AParentFolder {
++getAFile(String) : AFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolder.java.html#8]]]
+} 
+@enduml

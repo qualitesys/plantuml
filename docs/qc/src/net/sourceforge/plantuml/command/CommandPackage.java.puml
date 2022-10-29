@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.command.CommandPackage"
+class net.sourceforge.plantuml.command.CommandPackage {
++CommandPackage() : CommandPackage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackage.java.html#34]]]
+-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackage.java.html#38]]]
++syntaxWithFinalBracket() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackage.java.html#64]]]
+-color() : ColorParser [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackage.java.html#68]]]
+executeArg(AbstractEntityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackage.java.html#73]]]
+} 
+@enduml

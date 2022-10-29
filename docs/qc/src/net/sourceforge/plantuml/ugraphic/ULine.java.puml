@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"AbstractShadowableUShapeSized" <|-- "net.sourceforge.plantuml.ugraphic.ULine"
+class net.sourceforge.plantuml.ugraphic.ULine {
++ULine(XPoint2D;XPoint2D) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#13]]]
++ULine(double;double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#17]]]
++rotate(double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#22]]]
++hline(double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#30]]]
++vline(double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#34]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#39]]]
++getDX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#43]]]
++getDY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#47]]]
++getLength() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#51]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#55]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#59]]]
+} 
+@enduml

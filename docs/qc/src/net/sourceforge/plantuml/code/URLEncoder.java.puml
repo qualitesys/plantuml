@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.code.URLEncoder"
+class net.sourceforge.plantuml.code.URLEncoder {
+encode(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/URLEncoder.java.html#6]]]
+decode(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/URLEncoder.java.html#8]]]
+} 
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"Comparable<SimpleLine>" <|-- "net.sourceforge.plantuml.swing.SimpleLine"
+class net.sourceforge.plantuml.swing.SimpleLine {
++fromFuture(File;Future<List<GeneratedImage>>) : SimpleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#16]]]
++fromGeneratedImage(File;GeneratedImage) : SimpleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#20]]]
+-SimpleLine(File;GeneratedImage;Future<List<GeneratedImage>>) : SimpleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#24]]]
++getFile() : File [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#30]]]
++pendingAndFinished() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#34]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#39]]]
++getFuture() : Future<List<GeneratedImage>> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#49]]]
++compareTo(SimpleLine) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#53]]]
++getGeneratedImage() : GeneratedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#57]]]
+} 
+@enduml

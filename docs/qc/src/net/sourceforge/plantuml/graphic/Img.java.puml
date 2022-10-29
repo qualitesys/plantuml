@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"HtmlCommand" <|-- "net.sourceforge.plantuml.graphic.Img"
+class net.sourceforge.plantuml.graphic.Img {
+-Img(TextBlock) : Img [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Img.java.html#27]]]
+getVspace(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Img.java.html#31]]]
+getValign(String) : ImgValign [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Img.java.html#39]]]
+getInstance(String;boolean) : HtmlCommand [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Img.java.html#47]]]
+-build(Matcher2;ImgValign;int) : HtmlCommand [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Img.java.html#58]]]
++createMonoImage() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Img.java.html#98]]]
+} 
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockIEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageNoteLink"
+class net.sourceforge.plantuml.svek.image.EntityImageNoteLink {
++EntityImageNoteLink(Display;Colors;ISkinParam;StyleBuilder) : EntityImageNoteLink [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageNoteLink.java.html#27]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageNoteLink.java.html#34]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageNoteLink.java.html#40]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageNoteLink.java.html#44]]]
++getBackcolor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageNoteLink.java.html#48]]]
++getShield(StringBounder) : Margins [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageNoteLink.java.html#52]]]
++isHidden() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageNoteLink.java.html#56]]]
++getOverscanX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageNoteLink.java.html#60]]]
+} 
+@enduml

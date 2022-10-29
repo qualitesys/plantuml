@@ -1,0 +1,38 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.pathplan.route__c"
+class gen.lib.pathplan.route__c {
++Proutespline(CArray<ST_Pedge_t>;int;ST_Ppoly_t;CArray<ST_pointf>;ST_Ppoly_t) : int [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#215]]]
+-Proutespline_w_(CArray<ST_Pedge_t>;int;ST_Ppoly_t;CArray<ST_pointf>;ST_Ppoly_t) : int [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#634]]]
++reallyroutespline(CArray<ST_Pedge_t>;int;CArray<ST_pointf>;int;ST_pointf;ST_pointf) : int [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#748]]]
+-reallyroutespline_w_(CArray<ST_Pedge_t>;int;CArray<ST_pointf>;int;ST_pointf;ST_pointf) : int [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#748]]]
++mkspline(CArray<ST_pointf>;int;CArray<ST_tna_t>;ST_pointf;ST_pointf;ST_pointf;ST_pointf;ST_pointf;ST_pointf) : int [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
+-mkspline_w_(CArray<ST_pointf>;int;CArray<ST_tna_t>;ST_pointf;ST_pointf;ST_pointf;ST_pointf;ST_pointf;ST_pointf) : int [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++dist_n(CArray<ST_pointf>;int) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++splinefits(CArray<ST_Pedge_t>;int;ST_pointf;ST_pointf;ST_pointf;ST_pointf;CArray<ST_pointf>;int) : int [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
+-splinefits_w_(CArray<ST_Pedge_t>;int;ST_pointf;ST_pointf;ST_pointf;ST_pointf;CArray<ST_pointf>;int) : int [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++splineisinside(CArray<ST_Pedge_t>;int;CArray<ST_pointf>) : boolean [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++splineintersectsline(CArray<ST_pointf>;CArray<ST_pointf>;double[]) : int [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++points2coeff(double;double;double;double;double[]) : void [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++addroot(double;double[];int[]) : void [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++normv(ST_pointf) : ST_pointf [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
+-normv_w_(ST_pointf) : ST_pointf [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++growops(int) : void [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++add(ST_pointf;ST_pointf) : ST_pointf [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
+-add_w_(ST_pointf;ST_pointf) : ST_pointf [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++sub(ST_pointf;ST_pointf) : ST_pointf [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
+-sub_w_(ST_pointf;ST_pointf) : ST_pointf [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++dist(ST_pointf;ST_pointf) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
+-dist_w_(ST_pointf;ST_pointf) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++scale(ST_pointf;double) : ST_pointf [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
+-scale_w_(ST_pointf;double) : ST_pointf [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++dot(ST_pointf;ST_pointf) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
+-dot_w_(ST_pointf;ST_pointf) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++B0(double) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++B1(double) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++B2(double) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++B3(double) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++B01(double) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
++B23(double) : double [[[./../../../../.././qc/src/gen/lib/pathplan/route__c.java.html#1]]]
+} 
+@enduml

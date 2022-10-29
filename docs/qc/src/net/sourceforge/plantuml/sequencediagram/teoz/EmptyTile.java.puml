@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractTileTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.EmptyTile"
+class net.sourceforge.plantuml.sequencediagram.teoz.EmptyTile {
++EmptyTile(double;Tile;YGauge) : EmptyTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#16]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#26]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#30]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#34]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#38]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#41]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#45]]]
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#49]]]
+} 
+@enduml

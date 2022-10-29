@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.awt.FontMetrics"
+class net.sourceforge.plantuml.awt.FontMetrics {
++getStringBounds(String;Graphics2D) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/awt/FontMetrics.java.html#9]]]
+} 
+@enduml

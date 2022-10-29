@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"FontChange" <|-- "net.sourceforge.plantuml.graphic.ColorAndSizeChange"
+class net.sourceforge.plantuml.graphic.ColorAndSizeChange {
+ColorAndSizeChange(String) : ColorAndSizeChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ColorAndSizeChange.java.html#19]]]
+getColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ColorAndSizeChange.java.html#35]]]
+getSize() : Integer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ColorAndSizeChange.java.html#39]]]
++apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ColorAndSizeChange.java.html#43]]]
+} 
+@enduml

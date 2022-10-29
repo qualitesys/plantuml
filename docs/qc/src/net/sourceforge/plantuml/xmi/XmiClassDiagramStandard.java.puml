@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"XmiClassDiagramAbstractXmlDiagramTransformer" <|-- "net.sourceforge.plantuml.xmi.XmiClassDiagramStandard"
+class net.sourceforge.plantuml.xmi.XmiClassDiagramStandard {
++XmiClassDiagramStandard(ClassDiagram) : XmiClassDiagramStandard [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#13]]]
+} 
+@enduml

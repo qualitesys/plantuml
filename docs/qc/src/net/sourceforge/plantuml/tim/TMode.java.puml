@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.TMode"
+class net.sourceforge.plantuml.tim.TMode {
+} 
+@enduml

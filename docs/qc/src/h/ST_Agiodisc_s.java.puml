@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_Agiodisc_s"
+class h.ST_Agiodisc_s {
+} 
+@enduml

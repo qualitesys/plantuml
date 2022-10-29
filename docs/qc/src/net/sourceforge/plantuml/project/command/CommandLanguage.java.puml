@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandLanguage"
+class net.sourceforge.plantuml.project.command.CommandLanguage {
++CommandLanguage() : CommandLanguage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandLanguage.java.html#15]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandLanguage.java.html#19]]]
+executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandLanguage.java.html#28]]]
+} 
+@enduml

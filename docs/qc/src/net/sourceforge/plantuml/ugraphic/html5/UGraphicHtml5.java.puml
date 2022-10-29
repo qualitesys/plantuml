@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractUGraphic<Html5Drawer>ClipContainer" <|-- "net.sourceforge.plantuml.ugraphic.html5.UGraphicHtml5"
+class net.sourceforge.plantuml.ugraphic.html5.UGraphicHtml5 {
+copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#21]]]
++UGraphicHtml5(HColor;ColorMapper;StringBounder) : UGraphicHtml5 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#25]]]
++generateHtmlCode() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#43]]]
++writeToStream(OutputStream;String;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#48]]]
+} 
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.TimeHeaderParameters"
+class net.sourceforge.plantuml.project.TimeHeaderParameters {
++TimeHeaderParameters(Map<Day,HColor>;double;Day;Day;HColorSet;Style;Style;Locale;OpenClose;Map<DayOfWeek,HColor>;Set<Day>) : TimeHeaderParameters [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#28]]]
++getColor(Day) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#44]]]
++getColor(DayOfWeek) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#48]]]
++getScale() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#52]]]
++getMin() : Day [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#56]]]
++getMax() : Day [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#60]]]
++getColorSet() : HColorSet [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#64]]]
++getTimelineStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#68]]]
++getClosedStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#72]]]
++getLocale() : Locale [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#76]]]
++getLoadPlanable() : LoadPlanable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#80]]]
++getStartingDay() : Day [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#84]]]
++getVerticalSeparatorBefore() : Set<Day> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#88]]]
+} 
+@enduml

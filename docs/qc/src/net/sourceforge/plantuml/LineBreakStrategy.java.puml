@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.LineBreakStrategy"
+class net.sourceforge.plantuml.LineBreakStrategy {
++LineBreakStrategy(String) : LineBreakStrategy [[[./../../../../.././qc/src/net/sourceforge/plantuml/LineBreakStrategy.java.html#10]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/LineBreakStrategy.java.html#15]]]
++isAuto() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/LineBreakStrategy.java.html#19]]]
++getMaxWidth() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/LineBreakStrategy.java.html#23]]]
+} 
+@enduml

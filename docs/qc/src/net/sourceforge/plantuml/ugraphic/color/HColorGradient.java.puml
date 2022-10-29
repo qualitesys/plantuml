@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"HColor" <|-- "net.sourceforge.plantuml.ugraphic.color.HColorGradient"
+class net.sourceforge.plantuml.ugraphic.color.HColorGradient {
+HColorGradient(HColor;HColor;char) : HColorGradient [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorGradient.java.html#13]]]
++getColor1() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorGradient.java.html#25]]]
++getColor2() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorGradient.java.html#29]]]
++getColor(ColorMapper;double) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorGradient.java.html#33]]]
++getPolicy() : char [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorGradient.java.html#51]]]
++toColor(ColorMapper) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorGradient.java.html#56]]]
+} 
+@enduml

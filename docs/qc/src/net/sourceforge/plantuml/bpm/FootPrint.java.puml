@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.bpm.FootPrint"
+class net.sourceforge.plantuml.bpm.FootPrint {
+} 
+@enduml

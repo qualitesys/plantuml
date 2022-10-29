@@ -1,0 +1,53 @@
+console.log('leListeStr main01 start json de data maDataBlocs');
+var maDataBlocs = {
+"data00" : {
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gluon.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/gtile/Gluon.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gluon.java.xml" 
+ , "fic3"  : "" 
+}
+, 
+"data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.Gluon"
+}} 
+]
+, 
+"data02" : [
+{ "classe" : 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.Gluon" , "link" : "" , "methodes" : [ 
+] 
+}} 
+]
+, 
+"data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gluon.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gluon.java.svg" }
+
+] 
+, 
+"data04" : [
+]
+, 
+"data05" : [
+]
+, 
+"data06" : [
+]
+, 
+"data07" : [
+]
+, 
+"data08" : [
+]
+, 
+"data11" : [
+]
+, 
+"data14" : [
+]
+, 
+};
+console.log('leListeStr 99 main end');

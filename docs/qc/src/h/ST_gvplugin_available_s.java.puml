@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_gvplugin_available_s"
+class h.ST_gvplugin_available_s {
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.png.Metadata"
+class net.sourceforge.plantuml.png.Metadata {
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/Metadata.java.html#19]]]
++readAndDisplayMetadata(SFile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/Metadata.java.html#27]]]
+-displayMetadata(Node) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/Metadata.java.html#49]]]
+-indent(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/Metadata.java.html#53]]]
+-displayMetadata(Node;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/Metadata.java.html#59]]]
+} 
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImageStencil" <|-- "net.sourceforge.plantuml.svek.image.EntityImageObject"
+class net.sourceforge.plantuml.svek.image.EntityImageObject {
++EntityImageObject(ILeaf;ISkinParam;PortionShower) : EntityImageObject [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#59]]]
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#90]]]
+-getStyleHeader() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#95]]]
+-getUnderlinedName(ILeaf) : Display [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#100]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#109]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#121]]]
+-getLayout(StringBounder) : ULayoutGroup [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#176]]]
+-getMethodOrFieldHeight(XDimension2D) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#185]]]
+-getTitleDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#195]]]
+-getNameAndSteretypeDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#199]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#208]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#215]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#219]]]
++getPorts(StringBounder) : Ports [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#224]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.html#232]]]
+} 
+@enduml

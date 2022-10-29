@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"DriverShadowedG2dUDriver<UEllipse,Graphics2D>" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d"
+class net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d {
++DriverEllipseG2d(double;EnsureVisible) : DriverEllipseG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#24]]]
++draw(UEllipse;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29]]]
+round(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#71]]]
+} 
+@enduml

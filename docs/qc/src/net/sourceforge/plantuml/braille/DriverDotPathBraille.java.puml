@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UDriver<DotPath,BrailleGrid>" <|-- "net.sourceforge.plantuml.braille.DriverDotPathBraille"
+class net.sourceforge.plantuml.braille.DriverDotPathBraille {
++draw(DotPath;double;double;ColorMapper;UParam;BrailleGrid) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#11]]]
+} 
+@enduml

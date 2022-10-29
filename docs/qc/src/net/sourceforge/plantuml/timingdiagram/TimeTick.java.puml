@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Comparable<TimeTick>" <|-- "net.sourceforge.plantuml.timingdiagram.TimeTick"
+class net.sourceforge.plantuml.timingdiagram.TimeTick {
++TimeTick(BigDecimal;TimingFormat) : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#11]]]
++getTime() : BigDecimal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#16]]]
++compareTo(TimeTick) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#20]]]
++getFormat() : TimingFormat [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#24]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#29]]]
+} 
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.DirWatcher2"
+class net.sourceforge.plantuml.DirWatcher2 {
++DirWatcher2(File;Option;String) : DirWatcher2 [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher2.java.html#30]]]
++buildCreatedFiles() : Map<File,Future<List<GeneratedImage>>> [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher2.java.html#39]]]
+-fileToProcess(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher2.java.html#79]]]
++getDir() : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher2.java.html#83]]]
++cancel() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher2.java.html#87]]]
++waitEnd() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher2.java.html#91]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"USymbolSimpleAbstract" <|-- "net.sourceforge.plantuml.graphic.USymbolActor"
+class net.sourceforge.plantuml.graphic.USymbolActor {
++USymbolActor(ActorStyle) : USymbolActor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#11]]]
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#17]]]
+getDrawing(SymbolContext) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#22]]]
+} 
+@enduml

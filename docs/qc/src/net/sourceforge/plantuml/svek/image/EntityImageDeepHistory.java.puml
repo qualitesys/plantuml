@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"EntityImagePseudoState" <|-- "net.sourceforge.plantuml.svek.image.EntityImageDeepHistory"
+class net.sourceforge.plantuml.svek.image.EntityImageDeepHistory {
++EntityImageDeepHistory(ILeaf;ISkinParam;SName) : EntityImageDeepHistory [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDeepHistory.java.html#10]]]
+} 
+@enduml

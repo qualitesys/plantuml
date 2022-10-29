@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "smetana.core.OFFSET"
+class smetana.core.OFFSET {
++getSign() : int [[[./../../../.././qc/src/smetana/core/OFFSET.java.html#10]]]
++OFFSET(String) : OFFSET [[[./../../../.././qc/src/smetana/core/OFFSET.java.html#14]]]
+-OFFSET(int) : OFFSET [[[./../../../.././qc/src/smetana/core/OFFSET.java.html#19]]]
++toString() : String [[[./../../../.././qc/src/smetana/core/OFFSET.java.html#25]]]
++externalHolder() : OFFSET [[[./../../../.././qc/src/smetana/core/OFFSET.java.html#31]]]
++zero() : OFFSET [[[./../../../.././qc/src/smetana/core/OFFSET.java.html#35]]]
++negative() : OFFSET [[[./../../../.././qc/src/smetana/core/OFFSET.java.html#39]]]
++getField() : String [[[./../../../.././qc/src/smetana/core/OFFSET.java.html#44]]]
+} 
+@enduml

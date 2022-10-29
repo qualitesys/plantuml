@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.graphic.ClippingShape"
+class jcckit.graphic.ClippingShape {
++isInside(GraphPoint) : boolean [[[./../../../.././qc/src/jcckit/graphic/ClippingShape.java.html#7]]]
++getBoundingBox() : ClippingRectangle [[[./../../../.././qc/src/jcckit/graphic/ClippingShape.java.html#10]]]
++getGraphicalElement() : BasicGraphicalElement [[[./../../../.././qc/src/jcckit/graphic/ClippingShape.java.html#13]]]
+} 
+@enduml

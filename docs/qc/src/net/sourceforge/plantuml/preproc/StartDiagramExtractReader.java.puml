@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"ReadLine" <|-- "net.sourceforge.plantuml.preproc.StartDiagramExtractReader"
+class net.sourceforge.plantuml.preproc.StartDiagramExtractReader {
++build(FileWithSuffix;StringLocated;Charset) : StartDiagramExtractReader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#21]]]
++build(SURL;StringLocated;String;Charset) : StartDiagramExtractReader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#25]]]
++build(InputStream;StringLocated;String) : StartDiagramExtractReader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#29]]]
+-StartDiagramExtractReader(ReadLine;String) : StartDiagramExtractReader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#33]]]
+-checkUid(String;StringLocated) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#62]]]
+-getReadLine(FileWithSuffix;StringLocated;Charset) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#72]]]
+-getReadLine(InputStream;StringLocated;String) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#84]]]
+-getReadLine(SURL;StringLocated;Charset) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#88]]]
++containsStartDiagram(FileWithSuffix;StringLocated;Charset) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#96]]]
++containsStartDiagram(SURL;StringLocated;Charset) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#101]]]
++containsStartDiagram(InputStream;StringLocated;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#106]]]
+-containsStartDiagram(ReadLine) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#111]]]
++readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#127]]]
++close() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#139]]]
+} 
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockMarged"
+class net.sourceforge.plantuml.graphic.TextBlockMarged {
+TextBlockMarged(TextBlock;double;double;double;double) : TextBlockMarged [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#21]]]
+TextBlockMarged(TextBlock;ClockwiseTopRightBottomLeft) : TextBlockMarged [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#29]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#37]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#42]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#54]]]
++getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#64]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.syntax.SyntaxChecker"
+class net.sourceforge.plantuml.syntax.SyntaxChecker {
++checkSyntax(List<String>) : SyntaxResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#21]]]
++checkSyntax(String) : SyntaxResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#30]]]
++checkSyntaxFair(String) : SyntaxResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#75]]]
+-lastLineNumber(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#107]]]
+-lastLineNumber2(String) : LineLocation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#117]]]
+} 
+@enduml

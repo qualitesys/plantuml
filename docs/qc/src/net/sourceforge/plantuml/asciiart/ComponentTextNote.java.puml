@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractComponentText" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextNote"
+class net.sourceforge.plantuml.asciiart.ComponentTextNote {
++ComponentTextNote(ComponentType;Display;FileFormat) : ComponentTextNote [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#21]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#27]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#53]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#57]]]
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"FontChange" <|-- "net.sourceforge.plantuml.graphic.SvgAttributesChange"
+class net.sourceforge.plantuml.graphic.SvgAttributesChange {
+SvgAttributesChange(String) : SvgAttributesChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html#13]]]
++apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html#21]]]
+} 
+@enduml

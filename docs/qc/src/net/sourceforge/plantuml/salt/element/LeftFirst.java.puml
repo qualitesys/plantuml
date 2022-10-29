@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"Comparator<Cell>" <|-- "net.sourceforge.plantuml.salt.element.LeftFirst"
+class net.sourceforge.plantuml.salt.element.LeftFirst {
++compare(Cell;Cell) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/LeftFirst.java.html#10]]]
+} 
+@enduml

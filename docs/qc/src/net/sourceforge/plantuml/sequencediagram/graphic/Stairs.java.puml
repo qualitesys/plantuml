@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.Stairs"
+class net.sourceforge.plantuml.sequencediagram.graphic.Stairs {
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#17]]]
++addStep(double;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#28]]]
++getMaxValue() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#46]]]
++getYs() : List<Double> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#56]]]
+-getLastY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#60]]]
++getValue(double) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#67]]]
+-getValueSlow(double) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#76]]]
++getLastValue() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#88]]]
+} 
+@enduml

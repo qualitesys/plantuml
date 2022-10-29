@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.YGauge"
+class net.sourceforge.plantuml.sequencediagram.teoz.YGauge {
++YGauge(Real;Real) : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/YGauge.java.html#13]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/YGauge.java.html#19]]]
++create(Real;double) : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/YGauge.java.html#23]]]
++getMin() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/YGauge.java.html#29]]]
++getMax() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/YGauge.java.html#33]]]
+} 
+@enduml

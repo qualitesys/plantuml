@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.HideOrShow2"
+class net.sourceforge.plantuml.cucadiagram.HideOrShow2 {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#10]]]
+-isApplyable(ILeaf) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#14]]]
++isAboutUnlinked() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#29]]]
+-isApplyableUnlinked(ILeaf) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#33]]]
+-isApplyableStereotype(ILeaf;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#40]]]
+-isApplyableTag(ILeaf;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#52]]]
+-match(String;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#60]]]
++HideOrShow2(String;boolean) : HideOrShow2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#72]]]
++apply(boolean;ILeaf) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#77]]]
+} 
+@enduml

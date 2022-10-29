@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cgraph.rec__c"
+class gen.lib.cgraph.rec__c {
++set_data(ST_Agobj_s;ST_Agrec_s;int) : void [[[./../../../../.././qc/src/gen/lib/cgraph/rec__c.java.html#37]]]
++aggetrec(__ptr__;CString;boolean) : ST_Agrec_s [[[./../../../../.././qc/src/gen/lib/cgraph/rec__c.java.html#58]]]
+-objputrec(ST_Agraph_s;ST_Agobj_s;ST_Agrec_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/rec__c.java.html#94]]]
++agbindrec(__ptr__;CString;size_t;boolean) : __ptr__ [[[./../../../../.././qc/src/gen/lib/cgraph/rec__c.java.html#123]]]
+} 
+@enduml

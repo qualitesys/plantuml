@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.board.PostIt"
+class net.sourceforge.plantuml.board.PostIt {
++PostIt(ISkinParam;BNode) : PostIt [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/PostIt.java.html#13]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/PostIt.java.html#18]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/PostIt.java.html#22]]]
++getCard() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/PostIt.java.html#28]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockLine" <|-- "net.sourceforge.plantuml.graphic.SingleLine"
+class net.sourceforge.plantuml.graphic.SingleLine {
++withSomeHtmlTag(String;FontConfiguration;HorizontalAlignment;SpriteContainer) : SingleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#19]]]
++rawText(String;FontConfiguration) : SingleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#52]]]
+-SingleLine(HorizontalAlignment) : SingleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#61]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#65]]]
+-maxDeltaY(UGraphic) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#76]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#107]]]
++getHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#123]]]
+} 
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"Swimable" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.Ftile"
+class net.sourceforge.plantuml.activitydiagram3.ftile.Ftile {
++getThickness(Style) : UStroke [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#18]]]
++skinParam() : ISkinParam [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#20]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#22]]]
++getOutLinkRendering() : LinkRendering [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#24]]]
++calculateDimension(StringBounder) : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#26]]]
++getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#28]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#30]]]
++getInnerConnections() : Collection<Connection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#32]]]
++getWeldingPoints() : List<WeldingPoint> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#34]]]
++arrowHorizontalAlignment() : HorizontalAlignment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Ftile.java.html#36]]]
+} 
+@enduml

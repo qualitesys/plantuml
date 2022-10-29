@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Comparable<NStage>" <|-- "net.sourceforge.plantuml.nwdiag.next.NStage"
+class net.sourceforge.plantuml.nwdiag.next.NStage {
++NStage(int) : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#8]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#13]]]
++compareTo(NStage) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#18]]]
++getNumber() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#22]]]
++getMin(NStage;NStage) : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#26]]]
++getMax(NStage;NStage) : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#33]]]
+} 
+@enduml

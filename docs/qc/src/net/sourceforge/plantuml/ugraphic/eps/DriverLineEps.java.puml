@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"UDriver<ULine,EpsGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.eps.DriverLineEps"
+class net.sourceforge.plantuml.ugraphic.eps.DriverLineEps {
++DriverLineEps(ClipContainer) : DriverLineEps [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverLineEps.java.html#18]]]
++draw(ULine;double;double;ColorMapper;UParam;EpsGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverLineEps.java.html#22]]]
+} 
+@enduml

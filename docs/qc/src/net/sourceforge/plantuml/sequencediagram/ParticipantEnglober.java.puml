@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.ParticipantEnglober"
+class net.sourceforge.plantuml.sequencediagram.ParticipantEnglober {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#20]]]
++build(Display;HColor;Stereotype) : ParticipantEnglober [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#24]]]
++newChild(Display;HColor;Stereotype) : ParticipantEnglober [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#28]]]
+-ParticipantEnglober(ParticipantEnglober;Display;HColor;Stereotype) : ParticipantEnglober [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#32]]]
++getTitle() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#39]]]
++getBoxColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#43]]]
++getStereotype() : Stereotype [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#47]]]
++getParent() : ParticipantEnglober [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#51]]]
++getGenealogy() : List<ParticipantEnglober> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#55]]]
+} 
+@enduml

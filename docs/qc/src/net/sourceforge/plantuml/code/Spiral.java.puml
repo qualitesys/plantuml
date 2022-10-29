@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.code.Spiral"
+class net.sourceforge.plantuml.code.Spiral {
++nextPoint() : PairInt [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Spiral.java.html#13]]]
+-oneStep() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Spiral.java.html#19]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UDriver<UPath,VisioGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.visio.DriverPathVdx"
+class net.sourceforge.plantuml.ugraphic.visio.DriverPathVdx {
++draw(UPath;double;double;ColorMapper;UParam;VisioGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPathVdx.java.html#11]]]
+} 
+@enduml

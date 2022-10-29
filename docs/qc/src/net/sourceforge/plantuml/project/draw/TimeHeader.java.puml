@@ -1,0 +1,27 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.draw.TimeHeader"
+class net.sourceforge.plantuml.project.draw.TimeHeader {
+Y_POS_ROW16() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#27]]]
+Y_POS_ROW28() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#31]]]
++TimeHeader(Style;Style;Day;Day;TimeScale;HColorSet) : TimeHeader [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#44]]]
+closedBackgroundColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#53]]]
+closedFontColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#57]]]
+openFontColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#61]]]
+getBarColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#65]]]
++getTimeHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#69]]]
++getTimeFooterHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#71]]]
++drawTimeHeader(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#73]]]
++drawTimeFooter(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#75]]]
++getFullHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#77]]]
+drawHline(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#79]]]
+drawVbar(UGraphic;double;double;double;boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#86]]]
+getFontConfiguration(int;boolean;HColor) : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#95]]]
++getTimeScale() : TimeScale [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#103]]]
+getTextBlock(String;int;boolean;HColor) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#107]]]
+printCentered(UGraphic;TextBlock;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#112]]]
+printCentered(UGraphic;boolean;double;double;TextBlock...) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#119]]]
+drawRectangle(UGraphic;double;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#133]]]
+goBold(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#142]]]
+} 
+@enduml

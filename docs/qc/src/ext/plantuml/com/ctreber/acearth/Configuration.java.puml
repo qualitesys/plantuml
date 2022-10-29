@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.Configuration"
+class ext.plantuml.com.ctreber.acearth.Configuration {
++add(String;MonitoredObject) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#18]]]
++setString(String;String) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#22]]]
++setBoolean(String;boolean) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#26]]]
++setInt(String;int) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#30]]]
++setDouble(String;double) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#34]]]
++setEnum(String;Object) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#38]]]
++getString(String) : String [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#42]]]
++getBoolean(String) : boolean [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#46]]]
++getInt(String) : int [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#50]]]
++getDouble(String) : double [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#54]]]
++is(String;Object) : boolean [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#58]]]
++getMOBoolean(String) : MOBoolean [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#62]]]
++getMOString(String) : MOString [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#66]]]
++getMOEnum(String) : MOEnum [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#70]]]
++getMOInteger(String) : MOInteger [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#74]]]
++getMODouble(String) : MODouble [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#78]]]
++getMO(String) : MonitoredObject [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#82]]]
+} 
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"URLEncoder" <|-- "net.sourceforge.plantuml.code.AsciiEncoderBase64"
+class net.sourceforge.plantuml.code.AsciiEncoderBase64 {
++encode(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#16]]]
++decode(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#28]]]
+-computeSize(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#41]]]
+-scharAt(String;int) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#57]]]
++decode6bit(char) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#64]]]
++encode6bit(byte) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#68]]]
+-append3bytes(StringBuilder;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#92]]]
+-decode3bytes(byte[];int;char;char;char;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#103]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"CommandChangeState" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByTime"
+class net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByTime {
++CommandChangeStateByTime() : CommandChangeStateByTime [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeStateByTime.java.html#18]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeStateByTime.java.html#22]]]
+executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeStateByTime.java.html#44]]]
+} 
+@enduml

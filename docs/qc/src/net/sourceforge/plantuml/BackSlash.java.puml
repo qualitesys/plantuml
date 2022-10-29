@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.BackSlash"
+class net.sourceforge.plantuml.BackSlash {
++hiddenNewLine() : char [[[./../../../../.././qc/src/net/sourceforge/plantuml/BackSlash.java.html#15]]]
++convertHiddenNewLine(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BackSlash.java.html#19]]]
++splitHiddenNewLine(String) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BackSlash.java.html#25]]]
++manageNewLine(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BackSlash.java.html#29]]]
++getWithNewlines(CharSequence) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BackSlash.java.html#33]]]
++translateBackSlashes(CharSequence) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BackSlash.java.html#60]]]
+-isEnglishLetterOfBackSlash(char) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/BackSlash.java.html#82]]]
++untranslateBackSlashes(CharSequence) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BackSlash.java.html#87]]]
+-translateChar(char) : char [[[./../../../../.././qc/src/net/sourceforge/plantuml/BackSlash.java.html#102]]]
+} 
+@enduml

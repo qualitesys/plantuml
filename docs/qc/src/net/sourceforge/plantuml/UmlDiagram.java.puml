@@ -1,0 +1,26 @@
+@startuml
+!pragma layout smetana
+"TitledDiagramDiagram" <|-- "net.sourceforge.plantuml.UmlDiagram"
+class net.sourceforge.plantuml.UmlDiagram {
++UmlDiagram(UmlSource;UmlDiagramType;Map<String,String>) : UmlDiagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#57]]]
++getMinwidth() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#65]]]
++setMinwidth(int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#69]]]
++isRotation() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#73]]]
++setRotation(boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#77]]]
++getFooterOrHeaderTeoz(FontParam) : DisplaySection [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#81]]]
+exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#92]]]
+-exportDiagramError(OutputStream;Throwable;FileFormatOption;String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#117]]]
++exportDiagramError(OutputStream;Throwable;FileFormatOption;long;String;String;List<String>) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#123]]]
+-exportDiagramErrorText(OutputStream;Throwable;List<String>) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#162]]]
++getFlashData() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#174]]]
+-getFailureText1(Throwable;String;String) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#182]]]
++getFailureText2(Throwable;String) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#203]]]
+-exportDiagramInternalMjpeg(OutputStream) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#213]]]
+-exportDiagramInternalPdf(OutputStream;int) : ImageData [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#236]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#248]]]
+exportCmap(SuggestedFile;int;ImageData) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#251]]]
+changeName(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#263]]]
++getWarningOrError() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#268]]]
++setHideEmptyDescription(boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#290]]]
+} 
+@enduml

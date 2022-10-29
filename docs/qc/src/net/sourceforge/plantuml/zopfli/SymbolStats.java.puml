@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.SymbolStats"
+class net.sourceforge.plantuml.zopfli.SymbolStats {
+getFreqs(LzStore) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#13]]]
+copy(SymbolStats) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#38]]]
+calculate() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#46]]]
+calculateLens() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#51]]]
+calculateDists() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#77]]]
+alloy(SymbolStats) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#100]]]
+randomizeFreqs(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#113]]]
+minCost() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#144]]]
+} 
+@enduml

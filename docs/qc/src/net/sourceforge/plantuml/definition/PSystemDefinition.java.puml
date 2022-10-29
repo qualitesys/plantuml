@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"PlainDiagramUDrawable" <|-- "net.sourceforge.plantuml.definition.PSystemDefinition"
+class net.sourceforge.plantuml.definition.PSystemDefinition {
++PSystemDefinition(UmlSource;String) : PSystemDefinition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/definition/PSystemDefinition.java.html#26]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/definition/PSystemDefinition.java.html#31]]]
+getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/definition/PSystemDefinition.java.html#36]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/definition/PSystemDefinition.java.html#40]]]
++doCommandLine(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/definition/PSystemDefinition.java.html#46]]]
+} 
+@enduml

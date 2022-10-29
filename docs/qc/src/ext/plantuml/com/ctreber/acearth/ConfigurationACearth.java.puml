@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"Configuration" <|-- "ext.plantuml.com.ctreber.acearth.ConfigurationACearth"
+class ext.plantuml.com.ctreber.acearth.ConfigurationACearth {
++ConfigurationACearth() : ConfigurationACearth [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/ConfigurationACearth.java.html#15]]]
++getViewPos() : Coordinate [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/ConfigurationACearth.java.html#114]]]
++setViewPos(Coordinate) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/ConfigurationACearth.java.html#118]]]
++getSunPos() : Coordinate [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/ConfigurationACearth.java.html#123]]]
++setSunPos(Coordinate) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/ConfigurationACearth.java.html#127]]]
++getSunPosRel() : Coordinate [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/ConfigurationACearth.java.html#132]]]
++setSunPosRel(Coordinate) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/ConfigurationACearth.java.html#136]]]
+} 
+@enduml

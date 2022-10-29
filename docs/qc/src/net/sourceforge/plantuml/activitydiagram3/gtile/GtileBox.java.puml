@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractGtile" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileBox"
+class net.sourceforge.plantuml.activitydiagram3.gtile.GtileBox {
++getDefaultStyleDefinitionActivity() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBox.java.html#57]]]
++getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBox.java.html#61]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBox.java.html#65]]]
++create(StringBounder;ISkinParam;Display;Swimlane;BoxStyle;Stereotype) : GtileBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBox.java.html#82]]]
+-GtileBox(StringBounder;ISkinParam;Display;Swimlane;BoxStyle;Style;Style) : GtileBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBox.java.html#91]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBox.java.html#127]]]
+drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBox.java.html#132]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBox.java.html#166]]]
+} 
+@enduml

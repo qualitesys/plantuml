@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfLongHorizontal"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfLongHorizontal {
+-FtileIfLongHorizontal(List<Ftile>;List<Double>;List<Ftile>;Ftile;Rainbow) : FtileIfLongHorizontal [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#53]]]
+-alignDiamonds(List<Ftile>;StringBounder) : List<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#72]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#88]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#100]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#104]]]
+create(Swimlane;HColor;HColor;Rainbow;FtileFactory;ConditionStyle;List<Branch>;Branch;FontConfiguration;LinkRendering;LinkRendering;FontConfiguration) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#108]]]
+-getYdiamontOutToLeft(FtileGeometry;StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#248]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#557]]]
++getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#564]]]
+-getTranslate2(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#577]]]
+-getTranslateDiamond1(Ftile;StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#590]]]
+-getTranslate1(Ftile;StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#600]]]
+-getTranslateCouple1(Ftile;StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#610]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#624]]]
+-calculateDimensionInternal(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#633]]]
+-getDiamondsHeight(StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#646]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#655]]]
+} 
+@enduml

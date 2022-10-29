@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"UGraphic" <|-- "net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic"
+class net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic {
++getDefaultBackground() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#31]]]
++dpiFactor() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#35]]]
++apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#39]]]
++getClip() : UClip [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#63]]]
++enlargeClip() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#70]]]
++AbstractCommonUGraphic(HColor;ColorMapper;StringBounder) : AbstractCommonUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#74]]]
+AbstractCommonUGraphic(AbstractCommonUGraphic) : AbstractCommonUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#83]]]
+copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#100]]]
++getParam() : UParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#102]]]
++getStringBounder() : StringBounder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#128]]]
+getTranslateX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#132]]]
+getTranslateY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#136]]]
++getColorMapper() : ColorMapper [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#140]]]
++flushUg() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#144]]]
++startUrl(Url) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#148]]]
++closeUrl() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#152]]]
++startGroup(Map<UGroupType,String>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#155]]]
++closeGroup() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#158]]]
++matchesProperty(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#161]]]
+} 
+@enduml

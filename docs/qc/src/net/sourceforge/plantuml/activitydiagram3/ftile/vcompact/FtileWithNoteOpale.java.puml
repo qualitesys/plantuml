@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"AbstractFtileStencil" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWithNoteOpale"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWithNoteOpale {
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#54]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#58]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#67]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#71]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#76]]]
++create(Ftile;Collection<PositionedNote>;ISkinParam;boolean;VerticalAlignment) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#80]]]
+-FtileWithNoteOpale(Ftile;PositionedNote;ISkinParam;boolean;VerticalAlignment) : FtileWithNoteOpale [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#91]]]
+-getTranslate(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#121]]]
++getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#136]]]
+-getTranslateForOpale(UGraphic) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#143]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#161]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#190]]]
+-calculateDimensionInternal(StringBounder) : XDimension2D [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#201]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#208]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html#212]]]
+} 
+@enduml

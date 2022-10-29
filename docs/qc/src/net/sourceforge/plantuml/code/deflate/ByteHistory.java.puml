@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.code.deflate.ByteHistory"
+class net.sourceforge.plantuml.code.deflate.ByteHistory {
++ByteHistory(int) : ByteHistory [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64]]]
++append(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64]]]
++copy(int;int;OutputStreamProtected) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64]]]
+} 
+@enduml

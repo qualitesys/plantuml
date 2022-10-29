@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.png.PngIOMetadata"
+class net.sourceforge.plantuml.png.PngIOMetadata {
++writeWithMetadata(RenderedImage;OutputStream;String;int;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIOMetadata.java.html#26]]]
+-writeInternal(RenderedImage;OutputStream;String;int;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIOMetadata.java.html#36]]]
+-addDpi(IIOMetadata;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIOMetadata.java.html#88]]]
+-addiText(IIOMetadata;String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIOMetadata.java.html#107]]]
+-addText(IIOMetadata;String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIOMetadata.java.html#125]]]
+-getImageWriter() : ImageWriter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIOMetadata.java.html#138]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.salt.element.Segment"
+class net.sourceforge.plantuml.salt.element.Segment {
++Segment(int;int) : Segment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#9]]]
++hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#15]]]
++equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#20]]]
++getRow() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#25]]]
++getCol() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#29]]]
+} 
+@enduml

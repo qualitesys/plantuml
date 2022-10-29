@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.TextBlockInterceptorUDrawable"
+class net.sourceforge.plantuml.activitydiagram3.ftile.TextBlockInterceptorUDrawable {
++TextBlockInterceptorUDrawable(TextBlock) : TextBlockInterceptorUDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/TextBlockInterceptorUDrawable.java.html#17]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/TextBlockInterceptorUDrawable.java.html#21]]]
+-emptyHashMap() : HashMap<String,UTranslate> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/TextBlockInterceptorUDrawable.java.html#26]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/TextBlockInterceptorUDrawable.java.html#30]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.creole.legacy.AtomTextUtils"
+class net.sourceforge.plantuml.creole.legacy.AtomTextUtils {
++createLegacy(String;FontConfiguration) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/AtomTextUtils.java.html#36]]]
++create(String;FontConfiguration) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/AtomTextUtils.java.html#40]]]
++createUrl(Url;FontConfiguration;ISkinSimple) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/AtomTextUtils.java.html#44]]]
+-createAtomText(String;Url;FontConfiguration;ISkinSimple) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/AtomTextUtils.java.html#61]]]
++createListNumber(FontConfiguration;int;int) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/AtomTextUtils.java.html#107]]]
+} 
+@enduml

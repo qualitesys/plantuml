@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomOpenIcon"
+class net.sourceforge.plantuml.creole.atom.AtomOpenIcon {
++AtomOpenIcon(HColor;double;OpenIcon;FontConfiguration;Url) : AtomOpenIcon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#21]]]
+-asTextBlock() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#29]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#33]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#37]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#41]]]
+} 
+@enduml

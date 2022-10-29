@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest"
+class net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest {
++getMethod() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#17]]]
++getPath() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#21]]]
++getBody() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#25]]]
++fromStream(InputStream) : ReceivedHTTPRequest [[[./../../../../../.././qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#29]]]
+-parseContentLengthHeader(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#58]]]
+-readBody(InputStream;int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#74]]]
+-readLine(InputStream) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#94]]]
+} 
+@enduml

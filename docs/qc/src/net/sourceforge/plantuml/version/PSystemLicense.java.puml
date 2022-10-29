@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"PlainDiagramUDrawable" <|-- "net.sourceforge.plantuml.version.PSystemLicense"
+class net.sourceforge.plantuml.version.PSystemLicense {
+getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#25]]]
++create(UmlSource) : PSystemLicense [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#29]]]
++PSystemLicense(UmlSource) : PSystemLicense [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#33]]]
+-getGraphicStrings(List<String>) : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#37]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#41]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#45]]]
+} 
+@enduml

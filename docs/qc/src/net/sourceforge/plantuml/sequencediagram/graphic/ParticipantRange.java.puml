@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.ParticipantRange"
+class net.sourceforge.plantuml.sequencediagram.graphic.ParticipantRange {
++ParticipantRange(int;int) : ParticipantRange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java.html#9]]]
++start() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java.html#17]]]
++end() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java.html#21]]]
++merge(ParticipantRange) : ParticipantRange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java.html#25]]]
+} 
+@enduml

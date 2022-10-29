@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"AbstractPSystem" <|-- "net.sourceforge.plantuml.NewpagedDiagram"
+class net.sourceforge.plantuml.NewpagedDiagram {
++NewpagedDiagram(UmlSource;AbstractPSystem;AbstractPSystem) : NewpagedDiagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#23]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#36]]]
++getLastDiagram() : Diagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#40]]]
++executeCommand(Command;BlocLines) : CommandExecutionResult [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#44]]]
+-size() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#68]]]
+exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#73]]]
++getNbImages() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#78]]]
++getDescription() : DiagramDescription [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#86]]]
++getWarningOrError() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#97]]]
++makeDiagramReady() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#114]]]
++checkFinalError() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#122]]]
++getDiagrams() : List<Diagram> [[[./../../../../.././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#132]]]
+} 
+@enduml

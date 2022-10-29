@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"AbstractClassOrObjectDiagram" <|-- "net.sourceforge.plantuml.classdiagram.ClassDiagram"
+class net.sourceforge.plantuml.classdiagram.ClassDiagram {
++ClassDiagram(UmlSource;Map<String,String>) : ClassDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#30]]]
+-getShortName1972(Code) : Code [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#34]]]
++getOrCreateLeaf(Ident;Code;LeafType;USymbol) : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#45]]]
++createLeaf(Ident;Code;Display;LeafType;USymbol) : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#76]]]
+-createEntityWithNamespace1972(Ident;Code;Display;LeafType;USymbol) : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#96]]]
++leafExist(Code) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#124]]]
++setAllowMixing(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#133]]]
++isAllowMixing() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#137]]]
++layoutNewLine() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#143]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#149]]]
+exportLayoutExplicit(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#157]]]
+-getRawLayout(int) : RowLayout [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#169]]]
+-getEntityImageClass(ILeaf) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#179]]]
++checkFinalError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#184]]]
+} 
+@enduml

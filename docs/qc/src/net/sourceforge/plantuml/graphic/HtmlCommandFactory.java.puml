@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.HtmlCommandFactory"
+class net.sourceforge.plantuml.graphic.HtmlCommandFactory {
+getHtmlCommand(String) : HtmlCommand [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#36]]]
+} 
+@enduml

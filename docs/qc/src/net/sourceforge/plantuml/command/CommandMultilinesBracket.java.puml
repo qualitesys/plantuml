@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"Command<S>" <|-- "net.sourceforge.plantuml.command.CommandMultilinesBracket"
+class net.sourceforge.plantuml.command.CommandMultilinesBracket {
++CommandMultilinesBracket(String) : CommandMultilinesBracket [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesBracket.java.html#14]]]
+isCommandForbidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesBracket.java.html#21]]]
++getDescription() : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesBracket.java.html#25]]]
+finalVerification() : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesBracket.java.html#29]]]
+getStartingPattern() : Pattern2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesBracket.java.html#33]]]
++isValid(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesBracket.java.html#37]]]
+isLineConsistent(String;int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesBracket.java.html#71]]]
+} 
+@enduml

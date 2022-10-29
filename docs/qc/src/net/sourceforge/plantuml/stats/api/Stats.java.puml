@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.stats.api.Stats"
+class net.sourceforge.plantuml.stats.api.Stats {
++getLastSessions() : StatsTable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/stats/api/Stats.java.html#6]]]
++getCurrentSessionByDiagramType() : StatsTable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/stats/api/Stats.java.html#8]]]
++getCurrentSessionByFormat() : StatsTable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/stats/api/Stats.java.html#10]]]
++getAllByDiagramType() : StatsTable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/stats/api/Stats.java.html#12]]]
++getAllByFormat() : StatsTable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/stats/api/Stats.java.html#14]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"LoadPlanable" <|-- "net.sourceforge.plantuml.project.ConstantPlan"
+class net.sourceforge.plantuml.project.ConstantPlan {
+-ConstantPlan(int) : ConstantPlan [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/ConstantPlan.java.html#10]]]
++normal() : LoadPlanable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/ConstantPlan.java.html#14]]]
++partial(int) : LoadPlanable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/ConstantPlan.java.html#18]]]
++getLoadAt(Day) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/ConstantPlan.java.html#22]]]
+} 
+@enduml

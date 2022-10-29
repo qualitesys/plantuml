@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"TitledDiagramWithSprite" <|-- "net.sourceforge.plantuml.salt.PSystemSalt"
+class net.sourceforge.plantuml.salt.PSystemSalt {
++PSystemSalt(UmlSource;List<String>) : PSystemSalt [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#66]]]
++PSystemSalt(UmlSource) : PSystemSalt [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#71]]]
++add(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#75]]]
+exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#80]]]
+-getTextBlock(Element;XDimension2D) : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#95]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#122]]]
++addSprite(String;Sprite) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#126]]]
+-manageSprite() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#130]]]
+-createElement(List<String>) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#162]]]
+-addSimpleFactory(AbstractElementFactoryComplex;DataSource;Dictionary) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#194]]]
++setIamSalt(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#214]]]
++isIamSalt() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#218]]]
++getDefaultMargins() : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#223]]]
+-getBlack() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#227]]]
+} 
+@enduml

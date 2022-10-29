@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.Rainbow"
+class net.sourceforge.plantuml.graphic.Rainbow {
+-Rainbow(int) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#24]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#29]]]
++none() : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#33]]]
++fromColor(HColor;HColor) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#37]]]
++build(ISkinParam) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#45]]]
++build(Style;HColorSet) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#49]]]
++withDefault(Rainbow) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#62]]]
++build(HtmlColorAndStyle) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#69]]]
++build(ISkinParam;String;int) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#75]]]
++isInvisible() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#87]]]
++getColors() : List<HtmlColorAndStyle> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#95]]]
++getColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#99]]]
++getArrowHeadColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#103]]]
++getColorArrowSeparationSpace() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#107]]]
++size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#111]]]
+} 
+@enduml

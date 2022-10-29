@@ -1,0 +1,24 @@
+@startuml
+!pragma layout smetana
+"PlainDiagramUDrawable" <|-- "net.sourceforge.plantuml.eggs.PSystemColors"
+class net.sourceforge.plantuml.eggs.PSystemColors {
++PSystemColors(UmlSource;String) : PSystemColors [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#45]]]
+getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#55]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#59]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#63]]]
+-drawPalette(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#70]]]
+-centerHexa(int;int) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#101]]]
+-getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#109]]]
+-drawOneHexa(UGraphic;String;int;int;UPolygon) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#113]]]
+-findShortest(StringBounder;UFont;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#130]]]
+-applyColor(UGraphic;HColor) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#148]]]
+-corner(int) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#152]]]
+-getHexa() : UPolygon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#158]]]
+-getColorsCloseTo(String) : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#166]]]
+-containsCaseInsensitive(Collection<String>;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#185]]]
+-closeComparator(String) : Comparator<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#193]]]
+-drawFull(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#204]]]
+-getTextName(UFont;String;HColor) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#226]]]
+-getPositioned(UGraphic;int;int) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#234]]]
+} 
+@enduml

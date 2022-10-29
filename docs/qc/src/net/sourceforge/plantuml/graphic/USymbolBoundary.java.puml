@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"USymbolSimpleAbstract" <|-- "net.sourceforge.plantuml.graphic.USymbolBoundary"
+class net.sourceforge.plantuml.graphic.USymbolBoundary {
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolBoundary.java.html#10]]]
+getDrawing(SymbolContext) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolBoundary.java.html#15]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"MDADiagram" <|-- "net.sourceforge.plantuml.mda.MDADiagramImpl"
+class net.sourceforge.plantuml.mda.MDADiagramImpl {
++create(String) : MDADiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#20]]]
+-MDADiagramImpl(ClassDiagram) : MDADiagramImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#39]]]
++getPackages() : Collection<MDAPackage> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#47]]]
+} 
+@enduml

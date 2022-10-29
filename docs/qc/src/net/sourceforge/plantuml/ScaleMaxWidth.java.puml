@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"ScaleProtectedScale" <|-- "net.sourceforge.plantuml.ScaleMaxWidth"
+class net.sourceforge.plantuml.ScaleMaxWidth {
++ScaleMaxWidth(double) : ScaleMaxWidth [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.html#8]]]
++getScaleInternal(double;double) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.html#12]]]
+} 
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.plugin.dot_layout.gvlayout_dot_layout__c"
+class gen.plugin.dot_layout.gvlayout_dot_layout__c {
+} 
+@enduml

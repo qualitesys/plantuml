@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomEmoji"
+class net.sourceforge.plantuml.creole.atom.AtomEmoji {
++AtomEmoji(Emoji;double;double;HColor) : AtomEmoji [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#17]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#23]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#28]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#32]]]
+} 
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.color.HColorSet"
+class net.sourceforge.plantuml.ugraphic.color.HColorSet {
++instance() : HColorSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#24]]]
++names() : Collection<String> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#28]]]
+-HColorSet() : HColorSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#32]]]
+-register(String;String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#192]]]
+-gradientFromString(String) : Gradient [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#242]]]
+-automaticFromString(String) : Automatic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#254]]]
++getColorOrWhite(String) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#268]]]
++getColorLEGACY(String) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#280]]]
++getColor(String) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#284]]]
+-isColorValid(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#302]]]
+-build(String) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#322]]]
+-fromRGBa(String) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#346]]]
+-removeFirstDieseAndgoLowerCase(String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#358]]]
+} 
+@enduml

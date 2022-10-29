@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityPlus"
+class net.sourceforge.plantuml.svek.extremity.ExtremityPlus {
+-ExtremityPlus(double;double;double;HColor) : ExtremityPlus [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityPlus.java.html#21]]]
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityPlus.java.html#30]]]
++create(XPoint2D;double;HColor) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityPlus.java.html#35]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityPlus.java.html#41]]]
+-getPointOnCircle(double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityPlus.java.html#47]]]
+-drawLine(UGraphic;double;double;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityPlus.java.html#53]]]
+} 
+@enduml

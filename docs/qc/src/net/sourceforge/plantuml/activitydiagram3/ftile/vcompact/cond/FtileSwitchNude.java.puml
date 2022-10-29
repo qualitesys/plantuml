@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"FtileDimensionMemoize" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude {
++FtileSwitchNude(List<Ftile>;Swimlane) : FtileSwitchNude [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#25]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#32]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#36]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#47]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#51]]]
++getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#56]]]
+getTranslateNude(Ftile;StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#63]]]
++drawU(UGraphic) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#75]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#83]]]
+calculateDimensionInternalSlow(StringBounder) : FtileGeometry [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#93]]]
+} 
+@enduml

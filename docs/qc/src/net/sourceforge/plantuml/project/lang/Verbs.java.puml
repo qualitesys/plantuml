@@ -1,0 +1,30 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.lang.Verbs"
+class net.sourceforge.plantuml.project.lang.Verbs {
++are() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#12]]]
++areColored() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#16]]]
++displayOnSameRowAs() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#20]]]
++ends() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#24]]]
++ends2() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#28]]]
++happens() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#32]]]
++pauses() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#36]]]
++isDeleted() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#40]]]
++is() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#44]]]
++isColored() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#48]]]
++isColoredForCompletion() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#52]]]
++isOff() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#56]]]
++isOn() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#69]]]
++isOrAre() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#83]]]
++isOrAreNamed() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#87]]]
++lasts() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#91]]]
++linksTo() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#95]]]
++occurs() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#99]]]
++starts3() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#103]]]
++starts2() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#107]]]
++starts() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#111]]]
++just() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#124]]]
++justBefore() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#128]]]
++justAfter() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#132]]]
+} 
+@enduml

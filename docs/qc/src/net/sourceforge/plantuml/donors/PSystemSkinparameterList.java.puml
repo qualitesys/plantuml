@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"PlainDiagram" <|-- "net.sourceforge.plantuml.donors.PSystemSkinparameterList"
+class net.sourceforge.plantuml.donors.PSystemSkinparameterList {
++PSystemSkinparameterList(UmlSource) : PSystemSkinparameterList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#23]]]
+getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#28]]]
++getCols(List<String>;int) : List<TextBlock> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#45]]]
+-getDonors() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#55]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#60]]]
++create(UmlSource) : PSystemSkinparameterList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#64]]]
+} 
+@enduml

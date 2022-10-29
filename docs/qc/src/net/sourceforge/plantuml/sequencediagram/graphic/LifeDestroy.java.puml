@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"GraphicalElement" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy"
+class net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy {
++LifeDestroy(double;ParticipantBox;Component) : LifeDestroy [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#16]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#23]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#30]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#35]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#40]]]
+} 
+@enduml

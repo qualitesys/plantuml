@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractRealReal" <|-- "net.sourceforge.plantuml.real.RealMiddle"
+class net.sourceforge.plantuml.real.RealMiddle {
+-RealMiddle(RealMoveable;RealMoveable;double) : RealMiddle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#10]]]
+-create(RealMoveable;RealMoveable) : RealMiddle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#17]]]
+getCurrentValueInternal() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#22]]]
++addFixed(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#26]]]
++addAtLeast(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#30]]]
++ensureBiggerThan(Real) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#34]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#38]]]
++printCreationStackTrace() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#42]]]
+} 
+@enduml

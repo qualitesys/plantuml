@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.extremity.MiddleFactory"
+class net.sourceforge.plantuml.svek.extremity.MiddleFactory {
++createUDrawable(double) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactory.java.html#8]]]
+} 
+@enduml

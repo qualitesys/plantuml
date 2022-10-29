@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"PSystemError" <|-- "net.sourceforge.plantuml.error.PSystemErrorV2"
+class net.sourceforge.plantuml.error.PSystemErrorV2 {
++PSystemErrorV2(UmlSource;List<StringLocated>;ErrorUml) : PSystemErrorV2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/error/PSystemErrorV2.java.html#12]]]
+} 
+@enduml

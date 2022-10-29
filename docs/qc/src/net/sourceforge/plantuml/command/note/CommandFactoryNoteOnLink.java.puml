@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"SingleMultiFactoryCommand<CucaDiagram>" <|-- "net.sourceforge.plantuml.command.note.CommandFactoryNoteOnLink"
+class net.sourceforge.plantuml.command.note.CommandFactoryNoteOnLink {
+-getRegexConcatSingleLine() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnLink.java.html#31]]]
+-getRegexConcatMultiLine() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnLink.java.html#48]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnLink.java.html#61]]]
++createMultiLine(boolean) : Command<CucaDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnLink.java.html#65]]]
++createSingleLine() : Command<CucaDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnLink.java.html#88]]]
+-executeInternal(CucaDiagram;BlocLines;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnLink.java.html#100]]]
+} 
+@enduml

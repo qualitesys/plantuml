@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"AbstractCodeIterator" <|-- "net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction"
+class net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction {
++CodeIteratorReturnFunction(CodeIterator;TContext;TMemory;FunctionsSet;List<StringLocated>) : CodeIteratorReturnFunction [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#23]]]
++peek() : StringLocated [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#32]]]
+} 
+@enduml

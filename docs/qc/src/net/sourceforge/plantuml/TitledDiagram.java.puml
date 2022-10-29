@@ -1,0 +1,35 @@
+@startuml
+!pragma layout smetana
+"AbstractPSystemDiagram" <|-- "net.sourceforge.plantuml.TitledDiagram"
+class net.sourceforge.plantuml.TitledDiagram {
++getPragma() : Pragma [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#54]]]
++TitledDiagram(UmlSource;UmlDiagramType;Map<String,String>) : TitledDiagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#58]]]
++getCurrentStyleBuilder() : StyleBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#67]]]
++getUmlDiagramType() : UmlDiagramType [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#71]]]
++getSkinParam() : ISkinParam [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#75]]]
++setParam(String;String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#79]]]
++addSprite(String;Sprite) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#83]]]
++loadSkin(String) : CommandExecutionResult [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#87]]]
++setTitle(DisplayPositioned) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#142]]]
++getTitle() : DisplayPositionned [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#149]]]
++getTitleDisplay() : Display [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#155]]]
++setMainFrame(Display) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#161]]]
++setCaption(DisplayPositioned) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#165]]]
++getCaption() : DisplayPositioned [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#169]]]
++getHeader() : DisplaySection [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#173]]]
++getFooter() : DisplaySection [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#177]]]
++getLegend() : DisplayPositioned [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#181]]]
++setLegend(DisplayPositioned) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#185]]]
++getMainFrame() : Display [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#189]]]
++setUseSmetana(boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#196]]]
++setUseElk(boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#200]]]
++isUseElk() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#204]]]
++isUseSmetana() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#210]]]
++getDefaultMargins() : ClockwiseTopRightBottomLeft [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#217]]]
++setAnimation(Iterable<CharSequence>) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#221]]]
++getAnimation() : Animation [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#230]]]
++createImageBuilder(FileFormatOption) : ImageBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#235]]]
++calculateBackColor() : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#239]]]
+muteColorMapper(ColorMapper) : ColorMapper [[[./../../../../.././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#251]]]
+} 
+@enduml

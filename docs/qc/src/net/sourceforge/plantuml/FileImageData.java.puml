@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.FileImageData"
+class net.sourceforge.plantuml.FileImageData {
++FileImageData(SFile;ImageData) : FileImageData [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileImageData.java.html#15]]]
++getFile() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileImageData.java.html#20]]]
++getImageData() : ImageData [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileImageData.java.html#24]]]
++getStatus() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileImageData.java.html#28]]]
+} 
+@enduml

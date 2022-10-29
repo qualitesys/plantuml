@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Sentence" <|-- "net.sourceforge.plantuml.project.lang.SentenceSimple"
+class net.sourceforge.plantuml.project.lang.SentenceSimple {
++SentenceSimple(Subject;IRegex;Something) : SentenceSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#18]]]
++toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#24]]]
++execute(GanttDiagram;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#43]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#56]]]
++getVerbPattern() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#58]]]
++getVerbRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#62]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"AbstractTileTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.TileMarged"
+class net.sourceforge.plantuml.sequencediagram.teoz.TileMarged {
++TileMarged(Tile;double;double;double;double) : TileMarged [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileMarged.java.html#18]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileMarged.java.html#27]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileMarged.java.html#32]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileMarged.java.html#36]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileMarged.java.html#40]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileMarged.java.html#44]]]
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileMarged.java.html#48]]]
+} 
+@enduml

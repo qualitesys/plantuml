@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomSpace"
+class net.sourceforge.plantuml.creole.atom.AtomSpace {
++create(double) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#12]]]
+-AtomSpace(double) : AtomSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#16]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#20]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#24]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#28]]]
+} 
+@enduml

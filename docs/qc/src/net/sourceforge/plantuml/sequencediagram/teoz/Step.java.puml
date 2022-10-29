@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.Step"
+class net.sourceforge.plantuml.sequencediagram.teoz.Step {
++Step(double;boolean;int;SymbolContext) : Step [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#13]]]
++getValue() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#23]]]
++isDestroy() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#27]]]
++getIndent() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#31]]]
++getColors() : SymbolContext [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#35]]]
+} 
+@enduml

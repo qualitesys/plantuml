@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineTransform"
+class net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineTransform {
++transform(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineTransform.java.html#6]]]
+} 
+@enduml

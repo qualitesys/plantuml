@@ -1,0 +1,35 @@
+@startuml
+!pragma layout smetana
+"StyleSignature" <|-- "net.sourceforge.plantuml.style.StyleSignatureBasic"
+class net.sourceforge.plantuml.style.StyleSignatureBasic {
++StyleSignatureBasic(String) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#20]]]
++empty() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#28]]]
+-StyleSignatureBasic(boolean) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#32]]]
+-StyleSignatureBasic(boolean;Collection<String>) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#36]]]
++addClickable(Url) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#41]]]
++add(String) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#51]]]
++add(SName) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#63]]]
++addStar() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#67]]]
++isStarred() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#73]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#78]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#84]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#89]]]
++matchAll(StyleSignatureBasic) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#100]]]
+-depthFromToken(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#124]]]
+-depthFromTokens(Collection<String>) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#130]]]
++getNames() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#140]]]
++of(SName...) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#144]]]
++forStereotypeItself(Stereotype) : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#152]]]
++withTOBECHANGED(Stereotype) : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#168]]]
++with(Stereostyles) : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#182]]]
+-clean(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#192]]]
++mergeWith(List<Style>) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#196]]]
++mergeWith(StyleSignatureBasic) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#205]]]
++getMergedStyle(StyleBuilder) : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#212]]]
++match(Stereotype) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#219]]]
++isWithDot() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227]]]
++activity() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#233]]]
++activityDiamond() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#237]]]
++activityArrow() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#241]]]
+} 
+@enduml

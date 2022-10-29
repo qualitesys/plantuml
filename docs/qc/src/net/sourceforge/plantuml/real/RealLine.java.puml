@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.real.RealLine"
+class net.sourceforge.plantuml.real.RealLine {
+register(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#19]]]
+register2(AbstractReal) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#25]]]
++getAbsoluteMin() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#29]]]
++getAbsoluteMax() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#33]]]
++addForce(PositiveForce) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#37]]]
++compile() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#43]]]
+-printCounter(Map<PositiveForce,Integer>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#85]]]
+-incCounter(Map<PositiveForce,Integer>;PositiveForce) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#94]]]
+asMaxAbsolute() : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#99]]]
+asMinAbsolute() : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#103]]]
+} 
+@enduml

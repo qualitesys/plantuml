@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"FontChange" <|-- "net.sourceforge.plantuml.graphic.FontFamilyChange"
+class net.sourceforge.plantuml.graphic.FontFamilyChange {
+FontFamilyChange(String) : FontFamilyChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/FontFamilyChange.java.html#15]]]
++apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/FontFamilyChange.java.html#23]]]
+} 
+@enduml

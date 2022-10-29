@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"DiagramComponent" <|-- "org.stathissideris.ascii2image.graphics.CompositeDiagramShape"
+class org.stathissideris.ascii2image.graphics.CompositeDiagramShape {
++main(String[]) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#19]]]
++createFromBoundaryCells(TextGrid;CellSet;int;int) : DiagramComponent [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#22]]]
++createOpenFromBoundaryCells(TextGrid;CellSet;int;int;boolean) : DiagramComponent [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#35]]]
+-growEdgesFromCell(TextGrid;int;int;boolean;TextGrid.Cell;TextGrid.Cell;CellSet) : List<DiagramShape> [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#83]]]
++connectLines() : DiagramComponent [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#139]]]
++connectEndsToAnchors(TextGrid;Diagram) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#190]]]
+-makeLine(TextGrid;TextGrid.Cell;TextGrid.Cell;int;int) : DiagramShape [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#200]]]
++addToShapes(DiagramShape) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#267]]]
+-getShapesIterator() : Iterator [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#271]]]
++scale(float) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#275]]]
++getShapes() : ArrayList [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#283]]]
+} 
+@enduml

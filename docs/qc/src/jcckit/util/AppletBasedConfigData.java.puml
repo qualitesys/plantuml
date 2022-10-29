@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"FlatConfigData" <|-- "jcckit.util.AppletBasedConfigData"
+class jcckit.util.AppletBasedConfigData {
++AppletBasedConfigData(Applet) : AppletBasedConfigData [[[./../../../.././qc/src/jcckit/util/AppletBasedConfigData.java.html#11]]]
+-AppletBasedConfigData(Applet;String) : AppletBasedConfigData [[[./../../../.././qc/src/jcckit/util/AppletBasedConfigData.java.html#16]]]
+getValue(String) : String [[[./../../../.././qc/src/jcckit/util/AppletBasedConfigData.java.html#21]]]
+createConfigData(String) : ConfigData [[[./../../../.././qc/src/jcckit/util/AppletBasedConfigData.java.html#25]]]
+} 
+@enduml

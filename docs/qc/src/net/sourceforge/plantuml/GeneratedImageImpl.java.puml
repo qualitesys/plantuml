@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"GeneratedImage" <|-- "net.sourceforge.plantuml.GeneratedImageImpl"
+class net.sourceforge.plantuml.GeneratedImageImpl {
++getStatus() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#19]]]
++GeneratedImageImpl(SFile;String;BlockUml;int) : GeneratedImageImpl [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#23]]]
++getPngFile() : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#30]]]
++getDescription() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#34]]]
++lineErrorRaw() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#38]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#47]]]
++compareTo(GeneratedImage) : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#51]]]
++hashCode() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#64]]]
++equals(Object) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#69]]]
++getBlockUml() : BlockUml [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#74]]]
+} 
+@enduml

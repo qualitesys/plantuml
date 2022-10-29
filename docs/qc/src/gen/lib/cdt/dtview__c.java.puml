@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cdt.dtview__c"
+class gen.lib.cdt.dtview__c {
++dtvsearch(ST_dt_s;__ptr__;int) : __ptr__ [[[./../../../../.././qc/src/gen/lib/cdt/dtview__c.java.html#44]]]
++dtview(ST_dt_s;ST_dt_s) : ST_dt_s [[[./../../../../.././qc/src/gen/lib/cdt/dtview__c.java.html#140]]]
+} 
+@enduml

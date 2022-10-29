@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"AbstractTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationExoTile"
+class net.sourceforge.plantuml.sequencediagram.teoz.CommunicationExoTile {
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#31]]]
++CommunicationExoTile(LivingSpace;MessageExo;Rose;ISkinParam;TileArguments;YGauge) : CommunicationExoTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#35]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#47]]]
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#52]]]
+-getComponent(StringBounder) : ArrowComponent [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#56]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#66]]]
+-isShortArrow() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#102]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#107]]]
+-getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#113]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#119]]]
+callbackY_internal(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#143]]]
+-getPoint1(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#153]]]
+-getPoint1Value(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#160]]]
+-getPoint2Value(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#170]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#180]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationExoTile.java.html#184]]]
+} 
+@enduml

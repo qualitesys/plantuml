@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"Comparable<PortGeometry>" <|-- "net.sourceforge.plantuml.svek.PortGeometry"
+class net.sourceforge.plantuml.svek.PortGeometry {
++PortGeometry(String;double;double;int) : PortGeometry [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#11]]]
++translateY(double) : PortGeometry [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#18]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#23]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#27]]]
++getPosition() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#31]]]
++getLastY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#35]]]
++getScore() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#39]]]
++getId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#43]]]
++compareTo(PortGeometry) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#48]]]
+} 
+@enduml

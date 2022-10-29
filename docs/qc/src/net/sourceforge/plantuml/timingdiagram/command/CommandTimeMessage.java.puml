@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandTimeMessage"
+class net.sourceforge.plantuml.timingdiagram.command.CommandTimeMessage {
++CommandTimeMessage() : CommandTimeMessage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandTimeMessage.java.html#22]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandTimeMessage.java.html#26]]]
+executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandTimeMessage.java.html#48]]]
+} 
+@enduml

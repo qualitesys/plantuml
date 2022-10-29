@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.code.Upf9Encoder"
+class net.sourceforge.plantuml.code.Upf9Encoder {
+-Upf9Encoder() : Upf9Encoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#12]]]
++encodeChar(char) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#16]]]
+-checkBack(char;byte[]) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#22]]]
+-encodeCharInternal(char) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#32]]]
+-lowByte(char) : byte [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#64]]]
+-highByte(char) : byte [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#68]]]
++getBytes(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#72]]]
+} 
+@enduml

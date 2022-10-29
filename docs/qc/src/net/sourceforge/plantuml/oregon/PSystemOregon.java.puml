@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"PlainDiagram" <|-- "net.sourceforge.plantuml.oregon.PSystemOregon"
+class net.sourceforge.plantuml.oregon.PSystemOregon {
++PSystemOregon(UmlSource;Keyboard) : PSystemOregon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/PSystemOregon.java.html#24]]]
++createImageBuilder(FileFormatOption) : ImageBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/PSystemOregon.java.html#38]]]
++PSystemOregon(UmlSource) : PSystemOregon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/PSystemOregon.java.html#42]]]
++add(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/PSystemOregon.java.html#47]]]
+-getScreen() : Screen [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/PSystemOregon.java.html#53]]]
+getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/PSystemOregon.java.html#70]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/PSystemOregon.java.html#74]]]
+} 
+@enduml

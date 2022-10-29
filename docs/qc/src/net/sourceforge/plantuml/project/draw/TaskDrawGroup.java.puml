@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"AbstractTaskDraw" <|-- "net.sourceforge.plantuml.project.draw.TaskDrawGroup"
+class net.sourceforge.plantuml.project.draw.TaskDrawGroup {
++TaskDrawGroup(TimeScale;Real;String;Day;Day;ISkinParam;Task;ToTaskDraw;StyleBuilder) : TaskDrawGroup [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#35]]]
+getShapeHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#43]]]
++drawTitle(UGraphic;LabelStrategy;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#60]]]
+getTitle() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#85]]]
+getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#91]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#95]]]
++getHeightMax(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#102]]]
++getFingerPrint(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#106]]]
++getFingerPrintNote(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#113]]]
+-applyColors(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#117]]]
++getX1(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#125]]]
++getX2(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#133]]]
+-drawShape(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#141]]]
+-getShape(double;double) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#164]]]
+-getShapeOld2(double;double) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#186]]]
+-getShapeOld(double;double) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html#205]]]
+} 
+@enduml

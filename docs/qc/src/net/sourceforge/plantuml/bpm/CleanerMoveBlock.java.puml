@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"GridCleaner" <|-- "net.sourceforge.plantuml.bpm.CleanerMoveBlock"
+class net.sourceforge.plantuml.bpm.CleanerMoveBlock {
++clean(Grid) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerMoveBlock.java.html#7]]]
+-tryGrid(Grid;Line) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerMoveBlock.java.html#15]]]
+-tryBridge(Line;Col;Col) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerMoveBlock.java.html#57]]]
+} 
+@enduml

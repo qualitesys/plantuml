@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.Bullet"
+class net.sourceforge.plantuml.creole.atom.Bullet {
++Bullet(FontConfiguration;int) : Bullet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#19]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#24]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#37]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#43]]]
+} 
+@enduml

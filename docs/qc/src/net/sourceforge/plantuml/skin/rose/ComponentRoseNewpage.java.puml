@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseNewpage"
+class net.sourceforge.plantuml.skin.rose.ComponentRoseNewpage {
++ComponentRoseNewpage(Style;HColor) : ComponentRoseNewpage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNewpage.java.html#18]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNewpage.java.html#24]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNewpage.java.html#31]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNewpage.java.html#36]]]
+} 
+@enduml

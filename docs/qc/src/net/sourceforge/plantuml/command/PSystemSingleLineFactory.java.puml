@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"PSystemAbstractFactory" <|-- "net.sourceforge.plantuml.command.PSystemSingleLineFactory"
+class net.sourceforge.plantuml.command.PSystemSingleLineFactory {
+executeLine(UmlSource;String) : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/PSystemSingleLineFactory.java.html#20]]]
+PSystemSingleLineFactory() : PSystemSingleLineFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/PSystemSingleLineFactory.java.html#22]]]
++createSystem(UmlSource;Map<String,String>) : Diagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/PSystemSingleLineFactory.java.html#27]]]
+} 
+@enduml

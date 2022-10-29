@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"RegexComposedIRegex" <|-- "net.sourceforge.plantuml.command.regex.RegexOptional"
+class net.sourceforge.plantuml.command.regex.RegexOptional {
++RegexOptional(IRegex) : RegexOptional [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOptional.java.html#8]]]
+getFullSlow() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOptional.java.html#13]]]
++match(StringLocated) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOptional.java.html#20]]]
+} 
+@enduml

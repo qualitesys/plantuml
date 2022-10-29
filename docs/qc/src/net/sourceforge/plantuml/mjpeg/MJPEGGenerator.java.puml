@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.mjpeg.MJPEGGenerator"
+class net.sourceforge.plantuml.mjpeg.MJPEGGenerator {
++MJPEGGenerator(SFile;int;int;double;int) : MJPEGGenerator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#37]]]
++addImage(Image) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#58]]]
++finishAVI() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#79]]]
++swapInt(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#104]]]
++swapShort(short) : short [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#108]]]
++intBytes(int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#112]]]
++shortBytes(short) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#122]]]
+-writeImageToBytes(Image) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#421]]]
+} 
+@enduml

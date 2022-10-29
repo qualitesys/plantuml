@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"Comparator" <|-- "org.stathissideris.ascii2image.core.Shape3DOrderingComparator"
+class org.stathissideris.ascii2image.core.Shape3DOrderingComparator {
++compare(Object;Object) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#12]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.stats.TextConverter"
+class net.sourceforge.plantuml.stats.TextConverter {
++TextConverter(Stats) : TextConverter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#16]]]
++printMe(PrintStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#20]]]
++getLinesUsed() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#45]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#49]]]
+} 
+@enduml

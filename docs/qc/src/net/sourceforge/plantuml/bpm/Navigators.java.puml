@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.bpm.Navigators"
+class net.sourceforge.plantuml.bpm.Navigators {
+-Navigators() : Navigators [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigators.java.html#6]]]
+} 
+@enduml

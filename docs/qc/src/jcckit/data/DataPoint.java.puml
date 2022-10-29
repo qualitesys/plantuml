@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"PointDataElement" <|-- "jcckit.data.DataPoint"
+class jcckit.data.DataPoint {
++DataPoint(double;double) : DataPoint [[[./../../../.././qc/src/jcckit/data/DataPoint.java.html#8]]]
++getContainer() : DataContainer [[[./../../../.././qc/src/jcckit/data/DataPoint.java.html#13]]]
++setContainer(DataContainer) : void [[[./../../../.././qc/src/jcckit/data/DataPoint.java.html#18]]]
+} 
+@enduml

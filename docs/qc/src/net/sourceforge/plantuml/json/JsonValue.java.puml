@@ -1,0 +1,38 @@
+@startuml
+!pragma layout smetana
+"Serializable" <|-- "net.sourceforge.plantuml.json.JsonValue"
+class net.sourceforge.plantuml.json.JsonValue {
+JsonValue() : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++readFrom(Reader) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++readFrom(String) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++valueOf(int) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++valueOf(long) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++valueOf(float) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++valueOf(double) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++valueOf(String) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++valueOf(boolean) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++isObject() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++isArray() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++isNumber() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++isString() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++isBoolean() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++isTrue() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++isFalse() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++isNull() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++asObject() : JsonObject [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++asArray() : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++asInt() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++asLong() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++asFloat() : float [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++asDouble() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++asString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++asBoolean() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++writeTo(Writer) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++writeTo(Writer;WriterConfig) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++toString(WriterConfig) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
+write(JsonWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonValue.java.html#1]]]
+} 
+@enduml

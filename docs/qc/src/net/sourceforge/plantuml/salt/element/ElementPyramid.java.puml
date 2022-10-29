@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.ElementPyramid"
+class net.sourceforge.plantuml.salt.element.ElementPyramid {
++ElementPyramid(Positionner2;TableStrategy;String;ISkinSimple) : ElementPyramid [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramid.java.html#36]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramid.java.html#61]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramid.java.html#67]]]
+-init(StringBounder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramid.java.html#89]]]
+-ensureColWidth(int;int;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramid.java.html#116]]]
+-ensureRowHeight(int;int;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramid.java.html#125]]]
++getNbRows() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramid.java.html#134]]]
++getNbCols() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramid.java.html#138]]]
+} 
+@enduml

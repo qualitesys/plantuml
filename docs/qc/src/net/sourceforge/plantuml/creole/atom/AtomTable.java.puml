@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomTable"
+class net.sourceforge.plantuml.creole.atom.AtomTable {
++AtomTable(HColor) : AtomTable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#51]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#55]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#62]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#66]]]
+-initMap(StringBounder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#123]]]
+-getStartingX(int) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#146]]]
+-getEndingX(int) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#154]]]
+-getStartingY(int) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#162]]]
+-getEndingY(int) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#170]]]
+-getColWidth(int) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#178]]]
+-getLineHeight(int) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#191]]]
+-getPosition(int;int) : Position [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#204]]]
+-getNbCols() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#216]]]
+-getNbLines() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#220]]]
+-lastLine() : Line [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#224]]]
++addCell(Atom;HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#228]]]
++newLine(HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#233]]]
+} 
+@enduml

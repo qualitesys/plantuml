@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"WithNoteSwimable" <|-- "net.sourceforge.plantuml.activitydiagram3.MonoSwimable"
+class net.sourceforge.plantuml.activitydiagram3.MonoSwimable {
++MonoSwimable(Swimlane) : MonoSwimable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/MonoSwimable.java.html#14]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/MonoSwimable.java.html#18]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/MonoSwimable.java.html#24]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/MonoSwimable.java.html#28]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"ScanDotGenerator" <|-- "ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines"
+class ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines {
++DotGeneratorLines(Projection;int;int) : DotGeneratorLines [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#18]]]
++generateScanDots() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#27]]]
+-transformAndAddDot(Coordinate) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#50]]]
+} 
+@enduml

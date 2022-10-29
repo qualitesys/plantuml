@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.UShape"
+class net.sourceforge.plantuml.ugraphic.UShape {
+} 
+@enduml

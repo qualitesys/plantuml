@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolPerson"
+class net.sourceforge.plantuml.graphic.USymbolPerson {
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolPerson.java.html#15]]]
+-drawHeadAndBody(UGraphic;double;XDimension2D;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolPerson.java.html#19]]]
+-headSize(XDimension2D) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolPerson.java.html#31]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolPerson.java.html#36]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolPerson.java.html#41]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolPerson.java.html#71]]]
+} 
+@enduml

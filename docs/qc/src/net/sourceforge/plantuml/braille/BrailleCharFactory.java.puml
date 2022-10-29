@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.braille.BrailleCharFactory"
+class net.sourceforge.plantuml.braille.BrailleCharFactory {
++build(String) : List<BrailleChar> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleCharFactory.java.html#10]]]
+} 
+@enduml

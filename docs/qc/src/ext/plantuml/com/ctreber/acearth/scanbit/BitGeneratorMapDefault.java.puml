@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"BitGeneratorMap" <|-- "ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapDefault"
+class ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapDefault {
++BitGeneratorMapDefault(Projection) : BitGeneratorMapDefault [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#13]]]
+getEdgeXingComparator() : Comparator [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#18]]]
+scanOutline() : ScanBuf [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#24]]]
+scanPolygon(ScanBuf;Point3D[];Point2D[];int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#47]]]
+-getYMidPoint(Point3D;Point3D) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#103]]]
+handleCrossings(ScanBuf;EdgeCrossing[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#127]]]
+-addEdgeToScanbuf(ScanBuf;EdgeCrossing;EdgeCrossing) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#154]]]
+} 
+@enduml

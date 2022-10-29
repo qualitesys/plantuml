@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Dedication" <|-- "net.sourceforge.plantuml.dedication.DedicationCrypted"
+class net.sourceforge.plantuml.dedication.DedicationCrypted {
++DedicationCrypted(byte[];int;String;BigInteger) : DedicationCrypted [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/DedicationCrypted.java.html#23]]]
++getImage(TinyHashableString) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/DedicationCrypted.java.html#30]]]
+} 
+@enduml

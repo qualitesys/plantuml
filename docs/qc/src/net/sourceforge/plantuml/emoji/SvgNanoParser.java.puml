@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"Sprite" <|-- "net.sourceforge.plantuml.emoji.SvgNanoParser"
+class net.sourceforge.plantuml.emoji.SvgNanoParser {
+-extractData(String;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#41]]]
++SvgNanoParser(String;boolean) : SvgNanoParser [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#50]]]
++SvgNanoParser(List<String>;boolean) : SvgNanoParser [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#54]]]
++drawU(UGraphic;double;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#75]]]
+-computeMinMaxGray() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#107]]]
+-getGray(HColor) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#122]]]
+-applyFill(UGraphicWithScale;String;HColor) : UGraphicWithScale [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#127]]]
+-justExtractColor(String) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#151]]]
+-getTrueColor(String;HColor) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#171]]]
+-drawCircle(UGraphicWithScale;String;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#181]]]
+-drawEllipse(UGraphicWithScale;String;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#200]]]
+-drawText(UGraphicWithScale;String;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#220]]]
+-drawPath(UGraphicWithScale;String;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#239]]]
+-applyTransform(UGraphicWithScale;String) : UGraphicWithScale [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#253]]]
+-applyMatrix(UGraphicWithScale;String) : UGraphicWithScale [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#271]]]
+-applyRotate(UGraphicWithScale;String) : UGraphicWithScale [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#288]]]
+-getTranslate(String) : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#301]]]
+-getScale(String) : double[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#321]]]
++asTextBlock(HColor;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#340]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"PreprocessorModeSet" <|-- "net.sourceforge.plantuml.DefinitionsContainer"
+class net.sourceforge.plantuml.DefinitionsContainer {
++getDefinition(String) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/DefinitionsContainer.java.html#10]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"Renderer" <|-- "jcckit.graphic.RectangleRenderer"
+class jcckit.graphic.RectangleRenderer {
++render(Rectangle) : void [[[./../../../.././qc/src/jcckit/graphic/RectangleRenderer.java.html#7]]]
+} 
+@enduml

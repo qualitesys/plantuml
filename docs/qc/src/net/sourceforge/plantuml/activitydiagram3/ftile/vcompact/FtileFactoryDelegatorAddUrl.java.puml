@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"FtileFactoryDelegator" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddUrl"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddUrl {
++FtileFactoryDelegatorAddUrl(FtileFactory) : FtileFactoryDelegatorAddUrl [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddUrl.java.html#13]]]
++addUrl(Ftile;Url) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddUrl.java.html#18]]]
+} 
+@enduml

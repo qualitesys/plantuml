@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.fun.IconLoader"
+class net.sourceforge.plantuml.fun.IconLoader {
++getRandom() : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#23]]]
+-getSomeQuote() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#28]]]
+-getIcon(String) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#43]]]
+-getIconSlow(String) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#54]]]
+-addTransparent(BufferedImage) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#69]]]
+} 
+@enduml

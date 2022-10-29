@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.openiconic.Movement"
+class net.sourceforge.plantuml.openiconic.Movement {
++Movement(Iterator<SvgCommand>) : Movement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#15]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#26]]]
+-Movement(SvgCommandLetter;SvgCommandNumber...) : Movement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#30]]]
+-Movement(SvgCommandLetter) : Movement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#35]]]
++getLetter() : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#40]]]
+-Movement(SvgCommandLetter;SvgPosition...) : Movement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#44]]]
++mutoToC(SvgPosition) : Movement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#54]]]
++toSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#65]]]
++getSvgPosition(int) : SvgPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#76]]]
++getArgument(int) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#80]]]
++lastPosition() : SvgPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#84]]]
++toAbsoluteUpperCase(SvgPosition) : Movement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#91]]]
++getMirrorControlPoint() : SvgPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#138]]]
++is(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#158]]]
+} 
+@enduml

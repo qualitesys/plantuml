@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.Stereotag"
+class net.sourceforge.plantuml.cucadiagram.Stereotag {
++pattern() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#10]]]
++Stereotag(String) : Stereotag [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#16]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#23]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#28]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#33]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#38]]]
+} 
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+!pragma layout smetana
+"AbstractEventEvent" <|-- "net.sourceforge.plantuml.sequencediagram.Note"
+class net.sourceforge.plantuml.sequencediagram.Note {
++temporaryProtectedUntilTeozIsStandard() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#26]]]
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#40]]]
++getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#44]]]
++Note(Participant;NotePosition;Display;StyleBuilder) : Note [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#51]]]
++Note(Display;NotePosition;NoteStyle;StyleBuilder) : Note [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#55]]]
++Note(Participant;Participant;Display;StyleBuilder) : Note [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#60]]]
+-Note(Participant;Participant;NotePosition;Display;StyleBuilder) : Note [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#64]]]
++setStereotype(Stereotype) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#73]]]
++withPosition(NotePosition) : Note [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#78]]]
++getParticipant() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#90]]]
++getParticipant2() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#94]]]
++getStrings() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#98]]]
++getPosition() : NotePosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#102]]]
++getColors() : Colors [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#106]]]
++setColors(Colors) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#110]]]
++dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#114]]]
++getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#118]]]
++hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#122]]]
++getNoteStyle() : NoteStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#126]]]
++setNoteStyle(NoteStyle) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#130]]]
++getSkinParamBackcolored(ISkinParam) : ISkinParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#134]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#139]]]
++setUrl(Url) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#143]]]
++goParallel() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#149]]]
++isParallel() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Note.java.html#153]]]
+} 
+@enduml

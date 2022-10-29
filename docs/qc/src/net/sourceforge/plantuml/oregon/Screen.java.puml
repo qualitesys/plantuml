@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.oregon.Screen"
+class net.sourceforge.plantuml.oregon.Screen {
++clear() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/Screen.java.html#11]]]
++print(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/Screen.java.html#15]]]
++print() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/Screen.java.html#19]]]
++getLines() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/Screen.java.html#23]]]
++getLastLine() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/Screen.java.html#27]]]
+} 
+@enduml

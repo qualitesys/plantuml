@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.logo.TurtleGraphicsPane"
+class net.sourceforge.plantuml.logo.TurtleGraphicsPane {
++TurtleGraphicsPane(int;int) : TurtleGraphicsPane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#38]]]
++clearScreen() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#44]]]
+-dtor(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#52]]]
+-drawTurtle(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#56]]]
++showTurtle() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#96]]]
++hideTurtle() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#100]]]
++setPenColor(HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#104]]]
+addLine(double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#108]]]
++forward(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#113]]]
++back(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#127]]]
++left(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#131]]]
++right(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#141]]]
++penUp() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#145]]]
++penDown() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#149]]]
++paint(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#153]]]
++message(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#174]]]
+} 
+@enduml

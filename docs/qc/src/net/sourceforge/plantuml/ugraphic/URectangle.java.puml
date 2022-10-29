@@ -1,0 +1,27 @@
+@startuml
+!pragma layout smetana
+"AbstractShadowableUShapeSized" <|-- "net.sourceforge.plantuml.ugraphic.URectangle"
+class net.sourceforge.plantuml.ugraphic.URectangle {
++withHeight(double) : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#18]]]
++withWidth(double) : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#25]]]
++withCommentAndCodeLine(String;String) : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#32]]]
++rounded(double) : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#37]]]
++diagonalCorner(double) : Shadowable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#42]]]
++ignoreForCompressionOnX() : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#62]]]
++ignoreForCompressionOnY() : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#66]]]
++URectangle(double;double) : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#70]]]
++URectangle(XDimension2D) : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#74]]]
+-URectangle(double;double;double;double;String;boolean;boolean;String) : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#78]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#97]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#101]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#105]]]
++getRx() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#109]]]
++getRy() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#113]]]
++clip(UClip) : URectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#117]]]
++getMinMax() : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#121]]]
++getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#125]]]
++getCodeLine() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#129]]]
++drawWhenCompressed(UGraphic;CompressionMode) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#133]]]
++isIgnoreForCompressionOn(CompressionMode) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#149]]]
+} 
+@enduml

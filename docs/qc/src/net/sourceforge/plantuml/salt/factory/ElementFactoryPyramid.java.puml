@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractElementFactoryComplex" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid"
+class net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid {
++ElementFactoryPyramid(DataSource;Dictionary) : ElementFactoryPyramid [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#17]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#21]]]
+-isStar(Element) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#53]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#60]]]
+} 
+@enduml

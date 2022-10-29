@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"PlainStringsDiagram" <|-- "net.sourceforge.plantuml.stats.PSystemStats"
+class net.sourceforge.plantuml.stats.PSystemStats {
+PSystemStats(UmlSource) : PSystemStats [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#12]]]
++create(UmlSource) : PSystemStats [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#18]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#22]]]
+} 
+@enduml

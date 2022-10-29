@@ -1,0 +1,37 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.webp.SubBlock"
+class net.sourceforge.plantuml.webp.SubBlock {
++planeToType(PLANE;Boolean) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#16]]]
++SubBlock(MacroBlock;SubBlock;SubBlock;SubBlock.PLANE) : SubBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#46]]]
+-DCTextra(BoolDecoder;int[]) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#58]]]
++decodeSubBlock(BoolDecoder;int[][][][];int;int;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#68]]]
+-decodeToken(BoolDecoder;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#113]]]
++dequantSubBlock(VP8Frame;Integer) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#142]]]
++drawDebug() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#174]]]
++drawDebugH() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#188]]]
++drawDebugV() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#198]]]
++getAbove() : SubBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#207]]]
++getDebugString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#212]]]
++getDest() : int[][] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#221]]]
++getDiff() : int[][] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#228]]]
++getLeft() : SubBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#233]]]
++getMacroBlock() : MacroBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#238]]]
++getMacroBlockPredict(int) : int[][] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#242]]]
++getMode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#258]]]
++getPlane() : PLANE [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#262]]]
++getPredict() : int[][] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#266]]]
++getPredict(int;boolean) : int[][] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#272]]]
+getTokens() : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#297]]]
++hasNoZeroToken() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#301]]]
++isDest() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#305]]]
++predict(VP8Frame) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#311]]]
++reconstruct() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#537]]]
++setDest(int[][]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#570]]]
++setDiff(int[][]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#574]]]
++setMode(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#578]]]
++setPixel(int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#582]]]
++setPredict(int[][]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#589]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SubBlock.java.html#594]]]
+} 
+@enduml

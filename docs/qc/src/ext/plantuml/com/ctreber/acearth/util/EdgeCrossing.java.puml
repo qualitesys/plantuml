@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.util.EdgeCrossing"
+class ext.plantuml.com.ctreber.acearth.util.EdgeCrossing {
++EdgeCrossing(int;int;double;double;double) : EdgeCrossing [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#15]]]
++toString() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#24]]]
++getType() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#29]]]
++getX() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#34]]]
++getY() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#39]]]
++getAngle() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#44]]]
++getIndex() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#49]]]
+} 
+@enduml

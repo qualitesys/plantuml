@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_Agsym_s"
+class h.ST_Agsym_s {
++createOFFSET(String) : OFFSET [[[./../../.././qc/src/h/ST_Agsym_s.java.html#21]]]
++getTheField(OFFSET) : Object [[[./../../.././qc/src/h/ST_Agsym_s.java.html#26]]]
++isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_Agsym_s.java.html#41]]]
+} 
+@enduml

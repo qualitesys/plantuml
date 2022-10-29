@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"XmiClassDiagramAbstractXmlDiagramTransformer" <|-- "net.sourceforge.plantuml.xmi.XmiClassDiagramArgo"
+class net.sourceforge.plantuml.xmi.XmiClassDiagramArgo {
++XmiClassDiagramArgo(ClassDiagram) : XmiClassDiagramArgo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#14]]]
+-addLink(Link) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#33]]]
+-createEntityNodeRef(IEntity) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#98]]]
+} 
+@enduml

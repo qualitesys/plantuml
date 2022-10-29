@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.hand.UPolygonHand"
+class net.sourceforge.plantuml.ugraphic.hand.UPolygonHand {
++UPolygonHand(UPolygon;Random) : UPolygonHand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UPolygonHand.java.html#15]]]
++getHanddrawn() : Shadowable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UPolygonHand.java.html#31]]]
+} 
+@enduml

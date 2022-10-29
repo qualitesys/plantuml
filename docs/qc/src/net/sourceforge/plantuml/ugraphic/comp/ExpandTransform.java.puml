@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"PiecewiseAffineTransform" <|-- "net.sourceforge.plantuml.ugraphic.comp.ExpandTransform"
+class net.sourceforge.plantuml.ugraphic.comp.ExpandTransform {
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#12]]]
++addExpandIncludingLimit(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#16]]]
++addExpandExcludingLimit(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#20]]]
++transform(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#24]]]
+} 
+@enduml

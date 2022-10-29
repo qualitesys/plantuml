@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.hand.UDotPathHand"
+class net.sourceforge.plantuml.ugraphic.hand.UDotPathHand {
++UDotPathHand(DotPath;Random) : UDotPathHand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UDotPathHand.java.html#14]]]
++getHanddrawn() : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UDotPathHand.java.html#23]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.gitlog.GitCurve"
+class net.sourceforge.plantuml.gitlog.GitCurve {
++GitCurve(ST_Agedgeinfo_t;Mirror) : GitCurve [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#28]]]
+-getPoint(ST_splines;int) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#53]]]
++drawCurve(HColor;UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#59]]]
+} 
+@enduml

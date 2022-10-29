@@ -1,0 +1,32 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea"
+class net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea {
++setLegend(XDimension2D;boolean;HorizontalAlignment) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#34]]]
++getLegendWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#41]]]
++hasLegend() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#45]]]
++getLegendX() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#49]]]
++SequenceDiagramArea(double;double) : SequenceDiagramArea [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#59]]]
++setTitleArea(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#64]]]
+-setCaptionArea(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#69]]]
++setCaptionArea(XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#74]]]
++setHeaderArea(double;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#78]]]
++setFooterArea(double;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#84]]]
++getWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#90]]]
++getHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#94]]]
++getFooterY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#99]]]
++getCaptionY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#103]]]
++getLegendY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#107]]]
++getTitleX() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#115]]]
++getTitleY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#119]]]
++getHeaderHeightMargin() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#123]]]
++getCaptionX() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#127]]]
++getSequenceAreaX() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#131]]]
++getSequenceAreaY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#135]]]
++getHeaderY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#142]]]
++getFooterX(HorizontalAlignment) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#146]]]
++getHeaderX(HorizontalAlignment) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#159]]]
++initFooter(PngTitler;StringBounder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#172]]]
++initHeader(PngTitler;StringBounder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#179]]]
+} 
+@enduml

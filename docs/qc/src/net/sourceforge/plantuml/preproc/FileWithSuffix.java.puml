@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.FileWithSuffix"
+class net.sourceforge.plantuml.preproc.FileWithSuffix {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#30]]]
++getReader(Charset) : Reader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#37]]]
+-getDataFromZip(InputStream;String) : InputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#55]]]
++fileOk() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#72]]]
+FileWithSuffix(SFile;String) : FileWithSuffix [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#76]]]
+FileWithSuffix(String;String;AFile;String) : FileWithSuffix [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#83]]]
+none() : FileWithSuffix [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#90]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#95]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#110]]]
+-same(String;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#115]]]
++getParentFile() : AParentFolder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#125]]]
++getDescription() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#134]]]
++getSuffix() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#138]]]
+-equals(String;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#142]]]
++convert(Set<FileWithSuffix>) : Set<File> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#153]]]
++getFileName(File) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#161]]]
+} 
+@enduml

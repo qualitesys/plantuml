@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.MagmaList"
+class net.sourceforge.plantuml.cucadiagram.MagmaList {
++add(Magma) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#11]]]
++getMagmas(IGroup) : MagmaList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#15]]]
++size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#25]]]
++putInSquare() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#29]]]
+} 
+@enduml

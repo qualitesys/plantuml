@@ -1,0 +1,24 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.Bibliotekon"
+class net.sourceforge.plantuml.svek.Bibliotekon {
++createNode(ILeaf;IEntityImage;ColorSequence;StringBounder) : SvekNode [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#28]]]
++getCluster(IGroup) : Cluster [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#35]]]
++addLine(SvekLine) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#43]]]
+-first(SvekLine) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#64]]]
++addCluster(Cluster) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#72]]]
++getNode(IEntity) : SvekNode [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#76]]]
++getNodeUid(ILeaf) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#80]]]
++getWarningOrError(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#99]]]
++getMaxX() : Map<String,Double> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#114]]]
++allLines() : List<SvekLine> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#125]]]
++lines0() : List<SvekLine> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#129]]]
++lines1() : List<SvekLine> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#133]]]
++allCluster() : List<Cluster> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#137]]]
++allNodes() : Collection<SvekNode> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#141]]]
++getAllLineConnectedTo(IEntity) : List<SvekLine> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#145]]]
++getLine(Link) : SvekLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#154]]]
++getOnlyOther(IEntity) : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#162]]]
++getLeaf(SvekNode) : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#172]]]
+} 
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.FileGroup"
+class net.sourceforge.plantuml.FileGroup {
++FileGroup(String;List<String>;Option) : FileGroup [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#22]]]
+-recurse() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#37]]]
+-initNoStar() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#52]]]
+-addResultFile(File) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#61]]]
+-addSimpleDirectory(File) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#70]]]
+-addSimpleDirectory(File;String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#78]]]
+-getNormalizedPath(File) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#89]]]
+-initWithSimpleStar() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#95]]]
+-initWithDoubleStar(File) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#113]]]
++getFiles() : List<File> [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#127]]]
++toRegexp(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileGroup.java.html#131]]]
+} 
+@enduml

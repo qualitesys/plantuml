@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.Util"
+class net.sourceforge.plantuml.zopfli.Util {
+-cacheDistSymbol() : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Util.java.html#91]]]
+-distSymbol(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Util.java.html#99]]]
+-precacheDistExtraBits() : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Util.java.html#140]]]
+-distExtraBits(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Util.java.html#148]]]
+distExtraBitsValue(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Util.java.html#179]]]
+} 
+@enduml

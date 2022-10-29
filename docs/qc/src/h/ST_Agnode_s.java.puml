@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"ST_Agobj_s" <|-- "h.ST_Agnode_s"
+class h.ST_Agnode_s {
++toString() : String [[[./../../.././qc/src/h/ST_Agnode_s.java.html#19]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_Agnode_s.java.html#28]]]
++isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_Agnode_s.java.html#33]]]
+} 
+@enduml

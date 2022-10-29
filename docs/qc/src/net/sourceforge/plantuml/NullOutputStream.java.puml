@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"OutputStream" <|-- "net.sourceforge.plantuml.NullOutputStream"
+class net.sourceforge.plantuml.NullOutputStream {
++write(int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#12]]]
++write(byte[]) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#18]]]
++write(byte[];int;int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#24]]]
+} 
+@enduml

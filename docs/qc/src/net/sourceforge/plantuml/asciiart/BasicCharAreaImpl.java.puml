@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"BasicCharArea" <|-- "net.sourceforge.plantuml.asciiart.BasicCharAreaImpl"
+class net.sourceforge.plantuml.asciiart.BasicCharAreaImpl {
++BasicCharAreaImpl() : BasicCharAreaImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#21]]]
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#30]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#34]]]
++drawChar(char;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#38]]]
+-isLong(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#49]]]
+-ensurePossible(int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#61]]]
++drawStringLR(String;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#88]]]
++drawStringTB(String;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#101]]]
++getLine(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#107]]]
++print(PrintStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#118]]]
++getLines() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#124]]]
++drawHLine(char;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#132]]]
++drawHLine(char;int;int;int;char;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#138]]]
++drawVLine(char;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#149]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#156]]]
++fillRect(char;int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#160]]]
+} 
+@enduml

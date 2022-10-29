@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"IEntity" <|-- "net.sourceforge.plantuml.cucadiagram.IGroup"
+class net.sourceforge.plantuml.cucadiagram.IGroup {
++containsLeafRecurse(ILeaf) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#14]]]
++getLeafsDirect() : Collection<ILeaf> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#16]]]
++getChildren() : Collection<IGroup> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#18]]]
++moveEntitiesTo(IGroup) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#20]]]
++size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#22]]]
++getGroupType() : GroupType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#24]]]
++getNamespace() : Code [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#26]]]
++getPackageStyle() : PackageStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#28]]]
++overrideImage(IEntityImage;LeafType) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#30]]]
++getSingleStrategy() : SingleStrategy [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#32]]]
++getFontConfigurationForTitle(ISkinParam) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#34]]]
++getConcurrentSeparator() : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#36]]]
++setConcurrentSeparator(char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#38]]]
++setLegend(DisplayPositioned) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#40]]]
++getLegend() : DisplayPositioned [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/IGroup.java.html#42]]]
+} 
+@enduml

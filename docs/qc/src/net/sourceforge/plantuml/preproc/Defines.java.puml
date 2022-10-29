@@ -1,0 +1,29 @@
+@startuml
+!pragma layout smetana
+"Truth" <|-- "net.sourceforge.plantuml.preproc.Defines"
+class net.sourceforge.plantuml.preproc.Defines {
++Defines() : Defines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#37]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#42]]]
++createEmpty() : Defines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#46]]]
++copyTo(TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#50]]]
++overrideFilename(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#59]]]
++importFrom(Defines) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#66]]]
++cloneMe() : Defines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#72]]]
++createWithFileName(SFile) : Defines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#78]]]
++createWithFileName(java.io.File) : Defines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#90]]]
+-createWithMap(Map<String,String>) : Defines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#102]]]
++getEnvironmentValue(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#110]]]
+-nameNoExtension(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#114]]]
++define(String;List<String>;boolean;AParentFolder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#122]]]
++isDefine(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#127]]]
++isTrue(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#137]]]
++undefine(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#146]]]
++applyDefines(String) : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#151]]]
+-method1(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#160]]]
+-getAll() : Map<String,Collection<Define>> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#167]]]
+-method2(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#182]]]
+-words(String) : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#200]]]
+-manageEnvironment(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#211]]]
+-manageDate(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#222]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Writer" <|-- "ext.plantuml.com.google.zxing.qrcode.QRCodeWriter"
+class ext.plantuml.com.google.zxing.qrcode.QRCodeWriter {
++encode(String;BarcodeFormat;int) : BitMatrix [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html#22]]]
++encode(String;BarcodeFormat;int;Hashtable) : BitMatrix [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html#27]]]
+-renderResult(QRCode;int) : BitMatrix [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html#53]]]
+} 
+@enduml

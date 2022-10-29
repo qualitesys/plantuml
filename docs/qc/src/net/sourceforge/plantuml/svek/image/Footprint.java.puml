@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.image.Footprint"
+class net.sourceforge.plantuml.svek.image.Footprint {
++Footprint(StringBounder) : Footprint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#35]]]
++getEllipse(UDrawable;double) : ContainingEllipse [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#135]]]
+} 
+@enduml

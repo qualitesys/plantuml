@@ -1,0 +1,30 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cgraph.attr__c"
+class gen.lib.cgraph.attr__c {
++agdatadict(ST_Agraph_s;boolean) : ST_Agdatadict_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#73]]]
++agdictof(ST_Agraph_s;int) : ST_dt_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#92]]]
++agnewsym(ST_Agraph_s;CString;CString;int;int) : ST_Agsym_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#127]]]
++agcopydict(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#149]]]
++agmakedatadict(ST_Agraph_s) : ST_Agdatadict_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#159]]]
++agdictsym(ST_dt_s;CString) : ST_Agsym_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#194]]]
++aglocaldictsym(ST_dt_s;CString) : ST_Agsym_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#209]]]
++agattrsym(__ptr__;CString) : ST_Agsym_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#227]]]
++topdictsize(ST_Agobj_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#253]]]
++agmakeattrs(ST_Agraph_s;ST_Agobj_s) : ST_Agrec_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#268]]]
++freesym(ST_dt_s;Object;ST_dtdisc_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#309]]]
++agattrrec(__ptr__) : ST_Agattr_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#334]]]
++addattr(ST_Agraph_s;ST_Agobj_s;ST_Agsym_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#352]]]
++setattr(ST_Agraph_s;int;CString;CString) : ST_Agsym_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#375]]]
++getattr(ST_Agraph_s;int;CString) : ST_Agsym_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#436]]]
++agattr(ST_Agraph_s;int;CString;CString) : ST_Agsym_s [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#454]]]
++agraphattr_init(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#476]]]
++agnodeattr_init(ST_Agraph_s;ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#496]]]
++agedgeattr_init(ST_Agraph_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#513]]]
++agget(__ptr__;CString) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#529]]]
++agxget(__ptr__;ST_Agsym_s) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#553]]]
++agxset(ST_Agobj_s;ST_Agsym_s;CString) : int [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#571]]]
++agsafeset(ST_Agobj_s;CString;CString;CString) : int [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#607]]]
++init_all_attrs(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/attr__c.java.html#627]]]
+} 
+@enduml

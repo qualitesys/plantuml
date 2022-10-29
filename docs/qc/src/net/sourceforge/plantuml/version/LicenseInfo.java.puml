@@ -1,0 +1,26 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.version.LicenseInfo"
+class net.sourceforge.plantuml.version.LicenseInfo {
++LicenseInfo(LicenseType;long;long;String;String;byte[]) : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#35]]]
++persistMe(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#45]]]
++retrieveQuick() : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#52]]]
++retrieveNamedOrDistributorQuickIsValid() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#62]]]
++retrieveNamedSlow() : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#66]]]
++retrieveNamed(String) : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#98]]]
++retrieveDistributorImage(LicenseInfo) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#111]]]
++retrieveDistributor() : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#136]]]
++fileCandidates() : Collection<SFile> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#160]]]
+-setIfValid(LicenseInfo;LicenseInfo) : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#178]]]
+-retrieve(SFile) : LicenseInfo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#185]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#202]]]
++getGenerationDate() : Date [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#209]]]
++getExpirationDate() : Date [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#213]]]
++getOwner() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#217]]]
++isNone() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#221]]]
++isValid() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#225]]]
++hasExpired() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#229]]]
++getLicenseType() : LicenseType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#233]]]
++getContext() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#237]]]
+} 
+@enduml

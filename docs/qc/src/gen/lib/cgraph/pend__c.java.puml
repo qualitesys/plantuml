@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cgraph.pend__c"
+class gen.lib.cgraph.pend__c {
++agrecord_callback(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/pend__c.java.html#25]]]
+} 
+@enduml

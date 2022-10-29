@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes"
+class net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes {
++LiveBoxes(Participant;List<Event>;Rose;ISkinParam) : LiveBoxes [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#35]]]
++addStep(Event;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#42]]]
++getParticipant() : Participant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#52]]]
++getLevelAt(Event;EventsHistoryMode) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#56]]]
+-getLevelAtInternal(Event;EventsHistoryMode) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#60]]]
+-isNextEventADestroy(Event) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#103]]]
+-getActivateColor(Event) : SymbolContext [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#121]]]
+-nextButSkippingNotes(Iterator<Event>) : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#148]]]
++getStairs(double;double) : Stairs [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#162]]]
+-isActivateAnDeactivate(Event) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#180]]]
++getMaxValue() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#188]]]
++getMaxPosition(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#208]]]
++drawBoxes(UGraphic;Context2D;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#214]]]
+-drawDestroys(UGraphic;Stairs;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#225]]]
+-drawOneLevel(UGraphic;int;Stairs;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#232]]]
++delayOn(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#251]]]
+} 
+@enduml

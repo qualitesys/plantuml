@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandClock"
+class net.sourceforge.plantuml.timingdiagram.command.CommandClock {
++CommandClock() : CommandClock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandClock.java.html#16]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandClock.java.html#20]]]
+executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandClock.java.html#56]]]
+-getInt(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandClock.java.html#68]]]
+} 
+@enduml

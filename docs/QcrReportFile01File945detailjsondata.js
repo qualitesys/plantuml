@@ -1,0 +1,96 @@
+console.log('leListeStr main01 start json de data maDataBlocs');
+var maDataBlocs = {
+"data00" : {
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandNope.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/command/CommandNope.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandNope.java.xml" 
+ , "fic3"  : "" 
+}
+, 
+"data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "SingleLineCommand2<Diagram>"
+ , "c2" : "net.sourceforge.plantuml.command.CommandNope"
+}} 
+]
+, 
+"data02" : [
+{ "classe" : 
+ { "nomclasse" : "net.sourceforge.plantuml.command.CommandNope" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandNope.java.html#13"
+ , "c1" : "CommandNope"
+ , "c2" : "CommandNope()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandNope.java.html#17"
+ , "c1" : "IRegex"
+ , "c2" : "getRegexConcat()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandNope.java.html#24"
+ , "c1" : "CommandExecutionResult"
+ , "c2" : "executeArg(Diagram;LineLocation;RegexResult)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+] 
+}} 
+]
+, 
+"data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandNope.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandNope.java.svg" }
+
+] 
+, 
+"data04" : [
+]
+, 
+"data05" : [
+]
+, 
+"data06" : [
+]
+, 
+"data07" : [
+]
+, 
+"data08" : [
+]
+, 
+"data11" : [
+]
+, 
+"data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNope.java.html#24"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00024] For method executeArg arguments Diagram  diagram|LineLocation  location|RegexResult  arg"
+}} 
+]
+};
+console.log('leListeStr 99 main end');

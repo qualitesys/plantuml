@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.PointDirected"
+class net.sourceforge.plantuml.svek.PointDirected {
++PointDirected(XPoint2D;double) : PointDirected [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointDirected.java.html#12]]]
++getPoint2D() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointDirected.java.html#18]]]
++getAngle() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointDirected.java.html#22]]]
+} 
+@enduml

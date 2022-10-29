@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"__ptr__" <|-- "smetana.core.UnsupportedC"
+class smetana.core.UnsupportedC {
++UnsupportedC() : UnsupportedC [[[./../../../.././qc/src/smetana/core/UnsupportedC.java.html#12]]]
++isSameThan(__ptr__) : boolean [[[./../../../.././qc/src/smetana/core/UnsupportedC.java.html#16]]]
++castTo(Class) : __ptr__ [[[./../../../.././qc/src/smetana/core/UnsupportedC.java.html#20]]]
++getTheField(OFFSET) : Object [[[./../../../.././qc/src/smetana/core/UnsupportedC.java.html#24]]]
++unsupported() : __ptr__ [[[./../../../.././qc/src/smetana/core/UnsupportedC.java.html#28]]]
+} 
+@enduml

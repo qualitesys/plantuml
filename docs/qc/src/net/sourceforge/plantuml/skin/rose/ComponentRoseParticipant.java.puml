@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"AbstractTextualComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant"
+class net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant {
++ComponentRoseParticipant(Style;Style;Display;ISkinSimple;double;boolean;double) : ComponentRoseParticipant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#33]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#51]]]
+-getDeltaCollection() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#72]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#80]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#85]]]
+getPureTextWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#90]]]
+-suppWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#94]]]
+} 
+@enduml

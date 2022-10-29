@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.nwdiag.next.NwArray"
+class net.sourceforge.plantuml.nwdiag.next.NwArray {
++NwArray(int;int) : NwArray [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NwArray.java.html#8]]]
++getNbLines() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NwArray.java.html#12]]]
++getNbCols() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NwArray.java.html#16]]]
++get(int;int) : LinkedElement [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NwArray.java.html#20]]]
++getLine(int) : LinkedElement[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NwArray.java.html#24]]]
++set(int;int;LinkedElement) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NwArray.java.html#28]]]
+} 
+@enduml

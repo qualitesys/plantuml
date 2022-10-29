@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageAssociationPoint"
+class net.sourceforge.plantuml.svek.image.EntityImageAssociationPoint {
++EntityImageAssociationPoint(ILeaf;ISkinParam) : EntityImageAssociationPoint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#24]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#28]]]
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#32]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#37]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#44]]]
+} 
+@enduml

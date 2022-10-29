@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"PlainDiagram" <|-- "net.sourceforge.plantuml.PlainStringsDiagram"
+class net.sourceforge.plantuml.PlainStringsDiagram {
++PlainStringsDiagram(UmlSource) : PlainStringsDiagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/PlainStringsDiagram.java.html#21]]]
++getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../.././qc/src/net/sourceforge/plantuml/PlainStringsDiagram.java.html#26]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.algorithm.Initialize"
+class net.sourceforge.plantuml.argon2.algorithm.Initialize {
++initialize(Instance;Argon2) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Initialize.java.html#15]]]
+-fillFirstBlocks(Instance;byte[]) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Initialize.java.html#36]]]
+-getInitialHashLong(byte[];byte[]) : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Initialize.java.html#59]]]
+} 
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"JFrame" <|-- "net.sourceforge.plantuml.swing.AboutWindow"
+class net.sourceforge.plantuml.swing.AboutWindow {
++AboutWindow() : AboutWindow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#32]]]
+-getNorthLabel() : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#52]]]
+-getSouthLabel() : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#68]]]
+-getInfoVersion() : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#87]]]
+-getInfoAuthors() : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#92]]]
+-skip(List<String>) : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#97]]]
+-getJComponent(List<String>) : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#101]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#118]]]
+} 
+@enduml

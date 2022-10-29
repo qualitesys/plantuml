@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<BoardDiagram>" <|-- "net.sourceforge.plantuml.board.CommandBoardPlus"
+class net.sourceforge.plantuml.board.CommandBoardPlus {
++CommandBoardPlus() : CommandBoardPlus [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#14]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#18]]]
+executeArg(BoardDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#26]]]
+} 
+@enduml

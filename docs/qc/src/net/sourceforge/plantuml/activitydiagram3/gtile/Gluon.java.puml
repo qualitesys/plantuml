@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.Gluon"
+class net.sourceforge.plantuml.activitydiagram3.gtile.Gluon {
+} 
+@enduml

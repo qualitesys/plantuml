@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.Cookie"
+class net.sourceforge.plantuml.zopfli.Cookie {
+expand(Object) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#34]]]
+node(int;int;Node) : Node [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#97]]]
+resetPool() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#105]]]
+fill0(int[];int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#109]]]
+fill0(char[];int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#121]]]
+fillCostMax(long[];int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#133]]]
+Cookie(int) : Cookie [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#148]]]
+} 
+@enduml

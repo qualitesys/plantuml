@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"AbstractComponentRoseArrow" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseSelfArrow"
+class net.sourceforge.plantuml.skin.rose.ComponentRoseSelfArrow {
++ComponentRoseSelfArrow(Style;Display;ArrowConfiguration;ISkinSimple;LineBreakStrategy;boolean) : ComponentRoseSelfArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#28]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#35]]]
+-getPolygon() : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#129]]]
++getStartPoint(StringBounder;XDimension2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#152]]]
++getEndPoint(StringBounder;XDimension2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#157]]]
++getYPoint(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#164]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#171]]]
+-getArrowOnlyHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#175]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#180]]]
++getPosArrow(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseSelfArrow.java.html#184]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.common.memory__c"
+class gen.lib.common.memory__c {
++zmalloc(size_t) : __ptr__ [[[./../../../../.././qc/src/gen/lib/common/memory__c.java.html#19]]]
++gmalloc(size_t) : __ptr__ [[[./../../../../.././qc/src/gen/lib/common/memory__c.java.html#38]]]
++grealloc(__ptr__;size_t) : __ptr__ [[[./../../../../.././qc/src/gen/lib/common/memory__c.java.html#61]]]
+} 
+@enduml

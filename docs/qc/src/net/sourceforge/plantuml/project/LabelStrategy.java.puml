@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.LabelStrategy"
+class net.sourceforge.plantuml.project.LabelStrategy {
++LabelStrategy(LabelPosition;HorizontalAlignment) : LabelStrategy [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#11]]]
++titleInFirstColumn() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#16]]]
++titleInLastColumn() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#20]]]
++titleInside() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#24]]]
++rightAligned() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#28]]]
+} 
+@enduml

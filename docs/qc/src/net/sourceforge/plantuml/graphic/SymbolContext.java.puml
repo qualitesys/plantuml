@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.SymbolContext"
+class net.sourceforge.plantuml.graphic.SymbolContext {
+-SymbolContext(HColor;HColor;UStroke;double;double;double) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#18]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#29]]]
++apply(UGraphic) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#33]]]
++applyColors(UGraphic) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#39]]]
++applyStroke(UGraphic) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#52]]]
++SymbolContext(HColor;HColor) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#56]]]
++withShadow(double) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#60]]]
++withDeltaShadow(double) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#64]]]
++withStroke(UStroke) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#68]]]
++withBackColor(HColor) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#72]]]
++withForeColor(HColor) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#76]]]
++withCorner(double;double) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#80]]]
++getBackColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#84]]]
++getForeColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#88]]]
++getStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#92]]]
++isShadowing() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#96]]]
++getDeltaShadow() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#100]]]
++getRoundCorner() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#104]]]
++getDiagonalCorner() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SymbolContext.java.html#108]]]
+} 
+@enduml

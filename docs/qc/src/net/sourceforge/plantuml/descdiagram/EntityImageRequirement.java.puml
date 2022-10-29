@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImage" <|-- "net.sourceforge.plantuml.descdiagram.EntityImageRequirement"
+class net.sourceforge.plantuml.descdiagram.EntityImageRequirement {
++EntityImageRequirement(ILeaf;ISkinParam) : EntityImageRequirement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#43]]]
+-getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#62]]]
+-getStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#68]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#76]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#80]]]
++getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#107]]]
+} 
+@enduml

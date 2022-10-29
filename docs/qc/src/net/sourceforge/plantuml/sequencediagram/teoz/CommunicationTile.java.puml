@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"AbstractTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile"
+class net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile {
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#36]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#41]]]
++CommunicationTile(StringBounder;LivingSpaces;Message;Rose;ISkinParam;YGauge) : CommunicationTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#45]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#68]]]
++isReverse(StringBounder) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#72]]]
+-isCreate() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#81]]]
+-getArrowThickness() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#85]]]
+-getComponent(StringBounder) : ArrowComponent [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#93]]]
+-getComponentMulticast(StringBounder;boolean) : ArrowComponent [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#104]]]
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#115]]]
+callbackY_internal(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#122]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#136]]]
+-drawMulticast(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#182]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#203]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#213]]]
+-getPoint1(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#237]]]
+-getPoint2(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#241]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#251]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#258]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"CucaDiagram" <|-- "net.sourceforge.plantuml.classdiagram.AbstractEntityDiagram"
+class net.sourceforge.plantuml.classdiagram.AbstractEntityDiagram {
++AbstractEntityDiagram(UmlSource;UmlDiagramType;Map<String,String>) : AbstractEntityDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/AbstractEntityDiagram.java.html#17]]]
+getDotStrings() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/AbstractEntityDiagram.java.html#21]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/AbstractEntityDiagram.java.html#33]]]
+} 
+@enduml

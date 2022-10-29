@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"AbstractRealReal" <|-- "net.sourceforge.plantuml.real.RealMoveable"
+class net.sourceforge.plantuml.real.RealMoveable {
+RealMoveable(RealLine;String) : RealMoveable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#15]]]
+move(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#22]]]
++printCreationStackTrace() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#24]]]
++addFixed(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#28]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#33]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#37]]]
+} 
+@enduml

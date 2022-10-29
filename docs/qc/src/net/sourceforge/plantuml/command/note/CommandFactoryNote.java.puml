@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"SingleMultiFactoryCommand<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.command.note.CommandFactoryNote"
+class net.sourceforge.plantuml.command.note.CommandFactoryNote {
+-getRegexConcatMultiLine() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNote.java.html#29]]]
+-getRegexConcatSingleLine() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNote.java.html#44]]]
++createSingleLine() : Command<AbstractEntityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNote.java.html#64]]]
++createMultiLine(boolean) : Command<AbstractEntityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNote.java.html#77]]]
+-executeInternal(AbstractEntityDiagram;RegexResult;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNote.java.html#97]]]
+} 
+@enduml

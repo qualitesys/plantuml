@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"UDrawable" <|-- "net.sourceforge.plantuml.svek.RoundedNorth"
+class net.sourceforge.plantuml.svek.RoundedNorth {
++RoundedNorth(double;double;HColor;double) : RoundedNorth [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/RoundedNorth.java.html#19]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/RoundedNorth.java.html#31]]]
+} 
+@enduml

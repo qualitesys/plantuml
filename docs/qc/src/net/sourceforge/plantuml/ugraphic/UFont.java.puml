@@ -1,0 +1,32 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.UFont"
+class net.sourceforge.plantuml.ugraphic.UFont {
++toStringDebug() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#24]]]
++UFont(String;int;int) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#32]]]
+-buildFont(String;int;int) : Font [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#36]]]
+-doesFamilyExists(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#48]]]
++serif(int) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#52]]]
++sansSerif(int) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#56]]]
++courier(int) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#60]]]
++byDefault(int) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#64]]]
++goTikz(int) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#68]]]
++monospaced(int) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#72]]]
+-UFont(Font;String) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#76]]]
++getUnderlayingFont() : Font [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#81]]]
++withSize(float) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#85]]]
++withStyle(int) : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#89]]]
++bold() : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#93]]]
++italic() : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#97]]]
++getStyle() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#101]]]
++getSize() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#105]]]
++getSize2D() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#109]]]
++isBold() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#113]]]
++isItalic() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#117]]]
++getFamily(UFontContext) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#121]]]
+-getPortableFontName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#139]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#152]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#157]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#162]]]
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"UDriver<UText,BrailleGrid>" <|-- "net.sourceforge.plantuml.braille.DriverTextBraille"
+class net.sourceforge.plantuml.braille.DriverTextBraille {
++DriverTextBraille() : DriverTextBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#11]]]
++draw(UText;double;double;ColorMapper;UParam;BrailleGrid) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14]]]
+} 
+@enduml

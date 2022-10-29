@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_BestPos_t"
+class h.ST_BestPos_t {
++copy() : __struct__ [[[./../../.././qc/src/h/ST_BestPos_t.java.html#14]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_BestPos_t.java.html#22]]]
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.TwoLinesIntersection"
+class net.sourceforge.plantuml.posimo.TwoLinesIntersection {
++TwoLinesIntersection(Line2D;Line2D) : TwoLinesIntersection [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/TwoLinesIntersection.java.html#12]]]
++getIntersection() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/TwoLinesIntersection.java.html#36]]]
+} 
+@enduml

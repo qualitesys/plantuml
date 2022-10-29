@@ -1,0 +1,24 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.WithLinkType"
+class net.sourceforge.plantuml.cucadiagram.WithLinkType {
++getSpecificColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#25]]]
++setSpecificColor(HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#29]]]
++setSpecificColor(HColor;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#33]]]
++getSupplementaryColors() : List<Colors> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#41]]]
++setColors(Colors) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#45]]]
++getColors() : Colors [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#49]]]
++goDashed() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#53]]]
++goDotted() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#57]]]
++goThickness(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#61]]]
++goHidden() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#65]]]
++goNorank() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#69]]]
++goBold() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#71]]]
++goSingle() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#75]]]
++isSingle() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#79]]]
++applyStyle(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#83]]]
+-applyOneStyle(String;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#96]]]
++getType() : LinkType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#123]]]
++getUStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#127]]]
+} 
+@enduml

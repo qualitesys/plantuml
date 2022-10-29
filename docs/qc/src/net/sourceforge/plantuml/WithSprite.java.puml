@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"Diagram" <|-- "net.sourceforge.plantuml.WithSprite"
+class net.sourceforge.plantuml.WithSprite {
++addSprite(String;Sprite) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/WithSprite.java.html#9]]]
+} 
+@enduml

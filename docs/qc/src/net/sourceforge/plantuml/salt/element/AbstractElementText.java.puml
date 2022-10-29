@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.AbstractElementText"
+class net.sourceforge.plantuml.salt.element.AbstractElementText {
++AbstractElementText(String;UFont;boolean;ISkinSimple) : AbstractElementText [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#23]]]
+-getCharNumber(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#34]]]
+drawText(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#40]]]
+getPureTextDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#44]]]
+getTextDimensionAt(StringBounder;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#48]]]
+-getSingleSpace(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#61]]]
+getConfig() : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#77]]]
+} 
+@enduml

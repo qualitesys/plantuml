@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"GraphicAttributes" <|-- "jcckit.graphic.TextAttributes"
+class jcckit.graphic.TextAttributes {
++getTextColor() : Color [[[./../../../.././qc/src/jcckit/graphic/TextAttributes.java.html#9]]]
++getFontName() : String [[[./../../../.././qc/src/jcckit/graphic/TextAttributes.java.html#12]]]
++getFontStyle() : FontStyle [[[./../../../.././qc/src/jcckit/graphic/TextAttributes.java.html#15]]]
++getFontSize() : double [[[./../../../.././qc/src/jcckit/graphic/TextAttributes.java.html#18]]]
++getOrientationAngle() : double [[[./../../../.././qc/src/jcckit/graphic/TextAttributes.java.html#21]]]
++getHorizontalAnchor() : Anchor [[[./../../../.././qc/src/jcckit/graphic/TextAttributes.java.html#24]]]
++getVerticalAnchor() : Anchor [[[./../../../.././qc/src/jcckit/graphic/TextAttributes.java.html#27]]]
+} 
+@enduml

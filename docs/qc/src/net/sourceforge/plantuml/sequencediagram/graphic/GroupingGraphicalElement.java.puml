@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"GraphicalElement" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement"
+class net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement {
++GroupingGraphicalElement(double;InGroupableList) : GroupingGraphicalElement [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElement.java.html#13]]]
++getActualWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElement.java.html#18]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElement.java.html#25]]]
+getInGroupableList() : InGroupableList [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElement.java.html#29]]]
+} 
+@enduml

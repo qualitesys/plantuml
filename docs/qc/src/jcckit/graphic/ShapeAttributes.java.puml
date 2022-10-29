@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"LineAttributes" <|-- "jcckit.graphic.ShapeAttributes"
+class jcckit.graphic.ShapeAttributes {
++ShapeAttributes(ConfigParameters) : ShapeAttributes [[[./../../../.././qc/src/jcckit/graphic/ShapeAttributes.java.html#22]]]
++ShapeAttributes(Color;Color;double;double[]) : ShapeAttributes [[[./../../../.././qc/src/jcckit/graphic/ShapeAttributes.java.html#30]]]
++getFillColor() : Color [[[./../../../.././qc/src/jcckit/graphic/ShapeAttributes.java.html#38]]]
++getLineColor() : Color [[[./../../../.././qc/src/jcckit/graphic/ShapeAttributes.java.html#42]]]
++getLineThickness() : double [[[./../../../.././qc/src/jcckit/graphic/ShapeAttributes.java.html#46]]]
++getLinePattern() : double[] [[[./../../../.././qc/src/jcckit/graphic/ShapeAttributes.java.html#50]]]
+} 
+@enduml

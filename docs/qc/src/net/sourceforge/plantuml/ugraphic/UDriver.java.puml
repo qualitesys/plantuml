@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.UDriver"
+class net.sourceforge.plantuml.ugraphic.UDriver {
++draw(SHAPE;double;double;ColorMapper;UParam;O) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UDriver.java.html#7]]]
+} 
+@enduml

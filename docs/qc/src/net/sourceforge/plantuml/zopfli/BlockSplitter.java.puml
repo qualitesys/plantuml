@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.BlockSplitter"
+class net.sourceforge.plantuml.zopfli.BlockSplitter {
+split(Cookie;byte[];int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#7]]]
+splitLz(Cookie;char[];char[];int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#30]]]
+-findMinimum(Cookie;char[];char[];int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#90]]]
+} 
+@enduml

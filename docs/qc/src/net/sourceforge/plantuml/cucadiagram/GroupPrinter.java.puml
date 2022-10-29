@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.GroupPrinter"
+class net.sourceforge.plantuml.cucadiagram.GroupPrinter {
+-GroupPrinter(PrintWriter) : GroupPrinter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/GroupPrinter.java.html#14]]]
+-printGroup(IGroup) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/GroupPrinter.java.html#18]]]
+-printLeaf(ILeaf) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/GroupPrinter.java.html#50]]]
++print(SFile;IGroup) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/GroupPrinter.java.html#54]]]
+} 
+@enduml

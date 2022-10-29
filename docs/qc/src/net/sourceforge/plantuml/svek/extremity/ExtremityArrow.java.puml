@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityArrow"
+class net.sourceforge.plantuml.svek.extremity.ExtremityArrow {
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#20]]]
++ExtremityArrow(XPoint2D;double;XPoint2D) : ExtremityArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#24]]]
++ExtremityArrow(XPoint2D;double) : ExtremityArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#34]]]
+-buildPolygon() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#43]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#55]]]
++drawLineIfTransparent(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#68]]]
+} 
+@enduml

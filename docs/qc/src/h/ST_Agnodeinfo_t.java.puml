@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"ST_Agrec_s" <|-- "h.ST_Agnodeinfo_t"
+class h.ST_Agnodeinfo_t {
+} 
+@enduml

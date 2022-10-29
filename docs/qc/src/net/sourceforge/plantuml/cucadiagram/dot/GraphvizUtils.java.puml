@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils"
+class net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils {
+-isWindows() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#26]]]
++getDotExecutableForTest() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#32]]]
++setDotExecutable(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#36]]]
++createForSystemDot(ISkinParam;String;String...) : Graphviz [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#40]]]
++create(ISkinParam;String;String...) : Graphviz [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#59]]]
+-useVizJs(ISkinParam) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#78]]]
++getDotExe() : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#88]]]
++getenvGraphvizDot() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#92]]]
++removeLocalLimitSize() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#109]]]
++setLocalImageLimit(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#113]]]
++getenvImageLimit() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#117]]]
++getenvDefaultConfigFilename() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#129]]]
++getenvLogData() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#133]]]
++dotVersion() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#139]]]
++graphviz244onWindows() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#152]]]
++retrieveVersion(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#161]]]
++getDotVersion() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#173]]]
++addDotStatus(List<String>;boolean) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#177]]]
+getTestCreateSimpleFile() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#251]]]
+} 
+@enduml

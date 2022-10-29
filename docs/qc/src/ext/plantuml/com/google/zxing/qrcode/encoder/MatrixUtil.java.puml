@@ -1,0 +1,27 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil"
+class ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil {
+-MatrixUtil() : MatrixUtil [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#12]]]
++clearMatrix(ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#116]]]
++buildMatrix(BitArray;ErrorCorrectionLevel;int;int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#122]]]
++embedBasicPatterns(int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#140]]]
++embedTypeInfo(ErrorCorrectionLevel;int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#153]]]
++maybeEmbedVersionInfo(int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#184]]]
++embedDataBits(BitArray;int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#208]]]
++findMSBSet(int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#262]]]
++calculateBCHCode(int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#296]]]
++makeTypeInfoBits(ErrorCorrectionLevel;int;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#312]]]
++makeVersionInfoBits(int;BitArray) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#334]]]
+-isEmpty(int) : boolean [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#345]]]
+-isValidValue(int) : boolean [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#350]]]
+-embedTimingPatterns(ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#356]]]
+-embedDarkDotAtLeftBottomCorner(ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#379]]]
+-embedHorizontalSeparationPattern(int;int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#386]]]
+-embedVerticalSeparationPattern(int;int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#400]]]
+-embedPositionAdjustmentPattern(int;int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#417]]]
+-embedPositionDetectionPattern(int;int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#433]]]
+-embedPositionDetectionPatternsAndSeparators(ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#450]]]
+-maybeEmbedPositionAdjustmentPatterns(int;ByteMatrix) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#482]]]
+} 
+@enduml

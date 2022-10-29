@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Connection" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.AbstractConnection"
+class net.sourceforge.plantuml.activitydiagram3.ftile.AbstractConnection {
++AbstractConnection(Ftile;Ftile) : AbstractConnection [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.html#11]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.html#17]]]
++getFtile1() : Ftile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.html#21]]]
++getFtile2() : Ftile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.html#25]]]
++arrowHorizontalAlignment() : HorizontalAlignment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.html#29]]]
+} 
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.StringLocated"
+class net.sourceforge.plantuml.StringLocated {
++StringLocated(String;LineLocation) : StringLocated [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#21]]]
++StringLocated(String;LineLocation;String) : StringLocated [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#25]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#32]]]
++append(String) : StringLocated [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#36]]]
++mergeEndBackslash(StringLocated) : StringLocated [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#40]]]
++withErrorPreprocessor(String) : StringLocated [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#47]]]
++substring(int;int) : StringLocated [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#51]]]
++substring(int) : StringLocated [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#56]]]
++getTrimmed() : StringLocated [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#60]]]
++removeInnerComment() : StringLocated [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#69]]]
+-removeSpecialInnerComment(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#91]]]
++getString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#98]]]
++getLocation() : LineLocation [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#102]]]
++getPreprocessorError() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#106]]]
++getFoxSignature() : long [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#110]]]
++getType() : TLineType [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#117]]]
++length() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/StringLocated.java.html#124]]]
+} 
+@enduml

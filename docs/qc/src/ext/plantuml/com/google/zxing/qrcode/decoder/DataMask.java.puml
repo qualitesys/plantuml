@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.qrcode.decoder.DataMask"
+class ext.plantuml.com.google.zxing.qrcode.decoder.DataMask {
+-DataMask() : DataMask [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#22]]]
+unmaskBitMatrix(BitMatrix;int) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#26]]]
+isMasked(int;int) : boolean [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#36]]]
+forReference(int) : DataMask [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#39]]]
+} 
+@enduml

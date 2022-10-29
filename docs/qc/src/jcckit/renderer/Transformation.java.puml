@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.renderer.Transformation"
+class jcckit.renderer.Transformation {
++toString() : String [[[./../../../.././qc/src/jcckit/renderer/Transformation.java.html#14]]]
++Transformation(int;int;ClippingRectangle;Anchor;Anchor) : Transformation [[[./../../../.././qc/src/jcckit/renderer/Transformation.java.html#19]]]
++transformX(double) : int [[[./../../../.././qc/src/jcckit/renderer/Transformation.java.html#31]]]
++transformY(double) : int [[[./../../../.././qc/src/jcckit/renderer/Transformation.java.html#36]]]
++transformWidth(double) : int [[[./../../../.././qc/src/jcckit/renderer/Transformation.java.html#41]]]
++transformHeight(double) : int [[[./../../../.././qc/src/jcckit/renderer/Transformation.java.html#46]]]
+-trim(double) : int [[[./../../../.././qc/src/jcckit/renderer/Transformation.java.html#50]]]
++transformBack(int;int) : GraphPoint [[[./../../../.././qc/src/jcckit/renderer/Transformation.java.html#58]]]
++apply(Graphics2D) : void [[[./../../../.././qc/src/jcckit/renderer/Transformation.java.html#62]]]
+} 
+@enduml

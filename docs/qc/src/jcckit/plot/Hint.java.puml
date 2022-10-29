@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.plot.Hint"
+class jcckit.plot.Hint {
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.salt.Position"
+class net.sourceforge.plantuml.salt.Position {
++Position(int;int) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Position.java.html#9]]]
++getRow() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Position.java.html#14]]]
++getCol() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Position.java.html#18]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Position.java.html#23]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Position.java.html#28]]]
+} 
+@enduml

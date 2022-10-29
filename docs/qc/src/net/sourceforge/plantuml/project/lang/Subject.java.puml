@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.lang.Subject"
+class net.sourceforge.plantuml.project.lang.Subject {
++getSentences() : Collection<?extendsSentenceSimple> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html#13]]]
++toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html#15]]]
++getMe(GanttDiagram;RegexResult) : Failable<?extendsObject> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html#17]]]
+} 
+@enduml

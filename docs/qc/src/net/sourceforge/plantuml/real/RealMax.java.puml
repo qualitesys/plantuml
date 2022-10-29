@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractRealReal" <|-- "net.sourceforge.plantuml.real.RealMax"
+class net.sourceforge.plantuml.real.RealMax {
+RealMax(Collection<Real>) : RealMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#15]]]
+line(Collection<Real>) : RealLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#22]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#26]]]
+getCurrentValueInternal() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#31]]]
++addFixed(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#51]]]
++addAtLeast(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#55]]]
++ensureBiggerThan(Real) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#59]]]
++printCreationStackTrace() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#63]]]
+} 
+@enduml

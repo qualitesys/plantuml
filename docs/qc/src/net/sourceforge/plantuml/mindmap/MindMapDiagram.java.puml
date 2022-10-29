@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"UmlDiagram" <|-- "net.sourceforge.plantuml.mindmap.MindMapDiagram"
+class net.sourceforge.plantuml.mindmap.MindMapDiagram {
++setDefaultDirection(Direction) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#36]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#40]]]
++MindMapDiagram(UmlSource) : MindMapDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#44]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#51]]]
+-getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#57]]]
++addIdea(HColor;int;Display;IdeaShape) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#93]]]
+-last() : MindMap [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#97]]]
++addIdea(HColor;int;Display;IdeaShape;boolean) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#101]]]
++addIdea(String;HColor;int;Display;IdeaShape) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#113]]]
++getSmartLevel(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#123]]]
+} 
+@enduml

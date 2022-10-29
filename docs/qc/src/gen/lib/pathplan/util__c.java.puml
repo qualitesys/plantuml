@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.pathplan.util__c"
+class gen.lib.pathplan.util__c {
++make_polyline(ST_Ppoly_t;ST_Ppoly_t) : void [[[./../../../../.././qc/src/gen/lib/pathplan/util__c.java.html#20]]]
+-make_polyline_(ST_Ppoly_t;ST_Ppoly_t) : void [[[./../../../../.././qc/src/gen/lib/pathplan/util__c.java.html#25]]]
+} 
+@enduml

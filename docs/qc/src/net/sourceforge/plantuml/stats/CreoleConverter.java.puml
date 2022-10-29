@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.stats.CreoleConverter"
+class net.sourceforge.plantuml.stats.CreoleConverter {
++CreoleConverter(Stats) : CreoleConverter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#21]]]
++toCreole() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#25]]]
+-printTableCreole(List<String>;StatsTable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#42]]]
+-getCreoleLine(Collection<StatsColumn>;StatsLine;boolean) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#54]]]
+-getCreoleHeader(Collection<StatsColumn>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#85]]]
+} 
+@enduml

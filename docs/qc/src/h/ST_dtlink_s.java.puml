@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_dtlink_s"
+class h.ST_dtlink_s {
++___(__struct__) : void [[[./../../.././qc/src/h/ST_dtlink_s.java.html#16]]]
++ST_dtlink_s() : ST_dtlink_s [[[./../../.././qc/src/h/ST_dtlink_s.java.html#22]]]
++ST_dtlink_s(__ptr__) : ST_dtlink_s [[[./../../.././qc/src/h/ST_dtlink_s.java.html#26]]]
++getParent() : __ptr__ [[[./../../.././qc/src/h/ST_dtlink_s.java.html#30]]]
++castTo(Class) : __ptr__ [[[./../../.././qc/src/h/ST_dtlink_s.java.html#35]]]
++getTheField(OFFSET) : Object [[[./../../.././qc/src/h/ST_dtlink_s.java.html#50]]]
+} 
+@enduml

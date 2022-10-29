@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.UnusedSpace"
+class net.sourceforge.plantuml.graphic.UnusedSpace {
++getUnusedSpace(UFont;char) : UnusedSpace [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#41]]]
+-UnusedSpace(UFont;char) : UnusedSpace [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#51]]]
+-biggestDistSqFromPoint(Point) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#113]]]
+-isPoint(BufferedImage;int;int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#124]]]
++getCenterX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#132]]]
++getCenterY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#136]]]
+} 
+@enduml

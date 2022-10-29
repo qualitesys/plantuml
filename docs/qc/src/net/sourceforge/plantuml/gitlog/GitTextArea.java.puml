@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.gitlog.GitTextArea"
+class net.sourceforge.plantuml.gitlog.GitTextArea {
++add(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitTextArea.java.html#13]]]
++getAllCommits() : List<Commit> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitTextArea.java.html#17]]]
++charAt(int;int) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitTextArea.java.html#33]]]
++getLine(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitTextArea.java.html#37]]]
++getCommitByName(String) : Commit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/GitTextArea.java.html#44]]]
+} 
+@enduml

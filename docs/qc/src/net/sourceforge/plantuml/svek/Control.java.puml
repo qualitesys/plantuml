@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.svek.Control"
+class net.sourceforge.plantuml.svek.Control {
++Control(SymbolContext) : Control [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Control.java.html#22]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Control.java.html#26]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Control.java.html#51]]]
+} 
+@enduml

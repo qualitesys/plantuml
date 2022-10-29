@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cgraph.mem__c"
+class gen.lib.cgraph.mem__c {
++memopen(ST_Agdisc_s) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/mem__c.java.html#26]]]
++memalloc(__ptr__;size_t) : __ptr__ [[[./../../../../.././qc/src/gen/lib/cgraph/mem__c.java.html#45]]]
++memresize(__ptr__;__ptr__;size_t;size_t) : __ptr__ [[[./../../../../.././qc/src/gen/lib/cgraph/mem__c.java.html#100]]]
++memfree(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/mem__c.java.html#110]]]
++agalloc(ST_Agraph_s;size_t) : __ptr__ [[[./../../../../.././qc/src/gen/lib/cgraph/mem__c.java.html#110]]]
+} 
+@enduml

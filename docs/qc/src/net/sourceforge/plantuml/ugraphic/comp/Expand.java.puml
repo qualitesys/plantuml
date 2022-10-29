@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Comparable<Expand>" <|-- "net.sourceforge.plantuml.ugraphic.comp.Expand"
+class net.sourceforge.plantuml.ugraphic.comp.Expand {
++Expand(ExpandType;double;double) : Expand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#10]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#20]]]
++compareTo(Expand) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#24]]]
++getPosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#34]]]
++getExtend() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#38]]]
++getType() : ExpandType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#42]]]
+} 
+@enduml

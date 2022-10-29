@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.mindmap.SymetricalTee"
+class net.sourceforge.plantuml.mindmap.SymetricalTee {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTee.java.html#12]]]
++SymetricalTee(double;double;double;double) : SymetricalTee [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTee.java.html#16]]]
++getThickness1() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTee.java.html#23]]]
++getElongation1() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTee.java.html#27]]]
++getThickness2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTee.java.html#31]]]
++getElongation2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTee.java.html#35]]]
++getFullElongation() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTee.java.html#39]]]
++getFullThickness() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTee.java.html#43]]]
+} 
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.label.index__c"
+class gen.lib.label.index__c {
++RTreeNewLeafList(ST_Branch_t) : ST_LeafList_t [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#33]]]
++RTreeLeafListAdd(ST_LeafList_t;ST_Branch_t) : ST_LeafList_t [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#61]]]
++RTreeLeafListFree(ST_LeafList_t) : void [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#82]]]
++RTreeOpen() : ST_RTree [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#126]]]
++RTreeNewIndex(ST_RTree) : ST_Node_t___ [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#144]]]
++RTreeClose2(ST_RTree;ST_Node_t___) : int [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#161]]]
++RTreeClose(ST_RTree) : int [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#200]]]
++RTreeSearch(ST_RTree;ST_Node_t___;ST_Rect_t) : ST_LeafList_t [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#219]]]
++RTreeInsert(ST_RTree;ST_Rect_t;__ptr__;ST_Node_t___[];int) : int [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#276]]]
++RTreeInsert2(ST_RTree;ST_Rect_t;__ptr__;ST_Node_t___;ST_Node_t___[];int) : int [[[./../../../../.././qc/src/gen/lib/label/index__c.java.html#384]]]
+} 
+@enduml

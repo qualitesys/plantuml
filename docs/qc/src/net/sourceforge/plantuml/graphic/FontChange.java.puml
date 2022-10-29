@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"HtmlCommand" <|-- "net.sourceforge.plantuml.graphic.FontChange"
+class net.sourceforge.plantuml.graphic.FontChange {
+apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/FontChange.java.html#6]]]
+} 
+@enduml

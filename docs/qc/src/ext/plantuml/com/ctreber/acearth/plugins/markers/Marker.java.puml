@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.plugins.markers.Marker"
+class ext.plantuml.com.ctreber.acearth.plugins.markers.Marker {
+-Marker(Coordinate;String;int) : Marker [[[./../../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#27]]]
+-createFromLine(String) : Marker [[[./../../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#62]]]
++toString() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#101]]]
++render(PixelCanvas;Projection) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#126]]]
++loadMarkerFile(String) : Marker [[[./../../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#169]]]
+} 
+@enduml

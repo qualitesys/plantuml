@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"UShape" <|-- "net.sourceforge.plantuml.creole.atom.Atom"
+class net.sourceforge.plantuml.creole.atom.Atom {
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html#13]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html#15]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html#17]]]
++splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html#19]]]
+} 
+@enduml

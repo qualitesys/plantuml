@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.style.DarkString"
+class net.sourceforge.plantuml.style.DarkString {
++DarkString(String;String;int) : DarkString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/DarkString.java.html#10]]]
++mergeWith(DarkString) : DarkString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/DarkString.java.html#16]]]
+-isBigger(int;int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/DarkString.java.html#39]]]
++addPriority(int) : DarkString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/DarkString.java.html#47]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/DarkString.java.html#52]]]
++getValue1() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/DarkString.java.html#56]]]
++getValue2() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/DarkString.java.html#60]]]
++getPriority() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/DarkString.java.html#64]]]
+} 
+@enduml

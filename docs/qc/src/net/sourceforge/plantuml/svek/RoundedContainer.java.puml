@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.RoundedContainer"
+class net.sourceforge.plantuml.svek.RoundedContainer {
++RoundedContainer(XDimension2D;double;double;HColor;HColor;HColor;UStroke;double;double) : RoundedContainer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/RoundedContainer.java.html#25]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/RoundedContainer.java.html#41]]]
+} 
+@enduml

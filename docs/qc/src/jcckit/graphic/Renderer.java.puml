@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.graphic.Renderer"
+class jcckit.graphic.Renderer {
+} 
+@enduml

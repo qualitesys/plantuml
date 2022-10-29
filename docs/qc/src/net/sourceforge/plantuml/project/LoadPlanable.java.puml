@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.LoadPlanable"
+class net.sourceforge.plantuml.project.LoadPlanable {
++getLoadAt(Day) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/LoadPlanable.java.html#8]]]
+} 
+@enduml

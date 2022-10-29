@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_pointf"
+class h.ST_pointf {
++pointfof(double;double) : ST_pointf [[[./../../.././qc/src/h/ST_pointf.java.html#10]]]
++add_pointf(ST_pointf;ST_pointf) : ST_pointf [[[./../../.././qc/src/h/ST_pointf.java.html#17]]]
++isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_pointf.java.html#28]]]
++toString() : String [[[./../../.././qc/src/h/ST_pointf.java.html#33]]]
++copy() : ST_pointf [[[./../../.././qc/src/h/ST_pointf.java.html#39]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_pointf.java.html#47]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"PlainDiagram" <|-- "net.sourceforge.plantuml.eggs.PSystemWelcome"
+class net.sourceforge.plantuml.eggs.PSystemWelcome {
++PSystemWelcome(UmlSource;GraphicPosition) : PSystemWelcome [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#23]]]
+getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#49]]]
++getGraphicStrings() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#53]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#60]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<ClassDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandStereotype"
+class net.sourceforge.plantuml.classdiagram.command.CommandStereotype {
++CommandStereotype() : CommandStereotype [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#21]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#25]]]
+executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#34]]]
+} 
+@enduml

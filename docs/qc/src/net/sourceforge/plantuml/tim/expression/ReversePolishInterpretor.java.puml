@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor"
+class net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor {
++ReversePolishInterpretor(TokenStack;Knowledge;TMemory;TContext) : ReversePolishInterpretor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#23]]]
++ReversePolishInterpretor(LineLocation;TokenStack;Knowledge;TMemory;TContext) : ReversePolishInterpretor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#28]]]
++getResult() : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#92]]]
+} 
+@enduml

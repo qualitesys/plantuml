@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Rose" <|-- "net.sourceforge.plantuml.asciiart.TextSkin"
+class net.sourceforge.plantuml.asciiart.TextSkin {
++TextSkin(FileFormat) : TextSkin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#22]]]
++createComponentArrow(Style[];ArrowConfiguration;ISkinParam;Display) : ArrowComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#27]]]
++createComponentNote(Style[];ComponentType;ISkinParam;Display;Colors;NotePosition) : Component [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#42]]]
++createComponentNote(Style[];ComponentType;ISkinParam;Display;Colors) : Component [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#51]]]
++createComponent(Style[];ComponentType;ArrowConfiguration;ISkinParam;Display) : Component [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#57]]]
++createComponentNewPage(ISkinParam) : Component [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#126]]]
+} 
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"Stats" <|-- "net.sourceforge.plantuml.stats.StatsImpl"
+class net.sourceforge.plantuml.stats.StatsImpl {
+StatsImpl(Map<String,ParsedGenerated>;Map<String,ParsedGenerated>;FormatCounter;FormatCounter;HistoricalData;ParsedGenerated) : StatsImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#28]]]
+-createDataLineSession(ParsedGenerated) : StatsLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#40]]]
+-createLineByDiagramType(String;NumberAnalyzed;NumberAnalyzed) : StatsLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#63]]]
++getLastSessions() : StatsTable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#77]]]
++getCurrentSessionByFormat() : StatsTable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#89]]]
++getAllByFormat() : StatsTable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#93]]]
++getCurrentSessionByDiagramType() : StatsTable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#97]]]
++getAllByDiagramType() : StatsTable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#101]]]
+-getByDiagramType(String;Map<String,ParsedGenerated>) : StatsTable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#105]]]
+} 
+@enduml

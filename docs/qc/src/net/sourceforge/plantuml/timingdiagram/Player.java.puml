@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"TimeProjected" <|-- "net.sourceforge.plantuml.timingdiagram.Player"
+class net.sourceforge.plantuml.timingdiagram.Player {
++Player(String;ISkinParam;TimingRuler;boolean;Stereotype) : Player [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#33]]]
++isCompact() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#41]]]
+getStyleSignature() : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#45]]]
+getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#47]]]
+getFontConfiguration() : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#51]]]
+getStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#56]]]
+getContext() : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#61]]]
+getTitle() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#70]]]
++addNote(TimeTick;Display;Position) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#74]]]
++defineState(String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#76]]]
++setState(TimeTick;String;Colors;String...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#78]]]
++createConstraint(TimeTick;TimeTick;String;ArrowConfiguration) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#80]]]
++getPart1(double;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#82]]]
++getPart2() : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#84]]]
++getFullHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#86]]]
++setHeight(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#88]]]
+} 
+@enduml

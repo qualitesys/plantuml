@@ -1,0 +1,27 @@
+@startuml
+!pragma layout smetana
+"Moveable" <|-- "net.sourceforge.plantuml.svek.DotStringFactory"
+class net.sourceforge.plantuml.svek.DotStringFactory {
++DotStringFactory(StringBounder;DotData) : DotStringFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#52]]]
++DotStringFactory(StringBounder;CucaDiagram) : DotStringFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#64]]]
++addNode(SvekNode) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#75]]]
+-getHorizontalDzeta() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#79]]]
+-getVerticalDzeta() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#90]]]
+createDotString(String...) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#103]]]
+-manageMinMaxCluster(StringBuilder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#194]]]
+-getMinRankSep() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#229]]]
+-getMinNodeSep() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#239]]]
++getGraphvizVersion() : GraphvizVersion [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#249]]]
+-getGraphvizVersionInternal() : GraphvizVersion [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#256]]]
++getSvg(BaseFile;String[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#265]]]
++illegalDotExe() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#304]]]
++getDotExe() : File [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#313]]]
++solve(boolean;EntityFactory;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#318]]]
+-getClusterIndex(String;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#422]]]
++openCluster(IGroup;ClusterHeader) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#436]]]
++closeCluster() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#441]]]
++moveSvek(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#448]]]
++getBibliotekon() : Bibliotekon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#460]]]
++getColorSequence() : ColorSequence [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DotStringFactory.java.html#464]]]
+} 
+@enduml

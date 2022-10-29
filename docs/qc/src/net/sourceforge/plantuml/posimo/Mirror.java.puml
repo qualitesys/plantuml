@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.Mirror"
+class net.sourceforge.plantuml.posimo.Mirror {
++Mirror(double) : Mirror [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#8]]]
++getMirrored(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#12]]]
+} 
+@enduml

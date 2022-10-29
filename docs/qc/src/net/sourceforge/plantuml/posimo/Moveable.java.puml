@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.Moveable"
+class net.sourceforge.plantuml.posimo.Moveable {
+moveSvek(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Moveable.java.html#6]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cdt.dtextract__c"
+class gen.lib.cdt.dtextract__c {
++dtextract(ST_dt_s) : ST_dtlink_s [[[./../../../../.././qc/src/gen/lib/cdt/dtextract__c.java.html#24]]]
+} 
+@enduml

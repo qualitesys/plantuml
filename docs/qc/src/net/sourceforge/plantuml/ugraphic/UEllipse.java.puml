@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"AbstractShadowableUShapeSized" <|-- "net.sourceforge.plantuml.ugraphic.UEllipse"
+class net.sourceforge.plantuml.ugraphic.UEllipse {
++UEllipse(double;double) : UEllipse [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#14]]]
++UEllipse(double;double;double;double) : UEllipse [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#18]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#25]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#29]]]
++getStart() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#33]]]
++getExtend() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#37]]]
++getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#41]]]
++bigger(double) : UEllipse [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#45]]]
++scale(double) : UEllipse [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#51]]]
++getStartingX(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#57]]]
++getEndingX(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#63]]]
++getPointAtAngle(double) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEllipse.java.html#69]]]
+} 
+@enduml

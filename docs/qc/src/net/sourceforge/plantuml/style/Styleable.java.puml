@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.style.Styleable"
+class net.sourceforge.plantuml.style.Styleable {
++getStyleSignature() : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Styleable.java.html#6]]]
+} 
+@enduml

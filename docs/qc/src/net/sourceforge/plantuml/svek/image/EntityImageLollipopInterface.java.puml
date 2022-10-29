@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageLollipopInterface"
+class net.sourceforge.plantuml.svek.image.EntityImageLollipopInterface {
++getSignature() : StyleSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterface.java.html#38]]]
+-getUStroke() : UStroke [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterface.java.html#42]]]
++EntityImageLollipopInterface(ILeaf;ISkinParam;SName) : EntityImageLollipopInterface [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterface.java.html#46]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterface.java.html#58]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterface.java.html#62]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterface.java.html#100]]]
++addImpact(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterface.java.html#106]]]
+} 
+@enduml

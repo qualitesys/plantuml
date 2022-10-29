@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.Elected"
+class net.sourceforge.plantuml.cucadiagram.Elected {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Elected.java.html#10]]]
++Elected(String;int) : Elected [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Elected.java.html#14]]]
++getShortName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Elected.java.html#19]]]
++getScore() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Elected.java.html#23]]]
+} 
+@enduml

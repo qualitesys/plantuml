@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil"
+class net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil {
++createLabel(ElkEdge) : ElkLabel [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#10]]]
++createLabel(ElkNode) : ElkLabel [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#14]]]
++createNode(ElkNode) : ElkNode [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#18]]]
++createSimpleEdge(ElkNode;ElkNode) : ElkEdge [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#22]]]
++createGraph() : ElkNode [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#27]]]
+} 
+@enduml

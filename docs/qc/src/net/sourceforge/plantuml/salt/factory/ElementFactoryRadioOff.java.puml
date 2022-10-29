@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"ElementFactory" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff"
+class net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff {
++ElementFactoryRadioOff(DataSource;ISkinSimple) : ElementFactoryRadioOff [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#20]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#25]]]
+-extracted(String) : List<String> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#36]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#41]]]
+} 
+@enduml

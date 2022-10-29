@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.skin.Area"
+class net.sourceforge.plantuml.skin.Area {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Area.java.html#12]]]
++Area(XDimension2D) : Area [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Area.java.html#16]]]
++create(double;double) : Area [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Area.java.html#20]]]
++getDimensionToUse() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Area.java.html#24]]]
++setDeltaX1(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Area.java.html#28]]]
++getDeltaX1() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Area.java.html#32]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"WithStyle" <|-- "net.sourceforge.plantuml.skin.Component"
+class net.sourceforge.plantuml.skin.Component {
+getPreferredDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Component.java.html#11]]]
+getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Component.java.html#13]]]
+getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Component.java.html#15]]]
+drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Component.java.html#17]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.ebnf.PSystemEbnfFactory"
+class net.sourceforge.plantuml.ebnf.PSystemEbnfFactory {
++PSystemEbnfFactory() : PSystemEbnfFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnfFactory.java.html#16]]]
+createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnfFactory.java.html#21]]]
++createEmptyDiagram(UmlSource;Map<String,String>) : PSystemEbnf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnfFactory.java.html#36]]]
+} 
+@enduml

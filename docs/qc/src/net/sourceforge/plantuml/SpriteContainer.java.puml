@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"SvgCharSizeHack" <|-- "net.sourceforge.plantuml.SpriteContainer"
+class net.sourceforge.plantuml.SpriteContainer {
++getSprite(String) : Sprite [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainer.java.html#8]]]
++guillemet() : Guillemet [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainer.java.html#10]]]
+} 
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"PointListIterator" <|-- "net.sourceforge.plantuml.svek.PointListIteratorImpl"
+class net.sourceforge.plantuml.svek.PointListIteratorImpl {
+create(SvgResult;int) : PointListIterator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointListIteratorImpl.java.html#15]]]
++cloneMe() : PointListIterator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointListIteratorImpl.java.html#24]]]
+-PointListIteratorImpl(SvgResult) : PointListIteratorImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointListIteratorImpl.java.html#30]]]
++hasNext() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointListIteratorImpl.java.html#34]]]
++next() : List<XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointListIteratorImpl.java.html#38]]]
++remove() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointListIteratorImpl.java.html#52]]]
+} 
+@enduml

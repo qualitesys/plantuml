@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.algorithm.Finalize"
+class net.sourceforge.plantuml.argon2.algorithm.Finalize {
++finalize(Instance;Argon2) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#10]]]
+} 
+@enduml

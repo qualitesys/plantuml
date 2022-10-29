@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Positionable" <|-- "net.sourceforge.plantuml.posimo.PositionableImpl"
+class net.sourceforge.plantuml.posimo.PositionableImpl {
++PositionableImpl(double;double;XDimension2D) : PositionableImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableImpl.java.html#13]]]
++PositionableImpl(XPoint2D;XDimension2D) : PositionableImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableImpl.java.html#18]]]
++getPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableImpl.java.html#22]]]
++getSize() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableImpl.java.html#26]]]
++moveSvek(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableImpl.java.html#30]]]
+} 
+@enduml

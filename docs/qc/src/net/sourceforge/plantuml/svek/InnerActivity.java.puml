@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockIEntityImage" <|-- "net.sourceforge.plantuml.svek.InnerActivity"
+class net.sourceforge.plantuml.svek.InnerActivity {
++InnerActivity(IEntityImage;HColor;HColor;double) : InnerActivity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#19]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#28]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#39]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#43]]]
++getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#48]]]
++getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#52]]]
++isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#56]]]
++getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#60]]]
+} 
+@enduml

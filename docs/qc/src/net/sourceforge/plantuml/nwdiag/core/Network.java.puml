@@ -1,0 +1,27 @@
+@startuml
+!pragma layout smetana
+"NStackable" <|-- "net.sourceforge.plantuml.nwdiag.core.Network"
+class net.sourceforge.plantuml.nwdiag.core.Network {
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#21]]]
+-isEven() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#25]]]
++magicDelta() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#29]]]
++getUp() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#38]]]
++Network(NStage;NStage;String) : Network [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#42]]]
++getOwnAdress() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#48]]]
++setOwnAdress(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#52]]]
++getDisplayName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#56]]]
++setDescription(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#64]]]
++getColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#68]]]
++setColor(HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#73]]]
++goInvisible() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#77]]]
++isVisible() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#81]]]
++getY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#85]]]
++setY(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#89]]]
++setFullWidth(boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#93]]]
++isFullWidth() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#97]]]
++getNstage() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#101]]]
++setMinMax(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#108]]]
++getXmin() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#113]]]
++getXmax() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#117]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.AbstractInstruction"
+class net.sourceforge.plantuml.activitydiagram3.AbstractInstruction {
++createGtile(ISkinParam;StringBounder) : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/AbstractInstruction.java.html#10]]]
+} 
+@enduml

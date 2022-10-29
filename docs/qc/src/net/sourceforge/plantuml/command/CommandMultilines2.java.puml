@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"Command<S>" <|-- "net.sourceforge.plantuml.command.CommandMultilines2"
+class net.sourceforge.plantuml.command.CommandMultilines2 {
++CommandMultilines2(IRegex;MultilinesStrategy;Trim) : CommandMultilines2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#19]]]
++syntaxWithFinalBracket() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#28]]]
++getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#32]]]
++getDescription() : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#34]]]
++isValid(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#38]]]
++execute(S;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#71]]]
+executeNow(S;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#83]]]
+isCommandForbidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#85]]]
+finalVerification(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#89]]]
+getStartingPattern() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#93]]]
+} 
+@enduml

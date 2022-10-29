@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"UShape" <|-- "net.sourceforge.plantuml.ugraphic.UHorizontalLine"
+class net.sourceforge.plantuml.ugraphic.UHorizontalLine {
+-UHorizontalLine(double;double;double;TextBlock;boolean;char) : UHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#18]]]
++infinite(double;double;double;char) : UHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#28]]]
++infinite(double;double;double;TextBlock;char) : UHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#32]]]
++isDouble() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#37]]]
++drawLineInternal(UGraphic;Stencil;double;UStroke) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#45]]]
+-addSkip(Stencil) : Stencil [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#61]]]
+-firstHalf(Stencil;double) : Stencil [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#73]]]
+-secondHalf(Stencil;double) : Stencil [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#88]]]
+-drawHLine(Stencil;double;UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#103]]]
+-drawSimpleHline(UGraphic;Stencil;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#110]]]
++drawTitleInternal(UGraphic;double;double;double;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#116]]]
++drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#132]]]
++getStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#136]]]
+} 
+@enduml

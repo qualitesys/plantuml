@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.PSystemBuilder"
+class net.sourceforge.plantuml.PSystemBuilder {
++createPSystem(List<StringLocated>;List<StringLocated>;Map<String,String>) : Diagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#76]]]
+-isOk(Diagram) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#198]]]
+} 
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockIEntityImage" <|-- "net.sourceforge.plantuml.graphic.GraphicStrings"
+class net.sourceforge.plantuml.graphic.GraphicStrings {
++createForError(List<String>;boolean) : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#44]]]
+-getForeColor(boolean) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#49]]]
+-getBackColor(boolean) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#56]]]
++createGreenOnBlackMonospaced(List<String>) : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#63]]]
++createBlackOnWhite(List<String>) : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#68]]]
++createBlackOnWhiteMonospaced(List<String>) : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#72]]]
++createBlackOnWhite(List<String>;BufferedImage;GraphicPosition) : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#76]]]
++sansSerif12(HColor) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#82]]]
++sansSerif14(HColor) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#86]]]
+-monospaced14(HColor) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#90]]]
+-GraphicStrings(List<String>;FontConfiguration;HColor;BufferedImage;GraphicPosition;CreoleMode) : GraphicStrings [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#96]]]
+-getTextBlock() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#107]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#117]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#136]]]
+-calculateDimensionInternal(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#140]]]
++getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#154]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#158]]]
++getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#162]]]
++isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#166]]]
++getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#170]]]
+} 
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cgraph.edge__c"
+class gen.lib.cgraph.edge__c {
++agfstout(ST_Agraph_s;ST_Agnode_s) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#68]]]
++agnxtout(ST_Agraph_s;ST_Agedge_s) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#92]]]
++agfstin(ST_Agraph_s;ST_Agnode_s) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#117]]]
++agnxtin(ST_Agraph_s;ST_Agedge_s) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#140]]]
++agfstedge(ST_Agraph_s;ST_Agnode_s) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#165]]]
++agnxtedge(ST_Agraph_s;ST_Agedge_s;ST_Agnode_s) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#183]]]
++agfindedge_by_key(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;ST_Agtag_s) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#295]]]
+-agfindedge_by_key_w_(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;ST_Agtag_s) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#534]]]
++agsubrep(ST_Agraph_s;ST_Agnode_s) : ST_Agsubnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#574]]]
++ins(ST_dt_s;CStarStar<ST_dtlink_s>;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#574]]]
++installedge(ST_Agraph_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#574]]]
++subedge(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
++newedge(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;int) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
++ok_to_make_edge(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s) : boolean [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
++agedge(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;CString;boolean) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
++agsubedge(ST_Agraph_s;ST_Agedge_s;boolean) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
++agedgeidcmpf(ST_dt_s;ST_Agedge_s;ST_Agedge_s;ST_dtdisc_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
++agedgeseqcmpf(ST_dt_s;ST_Agedge_s;ST_Agedge_s;ST_dtdisc_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
++agtail(ST_Agedge_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
++aghead(__ptr__) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
++agopp(__ptr__) : ST_Agedge_s [[[./../../../../.././qc/src/gen/lib/cgraph/edge__c.java.html#1]]]
+} 
+@enduml

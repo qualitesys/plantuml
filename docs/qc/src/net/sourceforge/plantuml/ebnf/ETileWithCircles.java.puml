@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"ETile" <|-- "net.sourceforge.plantuml.ebnf.ETileWithCircles"
+class net.sourceforge.plantuml.ebnf.ETileWithCircles {
++ETileWithCircles(ETile;HColor) : ETileWithCircles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#21]]]
++getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#27]]]
++getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#32]]]
++getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#37]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#42]]]
++push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#60]]]
+} 
+@enduml

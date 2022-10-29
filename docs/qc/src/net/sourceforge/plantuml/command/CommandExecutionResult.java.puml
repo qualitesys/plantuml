@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.command.CommandExecutionResult"
+class net.sourceforge.plantuml.command.CommandExecutionResult {
+-CommandExecutionResult(AbstractPSystem;String;int;List<String>) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#16]]]
++withDiagram(AbstractPSystem) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#24]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#29]]]
++newDiagram(AbstractPSystem) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#33]]]
++ok() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#37]]]
++badColor() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#41]]]
++error(String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#45]]]
++error(String;Throwable) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#49]]]
++getStackTrace(Throwable) : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#53]]]
++isOk() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#70]]]
++getError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#74]]]
++getScore() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#81]]]
++getNewDiagram() : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#85]]]
++getDebugLines() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandExecutionResult.java.html#89]]]
+} 
+@enduml

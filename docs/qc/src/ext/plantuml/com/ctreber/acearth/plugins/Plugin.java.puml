@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"ActionListener" <|-- "ext.plantuml.com.ctreber.acearth.plugins.Plugin"
+class ext.plantuml.com.ctreber.acearth.plugins.Plugin {
++actionPerformed(ActionEvent) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#18]]]
++hasGUIP() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#22]]]
++render() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#24]]]
++setProjection(Projection) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#26]]]
++setRenderTarget(PixelCanvas) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#31]]]
++setParent(ACearth) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#36]]]
+} 
+@enduml

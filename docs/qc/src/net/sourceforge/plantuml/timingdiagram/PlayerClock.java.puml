@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"Player" <|-- "net.sourceforge.plantuml.timingdiagram.PlayerClock"
+class net.sourceforge.plantuml.timingdiagram.PlayerClock {
++PlayerClock(String;ISkinParam;TimingRuler;int;int;int;boolean) : PlayerClock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#33]]]
++getFullHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#43]]]
+-getLineHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#47]]]
+-getTitleHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#51]]]
+getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#57]]]
++getTimeProjection(StringBounder;TimeTick) : IntricatedPoint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#61]]]
++addNote(TimeTick;Display;Position) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#65]]]
++defineState(String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#69]]]
++setState(TimeTick;String;Colors;String...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#73]]]
++createConstraint(TimeTick;TimeTick;String;ArrowConfiguration) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#78]]]
++getPeriod() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#82]]]
++getPart1(double;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#86]]]
++getPart2() : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerClock.java.html#101]]]
+} 
+@enduml

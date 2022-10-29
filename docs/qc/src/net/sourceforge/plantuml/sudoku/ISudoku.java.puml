@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sudoku.ISudoku"
+class net.sourceforge.plantuml.sudoku.ISudoku {
+getGiven(int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/ISudoku.java.html#6]]]
+getRatting() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/ISudoku.java.html#8]]]
+getSeed() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/ISudoku.java.html#10]]]
+} 
+@enduml

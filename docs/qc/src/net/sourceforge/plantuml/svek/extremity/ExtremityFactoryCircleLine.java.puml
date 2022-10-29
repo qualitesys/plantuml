@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"AbstractExtremityFactoryExtremityFactory" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleLine"
+class net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleLine {
++createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleLine.java.html#12]]]
+} 
+@enduml

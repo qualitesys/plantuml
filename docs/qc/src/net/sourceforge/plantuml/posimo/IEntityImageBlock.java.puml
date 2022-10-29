@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.IEntityImageBlock"
+class net.sourceforge.plantuml.posimo.IEntityImageBlock {
+getDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/IEntityImageBlock.java.html#10]]]
+drawU(UGraphic;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/IEntityImageBlock.java.html#12]]]
+} 
+@enduml

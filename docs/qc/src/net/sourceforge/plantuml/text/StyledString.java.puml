@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.text.StyledString"
+class net.sourceforge.plantuml.text.StyledString {
+-StyledString(String;FontStyle) : StyledString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#16]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#22]]]
++getText() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#26]]]
++getStyle() : FontStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#30]]]
++build(String) : List<StyledString> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#34]]]
+} 
+@enduml

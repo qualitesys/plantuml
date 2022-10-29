@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.core.Moment"
+class net.sourceforge.plantuml.project.core.Moment {
++getStart() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Moment.java.html#8]]]
++getEnd() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Moment.java.html#10]]]
+} 
+@enduml

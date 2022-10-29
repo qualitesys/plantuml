@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.QBlocks"
+class net.sourceforge.plantuml.dedication.QBlocks {
+-QBlocks() : QBlocks [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#15]]]
++readFrom(InputStream;int) : QBlocks [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#19]]]
++change(BigInteger;BigInteger) : QBlocks [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#30]]]
++writeTo(OutputStream;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#38]]]
+} 
+@enduml

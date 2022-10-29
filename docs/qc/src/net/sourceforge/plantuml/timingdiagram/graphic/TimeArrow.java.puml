@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"UDrawable" <|-- "net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow"
+class net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow {
++create(IntricatedPoint;IntricatedPoint;Display;ISkinSimple;WithLinkType) : TimeArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#28]]]
+-TimeArrow(XPoint2D;XPoint2D;Display;ISkinSimple;WithLinkType) : TimeArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#37]]]
+-getAngle() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#45]]]
+-shorter(TimeArrow;TimeArrow) : TimeArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#49]]]
+-shorter(TimeArrow;TimeArrow;TimeArrow;TimeArrow) : TimeArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#56]]]
+-len() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#60]]]
++translate(UTranslate) : TimeArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#64]]]
++onCircle(XPoint2D;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#69]]]
+-getFontConfiguration() : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#76]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#83]]]
+} 
+@enduml

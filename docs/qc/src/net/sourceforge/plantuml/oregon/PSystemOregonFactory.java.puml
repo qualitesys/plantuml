@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"PSystemBasicFactory<PSystemOregon>" <|-- "net.sourceforge.plantuml.oregon.PSystemOregonFactory"
+class net.sourceforge.plantuml.oregon.PSystemOregonFactory {
++initDiagram(UmlSource;String) : PSystemOregon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/PSystemOregonFactory.java.html#10]]]
++executeLine(UmlSource;PSystemOregon;String) : PSystemOregon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/PSystemOregonFactory.java.html#15]]]
+} 
+@enduml

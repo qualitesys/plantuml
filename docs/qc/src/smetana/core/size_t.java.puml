@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "smetana.core.size_t"
+class smetana.core.size_t {
++toString() : String [[[./../../../.././qc/src/smetana/core/size_t.java.html#11]]]
++size_t(Class) : size_t [[[./../../../.././qc/src/smetana/core/size_t.java.html#15]]]
++negate() : size_t [[[./../../../.././qc/src/smetana/core/size_t.java.html#20]]]
++multiply(int) : size_t [[[./../../../.././qc/src/smetana/core/size_t.java.html#25]]]
++isStrictPositive() : boolean [[[./../../../.././qc/src/smetana/core/size_t.java.html#29]]]
++isStrictNegative() : boolean [[[./../../../.././qc/src/smetana/core/size_t.java.html#33]]]
++getTobeAllocated() : Class [[[./../../../.././qc/src/smetana/core/size_t.java.html#39]]]
++malloc() : __ptr__ [[[./../../../.././qc/src/smetana/core/size_t.java.html#43]]]
++plus(int) : size_t [[[./../../../.././qc/src/smetana/core/size_t.java.html#50]]]
++isZero() : boolean [[[./../../../.././qc/src/smetana/core/size_t.java.html#54]]]
++realloc(Object) : __ptr__ [[[./../../../.././qc/src/smetana/core/size_t.java.html#59]]]
++getInternalNb() : int [[[./../../../.././qc/src/smetana/core/size_t.java.html#64]]]
+} 
+@enduml

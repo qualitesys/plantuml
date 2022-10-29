@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "org.stathissideris.ascii2image.core.Pair"
+class org.stathissideris.ascii2image.core.Pair {
++Pair(T;K) : Pair [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/Pair.java.html#7]]]
+} 
+@enduml

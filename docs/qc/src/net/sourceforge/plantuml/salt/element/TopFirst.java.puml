@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"Comparator<Cell>" <|-- "net.sourceforge.plantuml.salt.element.TopFirst"
+class net.sourceforge.plantuml.salt.element.TopFirst {
++compare(Cell;Cell) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/TopFirst.java.html#10]]]
+} 
+@enduml

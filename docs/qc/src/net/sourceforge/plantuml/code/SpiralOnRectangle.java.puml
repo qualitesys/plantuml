@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.code.SpiralOnRectangle"
+class net.sourceforge.plantuml.code.SpiralOnRectangle {
++SpiralOnRectangle(int;int) : SpiralOnRectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/SpiralOnRectangle.java.html#11]]]
+-inside(PairInt) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/SpiralOnRectangle.java.html#17]]]
++nextPoint() : PairInt [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/SpiralOnRectangle.java.html#23]]]
+} 
+@enduml

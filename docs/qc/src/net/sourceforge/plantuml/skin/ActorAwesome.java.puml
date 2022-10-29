@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.skin.ActorAwesome"
+class net.sourceforge.plantuml.skin.ActorAwesome {
++ActorAwesome(SymbolContext) : ActorAwesome [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#26]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#30]]]
+-thickness() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#60]]]
++getPreferredWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#64]]]
++getPreferredHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#68]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#72]]]
+} 
+@enduml

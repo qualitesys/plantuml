@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"JsonValue" <|-- "net.sourceforge.plantuml.json.JsonNumber"
+class net.sourceforge.plantuml.json.JsonNumber {
+JsonNumber(String) : JsonNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
+write(JsonWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
++isNumber() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
++asInt() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
++asLong() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
++asFloat() : float [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
++asDouble() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonNumber.java.html#75]]]
+} 
+@enduml

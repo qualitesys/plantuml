@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"ScaleProtectedScale" <|-- "net.sourceforge.plantuml.ScaleMaxHeight"
+class net.sourceforge.plantuml.ScaleMaxHeight {
++ScaleMaxHeight(double) : ScaleMaxHeight [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#8]]]
++getScaleInternal(double;double) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#12]]]
+} 
+@enduml

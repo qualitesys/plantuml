@@ -1,0 +1,145 @@
+console.log('leListeStr main01 start json de data maDataBlocs');
+var maDataBlocs = {
+"data00" : {
+   "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html" 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java 5 rule violations " 
+ , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.xml" 
+ , "fic3"  : "" 
+}
+, 
+"data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "RowTypeRenderer"
+ , "c2" : "ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanDot"
+}} 
+]
+, 
+"data02" : [
+{ "classe" : 
+ { "nomclasse" : "ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanDot" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#12"
+ , "c1" : "void"
+ , "c2" : "startNewRun()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#17"
+ , "c1" : "void"
+ , "c2" : "getPixelTypes(int;int[])"
+ , "c3" : "7"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#50"
+ , "c1" : "void"
+ , "c2" : "setScanDots(ScanDot[])"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+] 
+}} 
+]
+, 
+"data03" : [
+   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.png" 
+
+ , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.svg" }
+
+] 
+, 
+"data04" : [
+]
+, 
+"data05" : [
+]
+, 
+"data06" : [
+]
+, 
+"data07" : [
+]
+, 
+"data08" : [
+]
+, 
+"data11" : [
+]
+, 
+"data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "2"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#7"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00007] The class RowTypeRendererScanDot contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#14"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00014] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanDot.startNewRun@POLYN142748 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#17"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00017] For method getPixelTypes arguments int  pRowNo|int[]  pPixelTypes"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00023] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#50"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00050] For method setScanDots arguments ScanDot[]  pScanDots"
+}} 
+]
+};
+console.log('leListeStr 99 main end');

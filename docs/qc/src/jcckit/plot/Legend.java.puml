@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.plot.Legend"
+class jcckit.plot.Legend {
++Legend(ConfigParameters) : Legend [[[./../../../.././qc/src/jcckit/plot/Legend.java.html#52]]]
+-mergeWithDefaultConfig(ConfigParameters) : ConfigParameters [[[./../../../.././qc/src/jcckit/plot/Legend.java.html#85]]]
++getBox() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Legend.java.html#107]]]
++createSymbol(int;int;SymbolFactory;boolean;GraphicAttributes) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Legend.java.html#112]]]
+-calculateBaseLine(int;int) : double [[[./../../../.././qc/src/jcckit/plot/Legend.java.html#131]]]
++createCurveTitle(int;int;String) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Legend.java.html#141]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"CommandMultilines2<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.descdiagram.command.CommandCreateElementMultilines"
+class net.sourceforge.plantuml.descdiagram.command.CommandCreateElementMultilines {
++CommandCreateElementMultilines(int) : CommandCreateElementMultilines [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementMultilines.java.html#42]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementMultilines.java.html#48]]]
+-getRegexConcat(int) : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementMultilines.java.html#58]]]
+executeNow(AbstractEntityDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementMultilines.java.html#95]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementMultilines.java.html#160]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandPrintScale"
+class net.sourceforge.plantuml.project.command.CommandPrintScale {
++CommandPrintScale() : CommandPrintScale [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandPrintScale.java.html#18]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandPrintScale.java.html#22]]]
+executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandPrintScale.java.html#50]]]
+} 
+@enduml

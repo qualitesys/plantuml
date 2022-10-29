@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.EntityGenderUtils"
+class net.sourceforge.plantuml.cucadiagram.EntityGenderUtils {
++byEntityType(LeafType) : EntityGender [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#8]]]
++byEntityAlone(IEntity) : EntityGender [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#16]]]
++byStereotype(String) : EntityGender [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#24]]]
++byPackage(IGroup) : EntityGender [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#35]]]
++and(EntityGender;EntityGender) : EntityGender [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#52]]]
++all() : EntityGender [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#60]]]
++emptyMethods() : EntityGender [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#68]]]
++emptyFields() : EntityGender [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#76]]]
+} 
+@enduml

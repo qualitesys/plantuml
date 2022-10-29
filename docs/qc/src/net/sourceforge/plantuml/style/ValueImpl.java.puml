@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"Value" <|-- "net.sourceforge.plantuml.style.ValueImpl"
+class net.sourceforge.plantuml.style.ValueImpl {
++dark(String;AutomaticCounter) : ValueImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#16]]]
++regular(String;AutomaticCounter) : ValueImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#20]]]
++regular(String;int) : ValueImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#24]]]
++mergeWith(Value) : Value [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#28]]]
+-ValueImpl(DarkString) : ValueImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#41]]]
++addPriority(int) : Value [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#45]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#50]]]
++asString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#54]]]
++asColor(HColorSet) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#58]]]
++asBoolean() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#77]]]
++asInt() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#81]]]
++asDouble() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#87]]]
++asFontStyle() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#93]]]
++asHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#103]]]
++getPriority() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#107]]]
+} 
+@enduml

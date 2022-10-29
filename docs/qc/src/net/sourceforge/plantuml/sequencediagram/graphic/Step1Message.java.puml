@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"Step1Abstract" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.Step1Message"
+class net.sourceforge.plantuml.sequencediagram.graphic.Step1Message {
+Step1Message(ParticipantRange;StringBounder;Message;DrawableSet;Frontier) : Step1Message [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#28]]]
+prepareMessage(ConstraintSet;InGroupablesStack) : Frontier [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#62]]]
+-isSelfMessage() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#114]]]
+-getParticipantBox1() : ParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#118]]]
+-getParticipantBox2() : ParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#122]]]
+-getLivingParticipantBox1() : LivingParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#126]]]
+-getLivingParticipantBox2() : LivingParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#130]]]
+-getLivingParticipantBox(NotePosition) : LivingParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#134]]]
+-createArrow() : Arrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#141]]]
+-createMessageSelfArrow() : MessageSelfArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#171]]]
+-getHalfLifeWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#192]]]
+-createArrowCreate() : Arrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#201]]]
+-getSelfArrowType(Message) : ArrowConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#225]]]
+-getArrowType(Message;double;double) : ArrowConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.html#246]]]
+} 
+@enduml

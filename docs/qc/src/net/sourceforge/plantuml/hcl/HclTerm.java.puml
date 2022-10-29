@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.hcl.HclTerm"
+class net.sourceforge.plantuml.hcl.HclTerm {
++HclTerm(SymbolType) : HclTerm [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclTerm.java.html#11]]]
++HclTerm(SymbolType;String) : HclTerm [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclTerm.java.html#16]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclTerm.java.html#22]]]
++getType() : SymbolType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclTerm.java.html#29]]]
++getData() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclTerm.java.html#33]]]
++is(SymbolType) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclTerm.java.html#37]]]
++is(SymbolType;SymbolType) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclTerm.java.html#41]]]
+} 
+@enduml

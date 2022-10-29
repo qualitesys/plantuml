@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.DisplaySection"
+class net.sourceforge.plantuml.cucadiagram.DisplaySection {
+-DisplaySection() : DisplaySection [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplaySection.java.html#18]]]
++withPage(int;int) : DisplaySection [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplaySection.java.html#21]]]
++getDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplaySection.java.html#29]]]
++none() : DisplaySection [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplaySection.java.html#36]]]
++getHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplaySection.java.html#40]]]
++isNull() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplaySection.java.html#47]]]
++createRibbon(FontConfiguration;ISkinSimple;Style) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplaySection.java.html#55]]]
++putDisplay(Display;HorizontalAlignment) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplaySection.java.html#69]]]
+} 
+@enduml

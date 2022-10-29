@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Iterator<String>" <|-- "net.sourceforge.plantuml.command.regex.MatcherIterator"
+class net.sourceforge.plantuml.command.regex.MatcherIterator {
+MatcherIterator(Matcher2) : MatcherIterator [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.html#11]]]
++hasNext() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.html#15]]]
++next() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.html#19]]]
++remove() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.html#23]]]
+} 
+@enduml

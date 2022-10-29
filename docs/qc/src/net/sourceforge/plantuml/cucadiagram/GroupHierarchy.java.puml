@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.GroupHierarchy"
+class net.sourceforge.plantuml.cucadiagram.GroupHierarchy {
++getRootGroup() : IGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#9]]]
++getRootSuperGroup() : SuperGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#11]]]
++getChildrenGroups(IGroup) : Collection<IGroup> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#13]]]
++getAllSuperGroups() : Set<SuperGroup> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#15]]]
++isEmpty(IGroup) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#17]]]
+} 
+@enduml

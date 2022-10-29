@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.creole.Sea"
+class net.sourceforge.plantuml.creole.Sea {
++Sea(StringBounder) : Sea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#19]]]
++add(Atom) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#23]]]
++getPosition(Atom) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#31]]]
++doAlign() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#35]]]
++translateMinYto(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#45]]]
++exportAllPositions(Map<Atom,Position>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#54]]]
++getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#58]]]
++getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#71]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#84]]]
++update(MinMax) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#88]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#95]]]
+} 
+@enduml

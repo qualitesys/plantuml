@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.FileSystem"
+class net.sourceforge.plantuml.FileSystem {
+-FileSystem() : FileSystem [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileSystem.java.html#15]]]
++getInstance() : FileSystem [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileSystem.java.html#19]]]
++setCurrentDir(SFile) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileSystem.java.html#23]]]
++getCurrentDir() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileSystem.java.html#32]]]
++getFile(String) : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileSystem.java.html#40]]]
+-isAbsolute(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileSystem.java.html#73]]]
++reset() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileSystem.java.html#78]]]
+} 
+@enduml

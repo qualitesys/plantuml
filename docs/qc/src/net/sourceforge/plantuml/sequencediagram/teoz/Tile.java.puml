@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.Tile"
+class net.sourceforge.plantuml.sequencediagram.teoz.Tile {
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#9]]]
++callbackY(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#11]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#13]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#15]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#17]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#19]]]
++getMiddleX() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#21]]]
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#23]]]
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#25]]]
++getZZZ() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#27]]]
++matchAnchor(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html#29]]]
+} 
+@enduml

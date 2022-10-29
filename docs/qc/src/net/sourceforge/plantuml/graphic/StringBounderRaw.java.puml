@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"StringBounder" <|-- "net.sourceforge.plantuml.graphic.StringBounderRaw"
+class net.sourceforge.plantuml.graphic.StringBounderRaw {
++calculateDimension(UFont;String) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#15]]]
+calculateDimensionInternal(UFont;String) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#30]]]
++getDescent(UFont;String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#32]]]
+} 
+@enduml

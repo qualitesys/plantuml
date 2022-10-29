@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.swing.ImageHelper"
+class net.sourceforge.plantuml.swing.ImageHelper {
++getScaledInstance(BufferedImage;Dimension;RenderingHints;boolean) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#14]]]
++toBufferedImage(Image) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#64]]]
++getScaledDimension(Dimension;Dimension) : Dimension [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#81]]]
++getScaledDimensionWidthFit(Dimension;Dimension) : Dimension [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#108]]]
++getScaledDimension(Dimension;double) : Dimension [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#127]]]
+} 
+@enduml

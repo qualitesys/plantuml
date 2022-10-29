@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"PostScriptCommand" <|-- "net.sourceforge.plantuml.eps.PostScriptCommandMacro"
+class net.sourceforge.plantuml.eps.PostScriptCommandMacro {
++PostScriptCommandMacro(String) : PostScriptCommandMacro [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#9]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#13]]]
++add(PostScriptCommand) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#17]]]
++toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#21]]]
++getPostStringDefinition() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#25]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#34]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#39]]]
+} 
+@enduml

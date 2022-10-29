@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"BitInputStream" <|-- "net.sourceforge.plantuml.code.deflate.ByteBitInputStream"
+class net.sourceforge.plantuml.code.deflate.ByteBitInputStream {
++ByteBitInputStream(InputStream) : ByteBitInputStream [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#85]]]
++getBitPosition() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#85]]]
++readByte() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#85]]]
++read() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#85]]]
++readNoEof() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#85]]]
++close() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#85]]]
+} 
+@enduml

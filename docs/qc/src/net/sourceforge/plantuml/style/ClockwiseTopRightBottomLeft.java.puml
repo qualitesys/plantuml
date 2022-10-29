@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft"
+class net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft {
++same(double) : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#14]]]
++none() : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#18]]]
++read(String) : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#22]]]
++margin1margin2(double;double) : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#51]]]
++topRightBottomLeft(double;double;double;double) : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#55]]]
+-ClockwiseTopRightBottomLeft(double;double;double;double) : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#59]]]
++incTop(double) : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#66]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#71]]]
++getTop() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#75]]]
++getRight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#79]]]
++getBottom() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#83]]]
++getLeft() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#87]]]
++marginForDocument(StyleBuilder) : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#91]]]
++getTranslate() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#96]]]
++apply(XDimension2D) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#100]]]
+} 
+@enduml

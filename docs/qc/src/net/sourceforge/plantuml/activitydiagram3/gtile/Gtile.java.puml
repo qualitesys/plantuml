@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Swimable2" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.Gtile"
+class net.sourceforge.plantuml.activitydiagram3.gtile.Gtile {
++skinParam() : ISkinParam [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtile.java.html#15]]]
++getStringBounder() : StringBounder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtile.java.html#17]]]
++getCoord(String) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtile.java.html#19]]]
++getGPoint(String) : GPoint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtile.java.html#21]]]
++getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtile.java.html#23]]]
+} 
+@enduml

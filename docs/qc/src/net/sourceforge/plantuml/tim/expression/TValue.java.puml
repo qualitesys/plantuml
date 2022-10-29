@@ -1,0 +1,35 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.expression.TValue"
+class net.sourceforge.plantuml.tim.expression.TValue {
+-TValue(int) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#14]]]
+-TValue(String) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#20]]]
++TValue(JsonValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#26]]]
++fromInt(int) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#32]]]
++fromBoolean(boolean) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#36]]]
++fromJson(JsonValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#40]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#45]]]
++fromString(Token) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#58]]]
++fromString(String) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#65]]]
++fromNumber(Token) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#69]]]
++add(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#76]]]
++minus(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#83]]]
++multiply(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#90]]]
++dividedBy(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#97]]]
++isNumber() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#104]]]
++isJson() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#108]]]
++isString() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#112]]]
++toToken() : Token [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#116]]]
++greaterThanOrEquals(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#126]]]
++greaterThan(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#133]]]
++lessThanOrEquals(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#140]]]
++lessThan(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#147]]]
++equalsOperation(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#154]]]
++notEquals(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#161]]]
++toBoolean() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#168]]]
++toInt() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#175]]]
++logicalAnd(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#179]]]
++logicalOr(TValue) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#183]]]
++toJson() : JsonValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#187]]]
+} 
+@enduml

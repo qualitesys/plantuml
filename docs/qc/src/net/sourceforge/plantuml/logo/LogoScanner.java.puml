@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.logo.LogoScanner"
+class net.sourceforge.plantuml.logo.LogoScanner {
++LogoScanner() : LogoScanner [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/LogoScanner.java.html#13]]]
++getPosition() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/LogoScanner.java.html#39]]]
++setPosition(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/LogoScanner.java.html#43]]]
++setSourceString(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/LogoScanner.java.html#51]]]
++getSourceString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/LogoScanner.java.html#57]]]
++getRestAsString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/LogoScanner.java.html#61]]]
+skipWhitespace() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/LogoScanner.java.html#68]]]
++getToken() : LogoToken [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/LogoScanner.java.html#76]]]
+} 
+@enduml

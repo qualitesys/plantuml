@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored"
+class net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored {
++create(double;double;SymbolContext;boolean) : SegmentColored [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#25]]]
+-SegmentColored(Segment;SymbolContext;boolean;double) : SegmentColored [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#29]]]
++getSpecificBackColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#36]]]
++getSpecificLineColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#43]]]
++equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#51]]]
++hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#57]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#62]]]
++drawU(UGraphic;Component;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#66]]]
++cutSegmentIfNeed(Collection<Segment>) : Collection<SegmentColored> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#75]]]
++getPos1Initial() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#79]]]
++merge(SegmentColored) : SegmentColored [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#83]]]
++getSegment() : Segment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#88]]]
+} 
+@enduml

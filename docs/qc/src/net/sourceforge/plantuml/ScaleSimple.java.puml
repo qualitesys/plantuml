@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"ScaleProtectedScale" <|-- "net.sourceforge.plantuml.ScaleSimple"
+class net.sourceforge.plantuml.ScaleSimple {
++ScaleSimple(double) : ScaleSimple [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleSimple.java.html#8]]]
++getScaleInternal(double;double) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleSimple.java.html#12]]]
+} 
+@enduml

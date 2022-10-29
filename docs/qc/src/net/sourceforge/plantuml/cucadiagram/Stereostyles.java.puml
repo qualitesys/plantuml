@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.Stereostyles"
+class net.sourceforge.plantuml.cucadiagram.Stereostyles {
+-Stereostyles() : Stereostyles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#19]]]
++isEmpty() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#22]]]
++build(String) : Stereostyles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#26]]]
++getStyleNames() : Collection<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#36]]]
+} 
+@enduml

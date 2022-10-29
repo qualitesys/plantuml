@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.creole.SheetBlock1"
+class net.sourceforge.plantuml.creole.SheetBlock1 {
++splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#28]]]
++SheetBlock1(Sheet;LineBreakStrategy;double) : SheetBlock1 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#44]]]
++SheetBlock1(Sheet;LineBreakStrategy;ClockwiseTopRightBottomLeft) : SheetBlock1 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#48]]]
++SheetBlock1(Sheet;LineBreakStrategy;double;double;double) : SheetBlock1 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#52]]]
++SheetBlock1(Sheet;LineBreakStrategy;ClockwiseTopRightBottomLeft;double;double) : SheetBlock1 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#56]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#66]]]
++getCellAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#70]]]
+-initMap(StringBounder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#81]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#142]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#148]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#152]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#165]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#169]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#173]]]
+} 
+@enduml

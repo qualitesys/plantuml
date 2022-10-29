@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame"
+class net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame {
++PlayerFrame(TextBlock;ISkinParam) : PlayerFrame [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#23]]]
+-getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#28]]]
+-getLineColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#32]]]
+-getUStroke() : UStroke [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#37]]]
++drawFrameTitle(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#42]]]
+-drawLine(UGraphic;double...) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#51]]]
+} 
+@enduml

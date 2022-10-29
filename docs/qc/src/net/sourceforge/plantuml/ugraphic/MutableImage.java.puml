@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.MutableImage"
+class net.sourceforge.plantuml.ugraphic.MutableImage {
++getImage() : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.html#9]]]
++withScale(double) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.html#11]]]
++muteColor(Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.html#13]]]
++muteTransparentColor(Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.html#15]]]
++monochrome() : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.html#17]]]
+} 
+@enduml

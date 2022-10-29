@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"DataListener" <|-- "jcckit.plot.Plot"
+class jcckit.plot.Plot {
++Plot(ConfigParameters) : Plot [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#44]]]
++setCoordinateSystem(CoordinateSystem) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#59]]]
++addPlotListener(PlotListener) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#73]]]
++removePlotListener(PlotListener) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#80]]]
+notifyListeners(PlotEvent) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#85]]]
++connect(DataPlot) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#92]]]
++transform(GraphPoint) : DataPoint [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#109]]]
++getCompletePlot() : GraphicalComposite [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#114]]]
++getCoordinateSystem() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#131]]]
++getCurves() : GraphicalElement[] [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#136]]]
++getAnnotation() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#147]]]
++setAnnotation(GraphicalElement) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#153]]]
++isLegendVisible() : boolean [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#159]]]
++getLegend() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#164]]]
++dataChanged(DataEvent) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#169]]]
+-generateCurves(DataPlot) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#201]]]
+-fillCurve(int;DataCurve) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#220]]]
+-getHintForNextCurve(int;int) : Hint [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#232]]]
+-setHintForNextCurve(Vector;int;Hint) : void [[[./../../../.././qc/src/jcckit/plot/Plot.java.html#243]]]
+} 
+@enduml

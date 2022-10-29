@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.graphic.IntricatedPoint"
+class net.sourceforge.plantuml.timingdiagram.graphic.IntricatedPoint {
++IntricatedPoint(XPoint2D;XPoint2D) : IntricatedPoint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/IntricatedPoint.java.html#12]]]
++getPointA() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/IntricatedPoint.java.html#17]]]
++getPointB() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/IntricatedPoint.java.html#21]]]
++translated(UTranslate) : IntricatedPoint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/IntricatedPoint.java.html#25]]]
+} 
+@enduml

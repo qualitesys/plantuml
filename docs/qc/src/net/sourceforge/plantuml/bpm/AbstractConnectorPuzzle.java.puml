@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"ConnectorPuzzle" <|-- "net.sourceforge.plantuml.bpm.AbstractConnectorPuzzle"
+class net.sourceforge.plantuml.bpm.AbstractConnectorPuzzle {
++have(Where) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#11]]]
++append(Where) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#15]]]
++remove(Where) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#19]]]
++append(ConnectorPuzzle) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#26]]]
+connections() : Set<Where> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#30]]]
+} 
+@enduml

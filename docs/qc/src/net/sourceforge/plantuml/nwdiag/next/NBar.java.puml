@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"Staged" <|-- "net.sourceforge.plantuml.nwdiag.next.NBar"
+class net.sourceforge.plantuml.nwdiag.next.NBar {
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#13]]]
++getParent() : NBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#17]]]
++setParent(NBox) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#21]]]
++getStart() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#26]]]
++getEnd() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#31]]]
++addStage(NStage) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#35]]]
++getNWidth() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#47]]]
++contains(NStage) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#52]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<StateDiagram>" <|-- "net.sourceforge.plantuml.statediagram.command.CommandCreatePackage2"
+class net.sourceforge.plantuml.statediagram.command.CommandCreatePackage2 {
++CommandCreatePackage2() : CommandCreatePackage2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandCreatePackage2.java.html#34]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandCreatePackage2.java.html#38]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandCreatePackage2.java.html#66]]]
+-getNotNull(RegexResult;String;String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandCreatePackage2.java.html#70]]]
+executeArg(StateDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandCreatePackage2.java.html#78]]]
+} 
+@enduml

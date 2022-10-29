@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.style.CssVariables"
+class net.sourceforge.plantuml.style.CssVariables {
++learn(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#16]]]
++value(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#22]]]
+} 
+@enduml

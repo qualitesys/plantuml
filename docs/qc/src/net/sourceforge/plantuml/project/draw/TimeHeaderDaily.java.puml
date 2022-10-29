@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"TimeHeaderCalendar" <|-- "net.sourceforge.plantuml.project.draw.TimeHeaderDaily"
+class net.sourceforge.plantuml.project.draw.TimeHeaderDaily {
++getTimeHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#18]]]
++getTimeFooterHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#22]]]
++TimeHeaderDaily(TimeHeaderParameters;Map<Day,String>;Day;Day) : TimeHeaderDaily [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#30]]]
+-isBold(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#36]]]
++drawTimeHeader(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#41]]]
+-printSmallVbars(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#54]]]
++drawTimeFooter(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#63]]]
+-drawTextsDayOfWeek(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#69]]]
+-drawTextDayOfMonth(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#78]]]
+-getTextBackColor(Day) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#87]]]
+-drawMonths(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#94]]]
+-printMonth(UGraphic;MonthYear;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#113]]]
+-printNamedDays(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#120]]]
++getFullHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#140]]]
+-getHeaderNameDayHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#144]]]
+} 
+@enduml

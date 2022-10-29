@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Plugin" <|-- "ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers"
+class ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers {
++PluginMarkers(List<Marker>) : PluginMarkers [[[./../../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#15]]]
++hasGUIP() : boolean [[[./../../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#39]]]
++render() : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#43]]]
++toString() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#61]]]
+} 
+@enduml

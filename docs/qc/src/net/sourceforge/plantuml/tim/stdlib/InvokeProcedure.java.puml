@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"TFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.InvokeProcedure"
+class net.sourceforge.plantuml.tim.stdlib.InvokeProcedure {
++getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#20]]]
++canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#24]]]
++getFunctionType() : TFunctionType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#28]]]
++executeProcedure(TContext;TMemory;LineLocation;String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#32]]]
++executeProcedureInternal(TContext;TMemory;List<TValue>;Map<String,TValue>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#37]]]
++executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#49]]]
++isUnquoted() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#54]]]
+} 
+@enduml

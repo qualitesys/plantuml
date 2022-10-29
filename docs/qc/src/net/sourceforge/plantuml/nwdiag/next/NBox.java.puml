@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Staged" <|-- "net.sourceforge.plantuml.nwdiag.next.NBox"
+class net.sourceforge.plantuml.nwdiag.next.NBox {
++add(NBar) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#13]]]
++getStart() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#22]]]
++getEnd() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#31]]]
++getNWidth() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#40]]]
++getPositions() : Map<NBar,Integer> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#44]]]
++contains(NStage) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#49]]]
+} 
+@enduml

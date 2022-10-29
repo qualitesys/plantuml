@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.hcl.HclParser"
+class net.sourceforge.plantuml.hcl.HclParser {
++HclParser(Iterable<Character>) : HclParser [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#22]]]
++parseMe() : JsonObject [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#26]]]
+-getModuleOrSomething(Iterator<HclTerm>) : Map<String,JsonObject> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#42]]]
+-getFunctionData(String;Iterator<HclTerm>) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#57]]]
+-getBracketData(Iterator<HclTerm>) : JsonObject [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#88]]]
+-getValue(Iterator<HclTerm>) : Object [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#116]]]
+-getArray(Iterator<HclTerm>) : Object [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#133]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#149]]]
+-parse(Iterator<Character>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#153]]]
+-eatUntilDoubleQuote(Iterator<Character>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#184]]]
+-getType(char) : SymbolType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#199]]]
+} 
+@enduml

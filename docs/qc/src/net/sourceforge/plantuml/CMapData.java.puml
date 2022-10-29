@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.CMapData"
+class net.sourceforge.plantuml.CMapData {
++asString(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/CMapData.java.html#13]]]
++containsData() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/CMapData.java.html#17]]]
++appendString(String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CMapData.java.html#21]]]
++appendLong(long) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CMapData.java.html#25]]]
+-appendUrl(int;Url;double) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CMapData.java.html#29]]]
++cmapString(Set<Url>;double) : CMapData [[[./../../../../.././qc/src/net/sourceforge/plantuml/CMapData.java.html#45]]]
+} 
+@enduml

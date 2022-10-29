@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.label.node__c"
+class gen.lib.label.node__c {
++RTreeNewNode(ST_RTree) : ST_Node_t___ [[[./../../../../.././qc/src/gen/lib/label/node__c.java.html#25]]]
++InitNode(ST_Node_t___) : void [[[./../../../../.././qc/src/gen/lib/label/node__c.java.html#46]]]
++InitBranch(ST_Branch_t) : void [[[./../../../../.././qc/src/gen/lib/label/node__c.java.html#67]]]
++NodeCover(ST_Node_t___) : ST_Rect_t [[[./../../../../.././qc/src/gen/lib/label/node__c.java.html#84]]]
++PickBranch(ST_Rect_t;ST_Node_t___) : int [[[./../../../../.././qc/src/gen/lib/label/node__c.java.html#113]]]
++AddBranch(ST_RTree;ST_Branch_t;ST_Node_t___;ST_Node_t___[]) : int [[[./../../../../.././qc/src/gen/lib/label/node__c.java.html#153]]]
++DisconBranch(ST_Node_t___;int) : void [[[./../../../../.././qc/src/gen/lib/label/node__c.java.html#196]]]
+} 
+@enduml

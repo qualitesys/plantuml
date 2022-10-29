@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.board.BNode"
+class net.sourceforge.plantuml.board.BNode {
++BNode(int;String) : BNode [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BNode.java.html#16]]]
++addChild(BNode) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BNode.java.html#21]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BNode.java.html#32]]]
++getStage() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BNode.java.html#36]]]
++getParent() : BNode [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BNode.java.html#40]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BNode.java.html#45]]]
++computeX(AtomicInteger) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BNode.java.html#49]]]
++initBarray(BArray) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BNode.java.html#60]]]
++getX() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BNode.java.html#68]]]
+} 
+@enduml

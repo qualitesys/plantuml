@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<ActivityDiagram3>" <|-- "net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3"
+class net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3 {
++CommandPartition3() : CommandPartition3 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#29]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#33]]]
+-getUSymbol(String) : USymbol [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#53]]]
+-color(String) : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#72]]]
+executeArg(ActivityDiagram3;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#77]]]
+} 
+@enduml

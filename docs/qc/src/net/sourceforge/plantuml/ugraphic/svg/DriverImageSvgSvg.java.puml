@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UDriver<UImageSvg,SvgGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.svg.DriverImageSvgSvg"
+class net.sourceforge.plantuml.ugraphic.svg.DriverImageSvgSvg {
++draw(UImageSvg;double;double;ColorMapper;UParam;SvgGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImageSvgSvg.java.html#12]]]
+} 
+@enduml

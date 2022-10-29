@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolQueue"
+class net.sourceforge.plantuml.graphic.USymbolQueue {
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolQueue.java.html#17]]]
+-drawQueue(UGraphic;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolQueue.java.html#23]]]
+-getClosingPath(double;double) : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolQueue.java.html#43]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolQueue.java.html#90]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolQueue.java.html#95]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolQueue.java.html#119]]]
+} 
+@enduml

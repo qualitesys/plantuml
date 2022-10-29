@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"AbstractOAuth2AccessAuthorizeManager" <|-- "net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager"
+class net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager {
++create(SecurityCredentials) : SecurityAuthentication [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#19]]]
+} 
+@enduml

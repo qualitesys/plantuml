@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.EnsureVisible"
+class net.sourceforge.plantuml.EnsureVisible {
++ensureVisible(double;double) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/EnsureVisible.java.html#6]]]
+} 
+@enduml

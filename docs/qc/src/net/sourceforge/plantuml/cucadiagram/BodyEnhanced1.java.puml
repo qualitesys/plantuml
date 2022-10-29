@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"BodyEnhancedAbstractTextBlock" <|-- "net.sourceforge.plantuml.cucadiagram.BodyEnhanced1"
+class net.sourceforge.plantuml.cucadiagram.BodyEnhanced1 {
+BodyEnhanced1(HorizontalAlignment;List<CharSequence>;ISkinParam;ILeaf;Style) : BodyEnhanced1 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#43]]]
+BodyEnhanced1(HorizontalAlignment;Display;ISkinParam;ILeaf;Style) : BodyEnhanced1 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#57]]]
+getMarginX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#78]]]
+-isTreeOrTable(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#82]]]
+getArea(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#88]]]
+-buildTextBlock(Display;char;TextBlock;StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#167]]]
+-buildTreeOrTable(String;ListIterator<CharSequence>) : List<CharSequence> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#175]]]
+-purge(String;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#197]]]
++getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#205]]]
++getUrls() : List<Url> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#213]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#217]]]
+} 
+@enduml

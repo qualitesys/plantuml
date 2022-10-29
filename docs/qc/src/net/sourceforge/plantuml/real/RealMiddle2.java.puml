@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"RealMoveable" <|-- "net.sourceforge.plantuml.real.RealMiddle2"
+class net.sourceforge.plantuml.real.RealMiddle2 {
+RealMiddle2(RealMoveable;RealMoveable) : RealMiddle2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#9]]]
+getCurrentValueInternal() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#17]]]
++addAtLeast(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#25]]]
++ensureBiggerThan(Real) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#29]]]
+move(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#34]]]
+} 
+@enduml

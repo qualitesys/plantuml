@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandChangeState"
+class net.sourceforge.plantuml.timingdiagram.command.CommandChangeState {
+CommandChangeState(IRegex) : CommandChangeState [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#20]]]
+color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#26]]]
+addState(TimingDiagram;RegexResult;Player;TimeTick) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#30]]]
+-getStates(RegexResult) : String[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#38]]]
+getStateOrHidden() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#47]]]
+} 
+@enduml

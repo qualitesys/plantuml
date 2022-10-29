@@ -1,0 +1,31 @@
+@startuml
+!pragma layout smetana
+"Player" <|-- "net.sourceforge.plantuml.timingdiagram.PlayerAnalog"
+class net.sourceforge.plantuml.timingdiagram.PlayerAnalog {
++PlayerAnalog(String;ISkinParam;TimingRuler;boolean;Stereotype) : PlayerAnalog [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#45]]]
+-getMin() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#50]]]
+-getMax() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#64]]]
++getFullHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#78]]]
++getTimeProjection(StringBounder;TimeTick) : IntricatedPoint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#82]]]
+-getValueAt(StringBounder;TimeTick) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#89]]]
++addNote(TimeTick;Display;Position) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#112]]]
++defineState(String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#116]]]
++setState(TimeTick;String;Colors;String...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#120]]]
+-getState(String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#132]]]
++createConstraint(TimeTick;TimeTick;String;ArrowConfiguration) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#142]]]
+-getYpos(StringBounder;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#146]]]
++getPart1(double;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#151]]]
+-getMaxWidthForTicks(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#165]]]
+-drawPart1(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#179]]]
+-getWidthLabel(StringBounder;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#200]]]
+-drawScaleLabel(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#206]]]
+-getTextBlock(double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#213]]]
+-drawTickHlines(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#218]]]
++getPart2() : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#229]]]
++setStartEnd(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#255]]]
++setTicks(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#260]]]
+getStyleSignature() : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#265]]]
+-drawConstraints(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#270]]]
+-getHeightForConstraints(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#276]]]
+} 
+@enduml

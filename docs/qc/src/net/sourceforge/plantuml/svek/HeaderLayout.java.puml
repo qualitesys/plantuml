@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.HeaderLayout"
+class net.sourceforge.plantuml.svek.HeaderLayout {
++HeaderLayout(TextBlock;TextBlock;TextBlock;TextBlock) : HeaderLayout [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/HeaderLayout.java.html#19]]]
+-protectAgaintNull(TextBlock) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/HeaderLayout.java.html#26]]]
++getDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/HeaderLayout.java.html#33]]]
++drawU(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/HeaderLayout.java.html#46]]]
+} 
+@enduml

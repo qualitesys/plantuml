@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Eater" <|-- "net.sourceforge.plantuml.tim.EaterTheme"
+class net.sourceforge.plantuml.tim.EaterTheme {
++EaterTheme(StringLocated;ImportedFiles) : EaterTheme [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#30]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#36]]]
++getTheme() : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#53]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#98]]]
+} 
+@enduml

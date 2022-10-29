@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"FrontierStack" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl"
+class net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl {
++FrontierStackImpl(double;int) : FrontierStackImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#33]]]
+-FrontierStackImpl(List<Stack>) : FrontierStackImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#38]]]
+-getLast() : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#42]]]
++getFreeY(ParticipantRange) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#46]]]
++add(double;ParticipantRange) : FrontierStackImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#50]]]
++openBar() : FrontierStack [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#57]]]
++restore() : FrontierStack [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#64]]]
++closeBar() : FrontierStack [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#75]]]
++copy() : FrontierStackImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#85]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#91]]]
+} 
+@enduml

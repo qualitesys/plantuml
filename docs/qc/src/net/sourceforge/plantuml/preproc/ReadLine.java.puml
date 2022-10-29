@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"Closeable" <|-- "net.sourceforge.plantuml.preproc.ReadLine"
+class net.sourceforge.plantuml.preproc.ReadLine {
++readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLine.java.html#11]]]
+} 
+@enduml

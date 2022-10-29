@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockSprited"
+class net.sourceforge.plantuml.graphic.TextBlockSprited {
++TextBlockSprited(TextBlock;TextBlock) : TextBlockSprited [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSprited.java.html#13]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSprited.java.html#18]]]
+-getCircledCharacterWithAndMargin(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSprited.java.html#27]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSprited.java.html#31]]]
+} 
+@enduml

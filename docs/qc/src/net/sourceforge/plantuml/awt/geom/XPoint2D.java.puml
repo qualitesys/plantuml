@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.awt.geom.XPoint2D"
+class net.sourceforge.plantuml.awt.geom.XPoint2D {
++XPoint2D() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#11]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#16]]]
++XPoint2D(double;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#20]]]
++equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#26]]]
++hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#32]]]
++getX() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#36]]]
++getY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#40]]]
++distance(XPoint2D) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#44]]]
++distanceSq(XPoint2D) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#50]]]
++distance(double;double;double;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#56]]]
++distance(double;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#62]]]
++move(double;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#68]]]
++transform(AffineTransform) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#72]]]
++move(XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#78]]]
+} 
+@enduml

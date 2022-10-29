@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.WithPorts"
+class net.sourceforge.plantuml.svek.WithPorts {
+getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/WithPorts.java.html#8]]]
+} 
+@enduml

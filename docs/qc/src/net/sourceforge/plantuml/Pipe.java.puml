@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.Pipe"
+class net.sourceforge.plantuml.Pipe {
++Pipe(Option;PrintStream;InputStream;String) : Pipe [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#30]]]
++managePipe(ErrorStatus) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#42]]]
+-generateDiagram(SourceStringReader;ErrorStatus;boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#64]]]
+-createPipeMapForDiagram(SourceStringReader;ErrorStatus) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#86]]]
+-computeUrlForDiagram(SourceStringReader) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#98]]]
+-syntaxCheckDiagram(SourceStringReader;ErrorStatus) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#104]]]
+-printInfo(PrintStream;SourceStringReader) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#120]]]
+readFirstDiagram() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#129]]]
+readSubsequentDiagram() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#133]]]
+readSingleDiagram(boolean) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#137]]]
+manageFormat(String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pipe.java.html#179]]]
+} 
+@enduml

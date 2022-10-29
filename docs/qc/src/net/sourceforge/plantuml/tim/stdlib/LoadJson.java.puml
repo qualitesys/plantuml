@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"SimpleReturnFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.LoadJson"
+class net.sourceforge.plantuml.tim.stdlib.LoadJson {
++getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#34]]]
++canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#38]]]
++executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#42]]]
+-getDefaultJson(List<TValue>) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#62]]]
+-getCharset(List<TValue>) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#70]]]
+-loadStringData(String;String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#78]]]
+} 
+@enduml

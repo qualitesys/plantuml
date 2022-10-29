@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ErrorUml"
+class net.sourceforge.plantuml.ErrorUml {
++ErrorUml(ErrorUmlType;String;int;LineLocation) : ErrorUml [[[./../../../../.././qc/src/net/sourceforge/plantuml/ErrorUml.java.html#13]]]
++score() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/ErrorUml.java.html#20]]]
++equals(Object) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/ErrorUml.java.html#25]]]
++hashCode() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/ErrorUml.java.html#31]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/ErrorUml.java.html#36]]]
++getError() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/ErrorUml.java.html#40]]]
++getType() : ErrorUmlType [[[./../../../../.././qc/src/net/sourceforge/plantuml/ErrorUml.java.html#44]]]
++getPosition() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/ErrorUml.java.html#48]]]
++getLineLocation() : LineLocation [[[./../../../../.././qc/src/net/sourceforge/plantuml/ErrorUml.java.html#52]]]
+} 
+@enduml

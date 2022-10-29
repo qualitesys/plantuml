@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.svek.image.Opale"
+class net.sourceforge.plantuml.svek.image.Opale {
++Opale(double;HColor;HColor;TextBlock;boolean;UStroke) : Opale [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#35]]]
++setRoundCorner(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#45]]]
++setOpale(Direction;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#49]]]
+-getWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#55]]]
+-getHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#59]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#64]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#70]]]
+-getPolygonNormal(StringBounder) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#95]]]
++getCorner(double;double) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#99]]]
++getPolygonNormal(double;double;double) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#114]]]
+-getPolygonLeft(StringBounder;XPoint2D;XPoint2D) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#140]]]
+-getPolygonRight(StringBounder;XPoint2D;XPoint2D) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#163]]]
+-getPolygonUp(StringBounder;XPoint2D;XPoint2D) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#186]]]
+-getPolygonDown(StringBounder;XPoint2D;XPoint2D) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#209]]]
++getMarginX1() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#232]]]
+} 
+@enduml

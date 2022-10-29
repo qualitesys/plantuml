@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"UGraphicDelegator" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.UGraphicInterceptorGoto"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.UGraphicInterceptorGoto {
++UGraphicInterceptorGoto(UGraphic) : UGraphicInterceptorGoto [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/UGraphicInterceptorGoto.java.html#12]]]
++draw(UShape) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/UGraphicInterceptorGoto.java.html#16]]]
++apply(UChange) : UGraphic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/UGraphicInterceptorGoto.java.html#29]]]
+} 
+@enduml

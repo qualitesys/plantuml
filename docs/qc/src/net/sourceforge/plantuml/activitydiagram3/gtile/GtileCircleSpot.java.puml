@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractGtile" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot"
+class net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot {
+-getDefaultStyleDefinitionCircle() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#32]]]
++GtileCircleSpot(StringBounder;ISkinParam;HColor;Swimlane;String;UFont) : GtileCircleSpot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#36]]]
+drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#48]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#65]]]
+} 
+@enduml

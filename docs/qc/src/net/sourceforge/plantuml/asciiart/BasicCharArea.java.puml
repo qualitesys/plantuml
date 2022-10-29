@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.asciiart.BasicCharArea"
+class net.sourceforge.plantuml.asciiart.BasicCharArea {
+getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#9]]]
+getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#11]]]
+drawChar(char;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#13]]]
+fillRect(char;int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#15]]]
+drawStringLR(String;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#17]]]
+drawStringTB(String;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#19]]]
+getLine(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#21]]]
+print(PrintStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#23]]]
+getLines() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#25]]]
+drawHLine(char;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#27]]]
+drawHLine(char;int;int;int;char;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#28]]]
+drawVLine(char;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/BasicCharArea.java.html#30]]]
+} 
+@enduml

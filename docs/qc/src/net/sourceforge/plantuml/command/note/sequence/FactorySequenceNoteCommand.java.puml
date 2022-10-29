@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"SingleMultiFactoryCommand<SequenceDiagram>" <|-- "net.sourceforge.plantuml.command.note.sequence.FactorySequenceNoteCommand"
+class net.sourceforge.plantuml.command.note.sequence.FactorySequenceNoteCommand {
+-getRegexConcatMultiLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteCommand.java.html#36]]]
+-getRegexConcatSingleLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteCommand.java.html#54]]]
+-color() : ColorParser [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteCommand.java.html#76]]]
++createMultiLine(boolean) : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteCommand.java.html#80]]]
++createSingleLine() : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteCommand.java.html#99]]]
+-executeInternal(SequenceDiagram;RegexResult;BlocLines) : CommandExecutionResult [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteCommand.java.html#111]]]
+} 
+@enduml

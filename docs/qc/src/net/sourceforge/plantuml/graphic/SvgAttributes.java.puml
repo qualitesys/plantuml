@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.SvgAttributes"
+class net.sourceforge.plantuml.graphic.SvgAttributes {
++SvgAttributes() : SvgAttributes [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#17]]]
+-SvgAttributes(SvgAttributes) : SvgAttributes [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#20]]]
++SvgAttributes(String) : SvgAttributes [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#24]]]
++attributes() : Map<String,String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#32]]]
++add(String;String) : SvgAttributes [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#36]]]
++add(SvgAttributes) : SvgAttributes [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#42]]]
+} 
+@enduml

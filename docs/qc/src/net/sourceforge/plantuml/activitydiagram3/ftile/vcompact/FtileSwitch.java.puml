@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileSwitch"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileSwitch {
+-FtileSwitch(List<Double>;List<Ftile>;Rainbow) : FtileSwitch [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#41]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#48]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#56]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#60]]]
+create(Swimlane;HColor;HColor;Rainbow;FtileFactory;ConditionStyle;List<Branch>;FontConfiguration;LinkRendering;LinkRendering;FontConfiguration) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#64]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#100]]]
++getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#106]]]
+-getTranslate1(Ftile;StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#113]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#125]]]
+-calculateDimensionInternal(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#132]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#143]]]
+} 
+@enduml

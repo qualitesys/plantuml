@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.HtmlColorAndStyle"
+class net.sourceforge.plantuml.graphic.HtmlColorAndStyle {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/HtmlColorAndStyle.java.html#23]]]
++HtmlColorAndStyle(HColor;HColor) : HtmlColorAndStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/HtmlColorAndStyle.java.html#27]]]
++HtmlColorAndStyle(HColor;LinkStyle;HColor) : HtmlColorAndStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/HtmlColorAndStyle.java.html#31]]]
++getArrowColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/HtmlColorAndStyle.java.html#37]]]
++getArrowHeadColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/HtmlColorAndStyle.java.html#41]]]
++getStyle() : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/HtmlColorAndStyle.java.html#45]]]
++getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/HtmlColorAndStyle.java.html#49]]]
++build(ISkinParam;String) : HtmlColorAndStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/HtmlColorAndStyle.java.html#53]]]
+} 
+@enduml

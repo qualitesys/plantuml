@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlockBackcolored" <|-- "net.sourceforge.plantuml.graphic.TextBlockRecentred"
+class net.sourceforge.plantuml.graphic.TextBlockRecentred {
++TextBlockRecentred(TextBlock) : TextBlockRecentred [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRecentred.java.html#15]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRecentred.java.html#19]]]
++getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRecentred.java.html#27]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRecentred.java.html#42]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockRecentred.java.html#47]]]
+} 
+@enduml

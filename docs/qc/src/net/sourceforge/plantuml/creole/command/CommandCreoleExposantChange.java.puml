@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"CommandCreoleCacheCommand" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange"
+class net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange {
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#14]]]
+-CommandCreoleExposantChange(String;FontPosition) : CommandCreoleExposantChange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#18]]]
++create(FontPosition) : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#23]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#28]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#36]]]
+} 
+@enduml

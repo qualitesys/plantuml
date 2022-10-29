@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator"
+class ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator {
+-getMeanSunLongitude(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#33]]]
+-getSunEclipticLongitude(long) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#54]]]
+daysSinceEpoch(long) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#65]]]
+-doKepler(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#71]]]
+-getJulianDate(int;int;int) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#92]]]
+-getGST(long) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#110]]]
++getSunPositionOnEarth(long) : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#140]]]
++getMoonPositionOnEarth(long) : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#151]]]
+} 
+@enduml

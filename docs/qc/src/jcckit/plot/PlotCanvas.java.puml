@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"PlotListener" <|-- "jcckit.plot.PlotCanvas"
+class jcckit.plot.PlotCanvas {
++PlotCanvas(ConfigParameters) : PlotCanvas [[[./../../../.././qc/src/jcckit/plot/PlotCanvas.java.html#20]]]
++getPaper() : ClippingRectangle [[[./../../../.././qc/src/jcckit/plot/PlotCanvas.java.html#30]]]
++getHorizontalAnchor() : Anchor [[[./../../../.././qc/src/jcckit/plot/PlotCanvas.java.html#35]]]
++getVerticalAnchor() : Anchor [[[./../../../.././qc/src/jcckit/plot/PlotCanvas.java.html#40]]]
++getPlot() : Plot [[[./../../../.././qc/src/jcckit/plot/PlotCanvas.java.html#45]]]
++connect(DataPlot) : void [[[./../../../.././qc/src/jcckit/plot/PlotCanvas.java.html#50]]]
++plotChanged(PlotEvent) : void [[[./../../../.././qc/src/jcckit/plot/PlotCanvas.java.html#55]]]
+} 
+@enduml

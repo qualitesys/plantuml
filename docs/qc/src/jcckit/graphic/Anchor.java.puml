@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.graphic.Anchor"
+class jcckit.graphic.Anchor {
++getHorizontalAnchor(ConfigParameters;String;Anchor) : Anchor [[[./../../../.././qc/src/jcckit/graphic/Anchor.java.html#20]]]
++getVerticalAnchor(ConfigParameters;String;Anchor) : Anchor [[[./../../../.././qc/src/jcckit/graphic/Anchor.java.html#39]]]
+-Anchor(int) : Anchor [[[./../../../.././qc/src/jcckit/graphic/Anchor.java.html#59]]]
++getFactor() : int [[[./../../../.././qc/src/jcckit/graphic/Anchor.java.html#64]]]
+} 
+@enduml

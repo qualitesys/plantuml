@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"EntityImageStateCommon" <|-- "net.sourceforge.plantuml.svek.image.EntityImageState"
+class net.sourceforge.plantuml.svek.image.EntityImageState {
++EntityImageState(IEntity;ISkinParam) : EntityImageState [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState.java.html#37]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState.java.html#53]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState.java.html#64]]]
++drawSymbol(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState.java.html#102]]]
+} 
+@enduml

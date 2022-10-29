@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"ArrowInGroupable" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant"
+class net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant {
++ArrowAndParticipant(StringBounder;Arrow;ParticipantBox;double) : ArrowAndParticipant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#17]]]
++setMaxX(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#27]]]
++getArrowOnlyWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#33]]]
++getArrowYEndLevel(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#38]]]
++getArrowYStartLevel(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#43]]]
++getDirection(StringBounder) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#48]]]
++getParticipantAt(StringBounder;NotePosition) : LivingParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#53]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#58]]]
+-getDiff(UGraphic) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#82]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#90]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#95]]]
++getActualWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#100]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#105]]]
++getMaxX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#109]]]
++getMinX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#113]]]
++toString(StringBounder) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#117]]]
+} 
+@enduml

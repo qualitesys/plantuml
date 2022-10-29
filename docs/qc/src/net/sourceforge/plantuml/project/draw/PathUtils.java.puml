@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.draw.PathUtils"
+class net.sourceforge.plantuml.project.draw.PathUtils {
++UtoRight(double;double;double) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#9]]]
++UtoLeft(double;double;double) : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#21]]]
+} 
+@enduml

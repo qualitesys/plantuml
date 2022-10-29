@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.UDrawableUtils"
+class net.sourceforge.plantuml.graphic.UDrawableUtils {
++move(UDrawable;double;double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UDrawableUtils.java.html#9]]]
+} 
+@enduml

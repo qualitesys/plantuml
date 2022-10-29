@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"Random" <|-- "net.sourceforge.plantuml.utils.MTRandom"
+class net.sourceforge.plantuml.utils.MTRandom {
++MTRandom() : MTRandom [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#40]]]
++MTRandom(boolean) : MTRandom [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#43]]]
++MTRandom(long) : MTRandom [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#50]]]
++MTRandom(byte[]) : MTRandom [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#55]]]
++MTRandom(int[]) : MTRandom [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#61]]]
+-setSeed(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#69]]]
++setSeed(long) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#87]]]
++setSeed(byte[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#106]]]
++setSeed(int[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#111]]]
+next(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#133]]]
++pack(byte[]) : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#175]]]
+} 
+@enduml

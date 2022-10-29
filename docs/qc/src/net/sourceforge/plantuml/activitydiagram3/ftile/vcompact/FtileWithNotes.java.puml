@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWithNotes"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWithNotes {
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#49]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#53]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#57]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#61]]]
++FtileWithNotes(Ftile;Collection<PositionedNote>;ISkinParam;VerticalAlignment) : FtileWithNotes [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#65]]]
+-getTranslate(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#126]]]
+-getTranslateForLeft(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#138]]]
+-getTranslateForRight(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#150]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#162]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#170]]]
+-calculateDimensionInternal(StringBounder) : XDimension2D [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#181]]]
+} 
+@enduml

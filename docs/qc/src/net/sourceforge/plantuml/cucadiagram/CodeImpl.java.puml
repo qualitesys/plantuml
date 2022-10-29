@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"Code" <|-- "net.sourceforge.plantuml.cucadiagram.CodeImpl"
+class net.sourceforge.plantuml.cucadiagram.CodeImpl {
+-CodeImpl(String) : CodeImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#13]]]
++of(String) : Code [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#17]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#24]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#29]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#34]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#39]]]
++eventuallyRemoveStartingAndEndingDoubleQuote(String) : Code [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#44]]]
+} 
+@enduml

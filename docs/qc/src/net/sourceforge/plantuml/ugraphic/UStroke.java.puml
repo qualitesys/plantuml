@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"UChange" <|-- "net.sourceforge.plantuml.ugraphic.UStroke"
+class net.sourceforge.plantuml.ugraphic.UStroke {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#11]]]
++UStroke(double;double;double) : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#15]]]
++UStroke(double) : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#21]]]
++UStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#25]]]
++onlyThickness() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#29]]]
+-applyThickness(UStroke) : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#33]]]
++getDashVisible() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#40]]]
++getDashSpace() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#44]]]
++getThickness() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#48]]]
++getDasharraySvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#52]]]
++getDashTikz() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#59]]]
+} 
+@enduml

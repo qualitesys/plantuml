@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"UnsupportedC" <|-- "smetana.core.CArray"
+class smetana.core.CArray {
++toString() : String [[[./../../../.././qc/src/smetana/core/CArray.java.html#17]]]
+-CArray(List<O>;int;Class<O>) : CArray [[[./../../../.././qc/src/smetana/core/CArray.java.html#35]]]
++plus_(int) : CArray<O> [[[./../../../.././qc/src/smetana/core/CArray.java.html#44]]]
++minus_(CArray<O>) : int [[[./../../../.././qc/src/smetana/core/CArray.java.html#48]]]
++get__(int) : O [[[./../../../.././qc/src/smetana/core/CArray.java.html#55]]]
+-reallocWithStructure(int) : void [[[./../../../.././qc/src/smetana/core/CArray.java.html#59]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState"
+class net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState {
++CucaDiagramSimplifierState(CucaDiagram;List<String>;StringBounder) : CucaDiagramSimplifierState [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#24]]]
+-getOrdered(IGroup) : Collection<IGroup> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#44]]]
+-addOneLevel(Collection<IGroup>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#64]]]
+-reverse(Collection<IGroup>) : List<IGroup> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#72]]]
+-computeImage(IGroup) : IEntityImage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#80]]]
+} 
+@enduml

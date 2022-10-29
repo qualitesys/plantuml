@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.error.PSystemErrorUtils"
+class net.sourceforge.plantuml.error.PSystemErrorUtils {
++buildV2(UmlSource;ErrorUml;List<String>;List<StringLocated>) : PSystemError [[[./../../../../../.././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#15]]]
++merge(Collection<PSystemError>) : PSystemError [[[./../../../../../.././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#23]]]
+-mergeV2(List<PSystemErrorV2>) : PSystemErrorV2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#51]]]
++isDiagramError(Class<?extendsDiagram>) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#60]]]
+} 
+@enduml

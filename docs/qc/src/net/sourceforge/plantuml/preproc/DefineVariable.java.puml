@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.DefineVariable"
+class net.sourceforge.plantuml.preproc.DefineVariable {
++DefineVariable(String) : DefineVariable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#9]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#22]]]
++getDefaultValue() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#26]]]
++removeDefault() : DefineVariable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#30]]]
+} 
+@enduml

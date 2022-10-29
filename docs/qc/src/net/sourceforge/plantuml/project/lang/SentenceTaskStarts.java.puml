@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceTaskStarts"
+class net.sourceforge.plantuml.project.lang.SentenceTaskStarts {
++SentenceTaskStarts() : SentenceTaskStarts [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStarts.java.html#14]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStarts.java.html#19]]]
+} 
+@enduml

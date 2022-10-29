@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"IOException" <|-- "net.sourceforge.plantuml.picoweb.BadRequest400"
+class net.sourceforge.plantuml.picoweb.BadRequest400 {
++BadRequest400(String) : BadRequest400 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/picoweb/BadRequest400.java.html#7]]]
++BadRequest400(String;Throwable) : BadRequest400 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/picoweb/BadRequest400.java.html#11]]]
+} 
+@enduml

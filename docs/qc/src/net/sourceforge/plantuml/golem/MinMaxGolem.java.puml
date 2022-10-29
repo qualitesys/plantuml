@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.golem.MinMaxGolem"
+class net.sourceforge.plantuml.golem.MinMaxGolem {
++manage(int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxGolem.java.html#11]]]
++manage(Position) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxGolem.java.html#26]]]
++getMinX() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxGolem.java.html#31]]]
++getMinY() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxGolem.java.html#35]]]
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxGolem.java.html#39]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/MinMaxGolem.java.html#43]]]
+} 
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.LinkStyle"
+class net.sourceforge.plantuml.cucadiagram.LinkStyle {
+-LinkStyle(Type;Double) : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#12]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#22]]]
++isNormal() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#32]]]
++isInvisible() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#36]]]
++NORMAL() : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#40]]]
++INVISIBLE() : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#44]]]
++BOLD() : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#48]]]
++DOTTED() : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#52]]]
++DASHED() : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#56]]]
++goThickness(double) : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#60]]]
++getStroke3() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#64]]]
++muteStroke(UStroke) : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#77]]]
+-nonZeroThickness() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#84]]]
++fromString1(String) : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#91]]]
++fromString2(String) : LinkStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#99]]]
++isThicknessOverrided() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#115]]]
+} 
+@enduml

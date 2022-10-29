@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.expression.Token"
+class net.sourceforge.plantuml.tim.expression.Token {
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Token.java.html#13]]]
++Token(char;TokenType;JsonValue) : Token [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Token.java.html#17]]]
++Token(String;TokenType;JsonValue) : Token [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Token.java.html#21]]]
++getTokenOperator() : TokenOperator [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Token.java.html#27]]]
++getSurface() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Token.java.html#35]]]
++getTokenType() : TokenType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Token.java.html#39]]]
++muteToFunction() : Token [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Token.java.html#43]]]
++getJson() : JsonValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Token.java.html#50]]]
+} 
+@enduml

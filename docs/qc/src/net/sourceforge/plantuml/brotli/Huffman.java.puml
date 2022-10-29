@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.brotli.Huffman"
+class net.sourceforge.plantuml.brotli.Huffman {
+-getNextKey(int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113]]]
+-replicateValue(int[];int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113]]]
+-nextTableBitSize(int[];int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113]]]
+buildHuffmanTable(int[];int;int;int[];int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113]]]
+} 
+@enduml

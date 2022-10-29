@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"GraphicalElementInGroupable" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.NotesBoxes"
+class net.sourceforge.plantuml.sequencediagram.graphic.NotesBoxes {
+NotesBoxes(double) : NotesBoxes [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#18]]]
++add(NoteBox;ParticipantBox;ParticipantBox) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#22]]]
++ensureConstraints(StringBounder;ConstraintSet) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#32]]]
++getMinX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#55]]]
++getMaxX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#66]]]
++toString(StringBounder) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#77]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#82]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#89]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#101]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NotesBoxes.java.html#107]]]
+} 
+@enduml

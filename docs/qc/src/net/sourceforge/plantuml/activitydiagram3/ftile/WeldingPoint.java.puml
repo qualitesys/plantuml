@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.WeldingPoint"
+class net.sourceforge.plantuml.activitydiagram3.ftile.WeldingPoint {
+} 
+@enduml

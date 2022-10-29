@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"Arrow" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow"
+class net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow {
++MessageSelfArrow(double;Rose;ArrowComponent;LivingParticipantBox;double;Url;double) : MessageSelfArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#21]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#30]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#35]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#40]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#52]]]
++getDirection(StringBounder) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#64]]]
++getArrowYStartLevel(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#69]]]
++getArrowYEndLevel(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#80]]]
++getMaxX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#90]]]
++getMinX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#94]]]
++toString(StringBounder) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#98]]]
++getParticipantAt(StringBounder;NotePosition) : LivingParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#103]]]
++getActualWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#108]]]
+} 
+@enduml

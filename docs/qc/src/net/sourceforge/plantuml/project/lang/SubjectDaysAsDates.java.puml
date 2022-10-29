@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"Subject" <|-- "net.sourceforge.plantuml.project.lang.SubjectDaysAsDates"
+class net.sourceforge.plantuml.project.lang.SubjectDaysAsDates {
++toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDaysAsDates.java.html#21]]]
+-toRegexB() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDaysAsDates.java.html#25]]]
+-toRegexE() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDaysAsDates.java.html#43]]]
+-andRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDaysAsDates.java.html#55]]]
+-thenRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDaysAsDates.java.html#72]]]
++getMe(GanttDiagram;RegexResult) : Failable<DaysAsDates> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDaysAsDates.java.html#83]]]
+-getDate(GanttDiagram;RegexResult;String) : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDaysAsDates.java.html#101]]]
++getSentences() : Collection<?extendsSentenceSimple> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDaysAsDates.java.html#115]]]
+} 
+@enduml

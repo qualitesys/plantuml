@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.awt.geom.XDimension2D"
+class net.sourceforge.plantuml.awt.geom.XDimension2D {
++XDimension2D() : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#13]]]
++XDimension2D(double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#17]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#26]]]
++getHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#30]]]
++getWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#34]]]
++delta(XDimension2D;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#38]]]
++withWidth(double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#42]]]
++delta(XDimension2D;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#46]]]
++mergeTB(XDimension2D;XDimension2D) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#53]]]
++mergeTB(XDimension2D;XDimension2D;XDimension2D) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#59]]]
++mergeLR(XDimension2D;XDimension2D) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#65]]]
++mergeLayoutT12B3(XDimension2D;XDimension2D;XDimension2D) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#71]]]
++max(XDimension2D;XDimension2D) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#77]]]
++atLeast(XDimension2D;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#81]]]
++fromDimension(Dimension) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#96]]]
+} 
+@enduml

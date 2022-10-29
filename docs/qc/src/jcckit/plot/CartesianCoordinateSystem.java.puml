@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"CoordinateSystem" <|-- "jcckit.plot.CartesianCoordinateSystem"
+class jcckit.plot.CartesianCoordinateSystem {
++CartesianCoordinateSystem(ConfigParameters) : CartesianCoordinateSystem [[[./../../../.././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#30]]]
++CartesianCoordinateSystem(GraphPoint;AxisParameters;AxisParameters) : CartesianCoordinateSystem [[[./../../../.././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#38]]]
+-createView(GraphPoint;AxisParameters;AxisParameters) : void [[[./../../../.././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#58]]]
+-createLabel(double;double;AxisParameters) : void [[[./../../../.././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#81]]]
+-createTicsAndGrid(boolean;double;double;AxisParameters) : void [[[./../../../.././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#90]]]
+-addLine(GraphPoint;GraphPoint;GraphicAttributes) : void [[[./../../../.././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#126]]]
++getView() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#135]]]
++getClippingShape() : ClippingShape [[[./../../../.././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#140]]]
++getTransformation() : Transformation [[[./../../../.././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#145]]]
+} 
+@enduml

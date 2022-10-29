@@ -1,0 +1,37 @@
+@startuml
+!pragma layout smetana
+"JsonValueIterable<JsonValue>" <|-- "net.sourceforge.plantuml.json.JsonArray"
+class net.sourceforge.plantuml.json.JsonArray {
++JsonArray() : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++JsonArray(JsonArray) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
+-JsonArray(JsonArray;boolean) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++readFrom(Reader) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++readFrom(String) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++unmodifiableArray(JsonArray) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++add(int) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++add(long) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++add(float) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++add(double) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++add(boolean) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++add(String) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++add(JsonValue) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++set(int;int) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++set(int;long) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++set(int;float) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++set(int;double) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++set(int;boolean) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++set(int;String) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++set(int;JsonValue) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++remove(int) : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++isEmpty() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++get(int) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++values() : List<JsonValue> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++iterator() : Iterator<JsonValue> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
+write(JsonWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++isArray() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++asArray() : JsonArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1]]]
+} 
+@enduml

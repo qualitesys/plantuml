@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.UParam"
+class net.sourceforge.plantuml.ugraphic.UParam {
++getColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParam.java.html#8]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParam.java.html#10]]]
++getStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParam.java.html#12]]]
++isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParam.java.html#14]]]
++getPattern() : UPattern [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParam.java.html#16]]]
+} 
+@enduml

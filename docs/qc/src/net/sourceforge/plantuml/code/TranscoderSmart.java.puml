@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Transcoder" <|-- "net.sourceforge.plantuml.code.TranscoderSmart"
+class net.sourceforge.plantuml.code.TranscoderSmart {
++decode(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderSmart.java.html#16]]]
++encode(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderSmart.java.html#38]]]
+} 
+@enduml

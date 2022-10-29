@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.LineOfSegments"
+class net.sourceforge.plantuml.svek.LineOfSegments {
++addSegment(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#43]]]
++getMean() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#47]]]
+solveOverlapsInternal() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#55]]]
+-oneLoop() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#64]]]
++solveOverlaps() : double[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#79]]]
+} 
+@enduml

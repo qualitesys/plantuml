@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"UDrawable" <|-- "net.sourceforge.plantuml.svek.extremity.Extremity"
+class net.sourceforge.plantuml.svek.extremity.Extremity {
+manageround(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#10]]]
+-isCloseTo(double;double) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#30]]]
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#37]]]
++isTooSmallSoGiveThePointCloserToThisOne(XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#39]]]
++getDeltaForKal() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#43]]]
+} 
+@enduml

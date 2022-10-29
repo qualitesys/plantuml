@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Transcoder" <|-- "net.sourceforge.plantuml.code.TranscoderImpl"
+class net.sourceforge.plantuml.code.TranscoderImpl {
+-TranscoderImpl(URLEncoder;StringCompressor;Compression;Format) : TranscoderImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#19]]]
++utf8(URLEncoder;StringCompressor;Compression) : Transcoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#27]]]
++upf9(URLEncoder;StringCompressor;Compression) : Transcoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#31]]]
++encode(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#35]]]
++decode(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#48]]]
+} 
+@enduml

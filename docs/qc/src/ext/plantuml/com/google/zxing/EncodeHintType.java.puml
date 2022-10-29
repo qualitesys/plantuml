@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.EncodeHintType"
+class ext.plantuml.com.google.zxing.EncodeHintType {
+-EncodeHintType() : EncodeHintType [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.html#14]]]
+} 
+@enduml

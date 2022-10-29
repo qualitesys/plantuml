@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"FileMaker" <|-- "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"
+class net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker {
++SequenceDiagramXmiMaker(SequenceDiagram;FileFormat) : SequenceDiagramXmiMaker [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#33]]]
++createOne(OutputStream;int;boolean) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#39]]]
++getNbPages() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#70]]]
+-writeDocument(Document;OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#74]]]
+} 
+@enduml

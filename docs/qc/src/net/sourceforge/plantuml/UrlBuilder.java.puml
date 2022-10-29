@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.UrlBuilder"
+class net.sourceforge.plantuml.UrlBuilder {
++getRegexp() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#37]]]
++UrlBuilder(String;UrlMode) : UrlBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#55]]]
++getUrl(String) : Url [[[./../../../../.././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#60]]]
+-matchesOrFind(Matcher2) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#91]]]
+-withTopUrl(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#101]]]
+} 
+@enduml

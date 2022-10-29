@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"Sprite" <|-- "net.sourceforge.plantuml.sprite.SpriteColor"
+class net.sourceforge.plantuml.sprite.SpriteColor {
++SpriteColor(int;int) : SpriteColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#27]]]
++setGray(int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#34]]]
++setColor(int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#48]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#59]]]
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#63]]]
++toUImage(ColorMapper;HColor;HColor) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#67]]]
++asTextBlock(HColor;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#92]]]
+} 
+@enduml

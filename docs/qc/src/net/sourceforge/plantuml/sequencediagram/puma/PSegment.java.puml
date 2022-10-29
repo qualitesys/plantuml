@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.puma.PSegment"
+class net.sourceforge.plantuml.sequencediagram.puma.PSegment {
++PSegment(double) : PSegment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#10]]]
++getMinsize() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#16]]]
++push(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#20]]]
++getDebugPosition() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#25]]]
++getPosition(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#29]]]
+} 
+@enduml

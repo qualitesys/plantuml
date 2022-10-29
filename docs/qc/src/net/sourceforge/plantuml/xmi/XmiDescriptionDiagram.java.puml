@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"XmlDiagramTransformer" <|-- "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"
+class net.sourceforge.plantuml.xmi.XmiDescriptionDiagram {
++XmiDescriptionDiagram(DescriptionDiagram) : XmiDescriptionDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiDescriptionDiagram.java.html#36]]]
+-addElement(IEntity;Element) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiDescriptionDiagram.java.html#81]]]
++forXMI(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiDescriptionDiagram.java.html#94]]]
++forXMI(Display) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiDescriptionDiagram.java.html#98]]]
+-addLink(Link) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiDescriptionDiagram.java.html#102]]]
+-createEntityNode(IEntity) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiDescriptionDiagram.java.html#153]]]
++transformerXml(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiDescriptionDiagram.java.html#179]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_Agedgepair_s"
+class h.ST_Agedgepair_s {
++ST_Agedgepair_s() : ST_Agedgepair_s [[[./../../.././qc/src/h/ST_Agedgepair_s.java.html#11]]]
+} 
+@enduml

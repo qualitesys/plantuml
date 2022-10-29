@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"INumberAnalyzed" <|-- "net.sourceforge.plantuml.api.NumberAnalyzed2"
+class net.sourceforge.plantuml.api.NumberAnalyzed2 {
++NumberAnalyzed2(String) : NumberAnalyzed2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#26]]]
++reset() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#30]]]
++NumberAnalyzed2() : NumberAnalyzed2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#39]]]
++save(Preferences) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#43]]]
+getSavedString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#50]]]
+longToString(AtomicLong) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#56]]]
++load(String;Preferences) : NumberAnalyzed2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#60]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#79]]]
+NumberAnalyzed2(String;long;long;long;long;long;long) : NumberAnalyzed2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#83]]]
++getCopyImmutable() : INumberAnalyzed [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#93]]]
++addValue(long) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#99]]]
++add(NumberAnalyzed2) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#114]]]
++getNb() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#121]]]
++getSum() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#125]]]
++getMin() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#129]]]
++getMax() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#133]]]
++getMean() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#137]]]
++getSliddingMean() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#145]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.html#156]]]
+} 
+@enduml

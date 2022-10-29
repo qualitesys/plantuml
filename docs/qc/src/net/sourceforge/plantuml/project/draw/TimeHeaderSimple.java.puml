@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"TimeHeader" <|-- "net.sourceforge.plantuml.project.draw.TimeHeaderSimple"
+class net.sourceforge.plantuml.project.draw.TimeHeaderSimple {
++getFullHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#27]]]
++getTimeHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#31]]]
++getTimeFooterHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#35]]]
+-getHeaderNameDayHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#39]]]
++TimeHeaderSimple(TimeHeaderParameters;PrintScale) : TimeHeaderSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#43]]]
+-isBold(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#51]]]
+-drawSeparatorsDay(UGraphic;TimeScale;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#55]]]
+-drawSmallVlinesDay(UGraphic;TimeScale;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#65]]]
+-drawSimpleDayCounter(UGraphic;TimeScale) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#73]]]
++drawTimeHeader(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#98]]]
++drawTimeFooter(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#111]]]
+drawTextsBackground(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#137]]]
+} 
+@enduml

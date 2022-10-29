@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.ToTaskDraw"
+class net.sourceforge.plantuml.project.ToTaskDraw {
++getTaskDraw(Task) : TaskDraw [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/ToTaskDraw.java.html#10]]]
++getDefaultPlan() : LoadPlanable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/ToTaskDraw.java.html#12]]]
++getIHtmlColorSet() : HColorSet [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/ToTaskDraw.java.html#14]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Eater" <|-- "net.sourceforge.plantuml.tim.EaterIfdef"
+class net.sourceforge.plantuml.tim.EaterIfdef {
++EaterIfdef(StringLocated) : EaterIfdef [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIfdef.java.html#13]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIfdef.java.html#18]]]
++isTrue(TContext;TMemory) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIfdef.java.html#25]]]
+} 
+@enduml

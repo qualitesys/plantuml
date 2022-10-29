@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.stats.ParsedGenerated"
+class net.sourceforge.plantuml.stats.ParsedGenerated {
+-ParsedGenerated(NumberAnalyzed;NumberAnalyzed) : ParsedGenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#15]]]
++reset() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#21]]]
++createVolatile() : ParsedGenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#26]]]
++createVolatileDated() : ParsedGenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#30]]]
++loadDated(Preferences;String) : ParsedGenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#34]]]
++parsed() : NumberAnalyzed [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#46]]]
++generated() : NumberAnalyzed [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#50]]]
++parsedDated() : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#54]]]
++generatedDated() : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#58]]]
++getId() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#62]]]
++getVersion() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/ParsedGenerated.java.html#71]]]
+} 
+@enduml

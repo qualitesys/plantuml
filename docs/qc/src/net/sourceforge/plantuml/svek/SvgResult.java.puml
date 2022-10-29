@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.SvgResult"
+class net.sourceforge.plantuml.svek.SvgResult {
++SvgResult(String;Point2DFunction) : SvgResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#20]]]
++getPointsWithThisColor(int) : PointListIterator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#25]]]
++extractList(String) : List<XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#29]]]
++getIndexFromColor(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#41]]]
++getPoints(String) : List<XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#63]]]
++getNextPoint() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#76]]]
+-getFirstPoint(String) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#80]]]
++indexOf(String;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#87]]]
++substring(int) : SvgResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#91]]]
++substring(int;int) : SvgResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#95]]]
++getSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#99]]]
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Point" <|-- "jcckit.graphic.GraphPoint"
+class jcckit.graphic.GraphPoint {
++GraphPoint(double[]) : GraphPoint [[[./../../../.././qc/src/jcckit/graphic/GraphPoint.java.html#9]]]
++GraphPoint(double;double) : GraphPoint [[[./../../../.././qc/src/jcckit/graphic/GraphPoint.java.html#14]]]
+} 
+@enduml

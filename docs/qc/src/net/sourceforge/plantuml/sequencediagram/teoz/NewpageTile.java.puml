@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile"
+class net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile {
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#15]]]
++NewpageTile(Newpage;TileArguments;YGauge) : NewpageTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#19]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#25]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#28]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#32]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#35]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#39]]]
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#43]]]
+} 
+@enduml

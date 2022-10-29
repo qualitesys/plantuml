@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"AbstractCodeIterator" <|-- "net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine"
+class net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine {
++CodeIteratorLegacyDefine(CodeIterator;TContext;TMemory;FunctionsSet;List<StringLocated>) : CodeIteratorLegacyDefine [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorLegacyDefine.java.html#22]]]
++peek() : StringLocated [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorLegacyDefine.java.html#31]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"Component" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace"
+class net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace {
++getUsedStyles() : Style[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#15]]]
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#19]]]
++ComponentRoseGroupingSpace(double) : ComponentRoseGroupingSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#25]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#29]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#33]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#37]]]
++getPreferredDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#40]]]
+} 
+@enduml

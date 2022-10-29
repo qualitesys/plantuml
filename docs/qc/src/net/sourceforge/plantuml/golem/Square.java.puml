@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.golem.Square"
+class net.sourceforge.plantuml.golem.Square {
+} 
+@enduml

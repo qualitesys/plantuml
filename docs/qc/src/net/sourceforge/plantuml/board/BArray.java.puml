@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Iterable<BNode>" <|-- "net.sourceforge.plantuml.board.BArray"
+class net.sourceforge.plantuml.board.BArray {
++put(BNode) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BArray.java.html#15]]]
++getCell(int;int) : BNode [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BArray.java.html#25]]]
+-getKey(int;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BArray.java.html#30]]]
++iterator() : Iterator<BNode> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BArray.java.html#34]]]
++getMaxX() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BArray.java.html#38]]]
++getMaxY() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BArray.java.html#42]]]
+} 
+@enduml

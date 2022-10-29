@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"SecurityAccessInterceptor" <|-- "net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAccessInterceptor"
+class net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAccessInterceptor {
++apply(SecurityAuthentication;URLConnection) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.html#9]]]
+} 
+@enduml

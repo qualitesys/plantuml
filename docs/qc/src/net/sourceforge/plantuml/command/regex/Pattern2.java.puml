@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.command.regex.Pattern2"
+class net.sourceforge.plantuml.command.regex.Pattern2 {
++Pattern2(Pattern) : Pattern2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#10]]]
++matcher(CharSequence) : Matcher2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#14]]]
++pattern() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#18]]]
+} 
+@enduml

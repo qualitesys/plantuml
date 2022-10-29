@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"FtileFactoryDelegator" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateGroup"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateGroup {
++FtileFactoryDelegatorCreateGroup(FtileFactory) : FtileFactoryDelegatorCreateGroup [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.html#18]]]
++createGroup(Ftile;Display;HColor;PositionedNote;USymbol;Style) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.html#23]]]
+} 
+@enduml

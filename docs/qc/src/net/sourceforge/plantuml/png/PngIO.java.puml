@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.png.PngIO"
+class net.sourceforge.plantuml.png.PngIO {
++write(RenderedImage;SFile;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIO.java.html#16]]]
++write(RenderedImage;OutputStream;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIO.java.html#20]]]
++write(RenderedImage;SFile;String;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIO.java.html#24]]]
++write(RenderedImage;OutputStream;String;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIO.java.html#36]]]
++write(RenderedImage;OutputStream;String;int;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngIO.java.html#40]]]
+} 
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImageStencil" <|-- "net.sourceforge.plantuml.svek.image.EntityImageClass"
+class net.sourceforge.plantuml.svek.image.EntityImageClass {
++EntityImageClass(ILeaf;ISkinParam;PortionShower) : EntityImageClass [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#55]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#71]]]
+-getKalWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#88]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#102]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#112]]]
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#129]]]
+-getStyleHeader() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#136]]]
+-drawInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#143]]]
++getPorts(StringBounder) : Ports [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#210]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#217]]]
++getShield(StringBounder) : Margins [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#225]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#229]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#233]]]
+} 
+@enduml

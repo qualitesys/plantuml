@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "smetana.core.jmp_buf"
+class smetana.core.jmp_buf {
+-hasBeenCalled() : boolean [[[./../../../.././qc/src/smetana/core/jmp_buf.java.html#11]]]
++saveCallingEnvironment() : void [[[./../../../.././qc/src/smetana/core/jmp_buf.java.html#16]]]
+} 
+@enduml

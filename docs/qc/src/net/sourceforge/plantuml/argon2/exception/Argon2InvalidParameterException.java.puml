@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"Argon2Exception" <|-- "net.sourceforge.plantuml.argon2.exception.Argon2InvalidParameterException"
+class net.sourceforge.plantuml.argon2.exception.Argon2InvalidParameterException {
++Argon2InvalidParameterException(String) : Argon2InvalidParameterException [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/exception/Argon2InvalidParameterException.java.html#5]]]
+} 
+@enduml

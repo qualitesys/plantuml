@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.mindmap.Idea"
+class net.sourceforge.plantuml.mindmap.Idea {
+-getDefaultStyleDefinitionNode(int) : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#29]]]
++getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#54]]]
++getStyleArrow() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#66]]]
++createIdeaSimple(StyleBuilder;HColor;Display;IdeaShape;String) : Idea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#73]]]
++createIdea(StyleBuilder;HColor;int;Display;IdeaShape;String) : Idea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#78]]]
+-Idea(StyleBuilder;HColor;int;Idea;Display;IdeaShape;String) : Idea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#85]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#97]]]
++getLevel() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#101]]]
++getLabel() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#105]]]
++getChildren() : Collection<Idea> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#109]]]
++hasChildren() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#113]]]
++getParent() : Idea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#117]]]
++getShape() : IdeaShape [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#121]]]
++getBackColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#125]]]
++getStyleBuilder() : StyleBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#129]]]
++getStereotype() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#133]]]
+} 
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.stats.StatsUtils"
+class net.sourceforge.plantuml.stats.StatsUtils {
++getStats() : Stats [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#44]]]
+-restoreNow() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#85]]]
+-reload() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#98]]]
+removeDotPSaved(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#110]]]
+-endingHook() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#114]]]
+getStatsLazzy() : Stats [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#128]]]
+htmlOutput(Stats) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#135]]]
+xmlOutput(Stats) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#141]]]
++setXmlStats(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#147]]]
++setHtmlStats(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#151]]]
++setRealTimeStats(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#155]]]
++outHtml() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#159]]]
++dumpStats() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#163]]]
++loopStats() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#167]]]
+-clearScreen(PrintStream;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#180]]]
+} 
+@enduml

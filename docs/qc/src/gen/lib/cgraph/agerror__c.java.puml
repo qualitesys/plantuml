@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cgraph.agerror__c"
+class gen.lib.cgraph.agerror__c {
++agerrorf(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/agerror__c.java.html#20]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"Projection" <|-- "ext.plantuml.com.ctreber.acearth.projection.ProjectionMerc"
+class ext.plantuml.com.ctreber.acearth.projection.ProjectionMerc {
++isVisible(Point3D) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionMerc.java.html#11]]]
++getLocation(int;int) : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionMerc.java.html#16]]]
+setScale() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionMerc.java.html#26]]]
++projectX(double;double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionMerc.java.html#33]]]
++inverseProjectX(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionMerc.java.html#38]]]
++projectY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionMerc.java.html#44]]]
++inverseProjectY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionMerc.java.html#51]]]
+} 
+@enduml

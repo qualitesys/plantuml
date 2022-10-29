@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.Hexagon"
+class net.sourceforge.plantuml.activitydiagram3.ftile.Hexagon {
++asPolygon(double) : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Hexagon.java.html#14]]]
++asPolygon(double;double;double) : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Hexagon.java.html#31]]]
++asStencil(TextBlock) : Stencil [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Hexagon.java.html#50]]]
++asPolygonSquare(double;double;double) : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Hexagon.java.html#73]]]
+} 
+@enduml

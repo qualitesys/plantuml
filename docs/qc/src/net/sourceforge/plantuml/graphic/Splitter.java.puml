@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.Splitter"
+class net.sourceforge.plantuml.graphic.Splitter {
++Splitter(String) : Splitter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#98]]]
+getSplittedInternal() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#107]]]
++purgeAllTag(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#111]]]
++getHtmlCommands(boolean) : List<HtmlCommand> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#115]]]
+-splitText(Text) : Collection<Text> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#129]]]
+} 
+@enduml

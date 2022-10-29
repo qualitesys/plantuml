@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockHorizontal"
+class net.sourceforge.plantuml.graphic.TextBlockHorizontal {
+TextBlockHorizontal(TextBlock;TextBlock;VerticalAlignment) : TextBlockHorizontal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#16]]]
++TextBlockHorizontal(List<TextBlock>;VerticalAlignment) : TextBlockHorizontal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#22]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#30]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#38]]]
+} 
+@enduml

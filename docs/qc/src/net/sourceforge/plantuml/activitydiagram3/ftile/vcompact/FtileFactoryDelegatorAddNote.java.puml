@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"FtileFactoryDelegator" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote {
++FtileFactoryDelegatorAddNote(FtileFactory) : FtileFactoryDelegatorAddNote [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#17]]]
++addNote(Ftile;Swimlane;Collection<PositionedNote>;VerticalAlignment) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#22]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.logo.TinyJavaLogo"
+class net.sourceforge.plantuml.logo.TinyJavaLogo {
++TinyJavaLogo(TurtleGraphicsPane) : TinyJavaLogo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#18]]]
+-message(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#22]]]
+-error(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#26]]]
+-parseCommandBlock(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#30]]]
++doCommandLine(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#190]]]
+} 
+@enduml

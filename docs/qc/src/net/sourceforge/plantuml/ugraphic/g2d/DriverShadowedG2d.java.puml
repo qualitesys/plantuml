@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverShadowedG2d"
+class net.sourceforge.plantuml.ugraphic.g2d.DriverShadowedG2d {
+-getConvolveOp(int;double) : ConvolveOp [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverShadowedG2d.java.html#19]]]
+drawShadow(Graphics2D;Shape;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverShadowedG2d.java.html#35]]]
+drawOnlyLineShadow(Graphics2D;Shape;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverShadowedG2d.java.html#77]]]
+drawOnlyLineShadowSpecial(Graphics2D;Shape;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverShadowedG2d.java.html#112]]]
+} 
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.color.ColorUtils"
+class net.sourceforge.plantuml.ugraphic.color.ColorUtils {
++getGrayScale(Color) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#8]]]
++getGrayScale(int;int;int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#12]]]
++distance(Color;Color) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#17]]]
+-getGrayScaleInternal(int;int;int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#24]]]
++getGrayScale(int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#29]]]
++getGrayScaleColor(Color) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#36]]]
++getGrayScaleColorReverse(Color) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#41]]]
++reverseHsluv(Color) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#47]]]
++grayToColor(double;Color) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#68]]]
++getReversed(Color) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#90]]]
+-to255(double) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html#120]]]
+} 
+@enduml

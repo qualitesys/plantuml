@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileKilled"
+class net.sourceforge.plantuml.activitydiagram3.ftile.FtileKilled {
++FtileKilled(Ftile) : FtileKilled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#14]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#20]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#24]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#28]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#32]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#37]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#42]]]
+} 
+@enduml

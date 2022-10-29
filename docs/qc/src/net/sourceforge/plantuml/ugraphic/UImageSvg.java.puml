@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"UShape" <|-- "net.sourceforge.plantuml.ugraphic.UImageSvg"
+class net.sourceforge.plantuml.ugraphic.UImageSvg {
++UImageSvg(String;double) : UImageSvg [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#15]]]
++getMD5Hex() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#20]]]
++containsXlink() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#24]]]
++getSvg(boolean) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#28]]]
+-extractBackground(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#54]]]
+-extractSvgStyle() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#63]]]
++getData(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#72]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#97]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#101]]]
++getScale() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.html#105]]]
+} 
+@enduml

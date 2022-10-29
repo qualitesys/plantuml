@@ -1,0 +1,29 @@
+@startuml
+!pragma layout smetana
+"DiagramComponent" <|-- "org.stathissideris.ascii2image.graphics.DiagramText"
+class org.stathissideris.ascii2image.graphics.DiagramText {
++DiagramText(int;int;String;Font;FontMeasurer) : DiagramText [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#22]]]
++centerInBounds(Rectangle2D) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#33]]]
++centerHorizontallyBetween(int;int) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#38]]]
++centerVerticallyBetween(int;int) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#45]]]
++alignRightEdgeTo(int) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#51]]]
++getColor() : Color [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#58]]]
++getFont() : Font [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#63]]]
++getText() : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#68]]]
++getXPos() : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#73]]]
++getYPos() : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#78]]]
++setColor(Color) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#83]]]
++setFont(Font) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#88]]]
++setText(String) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#93]]]
++setXPos(int) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#98]]]
++setYPos(int) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#103]]]
++getBounds() : Rectangle2D [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#107]]]
++toString() : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#117]]]
++isTextOnLine() : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#122]]]
++setTextOnLine(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#127]]]
++hasOutline() : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#131]]]
++setHasOutline(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#135]]]
++getOutlineColor() : Color [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#139]]]
++setOutlineColor(Color) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#143]]]
+} 
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"XPath2D" <|-- "net.sourceforge.plantuml.awt.geom.XGeneralPath"
+class net.sourceforge.plantuml.awt.geom.XGeneralPath {
++append(XCubicCurve2D;boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.html#5]]]
+} 
+@enduml

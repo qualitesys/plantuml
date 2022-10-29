@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.label.rectangle__c"
+class gen.lib.label.rectangle__c {
++InitRect(ST_Rect_t) : void [[[./../../../../.././qc/src/gen/lib/label/rectangle__c.java.html#115]]]
++NullRect() : ST_Rect_t [[[./../../../../.././qc/src/gen/lib/label/rectangle__c.java.html#133]]]
++RectArea(ST_Rect_t) : int [[[./../../../../.././qc/src/gen/lib/label/rectangle__c.java.html#157]]]
++CombineRect(ST_Rect_t;ST_Rect_t) : ST_Rect_t [[[./../../../../.././qc/src/gen/lib/label/rectangle__c.java.html#188]]]
++Overlap(ST_Rect_t;ST_Rect_t) : boolean [[[./../../../../.././qc/src/gen/lib/label/rectangle__c.java.html#216]]]
+} 
+@enduml

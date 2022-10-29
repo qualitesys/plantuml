@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"ArithmeticStrategy" <|-- "net.sourceforge.plantuml.svek.ArithmeticStrategySum"
+class net.sourceforge.plantuml.svek.ArithmeticStrategySum {
++eat(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#8]]]
++getResult() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#12]]]
+} 
+@enduml

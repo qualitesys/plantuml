@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"AbstractParallelFtilesBuilder" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderFork"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderFork {
++ParallelBuilderFork(ISkinParam;StringBounder;String;Swimlane;Swimlane;List<Ftile>) : ParallelBuilderFork [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#37]]]
+getFoo2(List<Ftile>) : List<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#45]]]
+-computeNewFtile(Ftile;double;double;double) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#57]]]
+-getSuppForIncomingArrow(Ftile) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#67]]]
+-getXSuppForDisplay(Ftile;Display) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#73]]]
+swimlaneOutForStep2() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#88]]]
+doStep1(Ftile) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#93]]]
+-getSuppSpace1(List<Ftile>;StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#115]]]
+-getSuppSpace2(List<Ftile>;StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#129]]]
+-getJustBeforeBar2(Ftile;StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#142]]]
+doStep2(Ftile;Ftile) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#147]]]
+} 
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+!pragma layout smetana
+"AbstractTaskTask" <|-- "net.sourceforge.plantuml.project.core.TaskImpl"
+class net.sourceforge.plantuml.project.core.TaskImpl {
++setUrl(Url) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#41]]]
++TaskImpl(StyleBuilder;TaskCode;LoadPlanable;Day) : TaskImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#45]]]
++getLoadAt(Day) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#57]]]
+-isPaused(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#68]]]
+-pausedDayOfWeek(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#78]]]
++loadForResource(Resource;Day) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#86]]]
++addPause(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#100]]]
++addPause(DayOfWeek) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#104]]]
+-getResourcePlan() : LoadPlanable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#108]]]
++getPrettyDisplay() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#128]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#151]]]
++debug() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#155]]]
++getStart() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#159]]]
++getEnd() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#168]]]
++getLoad() : Load [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#172]]]
++setLoad(Load) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#176]]]
++setStart(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#180]]]
++setEnd(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#184]]]
++setColors(CenterBorderColor...) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#188]]]
++addResource(Resource;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#192]]]
++setDiamond(boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#196]]]
++isDiamond() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#200]]]
++setCompletion(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#204]]]
++getUrl() : Url [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#208]]]
++getColors() : CenterBorderColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#212]]]
++getCompletion() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#222]]]
++getAllPaused() : Collection<Day> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#226]]]
+-addAll(SortedSet<Day>;DayOfWeek) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#234]]]
++setNote(Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#243]]]
++getNote() : Display [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#247]]]
++getDefaultPlan() : LoadPlanable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#251]]]
+} 
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"ReadLine" <|-- "net.sourceforge.plantuml.preproc.ReadLineNumbered"
+class net.sourceforge.plantuml.preproc.ReadLineNumbered {
+} 
+@enduml

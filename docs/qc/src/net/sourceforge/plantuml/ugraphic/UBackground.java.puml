@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UChange" <|-- "net.sourceforge.plantuml.ugraphic.UBackground"
+class net.sourceforge.plantuml.ugraphic.UBackground {
++getBackColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UBackground.java.html#8]]]
+} 
+@enduml

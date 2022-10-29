@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.Katajainen"
+class net.sourceforge.plantuml.zopfli.Katajainen {
+lengthLimitedCodeLengths(Cookie;int[];int;int[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#9]]]
+-boundaryPm(Cookie;Node[];Node[];Node[];int;int;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#58]]]
+-sort(Node[];Node[];int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#84]]]
+} 
+@enduml

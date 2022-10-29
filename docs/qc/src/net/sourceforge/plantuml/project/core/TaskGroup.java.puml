@@ -1,0 +1,24 @@
+@startuml
+!pragma layout smetana
+"AbstractTaskTask" <|-- "net.sourceforge.plantuml.project.core.TaskGroup"
+class net.sourceforge.plantuml.project.core.TaskGroup {
++TaskGroup(TaskGroup;StyleBuilder;String) : TaskGroup [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#20]]]
++getStart() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#25]]]
++getEnd() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#37]]]
++setStart(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#49]]]
++setEnd(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#53]]]
++setColors(CenterBorderColor...) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#57]]]
++addResource(Resource;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#61]]]
++getLoad() : Load [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#65]]]
++setLoad(Load) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#69]]]
++setDiamond(boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#73]]]
++isDiamond() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#77]]]
++setCompletion(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#81]]]
++setUrl(Url) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#85]]]
++addPause(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#89]]]
++addPause(DayOfWeek) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#93]]]
++setNote(Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#97]]]
++addTask(Task) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#100]]]
++getParent() : TaskGroup [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#104]]]
+} 
+@enduml

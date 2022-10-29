@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"CommandMultilines2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantMultilines"
+class net.sourceforge.plantuml.sequencediagram.command.CommandParticipantMultilines {
++CommandParticipantMultilines() : CommandParticipantMultilines [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantMultilines.java.html#29]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantMultilines.java.html#34]]]
+-getRegexConcat() : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantMultilines.java.html#38]]]
+executeNow(SequenceDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantMultilines.java.html#57]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantMultilines.java.html#98]]]
+} 
+@enduml

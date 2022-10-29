@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.LinkConstraint"
+class net.sourceforge.plantuml.cucadiagram.LinkConstraint {
++LinkConstraint(Link;Link;Display) : LinkConstraint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkConstraint.java.html#28]]]
++setPosition(Link;XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkConstraint.java.html#34]]]
++drawMe(UGraphic;ISkinParam) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/LinkConstraint.java.html#46]]]
+} 
+@enduml

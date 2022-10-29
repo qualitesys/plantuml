@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"Clusterable" <|-- "net.sourceforge.plantuml.posimo.Block"
+class net.sourceforge.plantuml.posimo.Block {
++Block(int;double;double;Cluster) : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#18]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#26]]]
++toStringPosition() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#30]]]
++getUid() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#34]]]
++getParent() : Cluster [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#38]]]
++getPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#42]]]
++getSize() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#46]]]
++setCenterX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#50]]]
++setCenterY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#54]]]
++setX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#58]]]
++setY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#62]]]
++moveSvek(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Block.java.html#66]]]
+} 
+@enduml

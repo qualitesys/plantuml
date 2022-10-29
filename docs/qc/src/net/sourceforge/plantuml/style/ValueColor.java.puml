@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"ValueAbstract" <|-- "net.sourceforge.plantuml.style.ValueColor"
+class net.sourceforge.plantuml.style.ValueColor {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueColor.java.html#13]]]
++ValueColor(HColor;int) : ValueColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueColor.java.html#17]]]
++asColor(HColorSet) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueColor.java.html#23]]]
++getPriority() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueColor.java.html#28]]]
+} 
+@enduml

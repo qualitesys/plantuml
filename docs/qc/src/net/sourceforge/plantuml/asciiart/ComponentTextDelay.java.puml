@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractComponentText" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextDelay"
+class net.sourceforge.plantuml.asciiart.ComponentTextDelay {
++ComponentTextDelay(ComponentType;Display;FileFormat) : ComponentTextDelay [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#19]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#23]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#38]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#42]]]
+} 
+@enduml

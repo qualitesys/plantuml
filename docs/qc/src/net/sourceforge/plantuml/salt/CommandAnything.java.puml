@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<PSystemSalt>" <|-- "net.sourceforge.plantuml.salt.CommandAnything"
+class net.sourceforge.plantuml.salt.CommandAnything {
++CommandAnything() : CommandAnything [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#15]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#19]]]
+executeArg(PSystemSalt;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#26]]]
+} 
+@enduml

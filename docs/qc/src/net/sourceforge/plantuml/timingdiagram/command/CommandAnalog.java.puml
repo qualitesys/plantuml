@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandAnalog"
+class net.sourceforge.plantuml.timingdiagram.command.CommandAnalog {
++CommandAnalog() : CommandAnalog [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandAnalog.java.html#18]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandAnalog.java.html#22]]]
+executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandAnalog.java.html#54]]]
+} 
+@enduml

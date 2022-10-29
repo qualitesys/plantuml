@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"BasicGraphicalElement" <|-- "jcckit.graphic.Rectangle"
+class jcckit.graphic.Rectangle {
++Rectangle(GraphPoint;double;double;GraphicAttributes) : Rectangle [[[./../../../.././qc/src/jcckit/graphic/Rectangle.java.html#11]]]
++getCenter() : GraphPoint [[[./../../../.././qc/src/jcckit/graphic/Rectangle.java.html#20]]]
++getWidth() : double [[[./../../../.././qc/src/jcckit/graphic/Rectangle.java.html#25]]]
++getHeight() : double [[[./../../../.././qc/src/jcckit/graphic/Rectangle.java.html#30]]]
++renderWith(Renderer) : void [[[./../../../.././qc/src/jcckit/graphic/Rectangle.java.html#35]]]
+} 
+@enduml

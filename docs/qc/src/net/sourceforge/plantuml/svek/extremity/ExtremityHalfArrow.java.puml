@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow"
+class net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow {
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityHalfArrow.java.html#19]]]
++ExtremityHalfArrow(XPoint2D;double;XPoint2D) : ExtremityHalfArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityHalfArrow.java.html#23]]]
++ExtremityHalfArrow(XPoint2D;double) : ExtremityHalfArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityHalfArrow.java.html#36]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityHalfArrow.java.html#40]]]
+} 
+@enduml

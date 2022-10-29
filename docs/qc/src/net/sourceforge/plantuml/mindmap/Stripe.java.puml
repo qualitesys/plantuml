@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"Comparable<Stripe>" <|-- "net.sourceforge.plantuml.mindmap.Stripe"
+class net.sourceforge.plantuml.mindmap.Stripe {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Stripe.java.html#11]]]
++Stripe(double;double;double) : Stripe [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Stripe.java.html#15]]]
++contains(double) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Stripe.java.html#26]]]
++compareTo(Stripe) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Stripe.java.html#30]]]
++getValue() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Stripe.java.html#34]]]
++getStart() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Stripe.java.html#38]]]
++getEnd() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/Stripe.java.html#42]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolFrame"
+class net.sourceforge.plantuml.graphic.USymbolFrame {
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFrame.java.html#17]]]
++USymbolFrame(SName) : USymbolFrame [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFrame.java.html#23]]]
+-drawFrame(UGraphic;double;double;XDimension2D;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFrame.java.html#27]]]
+-getYpos(XDimension2D) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFrame.java.html#58]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFrame.java.html#65]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFrame.java.html#70]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFrame.java.html#94]]]
+} 
+@enduml

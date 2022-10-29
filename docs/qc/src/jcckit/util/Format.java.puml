@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"TicLabelFormat" <|-- "jcckit.util.Format"
+class jcckit.util.Format {
++create(ConfigParameters;String) : Format [[[./../../../.././qc/src/jcckit/util/Format.java.html#9]]]
++Format(String) : Format [[[./../../../.././qc/src/jcckit/util/Format.java.html#26]]]
++form(long) : String [[[./../../../.././qc/src/jcckit/util/Format.java.html#76]]]
++form(double) : String [[[./../../../.././qc/src/jcckit/util/Format.java.html#86]]]
+-appendRest(StringBuffer) : String [[[./../../../.././qc/src/jcckit/util/Format.java.html#95]]]
++form(double[]) : String [[[./../../../.././qc/src/jcckit/util/Format.java.html#103]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"ETile" <|-- "net.sourceforge.plantuml.ebnf.ETileEmpty"
+class net.sourceforge.plantuml.ebnf.ETileEmpty {
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileEmpty.java.html#10]]]
++push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileEmpty.java.html#14]]]
++getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileEmpty.java.html#19]]]
++getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileEmpty.java.html#24]]]
++getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileEmpty.java.html#29]]]
+} 
+@enduml

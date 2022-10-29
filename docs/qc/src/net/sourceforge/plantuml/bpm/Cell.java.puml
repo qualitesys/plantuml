@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.bpm.Cell"
+class net.sourceforge.plantuml.bpm.Cell {
++getData() : Placeable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Cell.java.html#13]]]
++setData(Placeable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Cell.java.html#17]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Cell.java.html#22]]]
++addConnectionTo2(Placeable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Cell.java.html#29]]]
++getDestinations2() : List<Placeable> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Cell.java.html#37]]]
+} 
+@enduml

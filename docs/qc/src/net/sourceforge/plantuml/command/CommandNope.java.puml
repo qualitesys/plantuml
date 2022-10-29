@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<Diagram>" <|-- "net.sourceforge.plantuml.command.CommandNope"
+class net.sourceforge.plantuml.command.CommandNope {
++CommandNope() : CommandNope [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNope.java.html#13]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNope.java.html#17]]]
+executeArg(Diagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNope.java.html#24]]]
+} 
+@enduml

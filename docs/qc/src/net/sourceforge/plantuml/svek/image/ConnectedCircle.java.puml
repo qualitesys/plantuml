@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"UDrawable" <|-- "net.sourceforge.plantuml.svek.image.ConnectedCircle"
+class net.sourceforge.plantuml.svek.image.ConnectedCircle {
++ConnectedCircle(double) : ConnectedCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#20]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#24]]]
++addSecondaryConnection(XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#40]]]
+} 
+@enduml

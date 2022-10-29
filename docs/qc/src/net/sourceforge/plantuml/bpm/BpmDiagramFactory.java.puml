@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.bpm.BpmDiagramFactory"
+class net.sourceforge.plantuml.bpm.BpmDiagramFactory {
++BpmDiagramFactory(DiagramType) : BpmDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmDiagramFactory.java.html#16]]]
+createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmDiagramFactory.java.html#21]]]
++createEmptyDiagram(UmlSource;Map<String,String>) : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmDiagramFactory.java.html#34]]]
+} 
+@enduml

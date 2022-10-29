@@ -1,0 +1,25 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.braille.BrailleGrid"
+class net.sourceforge.plantuml.braille.BrailleGrid {
++BrailleGrid(double) : BrailleGrid [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#22]]]
++getState(int;int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#26]]]
+-setStateDouble(double;double;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#31]]]
++setState(int;int;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#35]]]
++getMinX() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#48]]]
++getMinY() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#52]]]
++getMaxX() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#56]]]
++getMaxY() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#60]]]
++rectangle(double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#64]]]
+-vline(double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#72]]]
+-hline(double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#81]]]
++toInt(double) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#90]]]
++line(double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#94]]]
++getQuanta() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#105]]]
++drawDotPath(double;double;DotPath) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#109]]]
+-drawCubic(double;double;XCubicCurve2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#116]]]
+-drawPointInternal(double;double;XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#128]]]
++drawPolygon(List<XPoint2D>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#132]]]
+-drawLineInternal(XPoint2D;XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#140]]]
+} 
+@enduml

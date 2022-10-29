@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Eater" <|-- "net.sourceforge.plantuml.tim.EaterLegacyDefine"
+class net.sourceforge.plantuml.tim.EaterLegacyDefine {
++EaterLegacyDefine(StringLocated) : EaterLegacyDefine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefine.java.html#10]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefine.java.html#15]]]
++getFunction() : TFunction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefine.java.html#25]]]
+} 
+@enduml

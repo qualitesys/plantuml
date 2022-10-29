@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"MonitoredObject" <|-- "ext.plantuml.com.ctreber.aclib.gui.MODouble"
+class ext.plantuml.com.ctreber.aclib.gui.MODouble {
++MODouble() : MODouble [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#11]]]
++MODouble(double) : MODouble [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#15]]]
++MODouble(double;double;double) : MODouble [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#20]]]
++set(double) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#28]]]
+-niceFormat(double) : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#39]]]
++get() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#54]]]
+-checkRange(double) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#59]]]
++checkRange() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#64]]]
+} 
+@enduml

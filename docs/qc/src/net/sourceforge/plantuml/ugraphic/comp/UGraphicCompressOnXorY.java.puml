@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"UGraphicDelegator" <|-- "net.sourceforge.plantuml.ugraphic.comp.UGraphicCompressOnXorY"
+class net.sourceforge.plantuml.ugraphic.comp.UGraphicCompressOnXorY {
++apply(UChange) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#19]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#34]]]
++create(CompressionMode;UGraphic;PiecewiseAffineTransform) : UGraphicCompressOnXorY [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#38]]]
+-UGraphicCompressOnXorY(CompressionMode;UGraphic;PiecewiseAffineTransform;UTranslate) : UGraphicCompressOnXorY [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#43]]]
++draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#51]]]
+-getTranslate(double;double) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#86]]]
+-drawLine(double;double;ULine) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#94]]]
+-ct(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#102]]]
+-drawLine(double;double;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#106]]]
+} 
+@enduml

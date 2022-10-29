@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"UDriver<UEllipse,EpsGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.eps.DriverEllipseEps"
+class net.sourceforge.plantuml.ugraphic.eps.DriverEllipseEps {
++DriverEllipseEps(ClipContainer) : DriverEllipseEps [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverEllipseEps.java.html#16]]]
++draw(UEllipse;double;double;ColorMapper;UParam;EpsGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverEllipseEps.java.html#20]]]
+} 
+@enduml

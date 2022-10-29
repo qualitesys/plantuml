@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"CommandMultilines2<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines"
+class net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines {
++CommandArchimateMultilines() : CommandArchimateMultilines [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#32]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#37]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#41]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#64]]]
+executeNow(AbstractEntityDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#69]]]
+} 
+@enduml

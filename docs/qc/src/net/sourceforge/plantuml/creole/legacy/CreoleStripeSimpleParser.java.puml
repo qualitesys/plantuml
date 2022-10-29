@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser"
+class net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser {
++CreoleStripeSimpleParser(String;CreoleContext;FontConfiguration;ISkinSimple;CreoleMode) : CreoleStripeSimpleParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#29]]]
++createStripe(CreoleContext) : Stripe [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#122]]]
+} 
+@enduml

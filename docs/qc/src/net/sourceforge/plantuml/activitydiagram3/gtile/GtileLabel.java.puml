@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"GtileEmpty" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileLabel"
+class net.sourceforge.plantuml.activitydiagram3.gtile.GtileLabel {
++GtileLabel(StringBounder;ISkinParam;Swimlane;String) : GtileLabel [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileLabel.java.html#12]]]
++getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileLabel.java.html#17]]]
+} 
+@enduml

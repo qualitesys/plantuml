@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"AbstractInstructionInstruction" <|-- "net.sourceforge.plantuml.activitydiagram3.InstructionSplit"
+class net.sourceforge.plantuml.activitydiagram3.InstructionSplit {
++InstructionSplit(Instruction;LinkRendering;Swimlane) : InstructionSplit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#32]]]
++containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#41]]]
+-getLast() : InstructionList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#50]]]
++add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#55]]]
++createGtile(ISkinParam;StringBounder) : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#60]]]
+-getInLinkRenderingColor(ISkinParam) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#72]]]
++createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#79]]]
++getParent() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#87]]]
++splitAgain(LinkRendering) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#91]]]
++endSplit(LinkRendering;Swimlane) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#99]]]
++kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#108]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#113]]]
++addNote(Display;NotePosition;NoteType;Colors;Swimlane) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#118]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#123]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#128]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSplit.java.html#133]]]
+} 
+@enduml

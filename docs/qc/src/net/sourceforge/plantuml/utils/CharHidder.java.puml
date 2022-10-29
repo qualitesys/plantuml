@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.utils.CharHidder"
+class net.sourceforge.plantuml.utils.CharHidder {
++addTileAtBegin(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/CharHidder.java.html#6]]]
++hide(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/CharHidder.java.html#10]]]
+-isToBeHidden(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/CharHidder.java.html#36]]]
+-hideChar(char) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/CharHidder.java.html#44]]]
+-unhideChar(char) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/CharHidder.java.html#51]]]
++unhide(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/CharHidder.java.html#58]]]
+} 
+@enduml

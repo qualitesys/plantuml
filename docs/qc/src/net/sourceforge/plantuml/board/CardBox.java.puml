@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlock" <|-- "net.sourceforge.plantuml.board.CardBox"
+class net.sourceforge.plantuml.board.CardBox {
++CardBox(Display;ISkinParam) : CardBox [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/CardBox.java.html#22]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/CardBox.java.html#31]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/CardBox.java.html#35]]]
+} 
+@enduml

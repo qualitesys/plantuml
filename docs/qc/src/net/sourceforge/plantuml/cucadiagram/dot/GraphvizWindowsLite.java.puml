@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractGraphviz" <|-- "net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite"
+class net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite {
+findExecutableOnPath() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsLite.java.html#14]]]
+specificDotExe() : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsLite.java.html#19]]]
++graphviz244onWindows() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsLite.java.html#28]]]
+GraphvizWindowsLite(ISkinParam;String;String...) : GraphvizWindowsLite [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsLite.java.html#32]]]
+getExeName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsLite.java.html#37]]]
+} 
+@enduml

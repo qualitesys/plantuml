@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.ElementText"
+class net.sourceforge.plantuml.salt.element.ElementText {
++ElementText(List<String>;UFont;ISkinSimple) : ElementText [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementText.java.html#22]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementText.java.html#29]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementText.java.html#33]]]
++getText() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementText.java.html#42]]]
+} 
+@enduml

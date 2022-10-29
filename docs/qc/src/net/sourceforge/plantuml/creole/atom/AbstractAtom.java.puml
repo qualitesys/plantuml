@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"Atom" <|-- "net.sourceforge.plantuml.creole.atom.AbstractAtom"
+class net.sourceforge.plantuml.creole.atom.AbstractAtom {
++splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AbstractAtom.java.html#11]]]
+} 
+@enduml

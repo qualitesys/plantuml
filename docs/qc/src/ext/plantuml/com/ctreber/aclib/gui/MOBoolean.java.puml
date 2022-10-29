@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"MonitoredObject" <|-- "ext.plantuml.com.ctreber.aclib.gui.MOBoolean"
+class ext.plantuml.com.ctreber.aclib.gui.MOBoolean {
++MOBoolean() : MOBoolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOBoolean.java.html#8]]]
++MOBoolean(boolean) : MOBoolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOBoolean.java.html#12]]]
++set(boolean) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOBoolean.java.html#17]]]
++get() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOBoolean.java.html#23]]]
++checkRange() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOBoolean.java.html#28]]]
+} 
+@enduml

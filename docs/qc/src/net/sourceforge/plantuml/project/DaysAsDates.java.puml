@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Iterable<Day>" <|-- "net.sourceforge.plantuml.project.DaysAsDates"
+class net.sourceforge.plantuml.project.DaysAsDates {
++DaysAsDates(Day;Day) : DaysAsDates [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.html#13]]]
++DaysAsDates(GanttDiagram;Day;int) : DaysAsDates [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.html#18]]]
++iterator() : Iterator<Day> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.html#54]]]
+} 
+@enduml

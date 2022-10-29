@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.nwdiag.next.NTetris"
+class net.sourceforge.plantuml.nwdiag.next.NTetris {
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#15]]]
++add(S) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#19]]]
++getPositions() : Map<S,Integer> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#34]]]
++getNWidth() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#38]]]
+} 
+@enduml

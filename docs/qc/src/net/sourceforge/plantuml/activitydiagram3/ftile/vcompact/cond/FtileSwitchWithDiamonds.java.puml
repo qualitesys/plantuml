@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"FtileSwitchNude" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds {
++FtileSwitchWithDiamonds(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder) : FtileSwitchWithDiamonds [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#32]]]
+-getW9(StringBounder) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#50]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#59]]]
+getYdelta1a(StringBounder) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#66]]]
+getYdelta1b(StringBounder) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#70]]]
+calculateDimensionInternalSlow(StringBounder) : FtileGeometry [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#75]]]
++drawU(UGraphic) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#98]]]
+getTranslateOf(Ftile;StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#113]]]
+getTranslateMain(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#134]]]
+getTranslateDiamond1(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#140]]]
+getTranslateDiamond2(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#148]]]
+} 
+@enduml

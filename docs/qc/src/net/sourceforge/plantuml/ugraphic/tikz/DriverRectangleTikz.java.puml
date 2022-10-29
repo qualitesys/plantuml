@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"UDriver<URectangle,TikzGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.tikz.DriverRectangleTikz"
+class net.sourceforge.plantuml.ugraphic.tikz.DriverRectangleTikz {
++draw(URectangle;double;double;ColorMapper;UParam;TikzGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#15]]]
+} 
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBoxOld"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBoxOld {
++getDefaultStyleDefinitionActivity() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#60]]]
++getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#64]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#68]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#72]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#79]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#83]]]
++createWbs(Style;ISkinParam;Display) : TextBlock [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#102]]]
++createMindMap(Style;ISkinParam;Display) : TextBlock [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#107]]]
+-FtileBoxOld(ISkinParam;Display;Swimlane;BoxStyle;Style;Style) : FtileBoxOld [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#111]]]
++toString() : String [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#150]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#154]]]
+-tbWidth(StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#193]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#198]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBoxOld.java.html#207]]]
+} 
+@enduml

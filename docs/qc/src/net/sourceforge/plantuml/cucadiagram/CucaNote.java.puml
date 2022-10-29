@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.CucaNote"
+class net.sourceforge.plantuml.cucadiagram.CucaNote {
+-CucaNote(Display;Position;Colors;NoteLinkStrategy) : CucaNote [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#14]]]
++build(Display;Position;Colors) : CucaNote [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#21]]]
++withStrategy(NoteLinkStrategy) : CucaNote [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#25]]]
++getDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#29]]]
++getStrategy() : NoteLinkStrategy [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#33]]]
++getColors() : Colors [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#37]]]
++getPosition() : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#41]]]
+} 
+@enduml

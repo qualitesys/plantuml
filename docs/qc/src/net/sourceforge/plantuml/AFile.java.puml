@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.AFile"
+class net.sourceforge.plantuml.AFile {
++openFile() : InputStream [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFile.java.html#11]]]
++isOk() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFile.java.html#13]]]
++getParentFile() : AParentFolder [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFile.java.html#15]]]
++getUnderlyingFile() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFile.java.html#17]]]
++getSystemFolder() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFile.java.html#19]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractCodeIterator" <|-- "net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation"
+class net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation {
++CodeIteratorAffectation(CodeIterator;TContext;TMemory;List<StringLocated>) : CodeIteratorAffectation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#21]]]
++peek() : StringLocated [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#28]]]
+-doAffectation(StringLocated) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#44]]]
+-executeAffectation(TContext;TMemory;StringLocated) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#61]]]
+} 
+@enduml

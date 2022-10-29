@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"RacorderAbstractRacorder" <|-- "net.sourceforge.plantuml.posimo.RacorderFollowTangeanteOld"
+class net.sourceforge.plantuml.posimo.RacorderFollowTangeanteOld {
++getRacordIn(XRectangle2D;XLine2D) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/RacorderFollowTangeanteOld.java.html#11]]]
+} 
+@enduml

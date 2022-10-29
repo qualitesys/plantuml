@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"Positionable" <|-- "net.sourceforge.plantuml.posimo.Label"
+class net.sourceforge.plantuml.posimo.Label {
++Label(double;double) : Label [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#14]]]
++setCenterX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#19]]]
++setCenterY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#23]]]
++getPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#27]]]
++getSize() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#31]]]
++setWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#35]]]
++setHeight(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#39]]]
++setX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#43]]]
++setY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#47]]]
++moveSvek(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#51]]]
+} 
+@enduml

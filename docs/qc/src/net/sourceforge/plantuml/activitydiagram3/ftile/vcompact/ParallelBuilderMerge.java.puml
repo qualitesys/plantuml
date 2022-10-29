@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractParallelFtilesBuilder" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderMerge"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderMerge {
++ParallelBuilderMerge(ISkinParam;StringBounder;List<Ftile>) : ParallelBuilderMerge [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderMerge.java.html#33]]]
+doStep1(Ftile) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderMerge.java.html#38]]]
+doStep2(Ftile;Ftile) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderMerge.java.html#61]]]
+} 
+@enduml

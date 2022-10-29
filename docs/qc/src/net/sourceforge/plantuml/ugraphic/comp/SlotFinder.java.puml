@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"UGraphicNo" <|-- "net.sourceforge.plantuml.ugraphic.comp.SlotFinder"
+class net.sourceforge.plantuml.ugraphic.comp.SlotFinder {
++apply(UChange) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#28]]]
++create(CompressionMode;StringBounder) : SlotFinder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#40]]]
+-SlotFinder(StringBounder;UTranslate;SlotSet;CompressionMode) : SlotFinder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#44]]]
++draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#50]]]
+-drawPath(double;double;UPath) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#77]]]
+-drawEmpty(double;double;UEmpty) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#85]]]
+-drawText(double;double;UText) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#93]]]
+-drawEllipse(double;double;UEllipse) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#103]]]
+-drawPolygon(double;double;UPolygon) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#111]]]
+-drawRectangle(double;double;URectangle) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#122]]]
++getColorMapper() : ColorMapper [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#130]]]
++getSlotSet() : SlotSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#134]]]
+} 
+@enduml

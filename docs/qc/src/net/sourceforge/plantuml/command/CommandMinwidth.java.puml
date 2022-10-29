@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<UmlDiagram>" <|-- "net.sourceforge.plantuml.command.CommandMinwidth"
+class net.sourceforge.plantuml.command.CommandMinwidth {
++CommandMinwidth() : CommandMinwidth [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMinwidth.java.html#13]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMinwidth.java.html#17]]]
+executeArg(UmlDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMinwidth.java.html#25]]]
+} 
+@enduml

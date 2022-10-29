@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs"
+class net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs {
++SentenceDisplayOnSameRowAs() : SentenceDisplayOnSameRowAs [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#10]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#15]]]
+} 
+@enduml

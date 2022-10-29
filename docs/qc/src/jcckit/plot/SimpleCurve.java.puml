@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"Curve" <|-- "jcckit.plot.SimpleCurve"
+class jcckit.plot.SimpleCurve {
++SimpleCurve(ConfigParameters;int;int;ClippingShape;Legend) : SimpleCurve [[[./../../../.././qc/src/jcckit/plot/SimpleCurve.java.html#36]]]
++getView() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/SimpleCurve.java.html#79]]]
++getLegendSymbol() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/SimpleCurve.java.html#84]]]
++addPoint(GraphPoint;Hint) : Hint [[[./../../../.././qc/src/jcckit/plot/SimpleCurve.java.html#89]]]
++removeAllPoints() : void [[[./../../../.././qc/src/jcckit/plot/SimpleCurve.java.html#107]]]
+} 
+@enduml

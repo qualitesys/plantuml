@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"GraphicalElement" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent"
+class net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent {
++GraphicalElementLiveEvent(double) : GraphicalElementLiveEvent [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#10]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#14]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#17]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#21]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#25]]]
+} 
+@enduml

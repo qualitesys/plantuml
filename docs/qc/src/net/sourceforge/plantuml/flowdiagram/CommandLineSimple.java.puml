@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<FlowDiagram>" <|-- "net.sourceforge.plantuml.flowdiagram.CommandLineSimple"
+class net.sourceforge.plantuml.flowdiagram.CommandLineSimple {
++CommandLineSimple() : CommandLineSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#16]]]
+-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#20]]]
+executeArg(FlowDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#33]]]
+} 
+@enduml

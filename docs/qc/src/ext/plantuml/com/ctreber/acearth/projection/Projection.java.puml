@@ -1,0 +1,32 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.projection.Projection"
+class ext.plantuml.com.ctreber.acearth.projection.Projection {
++initTransformTable() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#37]]]
+setScale() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#53]]]
++projectY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#56]]]
++inverseProjectY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#58]]]
+projectX(double;double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#61]]]
++inverseProjectX(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#63]]]
++isVisible(Point3D) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#65]]]
++isWithinImage(Point2D) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#67]]]
++getLocation(int;int) : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#74]]]
++project2D(Point3D) : Point2D [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228]]]
++finalize(Point2D) : Point2D [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228]]]
++finalizeX(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228]]]
++finalizeY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228]]]
++inverseFinalizeX(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228]]]
++inverseFinalizeY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228]]]
++rotate(Point3D) : Point3D [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228]]]
++rotateReverse(Point3D) : Point3D [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228]]]
++getScale() : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#1]]]
++getViewPos() : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#1]]]
++setViewMagnification(double) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#1]]]
++setViewPos(Coordinate) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#1]]]
++setShiftX(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#1]]]
++setShiftY(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#1]]]
++setViewRotation(double) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#1]]]
++setImageWidth(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#1]]]
++setImageHeight(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#1]]]
+} 
+@enduml

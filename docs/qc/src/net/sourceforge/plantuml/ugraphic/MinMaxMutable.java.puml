@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.MinMaxMutable"
+class net.sourceforge.plantuml.ugraphic.MinMaxMutable {
++getEmpty(boolean) : MinMaxMutable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#13]]]
++isInfinity() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#20]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#25]]]
+-MinMaxMutable(double;double;double;double) : MinMaxMutable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#29]]]
++addPoint(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#48]]]
++fromMax(double;double) : MinMaxMutable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#61]]]
++getMaxX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#73]]]
++getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#77]]]
++getMinX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#81]]]
++getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#85]]]
++getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#89]]]
+} 
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"GraphicalElement" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDivider"
+class net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDivider {
++GraphicalDivider(double;Component) : GraphicalDivider [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDivider.java.html#16]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDivider.java.html#22]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDivider.java.html#30]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDivider.java.html#35]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDivider.java.html#40]]]
+} 
+@enduml

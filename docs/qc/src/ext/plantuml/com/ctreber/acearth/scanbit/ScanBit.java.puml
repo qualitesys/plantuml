@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Comparable" <|-- "ext.plantuml.com.ctreber.acearth.scanbit.ScanBit"
+class ext.plantuml.com.ctreber.acearth.scanbit.ScanBit {
++ScanBit(int;int;int;int) : ScanBit [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#11]]]
++compareTo(Object) : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#19]]]
++getY() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#30]]]
++getlXFrom() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#35]]]
++getXTo() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#40]]]
++getType() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#46]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"SingleMultiFactoryCommand<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.command.note.CommandFactoryNoteOnEntity"
+class net.sourceforge.plantuml.command.note.CommandFactoryNoteOnEntity {
++CommandFactoryNoteOnEntity(String;IRegex) : CommandFactoryNoteOnEntity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnEntity.java.html#45]]]
+-getRegexConcatSingleLine(IRegex) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnEntity.java.html#50]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnEntity.java.html#78]]]
+-getRegexConcatMultiLine(IRegex;boolean) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnEntity.java.html#82]]]
++createSingleLine() : Command<AbstractEntityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnEntity.java.html#135]]]
++createMultiLine(boolean) : Command<AbstractEntityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnEntity.java.html#147]]]
+-executeInternal(RegexResult;AbstractEntityDiagram;Url;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteOnEntity.java.html#178]]]
+} 
+@enduml

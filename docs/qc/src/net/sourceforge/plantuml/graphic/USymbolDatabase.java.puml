@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolDatabase"
+class net.sourceforge.plantuml.graphic.USymbolDatabase {
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolDatabase.java.html#17]]]
+-drawDatabase(UGraphic;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolDatabase.java.html#21]]]
+-getClosingPath(double) : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolDatabase.java.html#41]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolDatabase.java.html#76]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolDatabase.java.html#81]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolDatabase.java.html#104]]]
++suppHeightBecauseOfShape() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolDatabase.java.html#129]]]
+} 
+@enduml

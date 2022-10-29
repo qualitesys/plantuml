@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"CommandMultilines2<ActivityDiagram3>" <|-- "net.sourceforge.plantuml.activitydiagram3.command.CommandBackwardLong3"
+class net.sourceforge.plantuml.activitydiagram3.command.CommandBackwardLong3 {
++CommandBackwardLong3() : CommandBackwardLong3 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandBackwardLong3.java.html#22]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandBackwardLong3.java.html#27]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandBackwardLong3.java.html#31]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandBackwardLong3.java.html#35]]]
+executeNow(ActivityDiagram3;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandBackwardLong3.java.html#47]]]
+} 
+@enduml

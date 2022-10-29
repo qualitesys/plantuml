@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandUrl"
+class net.sourceforge.plantuml.classdiagram.command.CommandUrl {
++CommandUrl() : CommandUrl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#22]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#26]]]
+executeArg(AbstractEntityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#41]]]
+} 
+@enduml

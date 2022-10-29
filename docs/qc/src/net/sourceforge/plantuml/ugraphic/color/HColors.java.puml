@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.color.HColors"
+class net.sourceforge.plantuml.ugraphic.color.HColors {
++noGradient(HColor) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColors.java.html#87]]]
++changeBack(UGraphic) : UChange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColors.java.html#94]]]
++transparent() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColors.java.html#104]]]
++none() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColors.java.html#108]]]
++unlinear(HColor;HColor;int) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColors.java.html#112]]]
++middle(HColor;HColor) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColors.java.html#125]]]
++gradient(HColor;HColor;char) : HColorGradient [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColors.java.html#129]]]
++simple(Color) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColors.java.html#133]]]
+} 
+@enduml

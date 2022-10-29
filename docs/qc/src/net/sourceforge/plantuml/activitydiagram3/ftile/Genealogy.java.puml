@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.Genealogy"
+class net.sourceforge.plantuml.activitydiagram3.ftile.Genealogy {
++Genealogy(Ftile) : Genealogy [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#16]]]
+-process(Ftile) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#22]]]
++getMyFather(Ftile) : Ftile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#32]]]
+-setMyFather(Ftile;Ftile) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#36]]]
++getTranslate(Ftile;StringBounder) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#43]]]
+} 
+@enduml

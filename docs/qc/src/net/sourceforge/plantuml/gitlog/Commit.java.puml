@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.gitlog.Commit"
+class net.sourceforge.plantuml.gitlog.Commit {
++Commit(String;CursorPosition) : Commit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#14]]]
++getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#23]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#28]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#33]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#39]]]
++getCandidatesForDown() : List<CursorPosition> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#43]]]
+-addAbove(List<CursorPosition>;CursorPosition) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#62]]]
++getAncestors() : List<Commit> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#74]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#86]]]
++getPosition() : CursorPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#90]]]
+} 
+@enduml

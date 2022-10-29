@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.telnet.TelnetServer"
+class net.sourceforge.plantuml.telnet.TelnetServer {
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#8]]]
+} 
+@enduml

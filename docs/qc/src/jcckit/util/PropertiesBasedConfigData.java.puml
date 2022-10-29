@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"FlatConfigData" <|-- "jcckit.util.PropertiesBasedConfigData"
+class jcckit.util.PropertiesBasedConfigData {
++PropertiesBasedConfigData(Properties) : PropertiesBasedConfigData [[[./../../../.././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#11]]]
+-PropertiesBasedConfigData(Properties;String) : PropertiesBasedConfigData [[[./../../../.././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#16]]]
+getValue(String) : String [[[./../../../.././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#22]]]
+createConfigData(String) : ConfigData [[[./../../../.././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#27]]]
+} 
+@enduml

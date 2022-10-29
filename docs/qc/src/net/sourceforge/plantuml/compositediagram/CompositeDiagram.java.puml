@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityDiagram" <|-- "net.sourceforge.plantuml.compositediagram.CompositeDiagram"
+class net.sourceforge.plantuml.compositediagram.CompositeDiagram {
++CompositeDiagram(UmlSource;Map<String,String>) : CompositeDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.html#18]]]
++getOrCreateLeaf(Ident;Code;LeafType;USymbol) : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.html#23]]]
+} 
+@enduml

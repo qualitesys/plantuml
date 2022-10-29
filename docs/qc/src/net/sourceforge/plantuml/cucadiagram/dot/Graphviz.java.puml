@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.dot.Graphviz"
+class net.sourceforge.plantuml.cucadiagram.dot.Graphviz {
++createFile3(OutputStream) : ProcessState [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Graphviz.java.html#9]]]
++getDotExe() : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Graphviz.java.html#11]]]
++dotVersion() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Graphviz.java.html#13]]]
++getExeState() : ExeState [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Graphviz.java.html#15]]]
++graphviz244onWindows() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Graphviz.java.html#17]]]
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.PlacementStrategy"
+class net.sourceforge.plantuml.ugraphic.PlacementStrategy {
++add(TextBlock) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategy.java.html#11]]]
++getPositions(double;double) : Map<TextBlock,XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategy.java.html#13]]]
+} 
+@enduml

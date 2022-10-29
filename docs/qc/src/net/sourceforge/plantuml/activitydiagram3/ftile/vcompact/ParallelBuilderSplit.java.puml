@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"AbstractParallelFtilesBuilder" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit {
++ParallelBuilderSplit(ISkinParam;StringBounder;List<Ftile>) : ParallelBuilderSplit [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#33]]]
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#38]]]
+doStep1(Ftile) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#43]]]
+-getThin1Color(Rainbow) : HColor [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#81]]]
+-hasOut() : boolean [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#95]]]
+doStep2(Ftile;Ftile) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#104]]]
+} 
+@enduml

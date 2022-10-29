@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<WireDiagram>" <|-- "net.sourceforge.plantuml.wire.CommandNewColumn"
+class net.sourceforge.plantuml.wire.CommandNewColumn {
++CommandNewColumn() : CommandNewColumn [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandNewColumn.java.html#14]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandNewColumn.java.html#18]]]
+executeArg(WireDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandNewColumn.java.html#27]]]
+} 
+@enduml

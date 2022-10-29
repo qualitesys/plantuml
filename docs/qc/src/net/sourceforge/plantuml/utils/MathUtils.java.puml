@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.utils.MathUtils"
+class net.sourceforge.plantuml.utils.MathUtils {
++max(double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#8]]]
++max(double;double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#12]]]
++max(double;double;double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#16]]]
++max(double;double;double;double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#20]]]
++min(double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#24]]]
++min(double;double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#28]]]
++min(double;double;double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#32]]]
++min(double;double;double;double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#36]]]
++limitation(double;double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#40]]]
++max(XDimension2D;XDimension2D) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#55]]]
++max(XDimension2D;XDimension2D;XDimension2D) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#60]]]
+} 
+@enduml

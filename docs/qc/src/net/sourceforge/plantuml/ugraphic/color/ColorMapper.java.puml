@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.color.ColorMapper"
+class net.sourceforge.plantuml.ugraphic.color.ColorMapper {
+-ColorMapper() : ColorMapper [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#8]]]
++fromColorSimple(HColorSimple) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#11]]]
++reverse(ColorOrder) : ColorMapper [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#44]]]
+} 
+@enduml

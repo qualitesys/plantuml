@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"UShapeIgnorableForCompression" <|-- "net.sourceforge.plantuml.graphic.SpecialText"
+class net.sourceforge.plantuml.graphic.SpecialText {
++SpecialText(TextBlock) : SpecialText [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SpecialText.java.html#15]]]
++isIgnoreForCompressionOn(CompressionMode) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SpecialText.java.html#19]]]
++drawWhenCompressed(UGraphic;CompressionMode) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SpecialText.java.html#23]]]
++getTitle() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SpecialText.java.html#28]]]
+} 
+@enduml

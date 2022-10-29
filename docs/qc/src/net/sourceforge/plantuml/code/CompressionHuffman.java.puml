@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Compression" <|-- "net.sourceforge.plantuml.code.CompressionHuffman"
+class net.sourceforge.plantuml.code.CompressionHuffman {
++compress(byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#13]]]
++decompress(byte[]) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#28]]]
+} 
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"UDrawable" <|-- "net.sourceforge.plantuml.mindmap.MindMap"
+class net.sourceforge.plantuml.mindmap.MindMap {
++MindMap(ISkinParam) : MindMap [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#23]]]
+-computeFinger() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#27]]]
+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#41]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#58]]]
+addIdeaInternal(String;HColor;int;Display;IdeaShape;boolean) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#80]]]
+isFull(int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#110]]]
+} 
+@enduml

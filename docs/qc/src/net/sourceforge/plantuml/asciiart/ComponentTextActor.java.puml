@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractComponentText" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextActor"
+class net.sourceforge.plantuml.asciiart.ComponentTextActor {
++ComponentTextActor(ComponentType;Display;FileFormat;AsciiShape) : ComponentTextActor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextActor.java.html#22]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextActor.java.html#29]]]
+-getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextActor.java.html#58]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextActor.java.html#65]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextActor.java.html#69]]]
+} 
+@enduml

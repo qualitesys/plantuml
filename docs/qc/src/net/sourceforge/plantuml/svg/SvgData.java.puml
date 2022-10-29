@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svg.SvgData"
+class net.sourceforge.plantuml.svg.SvgData {
++fromGraphViz(String) : SvgData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#18]]]
+-SvgData(String) : SvgData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#22]]]
+-SvgData() : SvgData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#27]]]
+-removeSvgXmlHeader1(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#30]]]
++mutateFromSvgTitler(String;double;double) : SvgData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#36]]]
++getSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#46]]]
+-init() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#50]]]
+-modifiedSvgXmlHeader() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#85]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#104]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svg/SvgData.java.html#108]]]
+} 
+@enduml

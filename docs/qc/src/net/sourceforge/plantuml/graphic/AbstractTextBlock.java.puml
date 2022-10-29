@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"TextBlock" <|-- "net.sourceforge.plantuml.graphic.AbstractTextBlock"
+class net.sourceforge.plantuml.graphic.AbstractTextBlock {
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/AbstractTextBlock.java.html#10]]]
++getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/AbstractTextBlock.java.html#15]]]
+} 
+@enduml

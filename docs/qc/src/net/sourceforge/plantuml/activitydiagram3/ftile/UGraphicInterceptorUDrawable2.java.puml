@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"UGraphicDelegator" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.UGraphicInterceptorUDrawable2"
+class net.sourceforge.plantuml.activitydiagram3.ftile.UGraphicInterceptorUDrawable2 {
++UGraphicInterceptorUDrawable2(UGraphic;Map<String,UTranslate>) : UGraphicInterceptorUDrawable2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/UGraphicInterceptorUDrawable2.java.html#24]]]
++draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/UGraphicInterceptorUDrawable2.java.html#29]]]
+-getPosition() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/UGraphicInterceptorUDrawable2.java.html#55]]]
+-drawGoto(FtileGoto) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/UGraphicInterceptorUDrawable2.java.html#59]]]
++apply(UChange) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/UGraphicInterceptorUDrawable2.java.html#79]]]
+} 
+@enduml

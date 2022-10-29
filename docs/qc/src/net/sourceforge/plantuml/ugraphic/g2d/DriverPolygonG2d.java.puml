@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"DriverShadowedG2dUDriver<UPolygon,Graphics2D>" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverPolygonG2d"
+class net.sourceforge.plantuml.ugraphic.g2d.DriverPolygonG2d {
++DriverPolygonG2d(double;EnsureVisible) : DriverPolygonG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverPolygonG2d.java.html#23]]]
++draw(UPolygon;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverPolygonG2d.java.html#28]]]
+} 
+@enduml

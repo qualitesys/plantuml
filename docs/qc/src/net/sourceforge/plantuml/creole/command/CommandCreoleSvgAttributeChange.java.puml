@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"Command" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange"
+class net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange {
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#15]]]
++create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#26]]]
++createEol() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#30]]]
+-CommandCreoleSvgAttributeChange(Pattern2) : CommandCreoleSvgAttributeChange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#34]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#38]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#46]]]
+} 
+@enduml

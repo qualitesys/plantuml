@@ -1,0 +1,32 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.brotli.Decode"
+class net.sourceforge.plantuml.brotli.Decode {
+-decodeWindowBits(State) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+initState(State;InputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+close(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-decodeVarLenUnsignedByte(State) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-decodeMetaBlockLength(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-readSymbol(int[];int;State) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-readBlockLength(int[];int;State) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-translateShortCodes(int;int[];int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-moveToFront(int[];int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-inverseMoveToFrontTransform(byte[];int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-readHuffmanCodeLengths(int[];int;int[];State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+checkDupes(int[];int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+readHuffmanCode(int;int[];int;State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-decodeContextMap(int;byte[];State) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-decodeBlockTypeAndLength(State;int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-decodeLiteralBlockSwitch(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-decodeCommandBlockSwitch(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-decodeDistanceBlockSwitch(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-maybeReallocateRingBuffer(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-readNextMetablockHeader(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-readMetablockPartition(State;int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-readMetablockHuffmanCodesAndContextMaps(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-copyUncompressedData(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-writeRingBuffer(State) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+-decodeHuffmanTreeGroup(int;int;State) : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+decompress(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Decode.java.html#1]]]
+} 
+@enduml

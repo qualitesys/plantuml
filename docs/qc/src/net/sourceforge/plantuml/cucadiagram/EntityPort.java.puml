@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.EntityPort"
+class net.sourceforge.plantuml.cucadiagram.EntityPort {
+-EntityPort(String;String) : EntityPort [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.html#11]]]
++create(String;String) : EntityPort [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.html#16]]]
++forPort(String) : EntityPort [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.html#20]]]
++getFullString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.html#24]]]
+-isShielded() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.html#31]]]
++getPrefix() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.html#35]]]
++startsWith(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.html#42]]]
++equalsId(EntityPort) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.html#46]]]
+} 
+@enduml

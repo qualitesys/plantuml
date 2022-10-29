@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.util.Factory"
+class jcckit.util.Factory {
+-Factory() : Factory [[[./../../../.././qc/src/jcckit/util/Factory.java.html#12]]]
++create(String) : Object [[[./../../../.././qc/src/jcckit/util/Factory.java.html#15]]]
++create(ConfigParameters) : Object [[[./../../../.././qc/src/jcckit/util/Factory.java.html#25]]]
++create(ConfigParameters;String) : Object [[[./../../../.././qc/src/jcckit/util/Factory.java.html#31]]]
++createOrGet(ConfigParameters;Object) : Object [[[./../../../.././qc/src/jcckit/util/Factory.java.html#38]]]
+-createObject(ConfigParameters;String) : Object [[[./../../../.././qc/src/jcckit/util/Factory.java.html#45]]]
+} 
+@enduml

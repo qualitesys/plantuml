@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.sprite.ListSpriteDiagramFactory"
+class net.sourceforge.plantuml.sprite.ListSpriteDiagramFactory {
+createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagramFactory.java.html#16]]]
++createEmptyDiagram(UmlSource;Map<String,String>) : ListSpriteDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagramFactory.java.html#26]]]
+} 
+@enduml

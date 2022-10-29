@@ -1,0 +1,26 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.common.BitArray"
+class ext.plantuml.com.google.zxing.common.BitArray {
++BitArray() : BitArray [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#15]]]
++BitArray(int) : BitArray [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#20]]]
++getSize() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#25]]]
++getSizeInBytes() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#29]]]
+-ensureCapacity(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#33]]]
++get(int) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#42]]]
++set(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#47]]]
++flip(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#52]]]
++setBulk(int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#57]]]
++clear() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#62]]]
++isRange(int;int;boolean) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#70]]]
++appendBit(boolean) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#102]]]
++appendBits(int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#111]]]
++appendBitArray(BitArray) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#121]]]
++xor(BitArray) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#129]]]
++toBytes(int;byte[];int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#141]]]
++getBitArray() : int[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#155]]]
++reverse() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#160]]]
+-makeArray(int) : int[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#171]]]
++toString() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#178]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.stats.api.StatsTable"
+class net.sourceforge.plantuml.stats.api.StatsTable {
++getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/stats/api/StatsTable.java.html#9]]]
++getColumnHeaders() : Collection<StatsColumn> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/stats/api/StatsTable.java.html#11]]]
++getLines() : List<StatsLine> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/stats/api/StatsTable.java.html#13]]]
+} 
+@enduml

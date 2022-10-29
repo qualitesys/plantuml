@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "smetana.core.Memory"
+class smetana.core.Memory {
++malloc(Class) : __ptr__ [[[./../../../.././qc/src/smetana/core/Memory.java.html#6]]]
++malloc(size_t) : __ptr__ [[[./../../../.././qc/src/smetana/core/Memory.java.html#11]]]
++realloc(__ptr__;size_t) : __ptr__ [[[./../../../.././qc/src/smetana/core/Memory.java.html#15]]]
++free(Object) : void [[[./../../../.././qc/src/smetana/core/Memory.java.html#19]]]
++identityHashCode(CString) : int [[[./../../../.././qc/src/smetana/core/Memory.java.html#22]]]
++fromIdentityHashCode(int) : Object [[[./../../../.././qc/src/smetana/core/Memory.java.html#34]]]
+} 
+@enduml

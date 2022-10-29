@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockStencil" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote {
+-FloatingNote(Display;ISkinParam;SName;boolean) : FloatingNote [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#34]]]
++create(Display;ISkinParam;SName) : FloatingNote [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#54]]]
++createOpale(Display;ISkinParam;SName) : FloatingNote [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#58]]]
++setOpale(Direction;XPoint2D;XPoint2D) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#62]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#67]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#71]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#75]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#79]]]
+} 
+@enduml

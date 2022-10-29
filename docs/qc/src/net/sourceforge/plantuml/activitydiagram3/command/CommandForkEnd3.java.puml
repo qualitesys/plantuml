@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<ActivityDiagram3>" <|-- "net.sourceforge.plantuml.activitydiagram3.command.CommandForkEnd3"
+class net.sourceforge.plantuml.activitydiagram3.command.CommandForkEnd3 {
++CommandForkEnd3() : CommandForkEnd3 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandForkEnd3.java.html#17]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandForkEnd3.java.html#21]]]
+executeArg(ActivityDiagram3;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandForkEnd3.java.html#48]]]
+} 
+@enduml

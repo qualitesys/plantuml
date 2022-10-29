@@ -1,0 +1,28 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.common.splines__c"
+class gen.lib.common.splines__c {
++arrow_clip(ST_Agedge_s;ST_Agnode_s;CArray<ST_pointf>;int[];int[];ST_bezier;ST_splineInfo) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#205]]]
++bezier_clip(__ptr__;__ptr__;CArray<ST_pointf>;boolean) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1393]]]
++shape_clip0(__ptr__;ST_Agnode_s;CArray<ST_pointf>;boolean) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++new_spline(ST_Agedge_s;int) : ST_bezier [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++clip_and_install(ST_Agedge_s;ST_Agnode_s;CArray<ST_pointf>;int;ST_splineInfo) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++conc_slope(ST_Agnode_s) : double [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++add_box(ST_path;ST_boxf) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
+-add_box_w_(ST_path;ST_boxf) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++beginpath(ST_path;ST_Agedge_s;int;ST_pathend_t;boolean) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
+-HT2(ST_Agnode_s) : double [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++endpath(ST_path;ST_Agedge_s;int;ST_pathend_t;boolean) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++convert_sides_to_points(int;int) : int [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++selfBottom(Object...) : Object [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++selfTop(Object...) : Object [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++selfRight(CArrayOfStar<ST_Agedge_s>;int;int;double;double;ST_splineInfo) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++selfLeft(Object...) : Object [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++selfRightSpace(ST_Agedge_s) : int [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++makeSelfEdge(ST_path;CArrayOfStar<ST_Agedge_s>;int;int;double;double;ST_splineInfo) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++endPoints(ST_splines;ST_pointf;ST_pointf) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++edgeMidpoint(ST_Agraph_s;ST_Agedge_s) : ST_pointf [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
+-edgeMidpoint_(ST_Agraph_s;ST_Agedge_s) : ST_pointf [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
++getsplinepoints(ST_Agedge_s) : ST_splines [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
+} 
+@enduml

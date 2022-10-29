@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"ReadLine" <|-- "net.sourceforge.plantuml.preproc.UncommentReadLine"
+class net.sourceforge.plantuml.preproc.UncommentReadLine {
++UncommentReadLine(ReadLine) : UncommentReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/UncommentReadLine.java.html#20]]]
++readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/UncommentReadLine.java.html#24]]]
++close() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/UncommentReadLine.java.html#50]]]
++setPaused(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/UncommentReadLine.java.html#54]]]
+} 
+@enduml

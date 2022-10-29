@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"AFile" <|-- "net.sourceforge.plantuml.AFileRegular"
+class net.sourceforge.plantuml.AFileRegular {
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileRegular.java.html#14]]]
++AFileRegular(SFile) : AFileRegular [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileRegular.java.html#18]]]
++openFile() : InputStream [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileRegular.java.html#22]]]
++isOk() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileRegular.java.html#26]]]
++hashCode() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileRegular.java.html#31]]]
++equals(Object) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileRegular.java.html#36]]]
++getParentFile() : AParentFolder [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileRegular.java.html#43]]]
++getUnderlyingFile() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileRegular.java.html#47]]]
++getSystemFolder() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AFileRegular.java.html#51]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.code.TranscoderUtil"
+class net.sourceforge.plantuml.code.TranscoderUtil {
++getDefaultTranscoder() : Transcoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.html#6]]]
++getDefaultTranscoderProtected() : Transcoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.html#10]]]
++getDefaultTranscoderProtectedPure() : Transcoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.html#15]]]
+} 
+@enduml

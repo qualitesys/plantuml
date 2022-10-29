@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.creole.Parser"
+class net.sourceforge.plantuml.creole.Parser {
++build(FontConfiguration;HorizontalAlignment;ISkinSimple;CreoleMode) : SheetBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Parser.java.html#16]]]
++build(FontConfiguration;HorizontalAlignment;ISkinSimple;CreoleMode;FontConfiguration) : SheetBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Parser.java.html#22]]]
++isLatexStart(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Parser.java.html#27]]]
++isLatexEnd(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Parser.java.html#31]]]
++isCodeStart(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Parser.java.html#35]]]
++isCodeEnd(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Parser.java.html#39]]]
++isTreeStart(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Parser.java.html#43]]]
++getScale(String;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Parser.java.html#47]]]
++getColor(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Parser.java.html#59]]]
+} 
+@enduml

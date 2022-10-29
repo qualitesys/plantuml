@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractComponentText" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextNewpage"
+class net.sourceforge.plantuml.asciiart.ComponentTextNewpage {
++ComponentTextNewpage(FileFormat) : ComponentTextNewpage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNewpage.java.html#16]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNewpage.java.html#20]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNewpage.java.html#32]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNewpage.java.html#36]]]
+} 
+@enduml

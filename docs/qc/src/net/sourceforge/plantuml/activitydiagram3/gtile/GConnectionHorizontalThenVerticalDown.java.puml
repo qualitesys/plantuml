@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"GAbstractConnection" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown"
+class net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown {
++GConnectionHorizontalThenVerticalDown(UTranslate;GPoint;UTranslate;GPoint;TextBlock) : GConnectionHorizontalThenVerticalDown [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionHorizontalThenVerticalDown.java.html#23]]]
++drawTranslate(UGraphic;UTranslate;UTranslate) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionHorizontalThenVerticalDown.java.html#36]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionHorizontalThenVerticalDown.java.html#70]]]
+} 
+@enduml

@@ -1,0 +1,127 @@
+console.log('leListeStr main01 start json de data maDataBlocs');
+var maDataBlocs = {
+"data00" : {
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/telnet/TelnetServer.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.xml" 
+ , "fic3"  : "" 
+}
+, 
+"data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.telnet.TelnetServer"
+}} 
+]
+, 
+"data02" : [
+{ "classe" : 
+ { "nomclasse" : "net.sourceforge.plantuml.telnet.TelnetServer" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#8"
+ , "c1" : "void"
+ , "c2" : "main(String[])"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+] 
+}} 
+]
+, 
+"data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.svg" }
+
+] 
+, 
+"data04" : [
+]
+, 
+"data05" : [
+]
+, 
+"data06" : [
+]
+, 
+"data07" : [
+]
+, 
+"data08" : [
+]
+, 
+"data11" : [
+]
+, 
+"data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#7"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00007] The class TelnetServer contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#8"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00008] For method main arguments String[]  args"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#11"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00011] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#9"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00009] In method net.sourceforge.plantuml.telnet.TelnetServer.main@POLYN145774 the MagicNumber/String  4242 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#10"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.telnet.TelnetServer.main@POLYN145774 the MagicNumber/String  true should be converted to const"
+}} 
+]
+};
+console.log('leListeStr 99 main end');

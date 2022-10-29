@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.TFunctionSignature"
+class net.sourceforge.plantuml.tim.TFunctionSignature {
++TFunctionSignature(String;int) : TFunctionSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#14]]]
++TFunctionSignature(String;int;Set<String>) : TFunctionSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#18]]]
++sameFunctionNameAs(TFunctionSignature) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#24]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#29]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#34]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#43]]]
++getFunctionName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#48]]]
++getNbArg() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#52]]]
++getNamedArguments() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#56]]]
+} 
+@enduml

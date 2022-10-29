@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "h.SHAPE_INFO"
+class h.SHAPE_INFO {
+} 
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"AbstractTaskTask" <|-- "net.sourceforge.plantuml.project.core.TaskSeparator"
+class net.sourceforge.plantuml.project.core.TaskSeparator {
++TaskSeparator(StyleBuilder;String;int) : TaskSeparator [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#16]]]
++getStart() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#21]]]
++getEnd() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#25]]]
++setStart(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#29]]]
++setEnd(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#33]]]
++setColors(CenterBorderColor...) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#37]]]
++getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#41]]]
++addResource(Resource;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#45]]]
++getLoad() : Load [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#49]]]
++setLoad(Load) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#53]]]
++setDiamond(boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#57]]]
++isDiamond() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#61]]]
++setCompletion(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#65]]]
++setUrl(Url) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#69]]]
++addPause(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#73]]]
++addPause(DayOfWeek) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#77]]]
++setNote(Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#81]]]
+} 
+@enduml

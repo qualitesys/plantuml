@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.golem.Position"
+class net.sourceforge.plantuml.golem.Position {
++Position(int;int;int;int) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#11]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#19]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#25]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#30]]]
++move(TileGeometry;int) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#34]]]
++getXmin() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#52]]]
++getXmax() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#56]]]
++getYmin() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#60]]]
++getYmax() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#64]]]
++getCenterX() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#68]]]
++getCenterY() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Position.java.html#75]]]
+} 
+@enduml

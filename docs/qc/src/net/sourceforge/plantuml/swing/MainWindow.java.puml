@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"JFrame" <|-- "net.sourceforge.plantuml.swing.MainWindow"
+class net.sourceforge.plantuml.swing.MainWindow {
+-getExtensions() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#73]]]
+-getDefaultFileExtensions() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#77]]]
+-changeExtensions(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#81]]]
+-getRegexpPattern(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#106]]]
++MainWindow(Option;File) : MainWindow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#125]]]
+-getDirectory(File) : File [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#237]]]
+-startTimer() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#244]]]
+-displayDialogChangeDir() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#256]]]
+-changeDir(File) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#274]]]
+-doubleClick(SimpleLine;ListModel;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#285]]]
+-tick() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#298]]]
+-refreshDir() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#318]]]
+-removeAllThatUseThisFile(File) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#347]]]
+-mayRefreshImageWindow(File) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#356]]]
++closing(ImageWindow) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#368]]]
++getCurrentDirectoryListing2() : List<SimpleLine> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#375]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<WireDiagram>" <|-- "net.sourceforge.plantuml.wire.CommandComponent"
+class net.sourceforge.plantuml.wire.CommandComponent {
++CommandComponent() : CommandComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandComponent.java.html#18]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandComponent.java.html#22]]]
+executeArg(WireDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandComponent.java.html#44]]]
+} 
+@enduml

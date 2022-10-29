@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Shader" <|-- "ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho"
+class ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho {
++getShadedColors(int;int[]) : Color[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#10]]]
+-computeXValues(int) : double[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#35]]]
+} 
+@enduml

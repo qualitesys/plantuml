@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"XShape" <|-- "net.sourceforge.plantuml.awt.geom.XArc2D"
+class net.sourceforge.plantuml.awt.geom.XArc2D {
+} 
+@enduml

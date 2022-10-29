@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sprite.SpriteUtils"
+class net.sourceforge.plantuml.sprite.SpriteUtils {
+-SpriteUtils() : SpriteUtils [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#13]]]
++encodeColor(BufferedImage;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#16]]]
++encode(BufferedImage;String;SpriteGrayLevel) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#28]]]
++encodeCompressed(BufferedImage;String;SpriteGrayLevel) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#41]]]
+} 
+@enduml

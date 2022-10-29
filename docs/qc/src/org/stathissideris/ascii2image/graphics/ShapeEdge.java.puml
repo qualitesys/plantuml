@@ -1,0 +1,27 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "org.stathissideris.ascii2image.graphics.ShapeEdge"
+class org.stathissideris.ascii2image.graphics.ShapeEdge {
++ShapeEdge(ShapePoint;ShapePoint;DiagramShape) : ShapeEdge [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#20]]]
++ShapeEdge(ShapeEdge) : ShapeEdge [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#26]]]
+-getDistanceFromOrigin() : float [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#34]]]
++moveInwardsBy(float) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#44]]]
++translate(float;float) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#71]]]
++getMiddle() : ShapePoint [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#78]]]
+-getType() : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#86]]]
++getEndPoint() : ShapePoint [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#93]]]
++getStartPoint() : ShapePoint [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#98]]]
++setEndPoint(ShapePoint) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#103]]]
++setStartPoint(ShapePoint) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#108]]]
++getOwner() : DiagramShape [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#113]]]
++setOwner(DiagramShape) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#118]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#122]]]
++touchesWith(ShapeEdge) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#132]]]
+-changeAxis() : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#178]]]
+-fixDirection() : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#185]]]
+-flipDirection() : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#195]]]
++isHorizontal() : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#201]]]
++isVertical() : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#206]]]
++toString() : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#211]]]
+} 
+@enduml

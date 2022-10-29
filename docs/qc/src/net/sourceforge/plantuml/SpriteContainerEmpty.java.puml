@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"SpriteContainer" <|-- "net.sourceforge.plantuml.SpriteContainerEmpty"
+class net.sourceforge.plantuml.SpriteContainerEmpty {
++getSprite(String) : Sprite [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#14]]]
++getValue(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#18]]]
++getPadding() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#22]]]
++guillemet() : Guillemet [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#26]]]
++getMonospacedFamily() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#30]]]
++getTabSize() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#34]]]
++getIHtmlColorSet() : HColorSet [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#38]]]
++getDpi() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#42]]]
++wrapWidth() : LineBreakStrategy [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#46]]]
++copyAllFrom(Map<String,String>) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#50]]]
++values() : Map<String,String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#54]]]
++minClassWidthTOBEREMOVED(Style) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#58]]]
++transformStringForSizeHack(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#62]]]
+} 
+@enduml

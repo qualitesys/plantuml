@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfDown"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfDown {
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#46]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#53]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#59]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#63]]]
+-FtileIfDown(Ftile;Ftile;Ftile;Ftile;ConditionEndStyle) : FtileIfDown [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#70]]]
++create(Ftile;Ftile;Swimlane;Ftile;Rainbow;ConditionEndStyle;FtileFactory;Ftile;Rainbow) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#80]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#424]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#436]]]
+-getAdditionalWidth(StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#455]]]
+-getSouthLabelHeight(StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#462]]]
+-getEastLabelWidth(StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#472]]]
++getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#483]]]
+-getTranslateForThen(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#499]]]
+-getTranslateDiamond1(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#514]]]
+-getTranslateOptionalStop(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#522]]]
+-getTranslateDiamond2(StringBounder) : UTranslate [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfDown.java.html#533]]]
+} 
+@enduml

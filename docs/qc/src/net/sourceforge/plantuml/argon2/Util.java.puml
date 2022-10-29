@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.Util"
+class net.sourceforge.plantuml.argon2.Util {
++bytesToHexString(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/argon2/Util.java.html#6]]]
++hexStringToByteArray(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/argon2/Util.java.html#14]]]
++littleEndianBytesToLong(byte[]) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/argon2/Util.java.html#24]]]
++intToLittleEndianBytes(int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/argon2/Util.java.html#33]]]
++longToLittleEndianBytes(long) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/argon2/Util.java.html#42]]]
++intToLong(int) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/argon2/Util.java.html#55]]]
+} 
+@enduml

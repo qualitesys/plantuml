@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"UShape" <|-- "net.sourceforge.plantuml.ugraphic.UCenteredCharacter"
+class net.sourceforge.plantuml.ugraphic.UCenteredCharacter {
++UCenteredCharacter(char;UFont) : UCenteredCharacter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UCenteredCharacter.java.html#9]]]
++getChar() : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UCenteredCharacter.java.html#14]]]
++getFont() : UFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UCenteredCharacter.java.html#18]]]
+} 
+@enduml

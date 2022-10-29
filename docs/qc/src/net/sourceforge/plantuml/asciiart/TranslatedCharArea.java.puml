@@ -1,0 +1,26 @@
+@startuml
+!pragma layout smetana
+"UmlCharArea" <|-- "net.sourceforge.plantuml.asciiart.TranslatedCharArea"
+class net.sourceforge.plantuml.asciiart.TranslatedCharArea {
++TranslatedCharArea(UmlCharArea;int;int) : TranslatedCharArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#14]]]
++drawBoxSimple(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#20]]]
++drawBoxSimpleUnicode(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#25]]]
++drawNoteSimple(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#29]]]
++drawNoteSimpleUnicode(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#33]]]
++drawShape(AsciiShape;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#38]]]
++drawChar(char;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#42]]]
++drawHLine(char;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#46]]]
++drawHLine(char;int;int;int;char;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#49]]]
++drawStringLR(String;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#53]]]
++drawStringTB(String;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#57]]]
++drawVLine(char;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#61]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#65]]]
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#69]]]
++getLine(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#73]]]
++getLines() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#77]]]
++print(PrintStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#81]]]
++drawStringsLRSimple(Collection<?extendsCharSequence>;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#85]]]
++drawStringsLRUnicode(Collection<?extendsCharSequence>;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#89]]]
++fillRect(char;int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#93]]]
+} 
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"JsonValue" <|-- "net.sourceforge.plantuml.json.JsonString"
+class net.sourceforge.plantuml.json.JsonString {
+JsonString(String) : JsonString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
+write(JsonWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
++isString() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
++asString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
+} 
+@enduml

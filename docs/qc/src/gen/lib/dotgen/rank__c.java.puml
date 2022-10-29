@@ -1,0 +1,28 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.dotgen.rank__c"
+class gen.lib.dotgen.rank__c {
++renewlist(ST_elist) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#96]]]
++cleanup1(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#115]]]
++edgelabel_ranks(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#166]]]
++collapse_rankset(Object...) : Object [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#190]]]
++rank_set_class(ST_Agraph_s) : int [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#237]]]
++make_new_cluster(ST_Agraph_s;ST_Agraph_s) : int [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#260]]]
++node_induce(ST_Agraph_s;ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#279]]]
++cluster_leader(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#317]]]
++collapse_cluster(ST_Agraph_s;ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#349]]]
++collapse_sets(ST_Agraph_s;ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#377]]]
++find_clusters(Object...) : Object [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#408]]]
++set_minmax(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#427]]]
++minmax_edges(ST_Agraph_s) : ST_point [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#446]]]
+-minmax_edges_w_(ST_Agraph_s) : ST_point [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#450]]]
++minmax_edges2(ST_Agraph_s;ST_point) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#492]]]
+-minmax_edges2_w_(ST_Agraph_s;ST_point) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#496]]]
++rank1(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#528]]]
++expand_ranksets(ST_Agraph_s;ST_aspect_t) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#553]]]
++dot1_rank(ST_Agraph_s;ST_aspect_t) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#599]]]
++dot_rank(ST_Agraph_s;ST_aspect_t) : void [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#641]]]
++is_cluster(ST_Agraph_s) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#662]]]
++dot2_rank(Object...) : Object [[[./../../../../.././qc/src/gen/lib/dotgen/rank__c.java.html#679]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.wire.WLinkHorizontal"
+class net.sourceforge.plantuml.wire.WLinkHorizontal {
++WLinkHorizontal(ISkinParam;UTranslate;double;WLinkType;WArrowDirection;HColor;Display) : WLinkHorizontal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#29]]]
+-getBlack() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#40]]]
+-getWhite() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#44]]]
+-getTextBlock() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#48]]]
++drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#54]]]
+-drawBusArrow(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#94]]]
+-drawNormalArrow(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#147]]]
+} 
+@enduml

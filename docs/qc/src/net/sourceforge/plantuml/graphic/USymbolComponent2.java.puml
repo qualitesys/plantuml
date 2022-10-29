@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolComponent2"
+class net.sourceforge.plantuml.graphic.USymbolComponent2 {
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolComponent2.java.html#15]]]
+-drawComponent2(UGraphic;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolComponent2.java.html#19]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolComponent2.java.html#37]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolComponent2.java.html#42]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolComponent2.java.html#68]]]
+} 
+@enduml

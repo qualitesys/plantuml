@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.plot.Symbol"
+class jcckit.plot.Symbol {
++Symbol(GraphicalElement;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/Symbol.java.html#13]]]
++getSymbol() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Symbol.java.html#21]]]
++getHintForNextPoint() : Hint [[[./../../../.././qc/src/jcckit/plot/Symbol.java.html#26]]]
++getHintForNextCurve() : Hint [[[./../../../.././qc/src/jcckit/plot/Symbol.java.html#31]]]
+} 
+@enduml

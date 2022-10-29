@@ -1,0 +1,26 @@
+@startuml
+!pragma layout smetana
+"AbstractTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile"
+class net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile {
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#48]]]
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#53]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#58]]]
++GroupingTile(Iterator<Event>;GroupingStart;TileArguments;TileArguments;YGauge) : GroupingTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#62]]]
+-getComponent(StringBounder) : Component [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#124]]]
+-getPreferredDimensionIfEmpty(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#130]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#134]]]
+-getTotalHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#160]]]
+-drawAllElses(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#165]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#196]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#201]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#207]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#211]]]
++fillPositionelTiles(StringBounder;TimeHook;List<Tile>;List<CommonTile>;List<CommonTile>) : TimeHook [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#215]]]
+-getHeaderHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#234]]]
+-mergeParallel(StringBounder;List<Tile>) : List<Tile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#238]]]
+-removeEmptyCloseToParallel(List<Tile>) : List<Tile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#270]]]
+-removeHeadEmpty(List<Tile>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#282]]]
++isParallel(Tile) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#288]]]
+addYNewPages(Collection<Double>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#292]]]
+} 
+@enduml

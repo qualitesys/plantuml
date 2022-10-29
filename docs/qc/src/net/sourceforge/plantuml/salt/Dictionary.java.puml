@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"SpriteContainer" <|-- "net.sourceforge.plantuml.salt.Dictionary"
+class net.sourceforge.plantuml.salt.Dictionary {
++put(String;Element) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#23]]]
++get(String) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#27]]]
++getSprite(String) : Sprite [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#32]]]
++getValue(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#36]]]
++getPadding() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#40]]]
++guillemet() : Guillemet [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#44]]]
++getMonospacedFamily() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#48]]]
++getTabSize() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#52]]]
++getIHtmlColorSet() : HColorSet [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#56]]]
++getDpi() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#60]]]
++addSprite(String;Sprite) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#66]]]
++wrapWidth() : LineBreakStrategy [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#71]]]
++copyAllFrom(Map<String,String>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#75]]]
++values() : Map<String,String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#79]]]
++minClassWidthTOBEREMOVED(Style) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#83]]]
++transformStringForSizeHack(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#87]]]
+} 
+@enduml

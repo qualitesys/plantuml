@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.classdiagram.ClassDiagramFactory"
+class net.sourceforge.plantuml.classdiagram.ClassDiagramFactory {
++createEmptyDiagram(UmlSource;Map<String,String>) : ClassDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagramFactory.java.html#55]]]
+createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagramFactory.java.html#60]]]
+} 
+@enduml

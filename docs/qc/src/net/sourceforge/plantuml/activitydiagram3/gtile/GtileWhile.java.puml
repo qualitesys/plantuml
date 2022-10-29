@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"GtileTopDown3" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile"
+class net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile {
++GtileWhile(Gtile;Gtile;Gtile) : GtileWhile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#17]]]
+-getDefaultStyleDefinitionDiamond() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#21]]]
+-getShape1(Gtile;Swimlane;Display;Display) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#25]]]
++createWhile(Swimlane;Gtile;Display;Display;Instruction;Gtile) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#34]]]
++getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#42]]]
+} 
+@enduml

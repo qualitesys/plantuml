@@ -1,0 +1,20 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.BezierUtils"
+class net.sourceforge.plantuml.posimo.BezierUtils {
++getEndingAngle(XCubicCurve2D) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#12]]]
++getStartingAngle(XCubicCurve2D) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#19]]]
+getAngle(XPoint2D;XPoint2D) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#26]]]
+-isCutting(XCubicCurve2D;XRectangle2D) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#33]]]
+-shorten(XCubicCurve2D;XRectangle2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#39]]]
+-subdivide(XCubicCurve2D;XCubicCurve2D;XCubicCurve2D;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#63]]]
+dist(XCubicCurve2D) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#88]]]
+dist(XLine2D) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#92]]]
++middle(XLine2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#96]]]
++middle(XPoint2D;XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#100]]]
++intersect(XLine2D;XRectangle2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#104]]]
+-toRectangle(Positionable) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#132]]]
++intersect(Positionable;Positionable) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#138]]]
++getCenter(Positionable) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#142]]]
+} 
+@enduml

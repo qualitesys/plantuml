@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.style.AutomaticCounter"
+class net.sourceforge.plantuml.style.AutomaticCounter {
++getNextInt() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/AutomaticCounter.java.html#6]]]
+} 
+@enduml

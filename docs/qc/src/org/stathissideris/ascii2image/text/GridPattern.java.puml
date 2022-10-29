@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"TextGrid" <|-- "org.stathissideris.ascii2image.text.GridPattern"
+class org.stathissideris.ascii2image.text.GridPattern {
++GridPattern() : GridPattern [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#18]]]
++GridPattern(String;String;String) : GridPattern [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#22]]]
++usesStandardSyntax() : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#28]]]
++setUsesStandardSyntax(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#32]]]
++isMatchedBy(TextGrid) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#37]]]
+-prepareRegExps() : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#53]]]
+-makeRegExp(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#75]]]
++setTo(String;String;String) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#170]]]
++main(String[]) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#179]]]
+} 
+@enduml

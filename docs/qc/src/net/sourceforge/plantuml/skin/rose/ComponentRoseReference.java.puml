@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"AbstractTextualComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseReference"
+class net.sourceforge.plantuml.skin.rose.ComponentRoseReference {
++ComponentRoseReference(Style;Style;Display;ISkinSimple;HColor) : ComponentRoseReference [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.html#35]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.html#51]]]
+-getHeaderHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.html#108]]]
+-getHeaderWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.html#113]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.html#119]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.html#124]]]
+} 
+@enduml

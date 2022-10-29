@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.LinkAnchor"
+class net.sourceforge.plantuml.sequencediagram.LinkAnchor {
++LinkAnchor(String;String;String) : LinkAnchor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LinkAnchor.java.html#27]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LinkAnchor.java.html#34]]]
++getAnchor1() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LinkAnchor.java.html#38]]]
++getAnchor2() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LinkAnchor.java.html#42]]]
++getMessage() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LinkAnchor.java.html#46]]]
++drawAnchor(UGraphic;CommonTile;CommonTile;ISkinParam) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LinkAnchor.java.html#50]]]
+} 
+@enduml

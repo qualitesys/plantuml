@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"Comparable<Instant>" <|-- "net.sourceforge.plantuml.project.time.Instant"
+class net.sourceforge.plantuml.project.time.Instant {
++create(long) : Instant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/Instant.java.html#10]]]
++today() : Instant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/Instant.java.html#14]]]
+-Instant(long) : Instant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/Instant.java.html#18]]]
++getMillis() : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/Instant.java.html#22]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/Instant.java.html#27]]]
++hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/Instant.java.html#32]]]
+-toLong() : Long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/Instant.java.html#36]]]
++equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/Instant.java.html#41]]]
++compareTo(Instant) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/Instant.java.html#46]]]
+} 
+@enduml

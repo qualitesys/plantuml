@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockGeneric"
+class net.sourceforge.plantuml.graphic.TextBlockGeneric {
++TextBlockGeneric(TextBlock;HColor;HColor) : TextBlockGeneric [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#16]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#22]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#27]]]
+} 
+@enduml

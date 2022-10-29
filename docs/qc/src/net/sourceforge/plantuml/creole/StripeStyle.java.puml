@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.creole.StripeStyle"
+class net.sourceforge.plantuml.creole.StripeStyle {
++StripeStyle(StripeStyleType;int;char) : StripeStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#15]]]
++getType() : StripeStyleType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#21]]]
++getHeader(FontConfiguration;CreoleContext) : Atom [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#25]]]
++getOrder() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#36]]]
++getStyle() : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#40]]]
+} 
+@enduml

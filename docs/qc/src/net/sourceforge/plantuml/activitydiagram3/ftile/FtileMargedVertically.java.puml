@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"FtileDecorate" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedVertically"
+class net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedVertically {
++FtileMargedVertically(Ftile;double;double) : FtileMargedVertically [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#14]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#20]]]
++calculateDimension(StringBounder) : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#29]]]
+-calculateDimensionSlow(StringBounder) : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#36]]]
+} 
+@enduml

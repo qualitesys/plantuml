@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.ResultPoint"
+class ext.plantuml.com.google.zxing.ResultPoint {
++ResultPoint(float;float) : ResultPoint [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#11]]]
++getX() : float [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#16]]]
++getY() : float [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#20]]]
++equals(Object) : boolean [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#24]]]
++hashCode() : int [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#32]]]
++toString() : String [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#36]]]
++orderBestPatterns(ResultPoint[]) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#47]]]
++distance(ResultPoint;ResultPoint) : float [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#87]]]
+-crossProductZ(ResultPoint;ResultPoint;ResultPoint) : float [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#94]]]
+} 
+@enduml

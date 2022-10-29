@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.jsondiagram.JsonCurve"
+class net.sourceforge.plantuml.jsondiagram.JsonCurve {
++JsonCurve(ST_Agedgeinfo_t;Mirror;double) : JsonCurve [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#29]]]
+-getPoint(ST_splines;int) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#57]]]
++drawCurve(HColor;UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#63]]]
++drawSpot(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#84]]]
+-getVeryFirst() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#90]]]
+-supp(XPoint2D;XPoint2D;double) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#95]]]
++getMaxX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#104]]]
++getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#108]]]
+} 
+@enduml

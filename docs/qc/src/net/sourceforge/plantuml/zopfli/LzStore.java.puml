@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.LzStore"
+class net.sourceforge.plantuml.zopfli.LzStore {
+LzStore(int) : LzStore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#10]]]
+append(char;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#15]]]
+reset() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#20]]]
+copy(LzStore) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#24]]]
+} 
+@enduml

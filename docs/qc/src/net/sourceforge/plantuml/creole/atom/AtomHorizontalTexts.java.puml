@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts"
+class net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts {
++AtomHorizontalTexts(List<Atom>) : AtomHorizontalTexts [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#14]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#18]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#29]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#36]]]
+} 
+@enduml

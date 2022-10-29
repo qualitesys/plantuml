@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Hint" <|-- "jcckit.plot.AttributesHint"
+class jcckit.plot.AttributesHint {
++getNextHint() : AttributesHint [[[./../../../.././qc/src/jcckit/plot/AttributesHint.java.html#9]]]
++getAttributes() : GraphicAttributes [[[./../../../.././qc/src/jcckit/plot/AttributesHint.java.html#12]]]
+} 
+@enduml

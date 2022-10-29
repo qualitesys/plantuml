@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"StyleSignature" <|-- "net.sourceforge.plantuml.style.StyleSignatures"
+class net.sourceforge.plantuml.style.StyleSignatures {
++add(StyleSignature) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#14]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#20]]]
++getMergedStyle(StyleBuilder) : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#25]]]
++withTOBECHANGED(Stereotype) : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#41]]]
++with(Stereostyles) : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#48]]]
+} 
+@enduml

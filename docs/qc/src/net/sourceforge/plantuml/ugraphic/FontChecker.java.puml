@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.FontChecker"
+class net.sourceforge.plantuml.ugraphic.FontChecker {
++FontChecker(UFont) : FontChecker [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#36]]]
++isCharOk(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#40]]]
+-getType(int;double;double;double;double) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#44]]]
++getCharDesc(char) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#69]]]
++getCharDescVerbose(char) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#87]]]
+-appendValue(StringBuilder;double[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#106]]]
++printChar(PrintWriter;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#115]]]
+-getSvgImage(char) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#124]]]
++getBufferedImage(char) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#135]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/FontChecker.java.html#170]]]
+} 
+@enduml

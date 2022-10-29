@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.ElementMenuEntry"
+class net.sourceforge.plantuml.salt.element.ElementMenuEntry {
++ElementMenuEntry(String;UFont;ISkinSimple) : ElementMenuEntry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#23]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#29]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#36]]]
++getX() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#45]]]
++setX(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#49]]]
++getText() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#53]]]
++getBackground() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#57]]]
++setBackground(HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#61]]]
+} 
+@enduml

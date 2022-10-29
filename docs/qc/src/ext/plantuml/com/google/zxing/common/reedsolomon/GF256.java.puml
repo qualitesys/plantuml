@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.common.reedsolomon.GF256"
+class ext.plantuml.com.google.zxing.common.reedsolomon.GF256 {
+-GF256(int) : GF256 [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#17]]]
+getZero() : GF256Poly [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#36]]]
+getOne() : GF256Poly [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#40]]]
+buildMonomial(int;int) : GF256Poly [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#45]]]
+addOrSubtract(int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#58]]]
+exp(int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#63]]]
+log(int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#68]]]
+inverse(int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#76]]]
+multiply(int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#84]]]
+} 
+@enduml

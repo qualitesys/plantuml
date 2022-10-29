@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.expression.TokenIterator"
+class net.sourceforge.plantuml.tim.expression.TokenIterator {
++nextToken() : Token [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TokenIterator.java.html#6]]]
++peekToken() : Token [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TokenIterator.java.html#8]]]
++hasMoreTokens() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/TokenIterator.java.html#10]]]
+} 
+@enduml

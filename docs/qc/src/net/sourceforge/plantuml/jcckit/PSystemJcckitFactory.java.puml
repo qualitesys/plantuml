@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"PSystemBasicFactory<PSystemJcckit>" <|-- "net.sourceforge.plantuml.jcckit.PSystemJcckitFactory"
+class net.sourceforge.plantuml.jcckit.PSystemJcckitFactory {
++PSystemJcckitFactory(DiagramType) : PSystemJcckitFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#25]]]
++initDiagram(UmlSource;String) : PSystemJcckit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#30]]]
+-extractDimension(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#46]]]
+getDimension() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#56]]]
+-createSystem(UmlSource) : PSystemJcckit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#60]]]
++executeLine(UmlSource;PSystemJcckit;String) : PSystemJcckit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#77]]]
+} 
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.stats.StatsUtilsIncrement"
+class net.sourceforge.plantuml.stats.StatsUtilsIncrement {
++onceMoreParse(long;Class<?extendsDiagram>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#30]]]
++onceMoreGenerate(long;Class<?extendsDiagram>;FileFormat) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#46]]]
+-getByTypeCurrent(Class<?extendsDiagram>) : ParsedGenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#68]]]
+-getByTypeEver(Class<?extendsDiagram>) : ParsedGenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#78]]]
+-name(Class<?extendsDiagram>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#88]]]
+-realTimeExport() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#127]]]
+} 
+@enduml

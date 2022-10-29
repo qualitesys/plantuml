@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.skin.Padder"
+class net.sourceforge.plantuml.skin.Padder {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#25]]]
+-Padder(double;double;HColor;HColor;double) : Padder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#29]]]
++withMargin(double) : Padder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#37]]]
++withPadding(double) : Padder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#41]]]
++withBackgroundColor(HColor) : Padder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#45]]]
++withBorderColor(HColor) : Padder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#49]]]
++withRoundCorner(double) : Padder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#53]]]
++getMargin() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#57]]]
++getPadding() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#61]]]
++getBackgroundColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#65]]]
++getBorderColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#69]]]
++apply(TextBlock) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/Padder.java.html#73]]]
+} 
+@enduml

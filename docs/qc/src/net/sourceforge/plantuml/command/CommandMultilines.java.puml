@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"Command<S>" <|-- "net.sourceforge.plantuml.command.CommandMultilines"
+class net.sourceforge.plantuml.command.CommandMultilines {
++CommandMultilines(String) : CommandMultilines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines.java.html#13]]]
++getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines.java.html#20]]]
++getDescription() : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines.java.html#22]]]
++isValid(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines.java.html#26]]]
+isCommandForbidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines.java.html#44]]]
+finalVerification() : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines.java.html#48]]]
+getStartingPattern() : Pattern2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilines.java.html#52]]]
+} 
+@enduml

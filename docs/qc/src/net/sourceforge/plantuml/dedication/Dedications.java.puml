@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.Dedications"
+class net.sourceforge.plantuml.dedication.Dedications {
+-secret(int;String;BigInteger) : DedicationCrypted [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#38]]]
+-load(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#42]]]
+-Dedications() : Dedications [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#49]]]
++get(String) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#52]]]
+} 
+@enduml

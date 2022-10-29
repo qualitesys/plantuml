@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"TimeScale" <|-- "net.sourceforge.plantuml.project.timescale.TimeScaleWink"
+class net.sourceforge.plantuml.project.timescale.TimeScaleWink {
++TimeScaleWink(double;PrintScale) : TimeScaleWink [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#12]]]
++getStartingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#17]]]
++getEndingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#22]]]
++getWidth(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#26]]]
++isBreaking(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#30]]]
+} 
+@enduml

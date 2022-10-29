@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"AbstractSymbolFactory" <|-- "jcckit.plot.SquareSymbolFactory"
+class jcckit.plot.SquareSymbolFactory {
++SquareSymbolFactory(ConfigParameters) : SquareSymbolFactory [[[./../../../.././qc/src/jcckit/plot/SquareSymbolFactory.java.html#13]]]
+createPlainSymbol(GraphPoint;double;GraphicAttributes) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/SquareSymbolFactory.java.html#18]]]
+} 
+@enduml

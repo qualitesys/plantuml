@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.core.Diagram"
+class net.sourceforge.plantuml.core.Diagram {
+exportDiagram(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#16]]]
+getNbImages() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#19]]]
+getSplitPagesHorizontal() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#21]]]
+getSplitPagesVertical() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#23]]]
+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#25]]]
+getMetadata() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#27]]]
+getWarningOrError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#29]]]
+getSource() : UmlSource [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#32]]]
++hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#35]]]
++getTitleDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#37]]]
+} 
+@enduml

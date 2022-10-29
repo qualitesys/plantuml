@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"UmlDiagram" <|-- "net.sourceforge.plantuml.sprite.ListSpriteDiagram"
+class net.sourceforge.plantuml.sprite.ListSpriteDiagram {
++ListSpriteDiagram(UmlSource;Map<String,String>) : ListSpriteDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#30]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#34]]]
++createImageBuilder(FileFormatOption) : ImageBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#39]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#44]]]
+-getTable() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#50]]]
+} 
+@enduml

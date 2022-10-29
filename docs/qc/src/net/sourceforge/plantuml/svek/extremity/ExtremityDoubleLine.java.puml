@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityDoubleLine"
+class net.sourceforge.plantuml.svek.extremity.ExtremityDoubleLine {
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDoubleLine.java.html#18]]]
++ExtremityDoubleLine(XPoint2D;double) : ExtremityDoubleLine [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDoubleLine.java.html#22]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDoubleLine.java.html#27]]]
+-drawLine(UGraphic;double;double;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDoubleLine.java.html#50]]]
+} 
+@enduml

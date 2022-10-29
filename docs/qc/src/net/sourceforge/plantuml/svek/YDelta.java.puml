@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"Point2DFunction" <|-- "net.sourceforge.plantuml.svek.YDelta"
+class net.sourceforge.plantuml.svek.YDelta {
++YDelta(double) : YDelta [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/YDelta.java.html#11]]]
++YDelta(double;double) : YDelta [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/YDelta.java.html#15]]]
++apply(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/YDelta.java.html#20]]]
+} 
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImage" <|-- "net.sourceforge.plantuml.descdiagram.EntityImageDomain"
+class net.sourceforge.plantuml.descdiagram.EntityImageDomain {
++EntityImageDomain(ILeaf;ISkinParam;char) : EntityImageDomain [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#38]]]
+-getStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#56]]]
+-getTitleDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#65]]]
+-getNameAndSteretypeDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#69]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#78]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#82]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#86]]]
+-getTagDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#120]]]
++getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#125]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#129]]]
+} 
+@enduml

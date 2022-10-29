@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.command.CommonCommands"
+class net.sourceforge.plantuml.command.CommonCommands {
+-CommonCommands() : CommonCommands [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#15]]]
++addCommonCommands1(List<Command>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#18]]]
++addCommonCommands2(List<Command>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#24]]]
++addCommonHides(List<Command>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#55]]]
++addTitleCommands(List<Command>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#61]]]
+} 
+@enduml

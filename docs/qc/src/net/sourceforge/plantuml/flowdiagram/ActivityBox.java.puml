@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlock" <|-- "net.sourceforge.plantuml.flowdiagram.ActivityBox"
+class net.sourceforge.plantuml.flowdiagram.ActivityBox {
++ActivityBox(Tile;String;String) : ActivityBox [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#31]]]
++getTile() : Tile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#40]]]
++getId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#44]]]
++getLabel() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#48]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#52]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#66]]]
+} 
+@enduml

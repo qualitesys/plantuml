@@ -1,0 +1,24 @@
+@startuml
+!pragma layout smetana
+"Clusterable" <|-- "net.sourceforge.plantuml.posimo.Cluster"
+class net.sourceforge.plantuml.posimo.Cluster {
++Cluster(Cluster;double;double) : Cluster [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#27]]]
++getSubClusters() : Collection<Cluster> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#40]]]
++getRecursiveContents() : Collection<Block> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#44]]]
+-addContentRecurse(Collection<Block>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#50]]]
++getUid() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#58]]]
++addBloc(Block) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#62]]]
++getParent() : Cluster [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#66]]]
++getContents() : Collection<Block> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#70]]]
++getBlock(int) : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#74]]]
++getPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#89]]]
++getSize() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#93]]]
++setX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#97]]]
++setY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#101]]]
++setWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#105]]]
++setHeight(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#109]]]
++getTitleWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#113]]]
++getTitleHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#117]]]
++moveSvek(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#121]]]
+} 
+@enduml

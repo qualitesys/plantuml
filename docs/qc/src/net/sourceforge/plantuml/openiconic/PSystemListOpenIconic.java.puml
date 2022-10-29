@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"PlainDiagram" <|-- "net.sourceforge.plantuml.openiconic.PSystemListOpenIconic"
+class net.sourceforge.plantuml.openiconic.PSystemListOpenIconic {
++PSystemListOpenIconic(UmlSource) : PSystemListOpenIconic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#24]]]
+getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#29]]]
+-getResourceAllTxt() : InputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#47]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#51]]]
+} 
+@enduml

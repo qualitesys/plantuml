@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"CharIterator" <|-- "net.sourceforge.plantuml.ebnf.CharIteratorImpl"
+class net.sourceforge.plantuml.ebnf.CharIteratorImpl {
++CharIteratorImpl(BlocLines) : CharIteratorImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CharIteratorImpl.java.html#12]]]
++peek(int) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CharIteratorImpl.java.html#17]]]
+-getCurrentLine() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CharIteratorImpl.java.html#26]]]
++next() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CharIteratorImpl.java.html#31]]]
+} 
+@enduml

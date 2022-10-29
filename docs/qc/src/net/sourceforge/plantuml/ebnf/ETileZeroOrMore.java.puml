@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"ETile" <|-- "net.sourceforge.plantuml.ebnf.ETileZeroOrMore"
+class net.sourceforge.plantuml.ebnf.ETileZeroOrMore {
++ETileZeroOrMore(ETile) : ETileZeroOrMore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#18]]]
++getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#27]]]
++getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#32]]]
++getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#37]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#42]]]
++push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#84]]]
+} 
+@enduml

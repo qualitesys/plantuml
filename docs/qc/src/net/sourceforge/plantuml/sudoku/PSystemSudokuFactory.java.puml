@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"PSystemSingleLineFactory" <|-- "net.sourceforge.plantuml.sudoku.PSystemSudokuFactory"
+class net.sourceforge.plantuml.sudoku.PSystemSudokuFactory {
+executeLine(UmlSource;String) : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#17]]]
+} 
+@enduml

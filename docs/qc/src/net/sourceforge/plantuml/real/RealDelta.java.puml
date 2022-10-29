@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"RealMoveable" <|-- "net.sourceforge.plantuml.real.RealDelta"
+class net.sourceforge.plantuml.real.RealDelta {
+RealDelta(Real;double) : RealDelta [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#9]]]
+getCurrentValueInternal() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#16]]]
++addAtLeast(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#20]]]
++ensureBiggerThan(Real) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#24]]]
+move(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#28]]]
+} 
+@enduml

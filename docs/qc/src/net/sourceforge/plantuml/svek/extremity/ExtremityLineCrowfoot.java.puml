@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityLineCrowfoot"
+class net.sourceforge.plantuml.svek.extremity.ExtremityLineCrowfoot {
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityLineCrowfoot.java.html#18]]]
++ExtremityLineCrowfoot(XPoint2D;double) : ExtremityLineCrowfoot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityLineCrowfoot.java.html#22]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityLineCrowfoot.java.html#27]]]
+-drawLine(UGraphic;double;double;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityLineCrowfoot.java.html#51]]]
+} 
+@enduml

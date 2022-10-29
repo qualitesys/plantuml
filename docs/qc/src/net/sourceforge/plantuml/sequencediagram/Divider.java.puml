@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractEventEvent" <|-- "net.sourceforge.plantuml.sequencediagram.Divider"
+class net.sourceforge.plantuml.sequencediagram.Divider {
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Divider.java.html#17]]]
++getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Divider.java.html#21]]]
++Divider(Display;StyleBuilder) : Divider [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Divider.java.html#25]]]
++getText() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Divider.java.html#30]]]
++dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Divider.java.html#34]]]
+} 
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityDiagram" <|-- "net.sourceforge.plantuml.statediagram.StateDiagram"
+class net.sourceforge.plantuml.statediagram.StateDiagram {
++StateDiagram(UmlSource;Map<String,String>) : StateDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#27]]]
++checkConcurrentStateOk(Ident;Code) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#32]]]
+-checkConcurrentStateOkInternal(Code) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#42]]]
+-checkConcurrentStateOkInternal1972(Ident) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#58]]]
++getOrCreateLeaf(Ident;Code;LeafType;USymbol) : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#75]]]
++getStart() : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#107]]]
++getEnd() : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#120]]]
++getHistorical() : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#133]]]
++getHistorical(String) : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#146]]]
++getDeepHistory() : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#160]]]
++getDeepHistory(String) : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#174]]]
++concurrentState(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#188]]]
++endGroup() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#222]]]
++setHideEmptyDescription(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#233]]]
++isHideEmptyDescriptionForState() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#237]]]
++checkFinalError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#242]]]
+-isCompatible(IGroup;IGroup) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#254]]]
+-getGroupParentIfItIsConcurrentState(IEntity) : IGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagram.java.html#265]]]
+} 
+@enduml

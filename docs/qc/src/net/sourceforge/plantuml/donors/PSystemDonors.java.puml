@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"PlainDiagram" <|-- "net.sourceforge.plantuml.donors.PSystemDonors"
+class net.sourceforge.plantuml.donors.PSystemDonors {
++PSystemDonors(UmlSource) : PSystemDonors [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#67]]]
+getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#72]]]
++getCols(List<String>;int;int) : List<TextBlock> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#98]]]
+-getDonors() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#108]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#124]]]
++create(UmlSource) : PSystemDonors [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#128]]]
+} 
+@enduml

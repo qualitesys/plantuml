@@ -1,0 +1,28 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.wire.WBlock"
+class net.sourceforge.plantuml.wire.WBlock {
++getAbsolutePosition(String;String) : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#45]]]
+-parseWidth(String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#57]]]
+-parseHeight(String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#72]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#88]]]
++WBlock(String;UTranslate;double;double;HColor) : WBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#92]]]
+-getChildByName(String) : WBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#100]]]
++getBlock(String) : WBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#108]]]
+-getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#120]]]
++newColumn(int) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#124]]]
++wgoto(int;double;double) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#134]]]
++wmove(int;double;double) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#143]]]
++print(StringBounder;ISkinParam;int;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#151]]]
++addBlock(int;String;double;double;HColor) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#162]]]
+-getNextPosition() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#184]]]
+-getLastChild() : WBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#193]]]
++drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#200]]]
+-getBlack() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#210]]]
+-drawBox(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#214]]]
+-getMaxDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#232]]]
+-getNaturalDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#244]]]
++getNextOutHorizontal(String;String;WLinkType) : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#255]]]
++getNextOutVertical(String;String;WLinkType) : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#268]]]
+} 
+@enduml

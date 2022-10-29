@@ -1,0 +1,28 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.util.ConfigParameters"
+class jcckit.util.ConfigParameters {
++ConfigParameters(ConfigData) : ConfigParameters [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#17]]]
++getFullKey(String) : String [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#22]]]
++get(String) : String [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#27]]]
++get(String;String) : String [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#36]]]
++getBoolean(String) : boolean [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#45]]]
++getBoolean(String;boolean) : boolean [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#50]]]
+-parseBoolean(String;String) : boolean [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#55]]]
+-createNumberFormatException(String;String;String) : NumberFormatException [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#65]]]
++getInt(String) : int [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#73]]]
++getInt(String;int) : int [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#78]]]
+-parseInt(String;String) : int [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#83]]]
++getDouble(String) : double [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#92]]]
++getDouble(String;double) : double [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#97]]]
+-parseDouble(String;String) : double [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#102]]]
++getDoubleArray(String) : double[] [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#111]]]
++getDoubleArray(String;double[]) : double[] [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#116]]]
+-parseDoubleArray(String;String) : double[] [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#121]]]
++getColor(String) : Color [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#135]]]
++getColor(String;Color) : Color [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#140]]]
+-parseColor(String;String) : Color [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#145]]]
+-decodeInternal(String) : Color [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#154]]]
++getNode(String) : ConfigParameters [[[./../../../.././qc/src/jcckit/util/ConfigParameters.java.html#166]]]
+} 
+@enduml

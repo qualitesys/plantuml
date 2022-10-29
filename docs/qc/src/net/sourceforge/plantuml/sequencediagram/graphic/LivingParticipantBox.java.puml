@@ -1,0 +1,17 @@
+@startuml
+!pragma layout smetana
+"InGroupable" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox"
+class net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox {
++LivingParticipantBox(ParticipantBox;LifeLine) : LivingParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#14]]]
++getParticipantBox() : ParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#21]]]
++getLifeLine() : LifeLine [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#27]]]
++getLiveThicknessAt(StringBounder;double) : SegmentColored [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#31]]]
++drawLineU22(UGraphic;double;double;boolean;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#43]]]
++magicMargin(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#54]]]
++create(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#58]]]
++getCreate() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#62]]]
++getMaxX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#66]]]
++getMinX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#70]]]
++toString(StringBounder) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#74]]]
+} 
+@enduml

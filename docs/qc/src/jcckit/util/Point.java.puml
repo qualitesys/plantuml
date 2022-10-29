@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.util.Point"
+class jcckit.util.Point {
++Point(double[]) : Point [[[./../../../.././qc/src/jcckit/util/Point.java.html#10]]]
++Point(double;double) : Point [[[./../../../.././qc/src/jcckit/util/Point.java.html#24]]]
++getX() : double [[[./../../../.././qc/src/jcckit/util/Point.java.html#30]]]
++getY() : double [[[./../../../.././qc/src/jcckit/util/Point.java.html#35]]]
+} 
+@enduml

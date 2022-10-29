@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"SingleLineCommand2<StdlibDiagram>" <|-- "net.sourceforge.plantuml.sprite.CommandStdlib"
+class net.sourceforge.plantuml.sprite.CommandStdlib {
++CommandStdlib() : CommandStdlib [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/CommandStdlib.java.html#14]]]
+-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/CommandStdlib.java.html#18]]]
+executeArg(StdlibDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/CommandStdlib.java.html#27]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.project.core3.TaskLoad"
+class net.sourceforge.plantuml.project.core3.TaskLoad {
++getStart() : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoad.java.html#6]]]
++getEnd() : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoad.java.html#8]]]
++getLoad() : Histogram [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoad.java.html#10]]]
+} 
+@enduml

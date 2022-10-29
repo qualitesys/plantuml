@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.svek.EntityDomain"
+class net.sourceforge.plantuml.svek.EntityDomain {
++EntityDomain(SymbolContext) : EntityDomain [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityDomain.java.html#22]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityDomain.java.html#26]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityDomain.java.html#38]]]
+} 
+@enduml

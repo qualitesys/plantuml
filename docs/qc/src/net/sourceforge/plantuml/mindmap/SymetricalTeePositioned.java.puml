@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.mindmap.SymetricalTeePositioned"
+class net.sourceforge.plantuml.mindmap.SymetricalTeePositioned {
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#14]]]
++SymetricalTeePositioned(SymetricalTee) : SymetricalTeePositioned [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#19]]]
+-SymetricalTeePositioned(SymetricalTee;double) : SymetricalTeePositioned [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#23]]]
++moveSoThatSegmentA1isOn(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#28]]]
++moveSoThatSegmentA2isOn(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#33]]]
++move(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#38]]]
++getSegmentA1() : Line2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#42]]]
++getSegmentB1() : Line2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#46]]]
++getSegmentA2() : Line2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#50]]]
++getSegmentB2() : Line2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#55]]]
++getMaxX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#60]]]
++getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#64]]]
++getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#68]]]
++getY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#72]]]
++getMax(SymetricalTeePositioned) : SymetricalTeePositioned [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#76]]]
+} 
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+!pragma layout smetana
+"ISourceFileReader" <|-- "net.sourceforge.plantuml.SourceFileReaderAbstract"
+class net.sourceforge.plantuml.SourceFileReaderAbstract {
+getSuggestedFile(File;String) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#45]]]
++SourceFileReaderAbstract(File;FileFormatOption;Defines;List<String>;String) : SourceFileReaderAbstract [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#50]]]
+getFileFormatOption() : FileFormatOption [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#63]]]
++setCheckMetadata(boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#67]]]
++hasError() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#71]]]
++getBlocks() : List<BlockUml> [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#78]]]
+getReader(Charset) : Reader [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#82]]]
++getIncludedFiles() : Set<FileWithSuffix> [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#86]]]
++setFileFormatOption(FileFormatOption) : ISourceFileReader [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#91]]]
+endsWithSlashOrAntislash(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#96]]]
+-getCrashedImage(BlockUml;Throwable;SFile) : List<GeneratedImage> [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#100]]]
+exportWarnOrErrIfWord(SFile;Diagram) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#109]]]
++getGeneratedImages() : List<GeneratedImage> [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#122]]]
+getSuggestedFile(BlockUml) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#172]]]
+setNoerror(boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#174]]]
+getFileName() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#179]]]
+} 
+@enduml

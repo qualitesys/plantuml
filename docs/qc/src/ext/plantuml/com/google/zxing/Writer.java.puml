@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.Writer"
+class ext.plantuml.com.google.zxing.Writer {
+encode(String;BarcodeFormat;int) : BitMatrix [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/Writer.java.html#13]]]
+encode(String;BarcodeFormat;int;Hashtable) : BitMatrix [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/Writer.java.html#17]]]
+} 
+@enduml

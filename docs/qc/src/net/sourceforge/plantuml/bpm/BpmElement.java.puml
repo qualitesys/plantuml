@@ -1,0 +1,18 @@
+@startuml
+!pragma layout smetana
+"AbstractConnectorPuzzleConnectorPuzzle" <|-- "net.sourceforge.plantuml.bpm.BpmElement"
+class net.sourceforge.plantuml.bpm.BpmElement {
++BpmElement(String;BpmElementType;String) : BpmElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#36]]]
++BpmElement(String;BpmElementType) : BpmElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#42]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#47]]]
++getType() : BpmElementType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#54]]]
++getDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#58]]]
++toTextBlock(ISkinParam) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#62]]]
+-drawLine(UGraphic;Where;XDimension2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#90]]]
+-getSignatureCircle() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#107]]]
+-getStyle(ISkinParam) : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#111]]]
++toTextBlockInternal(ISkinParam) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#115]]]
++getDimension(StringBounder;ISkinParam) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#138]]]
++getId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#145]]]
+} 
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.nwdiag.next.LinkedElement"
+class net.sourceforge.plantuml.nwdiag.next.LinkedElement {
++LinkedElement(double;NServer;TextBlock;Map<Network,TextBlock>;List<Network>) : LinkedElement [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#32]]]
++isLinkedTo(Network) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#42]]]
+-marginBoxW() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#48]]]
+-marginBoxH() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#52]]]
++getMinMax(StringBounder;double;double) : MinMax [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#56]]]
++drawMe(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#68]]]
++drawLinks(UGraphic;double;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#74]]]
+-link1() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#130]]]
+-link2() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#134]]]
+-drawCenter(UGraphic;TextBlock;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#142]]]
++naturalDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#151]]]
++getNetwork() : Network [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#164]]]
++getServer() : NServer [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#168]]]
+} 
+@enduml

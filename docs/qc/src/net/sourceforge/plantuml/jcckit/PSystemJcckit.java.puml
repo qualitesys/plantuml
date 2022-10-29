@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"AbstractPSystem" <|-- "net.sourceforge.plantuml.jcckit.PSystemJcckit"
+class net.sourceforge.plantuml.jcckit.PSystemJcckit {
++PSystemJcckit(UmlSource;Properties;int;int) : PSystemJcckit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckit.java.html#27]]]
+exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckit.java.html#35]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckit.java.html#51]]]
+} 
+@enduml

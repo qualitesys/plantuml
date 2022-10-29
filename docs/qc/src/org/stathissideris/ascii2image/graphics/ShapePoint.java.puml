@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"java.awt.geom.Point2D.Float" <|-- "org.stathissideris.ascii2image.graphics.ShapePoint"
+class org.stathissideris.ascii2image.graphics.ShapePoint {
++ShapePoint() : ShapePoint [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#15]]]
++ShapePoint(float;float) : ShapePoint [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#19]]]
++ShapePoint(float;float;int) : ShapePoint [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#24]]]
++ShapePoint(ShapePoint) : ShapePoint [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#29]]]
++getType() : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#34]]]
++setType(int) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#39]]]
++isInLineWith(ShapePoint) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#43]]]
++isWithinEdge(ShapeEdge) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#49]]]
++isNorthOf(ShapePoint) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#62]]]
++isSouthOf(ShapePoint) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#66]]]
++isWestOf(ShapePoint) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#70]]]
++isEastOf(ShapePoint) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#74]]]
++toString() : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#78]]]
++assign(ShapePoint) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#82]]]
++moveTo(ShapePoint) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#88]]]
++isLocked() : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#96]]]
++setLocked(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#101]]]
+} 
+@enduml

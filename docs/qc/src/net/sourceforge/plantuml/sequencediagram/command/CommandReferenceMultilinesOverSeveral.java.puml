@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"CommandMultilines<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral"
+class net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral {
++CommandReferenceMultilinesOverSeveral() : CommandReferenceMultilinesOverSeveral [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#27]]]
+-getConcat() : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#31]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#48]]]
++execute(SequenceDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#52]]]
+} 
+@enduml

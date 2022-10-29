@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.png.PngSplitter"
+class net.sourceforge.plantuml.png.PngSplitter {
++PngSplitter(SuggestedFile;int;int;String;int;SplitParam) : PngSplitter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSplitter.java.html#21]]]
++getFiles() : List<SFile> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSplitter.java.html#84]]]
+} 
+@enduml

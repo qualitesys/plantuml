@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye1"
+class net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye1 {
++EntityImageLollipopInterfaceEye1(ILeaf;ISkinParam;Bibliotekon) : EntityImageLollipopInterfaceEye1 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye1.java.html#36]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye1.java.html#46]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye1.java.html#50]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye1.java.html#92]]]
+} 
+@enduml

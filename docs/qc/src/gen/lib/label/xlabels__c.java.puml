@@ -1,0 +1,30 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.label.xlabels__c"
+class gen.lib.label.xlabels__c {
++icompare(ST_dt_s;Object;Object;ST_dtdisc_s) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#51]]]
++xlnew(CArray<ST_object_t>;int;CArray<ST_xlabel_t>;int;ST_label_params_t) : ST_XLabels_t [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#319]]]
++xlfree(ST_XLabels_t) : void [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#849]]]
++floorLog2(int) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#849]]]
++xlhorder(ST_XLabels_t) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#849]]]
++hd_hil_s_from_xy(ST_point;int) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#849]]]
+-hd_hil_s_from_xy_(ST_point;int) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++aabbaabb(ST_Rect_t;ST_Rect_t) : double [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++lblenclosing(ST_object_t;ST_object_t) : boolean [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++objp2rect(ST_object_t;ST_Rect_t) : void [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++objplp2rect(ST_object_t;ST_Rect_t) : void [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++objplpmks(ST_XLabels_t;ST_object_t) : ST_Rect_t [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++getintrsxi(ST_XLabels_t;ST_object_t;ST_object_t) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++recordointrsx(ST_XLabels_t;ST_object_t;ST_object_t;ST_Rect_t;double;ST_object_t[]) : double [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++recordlintrsx(ST_XLabels_t;ST_object_t;ST_object_t;ST_Rect_t;double;ST_object_t[]) : double [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++xlintersections(ST_XLabels_t;ST_object_t;ST_object_t[]) : ST_BestPos_t [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
+-xlintersections_(ST_XLabels_t;ST_object_t;ST_object_t[]) : ST_BestPos_t [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++xladjust(ST_XLabels_t;ST_object_t) : ST_BestPos_t [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
+-xladjust_(ST_XLabels_t;ST_object_t) : ST_BestPos_t [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++xlhdxload(ST_XLabels_t) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++xlhdxunload(ST_XLabels_t) : void [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++xlspdxload(ST_XLabels_t) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++xlinitialize(ST_XLabels_t) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
++placeLabels(CArray<ST_object_t>;int;CArray<ST_xlabel_t>;int;ST_label_params_t) : int [[[./../../../../.././qc/src/gen/lib/label/xlabels__c.java.html#1]]]
+} 
+@enduml

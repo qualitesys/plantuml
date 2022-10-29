@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"AbstractComponentTextArrowComponent" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextSelfArrow"
+class net.sourceforge.plantuml.asciiart.ComponentTextSelfArrow {
++ComponentTextSelfArrow(ComponentType;ArrowConfiguration;Display;FileFormat) : ComponentTextSelfArrow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextSelfArrow.java.html#25]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextSelfArrow.java.html#33]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextSelfArrow.java.html#71]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextSelfArrow.java.html#75]]]
++getStartPoint(StringBounder;XDimension2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextSelfArrow.java.html#79]]]
++getEndPoint(StringBounder;XDimension2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextSelfArrow.java.html#83]]]
++getPaddingY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextSelfArrow.java.html#87]]]
++getYPoint(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextSelfArrow.java.html#91]]]
++getPosArrow(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextSelfArrow.java.html#95]]]
+} 
+@enduml

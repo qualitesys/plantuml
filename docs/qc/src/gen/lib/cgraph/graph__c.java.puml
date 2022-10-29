@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "gen.lib.cgraph.graph__c"
+class gen.lib.cgraph.graph__c {
++agclos(ST_Agdisc_s) : ST_Agclos_s [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#56]]]
++agopen(CString;ST_Agdesc_s;ST_Agdisc_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#85]]]
+-agopen_w_(CString;ST_Agdesc_s;ST_Agdisc_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#89]]]
++agopen1(ST_Agraph_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#121]]]
++agnextseq(ST_Agraph_s;int) : int [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#151]]]
++agnnodes(ST_Agraph_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#168]]]
++agnedges(ST_Agraph_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#182]]]
++agisdirected(ST_Agraph_s) : boolean [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#201]]]
++agisundirected(ST_Agraph_s) : boolean [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#215]]]
++agisstrict(ST_Agraph_s) : boolean [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#229]]]
++cnt(ST_dt_s;CStarStar<ST_dtlink_s>) : int [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#243]]]
++agdegree(ST_Agraph_s;ST_Agnode_s;boolean;boolean) : int [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#261]]]
++agraphidcmpf(ST_dt_s;ST_Agraph_s;ST_Agraph_s;ST_dtdisc_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/graph__c.java.html#290]]]
+} 
+@enduml

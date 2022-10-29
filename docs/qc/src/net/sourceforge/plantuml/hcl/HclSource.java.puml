@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Iterable<Character>" <|-- "net.sourceforge.plantuml.hcl.HclSource"
+class net.sourceforge.plantuml.hcl.HclSource {
++add(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclSource.java.html#13]]]
++iterator() : Iterator<Character> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/hcl/HclSource.java.html#21]]]
+} 
+@enduml

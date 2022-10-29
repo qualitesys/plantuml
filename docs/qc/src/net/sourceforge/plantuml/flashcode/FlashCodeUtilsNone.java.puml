@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"FlashCodeUtils" <|-- "net.sourceforge.plantuml.flashcode.FlashCodeUtilsNone"
+class net.sourceforge.plantuml.flashcode.FlashCodeUtilsNone {
++exportFlashcode(String;Color;Color) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtilsNone.java.html#9]]]
+} 
+@enduml

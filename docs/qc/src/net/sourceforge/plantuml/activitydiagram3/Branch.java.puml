@@ -1,0 +1,38 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.Branch"
+class net.sourceforge.plantuml.activitydiagram3.Branch {
++getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#49]]]
++getDefaultStyleDefinitionDiamond() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#53]]]
++containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#57]]]
++Branch(StyleBuilder;Swimlane;LinkRendering;Display;HColor;LinkRendering) : Branch [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#61]]]
++getWeldingPoints() : Collection<WeldingPoint> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#74]]]
++add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#78]]]
++kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#83]]]
++addNote(Display;NotePosition;NoteType;Colors;Swimlane) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#87]]]
++setInlinkRendering(LinkRendering) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#91]]]
++updateFtile(FtileFactory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#95]]]
++updateGtile(ISkinParam;StringBounder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#99]]]
++getSwimlanes() : Collection<?extendsSwimlane> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#103]]]
++getLabelTest() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#107]]]
++getOut() : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#111]]]
++getInColor(Rainbow) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#124]]]
++getInlabel() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#139]]]
++getInRainbow(Rainbow) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#143]]]
++getLabelPositiveRainbow(Rainbow) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#147]]]
++getFtile() : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#151]]]
++getGtile() : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#155]]]
++skinParam() : ISkinParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#159]]]
++getColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#165]]]
++isEmpty() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#169]]]
++getLast() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#173]]]
++isOnlySingleStopOrSpot() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#177]]]
++setSpecial(LinkRendering) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#181]]]
++getSpecial() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#185]]]
++getDisplayPositive() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#189]]]
++getSpecialDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#199]]]
+-getTextBlock(Display) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#206]]]
++getTextBlockPositive() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#218]]]
++getTextBlockSpecial() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Branch.java.html#222]]]
+} 
+@enduml

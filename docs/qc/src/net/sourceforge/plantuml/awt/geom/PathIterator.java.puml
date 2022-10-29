@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.awt.geom.PathIterator"
+class net.sourceforge.plantuml.awt.geom.PathIterator {
++isDone() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/PathIterator.java.html#13]]]
++next() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/PathIterator.java.html#17]]]
++getWindingRule() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/PathIterator.java.html#21]]]
++currentSegment(double[]) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/PathIterator.java.html#25]]]
+} 
+@enduml

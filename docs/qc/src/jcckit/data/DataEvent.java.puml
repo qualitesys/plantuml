@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "jcckit.data.DataEvent"
+class jcckit.data.DataEvent {
+-DataEvent(DataContainer;DataEventType;int;DataElement) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#12]]]
++createAddEvent(DataContainer) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#21]]]
++createInsertEvent(DataContainer;int) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#27]]]
++createReplaceEvent(DataContainer;int;DataElement) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#34]]]
++createRemoveEvent(DataContainer;int;DataElement) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#41]]]
++getContainer() : DataContainer [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#48]]]
++getType() : DataEventType [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#53]]]
++getIndex() : int [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#58]]]
++getDeletedElement() : DataElement [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#63]]]
+} 
+@enduml

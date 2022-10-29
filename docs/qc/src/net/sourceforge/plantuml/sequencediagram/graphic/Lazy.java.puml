@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.Lazy"
+class net.sourceforge.plantuml.sequencediagram.graphic.Lazy {
++getNow() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Lazy.java.html#6]]]
+} 
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractPSystem" <|-- "net.sourceforge.plantuml.ditaa.PSystemDitaa"
+class net.sourceforge.plantuml.ditaa.PSystemDitaa {
++PSystemDitaa(UmlSource;String;boolean;boolean;boolean;boolean;float;Font;boolean) : PSystemDitaa [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#40]]]
+add(String) : PSystemDitaa [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#65]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#70]]]
+exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#75]]]
+} 
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"Eater" <|-- "net.sourceforge.plantuml.tim.EaterAffectationDefine"
+class net.sourceforge.plantuml.tim.EaterAffectationDefine {
++EaterAffectationDefine(StringLocated) : EaterAffectationDefine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterAffectationDefine.java.html#9]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterAffectationDefine.java.html#14]]]
+} 
+@enduml

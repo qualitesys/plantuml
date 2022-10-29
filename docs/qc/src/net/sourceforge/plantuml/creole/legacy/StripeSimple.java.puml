@@ -1,0 +1,29 @@
+@startuml
+!pragma layout smetana
+"Stripe" <|-- "net.sourceforge.plantuml.creole.legacy.StripeSimple"
+class net.sourceforge.plantuml.creole.legacy.StripeSimple {
++setCellAlignment(HorizontalAlignment) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#69]]]
++getCellAlignment() : HorizontalAlignment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#73]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#83]]]
++getLHeader() : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#87]]]
++StripeSimple(FontConfiguration;StripeStyle;CreoleContext;ISkinSimple;CreoleMode) : StripeSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#91]]]
+-addCommand(Command) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#149]]]
++getAtoms() : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#162]]]
++getActualFontConfiguration() : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#169]]]
++setActualFontConfiguration(FontConfiguration) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#173]]]
++analyzeAndAdd(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#177]]]
+-fontConfigurationForHeading(FontConfiguration;int) : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#192]]]
++addImage(String;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#205]]]
++addQrcode(String;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#209]]]
++addSpace(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#213]]]
++addUrl(Url) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#217]]]
++addSprite(String;double;HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#221]]]
++addOpenIcon(String;double;HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#227]]]
++addEmoji(String;String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#233]]]
++addMath(ScientificEquationSafe) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#253]]]
+-modifyStripe(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#257]]]
+-addPending(StringBuilder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#273]]]
+-searchCommand(String) : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#281]]]
++getSkinParam() : ISkinSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.html#291]]]
+} 
+@enduml

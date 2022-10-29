@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.CucaDiagramFileMaker"
+class net.sourceforge.plantuml.svek.CucaDiagramFileMaker {
++createFile(OutputStream;List<String>;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMaker.java.html#13]]]
+} 
+@enduml

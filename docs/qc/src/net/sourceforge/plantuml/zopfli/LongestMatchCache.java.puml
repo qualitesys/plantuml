@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.LongestMatchCache"
+class net.sourceforge.plantuml.zopfli.LongestMatchCache {
+LongestMatchCache(int) : LongestMatchCache [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#14]]]
+init(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#21]]]
+subLenToCache(char[];int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#57]]]
+cacheToSubLen(int;int;char[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#81]]]
+maxCachedSubLen(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#103]]]
+} 
+@enduml

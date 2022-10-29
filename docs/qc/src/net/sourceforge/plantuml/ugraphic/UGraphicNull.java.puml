@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractUGraphic<String>EnsureVisible" <|-- "net.sourceforge.plantuml.ugraphic.UGraphicNull"
+class net.sourceforge.plantuml.ugraphic.UGraphicNull {
+copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#15]]]
+-UGraphicNull(UGraphicNull) : UGraphicNull [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#19]]]
++UGraphicNull() : UGraphicNull [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#23]]]
++writeToStream(OutputStream;String;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#28]]]
++ensureVisible(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#31]]]
+} 
+@enduml

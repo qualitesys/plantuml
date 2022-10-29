@@ -1,0 +1,110 @@
+console.log('leListeStr main01 start json de data maDataBlocs');
+var maDataBlocs = {
+"data00" : {
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterIf.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/EaterIf.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterIf.java.xml" 
+ , "fic3"  : "" 
+}
+, 
+"data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "Eater"
+ , "c2" : "net.sourceforge.plantuml.tim.EaterIf"
+}} 
+]
+, 
+"data02" : [
+{ "classe" : 
+ { "nomclasse" : "net.sourceforge.plantuml.tim.EaterIf" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIf.java.html#11"
+ , "c1" : "EaterIf"
+ , "c2" : "EaterIf(StringLocated)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIf.java.html#16"
+ , "c1" : "void"
+ , "c2" : "analyze(TContext;TMemory)"
+ , "c3" : "1"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIf.java.html#24"
+ , "c1" : "boolean"
+ , "c2" : "isTrue()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+] 
+}} 
+]
+, 
+"data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterIf.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterIf.java.svg" }
+
+] 
+, 
+"data04" : [
+]
+, 
+"data05" : [
+]
+, 
+"data06" : [
+]
+, 
+"data07" : [
+]
+, 
+"data08" : [
+]
+, 
+"data11" : [
+]
+, 
+"data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIf.java.html#16"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00016] For method analyze arguments TContext  context|TMemory  memory"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIf.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.tim.EaterIf.analyze@POLYN147050 the MagicNumber/String  '!if' should be converted to const"
+}} 
+]
+};
+console.log('leListeStr 99 main end');

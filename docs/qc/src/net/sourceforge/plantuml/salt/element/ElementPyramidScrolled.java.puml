@@ -1,0 +1,15 @@
+@startuml
+!pragma layout smetana
+"ElementPyramid" <|-- "net.sourceforge.plantuml.salt.element.ElementPyramidScrolled"
+class net.sourceforge.plantuml.salt.element.ElementPyramidScrolled {
++ElementPyramidScrolled(Positionner2;ISkinSimple;ScrollStrategy) : ElementPyramidScrolled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramidScrolled.java.html#21]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramidScrolled.java.html#28]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramidScrolled.java.html#40]]]
+-getTr0() : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramidScrolled.java.html#52]]]
+-getTr180() : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramidScrolled.java.html#62]]]
+-getTr90() : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramidScrolled.java.html#72]]]
+-getTr270() : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramidScrolled.java.html#82]]]
+-drawV(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramidScrolled.java.html#92]]]
+-drawH(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementPyramidScrolled.java.html#100]]]
+} 
+@enduml

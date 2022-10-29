@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"Transferable" <|-- "net.sourceforge.plantuml.ImageSelection"
+class net.sourceforge.plantuml.ImageSelection {
++ImageSelection(Image) : ImageSelection [[[./../../../../.././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#14]]]
++getTransferDataFlavors() : DataFlavor[] [[[./../../../../.././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#18]]]
++isDataFlavorSupported(DataFlavor) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#22]]]
++getTransferData(DataFlavor) : Object [[[./../../../../.././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#26]]]
+} 
+@enduml

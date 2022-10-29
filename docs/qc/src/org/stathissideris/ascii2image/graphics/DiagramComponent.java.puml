@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "org.stathissideris.ascii2image.graphics.DiagramComponent"
+class org.stathissideris.ascii2image.graphics.DiagramComponent {
+makePointForCell(TextGrid.Cell;TextGrid;int;int;boolean) : ShapePoint [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramComponent.java.html#12]]]
++createClosedFromBoundaryCells(TextGrid;CellSet;int;int) : DiagramComponent [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramComponent.java.html#49]]]
++createClosedFromBoundaryCells(TextGrid;CellSet;int;int;boolean) : DiagramComponent [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/DiagramComponent.java.html#53]]]
+} 
+@enduml

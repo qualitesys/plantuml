@@ -1,0 +1,24 @@
+@startuml
+!pragma layout smetana
+"SpecificBackcolorable" <|-- "net.sourceforge.plantuml.sequencediagram.Participant"
+class net.sourceforge.plantuml.sequencediagram.Participant {
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#39]]]
++getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#43]]]
++Participant(ParticipantType;String;Display;Set<EntityPortion>;int;StyleBuilder) : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#55]]]
++getCode() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#71]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#76]]]
++getDisplay(boolean) : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#80]]]
++getType() : ParticipantType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#92]]]
++setStereotype(Stereotype;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#96]]]
++getInitialLife() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#104]]]
++incInitialLife(SymbolContext) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#110]]]
++getLiveSpecificBackColors() : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#115]]]
++getColors() : Colors [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#119]]]
++setSpecificColorTOBEREMOVED(ColorType;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#123]]]
++setColors(Colors) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#131]]]
++getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#137]]]
++setUrl(Url) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#141]]]
++getStereotype() : Stereotype [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#145]]]
++getOrder() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#149]]]
+} 
+@enduml

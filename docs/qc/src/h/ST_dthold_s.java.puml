@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"ST_dtlink_s" <|-- "h.ST_dthold_s"
+class h.ST_dthold_s {
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker"
+class net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker {
++CucaDiagramGraphmlMaker(CucaDiagram) : CucaDiagramGraphmlMaker [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#21]]]
++getModel(UmlDiagram) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#25]]]
++createFiles(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#29]]]
+} 
+@enduml

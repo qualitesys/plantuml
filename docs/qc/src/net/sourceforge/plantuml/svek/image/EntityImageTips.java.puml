@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageTips"
+class net.sourceforge.plantuml.svek.image.EntityImageTips {
++EntityImageTips(ILeaf;ISkinParam;Bibliotekon;UmlDiagramType) : EntityImageTips [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageTips.java.html#50]]]
+-getDefaultStyleDefinition(SName) : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageTips.java.html#65]]]
+-getPosition() : Position [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageTips.java.html#69]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageTips.java.html#76]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageTips.java.html#80]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageTips.java.html#93]]]
+-getOpale(Display) : Opale [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageTips.java.html#140]]]
+} 
+@enduml

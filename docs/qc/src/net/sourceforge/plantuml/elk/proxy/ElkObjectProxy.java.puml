@@ -1,0 +1,7 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.elk.proxy.ElkObjectProxy"
+class net.sourceforge.plantuml.elk.proxy.ElkObjectProxy {
++getTrueObject() : Object [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/ElkObjectProxy.java.html#5]]]
+} 
+@enduml

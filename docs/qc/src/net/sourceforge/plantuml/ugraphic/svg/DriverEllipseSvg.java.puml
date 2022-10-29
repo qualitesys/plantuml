@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"UDriver<UEllipse,SvgGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.svg.DriverEllipseSvg"
+class net.sourceforge.plantuml.ugraphic.svg.DriverEllipseSvg {
++DriverEllipseSvg(ClipContainer) : DriverEllipseSvg [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverEllipseSvg.java.html#16]]]
++draw(UEllipse;double;double;ColorMapper;UParam;SvgGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverEllipseSvg.java.html#20]]]
+} 
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"PlainDiagram" <|-- "net.sourceforge.plantuml.version.PSystemKeycheck"
+class net.sourceforge.plantuml.version.PSystemKeycheck {
++PSystemKeycheck(UmlSource;String;String) : PSystemKeycheck [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#34]]]
+getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#41]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#53]]]
+-drawInternal(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#57]]]
+-header() : ArrayList<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#73]]]
+-drawFlash(UGraphic;LicenseInfo) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#84]]]
+} 
+@enduml

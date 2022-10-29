@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.DotxMaker"
+class net.sourceforge.plantuml.posimo.DotxMaker {
++DotxMaker(Cluster;Collection<Path>) : DotxMaker [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/DotxMaker.java.html#15]]]
++createDotString(String...) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/DotxMaker.java.html#20]]]
+-printCluster(StringBuilder;Cluster) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/DotxMaker.java.html#41]]]
+-getPathString(Path) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/DotxMaker.java.html#62]]]
+-getNodeAttibute(Block) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/DotxMaker.java.html#90]]]
+} 
+@enduml

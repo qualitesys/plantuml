@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"AbstractTileTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.HSpaceTile"
+class net.sourceforge.plantuml.sequencediagram.teoz.HSpaceTile {
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#15]]]
++HSpaceTile(HSpace;TileArguments;YGauge) : HSpaceTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#19]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#27]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#32]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#35]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#39]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#42]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#46]]]
+} 
+@enduml

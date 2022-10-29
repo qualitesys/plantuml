@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"__struct__" <|-- "smetana.core.UnsupportedStarStruct"
+class smetana.core.UnsupportedStarStruct {
++UnsupportedStarStruct() : UnsupportedStarStruct [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#14]]]
++unsupported() : __ptr__ [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#18]]]
++isSameThan(__ptr__) : boolean [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#22]]]
++castTo(Class) : __ptr__ [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#26]]]
++getTheField(OFFSET) : Object [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#31]]]
++copy() : __struct__ [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#35]]]
++___(__struct__) : void [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#39]]]
+} 
+@enduml

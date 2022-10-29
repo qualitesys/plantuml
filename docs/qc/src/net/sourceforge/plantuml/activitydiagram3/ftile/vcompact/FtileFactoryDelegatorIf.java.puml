@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"FtileFactoryDelegator" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorIf"
+class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorIf {
++FtileFactoryDelegatorIf(FtileFactory;Pragma) : FtileFactoryDelegatorIf [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorIf.java.html#27]]]
++createIf(Swimlane;List<Branch>;Branch;LinkRendering;LinkRendering;Url) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorIf.java.html#33]]]
+} 
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder"
+class ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder {
++ReedSolomonEncoder(GF256) : ReedSolomonEncoder [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#13]]]
+-buildGenerator(int) : GF256Poly [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#22]]]
++encode(int[];int) : void [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#34]]]
+} 
+@enduml

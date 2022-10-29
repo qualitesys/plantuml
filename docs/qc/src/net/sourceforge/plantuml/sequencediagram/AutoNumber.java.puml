@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.AutoNumber"
+class net.sourceforge.plantuml.sequencediagram.AutoNumber {
++go(DottedNumber;int;DecimalFormat) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AutoNumber.java.html#15]]]
++stop() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AutoNumber.java.html#22]]]
++resume(DecimalFormat) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AutoNumber.java.html#26]]]
++resume(int;DecimalFormat) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AutoNumber.java.html#33]]]
++incrementIntermediate() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AutoNumber.java.html#41]]]
++incrementIntermediate(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AutoNumber.java.html#45]]]
++getNextMessageNumber() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AutoNumber.java.html#49]]]
++getCurrentMessageNumber(boolean) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AutoNumber.java.html#58]]]
+} 
+@enduml

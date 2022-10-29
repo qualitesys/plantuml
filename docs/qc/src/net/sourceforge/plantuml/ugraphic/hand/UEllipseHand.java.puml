@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.hand.UEllipseHand"
+class net.sourceforge.plantuml.ugraphic.hand.UEllipseHand {
+-randomMe() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#16]]]
++UEllipseHand(UEllipse;Random) : UEllipseHand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#20]]]
+-getPoint(double;double;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#51]]]
++getHanddrawn() : Shadowable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#59]]]
+} 
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+!pragma layout smetana
+"Moment" <|-- "net.sourceforge.plantuml.project.core.Task"
+class net.sourceforge.plantuml.project.core.Task {
++getCode() : TaskCode [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#14]]]
++getLoad() : Load [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#16]]]
++setLoad(Load) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#18]]]
++setStart(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#20]]]
++setEnd(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#22]]]
++setColors(CenterBorderColor...) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#24]]]
++addResource(Resource;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#26]]]
++setDiamond(boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#28]]]
++isDiamond() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#30]]]
++setCompletion(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#32]]]
++setUrl(Url) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#34]]]
++putInSameRowAs(Task) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#36]]]
++getRow() : Task [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#38]]]
++addPause(Day) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#40]]]
++addPause(DayOfWeek) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#42]]]
++setNote(Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#44]]]
++getStyleBuilder() : StyleBuilder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/Task.java.html#46]]]
+} 
+@enduml

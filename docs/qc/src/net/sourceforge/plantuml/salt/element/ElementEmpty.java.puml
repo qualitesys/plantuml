@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.ElementEmpty"
+class net.sourceforge.plantuml.salt.element.ElementEmpty {
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementEmpty.java.html#10]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementEmpty.java.html#14]]]
+} 
+@enduml

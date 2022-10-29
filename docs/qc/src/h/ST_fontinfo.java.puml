@@ -1,0 +1,6 @@
+@startuml
+!pragma layout smetana
+"UnsupportedStarStruct" <|-- "h.ST_fontinfo"
+class h.ST_fontinfo {
+} 
+@enduml

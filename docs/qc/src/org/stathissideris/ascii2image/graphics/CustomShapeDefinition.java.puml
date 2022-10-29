@@ -1,0 +1,19 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "org.stathissideris.ascii2image.graphics.CustomShapeDefinition"
+class org.stathissideris.ascii2image.graphics.CustomShapeDefinition {
++dropsShadow() : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#12]]]
++setDropsShadow(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#15]]]
++getFilename() : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#18]]]
++setFilename(String) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#21]]]
++stretches() : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#24]]]
++setStretches(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#27]]]
++hasBorder() : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#30]]]
++setHasBorder(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#33]]]
++getTag() : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#36]]]
++setTag(String) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#39]]]
++getComment() : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#43]]]
++setComment(String) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#46]]]
++toString() : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html#50]]]
+} 
+@enduml

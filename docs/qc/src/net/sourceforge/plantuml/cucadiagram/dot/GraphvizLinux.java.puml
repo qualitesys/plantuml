@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"AbstractGraphviz" <|-- "net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux"
+class net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux {
+GraphvizLinux(ISkinParam;String;String...) : GraphvizLinux [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizLinux.java.html#10]]]
+specificDotExe() : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizLinux.java.html#15]]]
+getExeName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizLinux.java.html#29]]]
++graphviz244onWindows() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizLinux.java.html#33]]]
+} 
+@enduml

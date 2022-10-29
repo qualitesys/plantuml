@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"TimeHeader" <|-- "net.sourceforge.plantuml.project.draw.TimeHeaderCalendar"
+class net.sourceforge.plantuml.project.draw.TimeHeaderCalendar {
++TimeHeaderCalendar(TimeHeaderParameters;TimeScale) : TimeHeaderCalendar [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#16]]]
+locale() : Locale [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#22]]]
+getLoadAt(Day) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#26]]]
+drawTextsBackground(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#47]]]
+} 
+@enduml

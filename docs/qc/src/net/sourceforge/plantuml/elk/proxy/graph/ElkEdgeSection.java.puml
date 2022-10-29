@@ -1,0 +1,14 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection"
+class net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection {
++ElkEdgeSection(Object) : ElkEdgeSection [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#14]]]
++hashCode() : int [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#19]]]
++equals(Object) : boolean [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#24]]]
++getStartX() : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#28]]]
++getStartY() : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#32]]]
++getEndX() : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#36]]]
++getEndY() : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#40]]]
++getBendPoints() : Collection<ElkBendPoint> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#44]]]
+} 
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"EpsGraphics" <|-- "net.sourceforge.plantuml.eps.EpsGraphicsMacro"
+class net.sourceforge.plantuml.eps.EpsGraphicsMacro {
++EpsGraphicsMacro() : EpsGraphicsMacro [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#13]]]
+append(String;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#19]]]
+getBodyString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#27]]]
++newpath() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#44]]]
++closepath() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#52]]]
++fill(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#58]]]
++moveto(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#72]]]
++lineto(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#81]]]
++curveto(double;double;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#90]]]
++quadto(double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#102]]]
+-openMacro() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#111]]]
+-macroName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#118]]]
+-closeMacro() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#122]]]
+epsHLine(double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#138]]]
+epsVLine(double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacro.java.html#158]]]
+} 
+@enduml

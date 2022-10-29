@@ -1,0 +1,10 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.SimpleDrawer"
+class net.sourceforge.plantuml.posimo.SimpleDrawer {
++SimpleDrawer(Cluster;Collection<Path>) : SimpleDrawer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/SimpleDrawer.java.html#18]]]
++draw(Graphics2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/SimpleDrawer.java.html#23]]]
+-drawRectCentered(Graphics2D;XPoint2D;XDimension2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/SimpleDrawer.java.html#56]]]
+-drawRect(Graphics2D;XPoint2D;XDimension2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/SimpleDrawer.java.html#62]]]
+} 
+@enduml

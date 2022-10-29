@@ -1,0 +1,12 @@
+@startuml
+!pragma layout smetana
+"SheetBuilder" <|-- "net.sourceforge.plantuml.creole.legacy.CreoleParser"
+class net.sourceforge.plantuml.creole.legacy.CreoleParser {
++CreoleParser(FontConfiguration;HorizontalAlignment;ISkinSimple;CreoleMode;FontConfiguration) : CreoleParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/CreoleParser.java.html#35]]]
+-createStripe(String;CreoleContext;Stripe;FontConfiguration) : Stripe [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/CreoleParser.java.html#44]]]
++isTableLine(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/CreoleParser.java.html#77]]]
++doesStartByColor(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/CreoleParser.java.html#81]]]
++createSheet(Display) : Sheet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/CreoleParser.java.html#85]]]
++checkColor(Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/CreoleParser.java.html#120]]]
+} 
+@enduml

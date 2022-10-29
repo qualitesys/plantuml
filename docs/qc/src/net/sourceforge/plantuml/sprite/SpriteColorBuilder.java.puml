@@ -1,0 +1,8 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.sprite.SpriteColorBuilder"
+class net.sourceforge.plantuml.sprite.SpriteColorBuilder {
++buildSprite(List<CharSequence>) : Sprite [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#14]]]
++encodeColor(BufferedImage) : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#34]]]
+} 
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+!pragma layout smetana
+"java.lang.Object" <|-- "net.sourceforge.plantuml.emoji.Emoji"
+class net.sourceforge.plantuml.emoji.Emoji {
++getAll() : Map<String,Emoji> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/Emoji.java.html#37]]]
+-Emoji(String) : Emoji [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/Emoji.java.html#46]]]
++pattern() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/Emoji.java.html#59]]]
++retrieve(String) : Emoji [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/Emoji.java.html#70]]]
+-loadIfNeed() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/Emoji.java.html#74]]]
++drawU(UGraphic;double;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/Emoji.java.html#87]]]
++getShortcut() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/Emoji.java.html#96]]]
+} 
+@enduml

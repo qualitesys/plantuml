@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"RuntimeException" <|-- "jcckit.util.FactoryException"
+class jcckit.util.FactoryException {
++FactoryException(ConfigParameters;String;Object) : FactoryException [[[./../../../.././qc/src/jcckit/util/FactoryException.java.html#13]]]
++getFullKey() : String [[[./../../../.././qc/src/jcckit/util/FactoryException.java.html#24]]]
++getClassName() : String [[[./../../../.././qc/src/jcckit/util/FactoryException.java.html#29]]]
++getReason() : Object [[[./../../../.././qc/src/jcckit/util/FactoryException.java.html#34]]]
++toString() : String [[[./../../../.././qc/src/jcckit/util/FactoryException.java.html#39]]]
+} 
+@enduml

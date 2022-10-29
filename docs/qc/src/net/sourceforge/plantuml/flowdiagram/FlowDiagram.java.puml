@@ -1,0 +1,21 @@
+@startuml
+!pragma layout smetana
+"UmlDiagramTextBlock" <|-- "net.sourceforge.plantuml.flowdiagram.FlowDiagram"
+class net.sourceforge.plantuml.flowdiagram.FlowDiagram {
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#49]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#53]]]
++FlowDiagram(UmlSource) : FlowDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#57]]]
++lineSimple(TileGeometry;String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#61]]]
++linkSimple(TileGeometry;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#76]]]
+-getTileById(String) : Tile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#81]]]
++createImageBuilder(FileFormatOption) : ImageBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#91]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#99]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#105]]]
+-getCenter(TileArea) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#139]]]
+-movePoint(XPoint2D;Tile;TileGeometry;StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#147]]]
+-getMinMax() : MinMaxGolem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#172]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#180]]]
++getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#185]]]
++getDefaultMargins() : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#190]]]
+} 
+@enduml
