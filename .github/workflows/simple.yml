@@ -1,0 +1,81 @@
+name: C/C++ CI Simple 2
+
+on:
+  push:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # Demarrage a 23h30 chaque jour
+    - cron:  '30 23 * * *'
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    #- name: Install Dependencies graphviz pour plantuml
+    #  run: |
+    #      sudo apt-get install graphviz
+    - uses: actions/checkout@v2
+      with:
+        ref: trunk     
+    - name: Run maven compile sur qcr
+      run: mvn qcr:qcrgoalcompile
+    - name: disk usage
+      run: du
+    - name: rm  test
+      run: |
+          rm -rf test
+    - name: rm  target
+      run: |
+          rm -rf target
+    - name: rm  doc
+      run: |
+          rm -rf doc
+    - name: mvn -version
+      run: |
+          mvn -version
+    - name: maven describe mojo
+      run: mvn help:describe -Dplugin=com.qualitesys.maven.plugins:qcr-maven-plugin -Ddetail=true
+    - name: Run maven site
+      run: mvn site
+    - name: ls -l
+      run: ls -l
+    - name: Suppr des fichier .c.xml
+      run: |
+          cd target/site
+          find . -type f -name "*.c.xml" -delete
+          cd ..
+          cd ..
+    - name: ls target/site
+      run: |
+          ls -l target/site
+          ls -l targetqcr
+          rm -r targetqcr
+    #- name: ls  qcrdocs/site
+    #  run: |
+    #      ls -l qrcdocs/site
+    #- name: rm  qrcdocs/site
+    #  run: |
+    #      rm -rf qrcdocs/site
+    - name: rm qcrdocs
+      run: |
+          rm -rf qcrdocs
+    - name: rm docs
+      run: |
+          rm -rf docs
+    - name: mv target/site vers docs
+      run: |
+          mkdir docs
+          mv target/site/* docs/
+    - name: Setup git config
+      run: |
+          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+    - name: commit
+      run: |
+          # Stage the file, commit and push
+          git add docs/*
+          git commit -m "Commit of maven site"
+          # A virer ?? git push origin/master master --force
+          git push origin trunk --force
