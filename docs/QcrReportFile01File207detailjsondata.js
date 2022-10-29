@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_HDict_t.java.html" 
- , "texte" : "File src/h/ST_HDict_t.java 6 rule violations " 
+ , "texte" : "File src/h/ST_HDict_t.java 5 rule violations " 
  , "fic2"  : "./qc/src/h/ST_HDict_t.java.xml" 
  , "fic3"  : "" 
 }
@@ -59,13 +59,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -89,13 +82,6 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/h/ST_HDict_t.java.html#27"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00027] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/h/ST_HDict_t.java near following tokens ; } throw new UnsupportedOperationException ( ) ; } } / / } HDict_t ; TokenDeFin "
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00010"
  , "c1link" : "./qc/src/h/ST_HDict_t.java.html#10"
  , "c2" : "MAJOR"
@@ -113,21 +99,21 @@ var maDataBlocs = {
  , "c1" : "00015"
  , "c1link" : "./qc/src/h/ST_HDict_t.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method h.ST_HDict_t.getTheField@POLYN153467 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method h.ST_HDict_t.getTheField@POLYN153461 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00015"
  , "c1link" : "./qc/src/h/ST_HDict_t.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method h.ST_HDict_t.getTheField@POLYN153467 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method h.ST_HDict_t.getTheField@POLYN153461 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00018"
  , "c1link" : "./qc/src/h/ST_HDict_t.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method h.ST_HDict_t.getTheField@POLYN153467 the MagicNumber/String  'key' should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method h.ST_HDict_t.getTheField@POLYN153461 the MagicNumber/String  'key' should be converted to const"
 }} 
 ]
 };

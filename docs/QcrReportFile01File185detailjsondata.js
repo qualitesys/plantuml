@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_Agdesc_s.java.html" 
- , "texte" : "File src/h/ST_Agdesc_s.java 10 rule violations " 
+ , "texte" : "File src/h/ST_Agdesc_s.java 9 rule violations " 
  , "fic2"  : "./qc/src/h/ST_Agdesc_s.java.xml" 
  , "fic3"  : "" 
 }
@@ -68,13 +68,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -90,13 +83,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/h/ST_Agdesc_s.java.html#47"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00047] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/h/ST_Agdesc_s.java near following tokens . has_cmpnd = has_cmpnd ; return result ; } } / / } ; TokenDeFin "
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00008"
  , "c1link" : "./qc/src/h/ST_Agdesc_s.java.html#8"

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_Agtag_s.java.html" 
- , "texte" : "File src/h/ST_Agtag_s.java 9 rule violations " 
+ , "texte" : "File src/h/ST_Agtag_s.java 8 rule violations " 
  , "fic2"  : "./qc/src/h/ST_Agtag_s.java.xml" 
  , "fic3"  : "" 
 }
@@ -77,13 +77,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -106,13 +99,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#42"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00042] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/h/ST_Agtag_s.java near following tokens seq ; id = other2 . id ; } } / / } ; TokenDeFin "
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00008"
  , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#8"
@@ -152,14 +138,14 @@ var maDataBlocs = {
  , "c1" : "00016"
  , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method h.ST_Agtag_s.toString@POLYN155056 the MagicNumber/String  'id=' should be converted to const"
+ , "c3" : "QC-JAV000010[00016] In method h.ST_Agtag_s.toString@POLYN155050 the MagicNumber/String  'id=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00016"
  , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method h.ST_Agtag_s.toString@POLYN155056 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00016] In method h.ST_Agtag_s.toString@POLYN155050 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

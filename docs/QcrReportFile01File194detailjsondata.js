@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_Agnode_s.java.html" 
- , "texte" : "File src/h/ST_Agnode_s.java 7 rule violations " 
+ , "texte" : "File src/h/ST_Agnode_s.java 6 rule violations " 
  , "fic2"  : "./qc/src/h/ST_Agnode_s.java.xml" 
  , "fic3"  : "" 
 }
@@ -77,13 +77,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -107,13 +100,6 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#40"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00040] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/h/ST_Agnode_s.java near following tokens ) other ; return this == other2 ; } } / / } ; TokenDeFin "
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00013"
  , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#13"
  , "c2" : "MAJOR"
@@ -131,14 +117,14 @@ var maDataBlocs = {
  , "c1" : "00021"
  , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method h.ST_Agnode_s.toString@POLYN154713 the MagicNumber/String  ' rank=' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method h.ST_Agnode_s.toString@POLYN154707 the MagicNumber/String  ' rank=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00021"
  , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method h.ST_Agnode_s.toString@POLYN154713 the MagicNumber/String  ' order=' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method h.ST_Agnode_s.toString@POLYN154707 the MagicNumber/String  ' order=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_Agsubnode_s.java.html" 
- , "texte" : "File src/h/ST_Agsubnode_s.java 14 rule violations " 
+ , "texte" : "File src/h/ST_Agsubnode_s.java 13 rule violations " 
  , "fic2"  : "./qc/src/h/ST_Agsubnode_s.java.xml" 
  , "fic3"  : "" 
 }
@@ -113,13 +113,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -142,13 +135,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#100"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00100] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/h/ST_Agsubnode_s.java near following tokens return super . castTo ( dest ) ; } } / / } ; TokenDeFin "
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00014"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#14"
@@ -202,28 +188,28 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method h.ST_Agsubnode_s.getTheField@POLYN163824 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method h.ST_Agsubnode_s.getTheField@POLYN163818 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method h.ST_Agsubnode_s.getTheField@POLYN163824 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method h.ST_Agsubnode_s.getTheField@POLYN163818 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method h.ST_Agsubnode_s.getTheField@POLYN163824 the MagicNumber/String  'id_link' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method h.ST_Agsubnode_s.getTheField@POLYN163818 the MagicNumber/String  'id_link' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method h.ST_Agsubnode_s.getTheField@POLYN163824 the MagicNumber/String  'seq_link' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method h.ST_Agsubnode_s.getTheField@POLYN163818 the MagicNumber/String  'seq_link' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -237,7 +223,7 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method h.ST_Agsubnode_s.castTo@POLYN164430 the MagicNumber/String  'dest=' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method h.ST_Agsubnode_s.castTo@POLYN164424 the MagicNumber/String  'dest=' should be converted to const"
 }} 
 ]
 };

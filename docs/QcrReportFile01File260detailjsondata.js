@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_shape_desc.java.html" 
- , "texte" : "File src/h/ST_shape_desc.java 5 rule violations " 
+ , "texte" : "File src/h/ST_shape_desc.java 4 rule violations " 
  , "fic2"  : "./qc/src/h/ST_shape_desc.java.xml" 
  , "fic3"  : "" 
 }
@@ -51,13 +51,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -66,13 +59,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/h/ST_shape_desc.java.html#19"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00019] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/h/ST_shape_desc.java near following tokens ; public ST_polygon_t polygon ; public boolean usershape ; } / / } shape_desc ; TokenDeFin "
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00010"
  , "c1link" : "./qc/src/h/ST_shape_desc.java.html#10"

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_boxf.java.html" 
- , "texte" : "File src/h/ST_boxf.java 6 rule violations " 
+ , "texte" : "File src/h/ST_boxf.java 5 rule violations " 
  , "fic2"  : "./qc/src/h/ST_boxf.java.xml" 
  , "fic3"  : "" 
 }
@@ -86,13 +86,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -109,24 +102,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/h/ST_boxf.java.html#42"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00042] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/h/ST_boxf.java near following tokens . ___ ( other . UR ) ; } } / / typedef struct { pointf LL , UR ; } "
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/h/ST_boxf.java.html#14"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00014] In method h.ST_boxf.toString@POLYN155954 the MagicNumber/String  'LL=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00014"
  , "c1link" : "./qc/src/h/ST_boxf.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method h.ST_boxf.toString@POLYN155960 the MagicNumber/String  'LL=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/h/ST_boxf.java.html#14"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method h.ST_boxf.toString@POLYN155960 the MagicNumber/String  ' UR=' should be converted to const"
+ , "c3" : "QC-JAV000010[00014] In method h.ST_boxf.toString@POLYN155954 the MagicNumber/String  ' UR=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -140,7 +126,7 @@ var maDataBlocs = {
  , "c1" : "00019"
  , "c1link" : "./qc/src/h/ST_boxf.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method h.ST_boxf.malloc@POLYN156127 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method h.ST_boxf.malloc@POLYN156121 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

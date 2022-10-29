@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_dt_s.java.html" 
- , "texte" : "File src/h/ST_dt_s.java 12 rule violations " 
+ , "texte" : "File src/h/ST_dt_s.java 11 rule violations " 
  , "fic2"  : "./qc/src/h/ST_dt_s.java.xml" 
  , "fic3"  : "" 
 }
@@ -59,13 +59,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -81,13 +74,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/h/ST_dt_s.java.html#34"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00034] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/h/ST_dt_s.java near following tokens ) other ; return this == other2 ; } } / / } ; TokenDeFin "
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00010"
  , "c1link" : "./qc/src/h/ST_dt_s.java.html#10"

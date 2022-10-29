@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_deque_t.java.html" 
- , "texte" : "File src/h/ST_deque_t.java 9 rule violations " 
+ , "texte" : "File src/h/ST_deque_t.java 8 rule violations " 
  , "fic2"  : "./qc/src/h/ST_deque_t.java.xml" 
  , "fic3"  : "" 
 }
@@ -68,13 +68,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -97,13 +90,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/h/ST_deque_t.java.html#37"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00037] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/h/ST_deque_t.java near following tokens . pnlps = pnlps2 ; return true ; } } / / } deque_t ; TokenDeFin "
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00009"
  , "c1link" : "./qc/src/h/ST_deque_t.java.html#9"
@@ -129,7 +115,7 @@ var maDataBlocs = {
  , "c1" : "00014"
  , "c1link" : "./qc/src/h/ST_deque_t.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method h.ST_deque_t.malloc@POLYN153867 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00014] In method h.ST_deque_t.malloc@POLYN153861 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,21 +129,21 @@ var maDataBlocs = {
  , "c1" : "00019"
  , "c1link" : "./qc/src/h/ST_deque_t.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method h.ST_deque_t.realloc@POLYN154077 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method h.ST_deque_t.realloc@POLYN154071 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00022"
  , "c1link" : "./qc/src/h/ST_deque_t.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method h.ST_deque_t.realloc@POLYN154077 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method h.ST_deque_t.realloc@POLYN154071 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
  , "c1link" : "./qc/src/h/ST_deque_t.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method h.ST_deque_t.realloc@POLYN154077 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method h.ST_deque_t.realloc@POLYN154071 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 };
