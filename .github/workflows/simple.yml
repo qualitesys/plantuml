@@ -78,4 +78,4 @@ jobs:
           git add docs/*
           git commit -m "Commit of maven site"
           # A virer ?? git push origin/master master --force
-          git push origin trunk --force
+          git push origin master --force
