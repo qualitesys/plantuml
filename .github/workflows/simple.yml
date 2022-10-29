@@ -17,7 +17,7 @@ jobs:
     #      sudo apt-get install graphviz
     - uses: actions/checkout@v2
       with:
-        ref: trunk     
+        ref: master     
     - name: Run maven compile sur qcr
       run: mvn qcr:qcrgoalcompile
     - name: disk usage
