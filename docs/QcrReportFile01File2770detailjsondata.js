@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/wire/CommandSpot.java 26 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/wire/CommandPrint.java 17 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<WireDiagram>"
- , "c2" : "net.sourceforge.plantuml.wire.CommandSpot"
+ , "c2" : "net.sourceforge.plantuml.wire.CommandPrint"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.wire.CommandSpot" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.wire.CommandPrint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#18"
- , "c1" : "CommandSpot"
- , "c2" : "CommandSpot()"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#14"
+ , "c1" : "CommandPrint"
+ , "c2" : "CommandPrint()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#22"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#18"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,21 +36,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#47"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#37"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(WireDiagram;LineLocation;RegexResult)"
- , "c3" : "2"
- , "c4" : "7"
+ , "c3" : "1"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.svg" }
 
 ] 
 , 
@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "23"
+ , "c4" : "14"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,185 +100,122 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#19"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.wire.CommandSpot.CommandSpot@POLYN154938 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.wire.CommandPrint.CommandPrint@POLYN151276 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#24"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  'spot' should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.wire.CommandPrint.getRegexConcat@POLYN151422 the MagicNumber/String  'INDENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#26"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.wire.CommandPrint.getRegexConcat@POLYN151422 the MagicNumber/String  '([\\s\\t]*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#26"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  '([\\w][.\\w]*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.wire.CommandPrint.getRegexConcat@POLYN151422 the MagicNumber/String  'print' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#28"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  '\\(' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.wire.CommandPrint.getRegexConcat@POLYN151422 the MagicNumber/String  '\\(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#30"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  'X' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.wire.CommandPrint.getRegexConcat@POLYN151422 the MagicNumber/String  '[%g]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#30"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  '(-?\\d+(%|%[-+]\\d+)?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.wire.CommandPrint.getRegexConcat@POLYN151422 the MagicNumber/String  'TEXT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#32"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.wire.CommandPrint.getRegexConcat@POLYN151422 the MagicNumber/String  '(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#34"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  'Y' should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.wire.CommandPrint.getRegexConcat@POLYN151422 the MagicNumber/String  '[%g]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#34"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  '(-?\\d+(%|%[-+]\\d+)?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.wire.CommandPrint.getRegexConcat@POLYN151422 the MagicNumber/String  '\\)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  '\\)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  'COLOR' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.wire.CommandSpot.getRegexConcat@POLYN155084 the MagicNumber/String  '(#\\w+)?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#47"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method executeArg arguments WireDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00037] For method executeArg arguments WireDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#47"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#37"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00047] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00037] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#47"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#37"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00047] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00037] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#49"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.wire.CommandPrint.executeArg@POLYN152409 the MagicNumber/String  'INDENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#49"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.wire.CommandPrint.executeArg@POLYN152409 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#51"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  'COLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.wire.CommandPrint.executeArg@POLYN152409 the MagicNumber/String  'TEXT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#51"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  'X' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  'Y' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.wire.CommandSpot.executeArg@POLYN156375 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.wire.CommandPrint.executeArg@POLYN152409 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

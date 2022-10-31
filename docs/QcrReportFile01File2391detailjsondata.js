@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/EaterIncludesub.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/EaterIncludeDef.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Eater"
- , "c2" : "net.sourceforge.plantuml.tim.EaterIncludesub"
+ , "c2" : "net.sourceforge.plantuml.tim.EaterIncludeDef"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.tim.EaterIncludesub" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.tim.EaterIncludeDef" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html#10"
- , "c1" : "EaterIncludesub"
- , "c2" : "EaterIncludesub(StringLocated)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#10"
+ , "c1" : "EaterIncludeDef"
+ , "c2" : "EaterIncludeDef(StringLocated)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html#15"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#15"
  , "c1" : "void"
  , "c2" : "analyze(TContext;TMemory)"
  , "c3" : "1"
@@ -37,7 +37,7 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html#23"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#23"
  , "c1" : "String"
  , "c2" : "getLocation()"
  , "c3" : "1"
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.svg" }
 
 ] 
 , 
@@ -101,23 +101,23 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html#15"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#15"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00015] For method analyze arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html#15"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#15"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00015] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludesub.java.html#17"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.EaterIncludesub.analyze@POLYN146649 the MagicNumber/String  '!includesub' should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.EaterIncludeDef.analyze@POLYN146649 the MagicNumber/String  '!includedef' should be converted to const"
 }} 
 ]
 };

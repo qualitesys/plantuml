@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java 11 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java 12 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<ActivityDiagram3>"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandElse3"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.command.CommandElse3" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#20"
- , "c1" : "CommandElse3"
- , "c2" : "CommandElse3()"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#18"
+ , "c1" : "CommandCircleSpot3"
+ , "c2" : "CommandCircleSpot3()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#24"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#22"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,21 +36,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#41"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#31"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(ActivityDiagram3;LineLocation;RegexResult)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.svg" }
 
 ] 
 , 
@@ -80,7 +80,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,80 +100,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#26"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElse3.getRegexConcat@POLYN153100 the MagicNumber/String  'else' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.getRegexConcat@POLYN151928 the MagicNumber/String  'SPOT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#29"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElse3.getRegexConcat@POLYN153100 the MagicNumber/String  '\\(' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.getRegexConcat@POLYN151928 the MagicNumber/String  '\\((\\S)\\)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.getRegexConcat@POLYN151928 the MagicNumber/String  ';?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElse3.getRegexConcat@POLYN153100 the MagicNumber/String  '-&amp;gt;' should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#31"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00031] For method executeArg arguments ActivityDiagram3  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElse3.getRegexConcat@POLYN153100 the MagicNumber/String  'WHEN_COLOR' should be converted to const"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#31"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00031] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#31"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00031] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#33"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElse3.getRegexConcat@POLYN153100 the MagicNumber/String  'WHEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN152371 the MagicNumber/String  'COLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#33"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElse3.getRegexConcat@POLYN153100 the MagicNumber/String  '(.*?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN152371 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#34"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElse3.getRegexConcat@POLYN153100 the MagicNumber/String  '\\)' should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN152371 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN152371 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#36"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElse3.getRegexConcat@POLYN153100 the MagicNumber/String  ';?' should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN152371 the MagicNumber/String  'SPOT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#41"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method executeArg arguments ActivityDiagram3  diagram|LineLocation  location|RegexResult  arg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#41"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElse3.java.html#45"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElse3.executeArg@POLYN154077 the MagicNumber/String  'WHEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN152371 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

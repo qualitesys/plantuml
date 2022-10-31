@@ -1,9 +1,9 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/VerticalPosition.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/graphic/VerticalPosition.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/VerticalPosition.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/VerticalAlignment.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/graphic/VerticalAlignment.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/VerticalAlignment.java.xml" 
  , "fic3"  : "" 
 }
 , 

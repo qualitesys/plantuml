@@ -1,54 +1,90 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/WithNote.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractInstruction"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.WithNote"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.PositionedNote"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.WithNote" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.PositionedNote" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#21"
- , "c1" : "boolean"
- , "c2" : "addNote(Display;NotePosition;NoteType;Colors;Swimlane)"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#19"
+ , "c1" : "PositionedNote"
+ , "c2" : "PositionedNote(Display;NotePosition;NoteType;Swimlane;Colors)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#26"
- , "c1" : "Ftile"
- , "c2" : "eventuallyAddNote(FtileFactory;Ftile;Swimlane;VerticalAlignment)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#34"
- , "c1" : "Collection<PositionedNote>"
- , "c2" : "getPositionedNotes()"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#28"
+ , "c1" : "PositionedNote"
+ , "c2" : "PositionedNote(Display;NotePosition;NoteType;Swimlane)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#38"
- , "c1" : "boolean"
- , "c2" : "hasNotes()"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#33"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#37"
+ , "c1" : "Display"
+ , "c2" : "getDisplay()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#41"
+ , "c1" : "NotePosition"
+ , "c2" : "getNotePosition()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#45"
+ , "c1" : "NoteType"
+ , "c2" : "getType()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#49"
+ , "c1" : "Colors"
+ , "c2" : "getColors()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#53"
+ , "c1" : "Swimlane"
+ , "c2" : "getSwimlaneNote()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -57,9 +93,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.svg" }
 
 ] 
 , 
@@ -86,9 +122,9 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
@@ -96,58 +132,44 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#21"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method addNote arguments Display  note|NotePosition  position|NoteType  type|Colors  colors|Swimlane  swimlaneNote"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#23"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.activitydiagram3.WithNote.addNote@POLYN151209 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000008[00011] The class PositionedNote contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#26"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method eventuallyAddNote arguments FtileFactory  factory|Ftile  ftile|Swimlane  swimlane|VerticalAlignment  verticalAlignment"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#26"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument factory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#28"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.activitydiagram3.WithNote.eventuallyAddNote@POLYN151631 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.activitydiagram3.PositionedNote.PositionedNote@POLYN151453 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#39"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.activitydiagram3.WithNote.hasNotes@POLYN152176 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.PositionedNote.toString@POLYN151760 the MagicNumber/String  'type=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.PositionedNote.toString@POLYN151760 the MagicNumber/String  ' notePosition=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/PositionedNote.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.PositionedNote.toString@POLYN151760 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
 };

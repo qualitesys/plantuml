@@ -1,47 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/brotli/Transform.java 46 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/brotli/State.java 11 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/brotli/State.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.brotli.Transform"
+ , "c2" : "net.sourceforge.plantuml.brotli.State"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.brotli.Transform" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.brotli.State" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c1" : "void"
- , "c2" : "unpackTransforms(byte[];int[];int[];String;String)"
- , "c3" : "4"
- , "c4" : "11"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c1" : "int"
- , "c2" : "transformDictionaryWord(byte[];int;ByteBuffer;int;int;int)"
- , "c3" : "13"
- , "c4" : "28"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
+ , "c1" : "State"
+ , "c2" : "State()"
+ , "c3" : "1"
+ , "c4" : "6"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.svg" }
 
 ] 
 , 
@@ -68,13 +59,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -85,338 +69,86 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "40"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "10"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00110] The class Transform contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00084] The class State contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method unpackTransforms arguments byte[]  prefixSuffix|int[]  prefixSuffixHeads|int[]  transforms|String  prefixSuffixSrc|String  transformsSrc"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00110] The argument prefixSuffixSrc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00110] The argument transformsSrc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.unpackTransforms@POLYN151656 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.unpackTransforms@POLYN151656 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.unpackTransforms@POLYN151656 the MagicNumber/String  35 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.unpackTransforms@POLYN151656 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.unpackTransforms@POLYN151656 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.unpackTransforms@POLYN151656 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.unpackTransforms@POLYN151656 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.unpackTransforms@POLYN151656 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method transformDictionaryWord arguments byte[]  dst|int  dstOffset|ByteBuffer  data|int  wordOffset|int  len|int  transformIndex"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00110] The argument data is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  12 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  11 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  9 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  11 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  0xFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  0xc0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  97 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  122 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  32 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  0xe0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  32 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Transform.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Transform.transformDictionaryWord@POLYN153118 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  4 should be converted to const"
 }} 
 ]
 };

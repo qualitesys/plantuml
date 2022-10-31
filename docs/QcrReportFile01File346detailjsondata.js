@@ -1,54 +1,54 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html" 
- , "texte" : "File src/jcckit/util/PropertiesBasedConfigData.java 3 rule violations " 
- , "fic2"  : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.xml" 
+   "fic1"  : "./qc/src/jcckit/util/Point.java.html" 
+ , "texte" : "File src/jcckit/util/Point.java 8 rule violations " 
+ , "fic2"  : "./qc/src/jcckit/util/Point.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FlatConfigData"
- , "c2" : "jcckit.util.PropertiesBasedConfigData"
+ , "c1" : "java.lang.Object"
+ , "c2" : "jcckit.util.Point"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.util.PropertiesBasedConfigData" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.util.Point" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#11"
- , "c1" : "PropertiesBasedConfigData"
- , "c2" : "PropertiesBasedConfigData(Properties)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/jcckit/util/Point.java.html#10"
+ , "c1" : "Point"
+ , "c2" : "Point(double[])"
+ , "c3" : "3"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#16"
- , "c1" : "PropertiesBasedConfigData"
- , "c2" : "PropertiesBasedConfigData(Properties;String)"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/jcckit/util/Point.java.html#24"
+ , "c1" : "Point"
+ , "c2" : "Point(double;double)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#22"
- , "c1" : "String"
- , "c2" : "getValue(String)"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/jcckit/util/Point.java.html#30"
+ , "c1" : "double"
+ , "c2" : "getX()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#27"
- , "c1" : "ConfigData"
- , "c2" : "createConfigData(String)"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/jcckit/util/Point.java.html#35"
+ , "c1" : "double"
+ , "c2" : "getY()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -57,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.png" 
+   {"ligne" : "./qc/src/jcckit/util/Point.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/util/Point.java.svg" }
 
 ] 
 , 
@@ -87,39 +87,74 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "7"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#12"
+ , "c1" : "00005"
+ , "c1link" : "./qc/src/jcckit/util/Point.java.html#5"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method jcckit.util.PropertiesBasedConfigData.PropertiesBasedConfigData@POLYN148074 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000008[00005] The class Point contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method getValue arguments String  fullKey"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/jcckit/util/Point.java.html#11"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00011] In method jcckit.util.Point.Point@POLYN146425 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#27"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method createConfigData arguments String  path"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/jcckit/util/Point.java.html#12"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00012] In method jcckit.util.Point.Point@POLYN146425 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/jcckit/util/Point.java.html#13"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00013] In method jcckit.util.Point.Point@POLYN146425 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/jcckit/util/Point.java.html#13"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00013] In method jcckit.util.Point.Point@POLYN146425 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/jcckit/util/Point.java.html#14"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00014] In method jcckit.util.Point.Point@POLYN146425 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/jcckit/util/Point.java.html#15"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00015] In method jcckit.util.Point.Point@POLYN146425 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/jcckit/util/Point.java.html#16"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00016] In method jcckit.util.Point.Point@POLYN146425 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 };

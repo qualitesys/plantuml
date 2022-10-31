@@ -1,39 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/Point2DFunction.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/Point2DFunction.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/Point2DFunction.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/PackageStyle.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/PackageStyle.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/PackageStyle.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.svek.Point2DFunction"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.Point2DFunction" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Point2DFunction.java.html#8"
- , "c1" : "XPoint2D"
- , "c2" : "apply(XPoint2D)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
+ { "nomclasse" : "net.sourceforge.plantuml.svek." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/Point2DFunction.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/Point2DFunction.java.svg" }
-
 ] 
 , 
 "data04" : [

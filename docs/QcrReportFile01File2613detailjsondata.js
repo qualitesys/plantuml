@@ -1,23 +1,57 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorOrder.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/color/ColorOrder.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorOrder.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper"
+}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.color." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#8"
+ , "c1" : "ColorMapper"
+ , "c2" : "ColorMapper()"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#11"
+ , "c1" : "Color"
+ , "c2" : "fromColorSimple(HColorSimple)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#44"
+ , "c1" : "ColorMapper"
+ , "c2" : "reverse(ColorOrder)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
 ] 
 }} 
 ]
 , 
 "data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.svg" }
+
 ] 
 , 
 "data04" : [
@@ -41,5 +75,57 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "2"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00006"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#6"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00006] The class ColorMapper contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#11"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00011] For method fromColorSimple arguments HColorSimple  simple"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#44"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00044] For method reverse arguments ColorOrder  order"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorMapper.java.html#44"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00044] The argument order is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+]
 };
 console.log('leListeStr 99 main end');

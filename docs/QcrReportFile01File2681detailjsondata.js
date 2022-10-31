@@ -1,38 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<DotPath,SvgGraphics>"
- , "c2" : "net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg"
+ , "c1" : "UDriver<UCenteredCharacter,SvgGraphics>"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#19"
  , "c1" : "void"
- , "c2" : "draw(DotPath;double;double;ColorMapper;UParam;SvgGraphics)"
- , "c3" : "2"
- , "c4" : "4"
+ , "c2" : "draw(UCenteredCharacter;double;double;ColorMapper;UParam;SvgGraphics)"
+ , "c3" : "1"
+ , "c4" : "9"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.svg" }
 
 ] 
 , 
@@ -76,7 +76,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -89,59 +89,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#10"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class DriverDotPathSvg contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00017] The class DriverCenteredCharacterSvg contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#19"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method draw arguments DotPath  shape|double  x|double  y|ColorMapper  mapper|UParam  param|SvgGraphics  svg"
+ , "c3" : "QC-JAV000006[00019] For method draw arguments UCenteredCharacter  characterCircled|double  x|double  y|ColorMapper  mapper|UParam  param|SvgGraphics  svg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#19"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00019] The argument characterCircled is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#19"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00019] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#20"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument svg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00020] The argument svg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#15"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg.draw@POLYN148559 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#18"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg.draw@POLYN148559 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#21"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg.draw@POLYN148559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 };

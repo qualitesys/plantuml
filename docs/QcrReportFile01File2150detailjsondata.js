@@ -1,74 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/stats/StatsTableImpl.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/stats/StatsLineImpl.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "StatsTable"
- , "c2" : "net.sourceforge.plantuml.stats.StatsTableImpl"
+ , "c1" : "StatsLine"
+ , "c2" : "net.sourceforge.plantuml.stats.StatsLineImpl"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.stats.StatsTableImpl" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.stats.StatsLineImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#20"
- , "c1" : "StatsTableImpl"
- , "c2" : "StatsTableImpl(String)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#25"
- , "c1" : "String"
- , "c2" : "getName()"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#14"
+ , "c1" : "StatsLineImpl"
+ , "c2" : "StatsLineImpl(Map<StatsColumn,Object>)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#29"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#18"
+ , "c1" : "Object"
+ , "c2" : "getValue(StatsColumn)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#22"
  , "c1" : "Collection<StatsColumn>"
  , "c2" : "getColumnHeaders()"
  , "c3" : "1"
  , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#33"
- , "c1" : "List<StatsLine>"
- , "c2" : "getLines()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#37"
- , "c1" : "void"
- , "c2" : "addLine(StatsLine)"
- , "c3" : "1"
- , "c4" : "2"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.svg" }
 
 ] 
 , 
@@ -95,13 +77,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -118,24 +93,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#14"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00014] The class StatsTableImpl contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00010] The class StatsLineImpl contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#37"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method addLine arguments StatsLine  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#37"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00037] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00018] For method getValue arguments StatsColumn  column"
 }} 
 ]
 };

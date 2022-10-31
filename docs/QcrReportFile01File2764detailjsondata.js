@@ -1,146 +1,101 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/wire/Block.java 37 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/wire/Block.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java 32 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlock"
- , "c2" : "net.sourceforge.plantuml.wire.Block"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.windowsdot.WindowsDotArchive"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.wire.Block" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.windowsdot.WindowsDotArchive" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#60"
- , "c1" : "Block"
- , "c2" : "Block(ISkinParam)"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#21"
+ , "c1" : "WindowsDotArchive"
+ , "c2" : "WindowsDotArchive()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "0"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#64"
- , "c1" : "Block"
- , "c2" : "Block(ISkinParam;Display;XDimension2D)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#71"
- , "c1" : "List<String>"
- , "c2" : "getPins(Position)"
- , "c3" : "5"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#85"
- , "c1" : "XDimension2D"
- , "c2" : "calculateDimension(StringBounder)"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#25"
+ , "c1" : "WindowsDotArchive"
+ , "c2" : "getInstance()"
  , "c3" : "2"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#92"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic)"
- , "c3" : "4"
- , "c4" : "9"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#112"
- , "c1" : "HColor"
- , "c2" : "getBlack()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#116"
- , "c1" : "void"
- , "c2" : "drawPins(Position;UGraphic)"
- , "c3" : "7"
- , "c4" : "10"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#140"
- , "c1" : "Block"
- , "c2" : "componentEnd()"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#147"
- , "c1" : "Block"
- , "c2" : "addNewBlock(String;int;int)"
- , "c3" : "1"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#32"
+ , "c1" : "String"
+ , "c2" : "readString(InputStream)"
+ , "c3" : "2"
  , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00156"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#156"
- , "c1" : "Block"
- , "c2" : "createContainer(String)"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#42"
+ , "c1" : "int"
+ , "c2" : "readNumber(InputStream)"
  , "c3" : "1"
  , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#163"
- , "c1" : "void"
- , "c2" : "vspace(int)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00168"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#168"
- , "c1" : "void"
- , "c2" : "newColumn()"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00173"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#173"
- , "c1" : "void"
- , "c2" : "addPin(Position;String)"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#49"
+ , "c1" : "int"
+ , "c2" : "readByte(InputStream)"
  , "c3" : "1"
  , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#53"
+ , "c1" : "void"
+ , "c2" : "extract(File)"
+ , "c3" : "4"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#70"
+ , "c1" : "boolean"
+ , "c2" : "isThereArchive()"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#80"
+ , "c1" : "File"
+ , "c2" : "getWindowsExeLite()"
+ , "c3" : "3"
+ , "c4" : "7"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.svg" }
 
 ] 
 , 
@@ -167,10 +122,24 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "3"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -184,275 +153,247 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "24"
+ , "c4" : "18"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "9"
+ , "c4" : "4"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "INFO"
+ , "c2" : "QC-JAV000019"
+ , "c3" : "Lock statement"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#30"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00030] The class Pos contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00014] The class WindowsDotArchive contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#39"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#25"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00025] Lock statement on synchronized method getInstance"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.getInstance@POLYN157312 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#32"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method move arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00032] For method readString arguments InputStream  is"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#39"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.readString@POLYN157557 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#42"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00042] For method readNumber arguments InputStream  is"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.readNumber@POLYN158176 the MagicNumber/String  256 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.readNumber@POLYN158176 the MagicNumber/String  256 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#49"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00049] For method readByte arguments InputStream  is"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#49"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00049] The argument is is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method extract arguments File  dir"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00057] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#61"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.wire.Block.Block@POLYN175416 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00061] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.extract@POLYN158786 the MagicNumber/String  'graphviz.dat' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.extract@POLYN158786 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.extract@POLYN158786 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.extract@POLYN158786 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#70"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00070] Lock statement on synchronized method isThereArchive"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#71"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method getPins arguments Position  position"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.isThereArchive@POLYN159906 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#85"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.isThereArchive@POLYN159906 the MagicNumber/String  'graphviz.dat' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.isThereArchive@POLYN159906 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.isThereArchive@POLYN159906 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#80"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00080] Lock statement on synchronized method getWindowsExeLite"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.getWindowsExeLite@POLYN160364 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.getWindowsExeLite@POLYN160364 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.getWindowsExeLite@POLYN160364 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#86"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.wire.Block.calculateDimension@POLYN176378 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.getWindowsExeLite@POLYN160364 the MagicNumber/String  'java.io.tmpdir' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#92"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00092] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#94"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.wire.Block.drawU@POLYN176589 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.getWindowsExeLite@POLYN160364 the MagicNumber/String  '_graphviz' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#95"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.wire.Block.drawU@POLYN176589 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.windowsdot.WindowsDotArchive.getWindowsExeLite@POLYN160364 the MagicNumber/String  'dot.exe' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.wire.Block.drawU@POLYN176589 the MagicNumber/String  10 should be converted to const"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#25"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00025] Public method getInstance is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.wire.Block.drawU@POLYN176589 the MagicNumber/String  10 should be converted to const"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#32"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00032] Public method readString is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#116"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00116] For method drawPins arguments Position  pos|UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#116"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00116] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  15 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.wire.Block.drawPins@POLYN178247 the MagicNumber/String  15 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.wire.Block.componentEnd@POLYN179794 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.wire.Block.componentEnd@POLYN179794 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.wire.Block.componentEnd@POLYN179794 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#147"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method addNewBlock arguments String  name|int  width|int  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.wire.Block.addNewBlock@POLYN180295 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.wire.Block.addNewBlock@POLYN180295 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#156"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method createContainer arguments String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#163"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method vspace arguments int  vspace"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.wire.Block.vspace@POLYN181597 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#170"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wire.Block.newColumn@POLYN181853 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00173"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/Block.java.html#173"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00173] For method addPin arguments Position  position|String  pin"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#42"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00042] Public method readNumber is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 };

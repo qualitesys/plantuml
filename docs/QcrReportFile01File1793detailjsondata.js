@@ -1,72 +1,27 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/real/RealUtils.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealOrigin.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/real/RealOrigin.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/real/RealOrigin.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.real.RealUtils"
+ , "c1" : "Real"
+ , "c2" : "net.sourceforge.plantuml.real.RealOrigin"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.real.RealUtils" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.real.RealOrigin" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#9"
- , "c1" : "RealOrigin"
- , "c2" : "createOrigin()"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#15"
- , "c1" : "Real"
- , "c2" : "middle(Real;Real)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#19"
- , "c1" : "Real"
- , "c2" : "max(Real...)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#23"
- , "c1" : "Real"
- , "c2" : "max(Collection<Real>)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#27"
- , "c1" : "Real"
- , "c2" : "min(Real...)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#31"
- , "c1" : "Real"
- , "c2" : "min(Collection<Real>)"
+ , "c5" : "00006"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealOrigin.java.html#6"
+ , "c1" : "void"
+ , "c2" : "compileNow()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,9 +30,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/real/RealOrigin.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/real/RealOrigin.java.svg" }
 
 ] 
 , 
@@ -102,85 +57,5 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "5"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#7"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00007] The class RealUtils contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.real.RealUtils.createOrigin@POLYN148296 the MagicNumber/String  'O' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.real.RealUtils.createOrigin@POLYN148296 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#15"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method middle arguments Real  r1|Real  r2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#19"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method max arguments Real  ...reals"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#23"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method max arguments Collection&lt;Real &gt;  reals"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#27"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method min arguments Real  ...reals"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#31"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method min arguments Collection&lt;Real &gt;  reals"
-}} 
-]
 };
 console.log('leListeStr 99 main end');

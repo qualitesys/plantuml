@@ -1,99 +1,54 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html" 
- , "texte" : "File src/jcckit/graphic/BasicGraphicAttributes.java 5 rule violations " 
- , "fic2"  : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.xml" 
+   "fic1"  : "./qc/src/jcckit/graphic/Anchor.java.html" 
+ , "texte" : "File src/jcckit/graphic/Anchor.java 15 rule violations " 
+ , "fic2"  : "./qc/src/jcckit/graphic/Anchor.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ShapeAttributesTextAttributes"
- , "c2" : "jcckit.graphic.BasicGraphicAttributes"
+ , "c1" : "java.lang.Object"
+ , "c2" : "jcckit.graphic.Anchor"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.graphic.BasicGraphicAttributes" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.graphic.Anchor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#29"
- , "c1" : "BasicGraphicAttributes"
- , "c2" : "BasicGraphicAttributes(ConfigParameters)"
- , "c3" : "1"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#45"
- , "c1" : "BasicGraphicAttributes"
- , "c2" : "BasicGraphicAttributes(Color;Color;double;double[];Color;String;FontStyle;double;double;Anchor;Anchor)"
- , "c3" : "1"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#63"
- , "c1" : "Color"
- , "c2" : "getTextColor()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#68"
- , "c1" : "String"
- , "c2" : "getFontName()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#73"
- , "c1" : "FontStyle"
- , "c2" : "getFontStyle()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#78"
- , "c1" : "double"
- , "c2" : "getFontSize()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#83"
- , "c1" : "double"
- , "c2" : "getOrientationAngle()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#88"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/jcckit/graphic/Anchor.java.html#20"
  , "c1" : "Anchor"
- , "c2" : "getHorizontalAnchor()"
+ , "c2" : "getHorizontalAnchor(ConfigParameters;String;Anchor)"
+ , "c3" : "8"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/jcckit/graphic/Anchor.java.html#39"
+ , "c1" : "Anchor"
+ , "c2" : "getVerticalAnchor(ConfigParameters;String;Anchor)"
+ , "c3" : "8"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/jcckit/graphic/Anchor.java.html#59"
+ , "c1" : "Anchor"
+ , "c2" : "Anchor(int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#93"
- , "c1" : "Anchor"
- , "c2" : "getVerticalAnchor()"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/jcckit/graphic/Anchor.java.html#64"
+ , "c1" : "int"
+ , "c2" : "getFactor()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -102,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.png" 
+   {"ligne" : "./qc/src/jcckit/graphic/Anchor.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/graphic/Anchor.java.svg" }
 
 ] 
 , 
@@ -131,9 +86,23 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
@@ -141,44 +110,128 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
+ , "c4" : "6"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#29"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#8"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00008] The class Anchor contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#31"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00020] For method getHorizontalAnchor arguments ConfigParameters  config|String  key|Anchor  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00020] For method getHorizontalAnchor list of called methods Object monObjet|String config_getN163705"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00020] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN184684 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN163503 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN163503 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#32"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN184684 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN163503 the MagicNumber/String  'Invalid horizontal anchor.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN184684 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00039] For method getVerticalAnchor arguments ConfigParameters  config|String  key|Anchor  defaultValue"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#36"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00039] For method getVerticalAnchor list of called methods Object monObjet|String config_getN165188"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00039] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN184684 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN164986 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN164986 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN164986 the MagicNumber/String  'Invalid vertcal anchor.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00020] Public method getHorizontalAnchor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00039] Public method getVerticalAnchor is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 };

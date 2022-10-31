@@ -1,110 +1,137 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java 15 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java 16 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<Slot>"
- , "c2" : "net.sourceforge.plantuml.ugraphic.comp.SlotSet"
+ , "c1" : "UGraphicNo"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.comp.SlotFinder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.comp.SlotSet" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#17"
- , "c1" : "SlotSet"
- , "c2" : "filter(double;double)"
- , "c3" : "3"
- , "c4" : "4"
-}} 
-,
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.comp.SlotFinder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#28"
- , "c1" : "void"
- , "c2" : "addAll(SlotSet)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#32"
- , "c1" : "void"
- , "c2" : "addSlot(double;double)"
- , "c3" : "4"
- , "c4" : "9"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#48"
- , "c1" : "SlotSet"
- , "c2" : "smaller(double)"
- , "c3" : "3"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#28"
+ , "c1" : "UGraphic"
+ , "c2" : "apply(UChange)"
+ , "c3" : "2"
  , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#60"
- , "c1" : "String"
- , "c2" : "toString()"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#40"
+ , "c1" : "SlotFinder"
+ , "c2" : "create(CompressionMode;StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#64"
- , "c1" : "List<Slot>"
- , "c2" : "getSlots()"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#44"
+ , "c1" : "SlotFinder"
+ , "c2" : "SlotFinder(StringBounder;UTranslate;SlotSet;CompressionMode)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#68"
- , "c1" : "Iterator<Slot>"
- , "c2" : "iterator()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#50"
+ , "c1" : "void"
+ , "c2" : "draw(UShape)"
+ , "c3" : "14"
+ , "c4" : "12"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#72"
- , "c1" : "SlotSet"
- , "c2" : "reverse()"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#77"
+ , "c1" : "void"
+ , "c2" : "drawPath(double;double;UPath)"
  , "c3" : "3"
- , "c4" : "6"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#85"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#85"
  , "c1" : "void"
- , "c2" : "drawDebugX(UGraphic;double)"
- , "c3" : "2"
+ , "c2" : "drawEmpty(double;double;UEmpty)"
+ , "c3" : "3"
  , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#93"
+ , "c1" : "void"
+ , "c2" : "drawText(double;double;UText)"
+ , "c3" : "3"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#103"
+ , "c1" : "void"
+ , "c2" : "drawEllipse(double;double;UEllipse)"
+ , "c3" : "3"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#111"
+ , "c1" : "void"
+ , "c2" : "drawPolygon(double;double;UPolygon)"
+ , "c3" : "4"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#122"
+ , "c1" : "void"
+ , "c2" : "drawRectangle(double;double;URectangle)"
+ , "c3" : "3"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#130"
+ , "c1" : "ColorMapper"
+ , "c2" : "getColorMapper()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#134"
+ , "c1" : "SlotSet"
+ , "c2" : "getSlotSet()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.svg" }
 
 ] 
 , 
@@ -134,142 +161,135 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "5"
+ , "c4" : "9"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#13"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00013] The class SlotSet contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#17"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method filter arguments double  start|double  end"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00020] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.ugraphic.comp.SlotSet.filter@POLYN158008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000006[00028] For method apply arguments UChange  change"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#28"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method addAll arguments SlotSet  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#28"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#28"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00028] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#32"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#40"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method addSlot arguments double  start|double  end"
+ , "c3" : "QC-JAV000006[00040] For method create arguments CompressionMode  mode|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00036] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#48"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method smaller arguments double  margin"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.ugraphic.comp.SlotSet.smaller@POLYN159747 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.comp.SlotSet.reverse@POLYN160725 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000006[00050] For method draw arguments UShape  sh"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.comp.SlotSet.reverse@POLYN160725 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#85"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method drawDebugX arguments UGraphic  ug|double  size"
+ , "c3" : "QC-JAV000006[00077] For method drawPath arguments double  x|double  y|UPath  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#77"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00077] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#85"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00085] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#85"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00085] For method drawEmpty arguments double  x|double  y|UEmpty  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#87"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#85"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00085] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#93"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00093] For method drawText arguments double  x|double  y|UText  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00087] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.comp.SlotFinder.drawText@POLYN174678 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#103"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00103] For method drawEllipse arguments double  x|double  y|UEllipse  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#103"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00103] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#111"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00111] For method drawPolygon arguments double  x|double  y|UPolygon  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#111"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00111] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method drawRectangle arguments double  x|double  y|URectangle  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#122"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00122] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 };

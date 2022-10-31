@@ -1,55 +1,64 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java 7 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlockTextBlock"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.teoz.Step"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.Step" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#18"
- , "c1" : "TeozLayer"
- , "c2" : "TeozLayer(PngTitler;StringBounder;FontParam)"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#13"
+ , "c1" : "Step"
+ , "c2" : "Step(double;boolean;int;SymbolContext)"
  , "c3" : "2"
- , "c4" : "4"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#28"
- , "c1" : "XDimension2D"
- , "c2" : "calculateDimension(StringBounder)"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#23"
+ , "c1" : "double"
+ , "c2" : "getValue()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#32"
- , "c1" : "FontParam"
- , "c2" : "getParam()"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#27"
+ , "c1" : "boolean"
+ , "c2" : "isDestroy()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#36"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic)"
- , "c3" : "2"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#31"
+ , "c1" : "int"
+ , "c2" : "getIndent()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#35"
+ , "c1" : "SymbolContext"
+ , "c2" : "getColors()"
+ , "c3" : "1"
  , "c4" : "1"
 }} 
 ] 
@@ -57,9 +66,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.svg" }
 
 ] 
 , 
@@ -87,67 +96,32 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#22"
+ , "c1" : "00006"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#6"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer.TeozLayer@POLYN149943 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000008[00006] The class Step contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#22"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer.TeozLayer@POLYN149943 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer.TeozLayer@POLYN149943 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer.TeozLayer@POLYN149943 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#28"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method calculateDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer.drawU@POLYN150751 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.sequencediagram.teoz.Step.Step@POLYN147663 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

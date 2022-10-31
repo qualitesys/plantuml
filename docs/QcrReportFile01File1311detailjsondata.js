@@ -1,56 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/gitlog/GitCurve.java 31 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java 11 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.gitlog.GitCurve"
+ , "c2" : "net.sourceforge.plantuml.gitlog.GNodeBuilder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.gitlog.GitCurve" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.gitlog.GNodeBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#28"
- , "c1" : "GitCurve"
- , "c2" : "GitCurve(ST_Agedgeinfo_t;Mirror)"
- , "c3" : "7"
- , "c4" : "12"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#16"
+ , "c1" : "GNodeBuilder"
+ , "c2" : "GNodeBuilder(List<Commit>)"
+ , "c3" : "4"
+ , "c4" : "8"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#53"
- , "c1" : "XPoint2D"
- , "c2" : "getPoint(ST_splines;int)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#59"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#38"
  , "c1" : "void"
- , "c2" : "drawCurve(HColor;UGraphic)"
- , "c3" : "3"
- , "c4" : "13"
+ , "c2" : "merge()"
+ , "c3" : "5"
+ , "c4" : "9"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#56"
+ , "c1" : "Collection<GNode>"
+ , "c2" : "getAllNodes()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.svg" }
 
 ] 
 , 
@@ -77,17 +77,10 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "4"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -101,233 +94,86 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "20"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#19"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00019] The class GitCurve contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00012] The class GNodeBuilder contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument data is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00020] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#36"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00036] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00027] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#31"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.gitlog.GitCurve.GitCurve@POLYN158149 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00042] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#34"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.gitlog.GitCurve.GitCurve@POLYN158149 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00044] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#35"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.gitlog.GitCurve.GitCurve@POLYN158149 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00042] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00044] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN153802 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#40"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.gitlog.GitCurve.GitCurve@POLYN158149 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.gitlog.GitCurve.GitCurve@POLYN158149 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.gitlog.GitCurve.GitCurve@POLYN158149 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.gitlog.GitCurve.GitCurve@POLYN158149 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.gitlog.GitCurve.GitCurve@POLYN158149 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN153802 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#46"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.gitlog.GitCurve.GitCurve@POLYN158149 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN153802 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#53"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method getPoint arguments ST_splines  splines|int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#53"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00053] The argument splines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#54"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.gitlog.GitCurve.getPoint@POLYN159728 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method drawCurve arguments HColor  color|UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#59"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#59"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00066] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00067] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00068] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitCurve.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.gitlog.GitCurve.drawCurve@POLYN160145 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN153802 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 };

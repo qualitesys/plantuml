@@ -1,43 +1,43 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java 33 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java 28 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractComponentText"
- , "c2" : "net.sourceforge.plantuml.asciiart.ComponentTextParticipant"
+ , "c2" : "net.sourceforge.plantuml.asciiart.ComponentTextNote"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.asciiart.ComponentTextParticipant" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.asciiart.ComponentTextNote" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#21"
- , "c1" : "ComponentTextParticipant"
- , "c2" : "ComponentTextParticipant(ComponentType;Display;FileFormat)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#21"
+ , "c1" : "ComponentTextNote"
+ , "c2" : "ComponentTextNote(ComponentType;Display;FileFormat)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#27"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#27"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;Area;Context2D)"
- , "c3" : "9"
- , "c4" : "13"
+ , "c3" : "10"
+ , "c4" : "11"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#57"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#53"
  , "c1" : "double"
  , "c2" : "getPreferredHeight(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#61"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#57"
  , "c1" : "double"
  , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
@@ -57,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.svg" }
 
 ] 
 , 
@@ -96,7 +96,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "29"
+ , "c4" : "24"
 }}
 ,
 { "ligne" : { "" : ""
@@ -110,233 +110,198 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#27"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00027] For method drawU arguments UGraphic  ug|Area  area|Context2D  context"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#27"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00027] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#32"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#32"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#32"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#34"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#34"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#36"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  '\u2534' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#36"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#36"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#36"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#39"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  '\u252c' should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#39"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#39"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#39"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#42"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#42"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#44"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  '+' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#44"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#44"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#47"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  '+' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#47"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#47"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#47"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.drawU@POLYN155814 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method getPreferredHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#53"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.drawU@POLYN156750 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.getPreferredHeight@POLYN157973 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#57"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method getPreferredHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00057] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#58"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextNote.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.getPreferredHeight@POLYN159325 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#61"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method getPreferredWidth arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextParticipant.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.asciiart.ComponentTextParticipant.getPreferredWidth@POLYN159496 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.asciiart.ComponentTextNote.getPreferredWidth@POLYN158144 the MagicNumber/String  7 should be converted to const"
 }} 
 ]
 };

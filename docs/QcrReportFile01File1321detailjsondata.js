@@ -1,128 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/golem/Position.java 22 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/golem/Position.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/golem/Path.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/golem/Path.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/golem/Path.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.golem.Position"
+ , "c2" : "net.sourceforge.plantuml.golem.Path"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.golem.Position" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.golem.Path" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#11"
- , "c1" : "Position"
- , "c2" : "Position(int;int;int;int)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Path.java.html#11"
+ , "c1" : "Path"
+ , "c2" : "build(TileArea;TileArea)"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#19"
- , "c1" : "boolean"
- , "c2" : "equals(Object)"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Path.java.html#15"
+ , "c1" : "Path"
+ , "c2" : "Path(TileArea;TileArea)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#25"
- , "c1" : "int"
- , "c2" : "hashCode()"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Path.java.html#20"
+ , "c1" : "TileArea"
+ , "c2" : "getStart()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#30"
- , "c1" : "String"
- , "c2" : "toString()"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Path.java.html#24"
+ , "c1" : "TileArea"
+ , "c2" : "getDest()"
  , "c3" : "1"
  , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#34"
- , "c1" : "Position"
- , "c2" : "move(TileGeometry;int)"
- , "c3" : "6"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#52"
- , "c1" : "int"
- , "c2" : "getXmin()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#56"
- , "c1" : "int"
- , "c2" : "getXmax()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#60"
- , "c1" : "int"
- , "c2" : "getYmin()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#64"
- , "c1" : "int"
- , "c2" : "getYmax()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#68"
- , "c1" : "int"
- , "c2" : "getCenterX()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/Position.java.html#75"
- , "c1" : "int"
- , "c2" : "getCenterY()"
- , "c3" : "2"
- , "c4" : "2"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/golem/Path.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/golem/Path.java.svg" }
 
 ] 
 , 
@@ -159,170 +96,44 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "19"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#4"
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Path.java.html#7"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class Position contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00007] The class Path contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#19"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Path.java.html#11"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method equals arguments Object  o"
+ , "c3" : "QC-JAV000006[00011] For method build arguments TileArea  start|TileArea  dest"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#26"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Path.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.golem.Position.hashCode@POLYN155497 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.golem.Path.getStart@POLYN147717 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#26"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Path.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.golem.Position.hashCode@POLYN155497 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.golem.Position.hashCode@POLYN155497 the MagicNumber/String  24 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.golem.Position.toString@POLYN155735 the MagicNumber/String  '(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.golem.Position.toString@POLYN155735 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.golem.Position.toString@POLYN155735 the MagicNumber/String  ')-(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.golem.Position.toString@POLYN155735 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.golem.Position.toString@POLYN155735 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#34"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method move arguments TileGeometry  position|int  sizeMove"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.golem.Position.move@POLYN156007 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.golem.Position.getCenterX@POLYN157607 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.golem.Position.getCenterX@POLYN157607 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.golem.Position.getCenterX@POLYN157607 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.golem.Position.getCenterX@POLYN157607 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.golem.Position.getCenterX@POLYN157607 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.golem.Position.getCenterY@POLYN158005 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.golem.Position.getCenterY@POLYN158005 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.golem.Position.getCenterY@POLYN158005 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.golem.Position.getCenterY@POLYN158005 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.golem.Position.getCenterY@POLYN158005 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.golem.Path.getDest@POLYN147844 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 };

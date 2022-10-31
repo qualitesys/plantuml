@@ -1,47 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/eggs/GraphicsPath.java 11 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PlainStringsDiagram"
- , "c2" : "net.sourceforge.plantuml.eggs.PSystemAppleTwo"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.eggs.GraphicsPath"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.eggs.PSystemAppleTwo" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.eggs.GraphicsPath" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.html#14"
- , "c1" : "PSystemAppleTwo"
- , "c2" : "PSystemAppleTwo(UmlSource)"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#27"
+ , "c1" : "GraphicsPath"
+ , "c2" : "GraphicsPath(ColorMapper;String)"
  , "c3" : "1"
- , "c4" : "5"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.html#23"
- , "c1" : "DiagramDescription"
- , "c2" : "getDescription()"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#32"
+ , "c1" : "ImageData"
+ , "c2" : "writeImage(OutputStream)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#38"
+ , "c1" : "BufferedImage"
+ , "c2" : "createImage()"
+ , "c3" : "1"
+ , "c4" : "10"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.svg" }
 
 ] 
 , 
@@ -68,33 +77,110 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "8"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.html#16"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.eggs.PSystemAppleTwo.PSystemAppleTwo@POLYN147412 the MagicNumber/String  '                             &amp;lt;b&amp;gt;&amp;lt;size:18&amp;gt;Apple //e for ever !                             ' should be converted to const"
+ , "c3" : "QC-JAV000008[00022] The class GraphicsPath contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.eggs.PSystemAppleTwo.PSystemAppleTwo@POLYN147412 the MagicNumber/String  ' ' should be converted to const"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#32"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00032] For method writeImage arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.html#24"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.eggs.PSystemAppleTwo.getDescription@POLYN147838 the MagicNumber/String  '(Apple //e)' should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.eggs.GraphicsPath.writeImage@POLYN154238 the MagicNumber/String  96 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.eggs.GraphicsPath.createImage@POLYN154647 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.eggs.GraphicsPath.createImage@POLYN154647 the MagicNumber/String  50 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.eggs.GraphicsPath.createImage@POLYN154647 the MagicNumber/String  50 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.eggs.GraphicsPath.createImage@POLYN154647 the MagicNumber/String  1.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eggs.GraphicsPath.createImage@POLYN154647 the MagicNumber/String  20 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eggs.GraphicsPath.createImage@POLYN154647 the MagicNumber/String  20 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eggs.GraphicsPath.createImage@POLYN154647 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#32"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00032] Public method writeImage is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 };

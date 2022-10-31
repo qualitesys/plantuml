@@ -1,25 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/lang/ComplementClose.java 13 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Something"
- , "c2" : "net.sourceforge.plantuml.project.lang.ComplementCompleted"
+ , "c2" : "net.sourceforge.plantuml.project.lang.ComplementClose"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.lang.ComplementCompleted" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.lang.ComplementClose" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#13"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#12"
  , "c1" : "IRegex"
  , "c2" : "toRegex(String)"
  , "c3" : "1"
@@ -27,21 +27,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#17"
- , "c1" : "Failable<Completion>"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#16"
+ , "c1" : "Failable<String>"
  , "c2" : "getMe(GanttDiagram;RegexResult;String)"
- , "c3" : "1"
- , "c4" : "2"
+ , "c3" : "2"
+ , "c4" : "6"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.svg" }
 
 ] 
 , 
@@ -85,7 +85,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
+ , "c4" : "9"
 }}
 ,
 { "ligne" : { "" : ""
@@ -98,59 +98,94 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#11"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class ComplementCompleted contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00010] The class ComplementClose contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#12"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00012] For method toRegex arguments String  suffix"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#13"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method toRegex arguments String  suffix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#14"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.toRegex@POLYN148111 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.project.lang.ComplementClose.toRegex@POLYN148888 the MagicNumber/String  'CLOSED' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#14"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.toRegex@POLYN148111 the MagicNumber/String  '(\\d+).*completed?' should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.project.lang.ComplementClose.toRegex@POLYN148888 the MagicNumber/String  '(closed?(?: for \\[([^\\[\\]]+?)\\])?)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#17"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method getMe arguments GanttDiagram  system|RegexResult  arg|String  suffix"
+ , "c3" : "QC-JAV000006[00016] For method getMe arguments GanttDiagram  project|RegexResult  arg|String  suffix"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#17"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#16"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00017] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00016] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.project.lang.ComplementClose.getMe@POLYN149103 the MagicNumber/String  'CLOSED' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.project.lang.ComplementClose.getMe@POLYN149103 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#18"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.getMe@POLYN148326 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.ComplementClose.getMe@POLYN149103 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#18"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.getMe@POLYN148326 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.project.lang.ComplementClose.getMe@POLYN149103 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.lang.ComplementClose.getMe@POLYN149103 the MagicNumber/String  ']' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.project.lang.ComplementClose.getMe@POLYN149103 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementClose.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.project.lang.ComplementClose.getMe@POLYN149103 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 };

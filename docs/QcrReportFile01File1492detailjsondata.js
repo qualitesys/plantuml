@@ -1,56 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/mda/MDAPackageImpl.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/mda/MDAEntityImpl.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "MDAPackage"
- , "c2" : "net.sourceforge.plantuml.mda.MDAPackageImpl"
+ , "c1" : "MDAEntity"
+ , "c2" : "net.sourceforge.plantuml.mda.MDAEntityImpl"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.mda.MDAPackageImpl" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.mda.MDAEntityImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#19"
- , "c1" : "MDAPackageImpl"
- , "c2" : "MDAPackageImpl(IGroup)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#26"
- , "c1" : "Collection<MDAEntity>"
- , "c2" : "getEntities()"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html#11"
+ , "c1" : "MDAEntityImpl"
+ , "c2" : "MDAEntityImpl(ILeaf)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#30"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html#15"
  , "c1" : "String"
  , "c2" : "getName()"
- , "c3" : "2"
- , "c4" : "2"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.svg" }
 
 ] 
 , 
@@ -77,47 +68,19 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#14"
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html#7"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00014] The class MDAPackageImpl contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#19"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument group is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.mda.MDAPackageImpl.getName@POLYN149851 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000008[00007] The class MDAEntityImpl contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
 };

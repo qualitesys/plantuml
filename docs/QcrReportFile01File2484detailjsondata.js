@@ -1,56 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/stdlib/Size.java 9 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SimpleReturnFunction"
- , "c2" : "net.sourceforge.plantuml.tim.stdlib.Size"
+ , "c1" : "TFunction"
+ , "c2" : "net.sourceforge.plantuml.tim.stdlib.SimpleReturnFunction"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.tim.stdlib.Size" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.tim.stdlib.SimpleReturnFunction" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#17"
+ , "c1" : "TFunctionType"
+ , "c2" : "getFunctionType()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
 { "ligne" : { "" : ""
  , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#21"
- , "c1" : "TFunctionSignature"
- , "c2" : "getSignature()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#21"
+ , "c1" : "void"
+ , "c2" : "executeProcedure(TContext;TMemory;LineLocation;String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#25"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#26"
+ , "c1" : "void"
+ , "c2" : "executeProcedureInternal(TContext;TMemory;List<TValue>;Map<String,TValue>)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#31"
  , "c1" : "boolean"
- , "c2" : "canCover(int;Set<String>)"
+ , "c2" : "isUnquoted()"
  , "c3" : "1"
  , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#29"
- , "c1" : "TValue"
- , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
- , "c3" : "5"
- , "c4" : "9"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.svg" }
 
 ] 
 , 
@@ -77,9 +86,9 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
@@ -87,7 +96,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "6"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,66 +109,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#22"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.tim.stdlib.Size.getSignature@POLYN152882 the MagicNumber/String  '%size' should be converted to const"
+ , "c3" : "QC-JAV000008[00015] The class SimpleReturnFunction contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.tim.stdlib.Size.getSignature@POLYN152882 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#25"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#21"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00021] For method executeProcedure arguments TContext  context|TMemory  memory|LineLocation  location|String  s"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.tim.stdlib.Size.canCover@POLYN153032 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#29"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#26"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00026] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#29"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#31"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.tim.stdlib.Size.executeReturnFunction@POLYN153210 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.tim.stdlib.Size.executeReturnFunction@POLYN153210 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.tim.stdlib.Size.executeReturnFunction@POLYN153210 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.tim.stdlib.SimpleReturnFunction.isUnquoted@POLYN149641 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 };

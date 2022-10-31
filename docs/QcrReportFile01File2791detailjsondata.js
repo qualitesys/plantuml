@@ -1,110 +1,92 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java 62 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java 16 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "XmiSequenceDiagram"
- , "c2" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagram"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#13"
- , "c1" : "XmiSequenceDiagramArgo"
- , "c2" : "XmiSequenceDiagramArgo(SequenceDiagram;Document)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#18"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#13"
  , "c1" : "void"
  , "c2" : "build()"
- , "c3" : "2"
- , "c4" : "19"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#48"
- , "c1" : "Element"
- , "c2" : "createActorElement(Participant)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#54"
- , "c1" : "Node"
- , "c2" : "createCollaborationElement()"
- , "c3" : "4"
- , "c4" : "11"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#81"
- , "c1" : "Node"
- , "c2" : "createSendAction(Message)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#90"
- , "c1" : "Element"
- , "c2" : "createElement(Object;String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#94"
- , "c1" : "Node"
- , "c2" : "createRef(String;Object)"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#17"
+ , "c1" : "XmiSequenceDiagram"
+ , "c2" : "XmiSequenceDiagram(SequenceDiagram;Document)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#100"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#23"
  , "c1" : "Element"
- , "c2" : "createClassifierRole(Participant)"
+ , "c2" : "createElement(String;String[][])"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#109"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#27"
  , "c1" : "Element"
- , "c2" : "createMessage(Message;Message)"
+ , "c2" : "setAttribute(Element;String;String)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#32"
+ , "c1" : "Element"
+ , "c2" : "setAttributes(Element;String[][])"
  , "c3" : "2"
- , "c4" : "6"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#39"
+ , "c1" : "String"
+ , "c2" : "getDisplayString(Display)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#43"
+ , "c1" : "String"
+ , "c2" : "getXmiId(String;Object)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.svg" }
 
 ] 
 , 
@@ -131,467 +113,152 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "4"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "3"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "49"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "5"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#19"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'XMI' should be converted to const"
+ , "c3" : "QC-JAV000008[00009] The class XmiSequenceDiagram contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'xmi.version' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  '1.2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'xmlns:UML' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'href://org.omg/UML/1.3' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'XMI.header' should be converted to const"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#23"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00023] For method createElement arguments String  tag|String[][]  attributes"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'XMI.metamodel' should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#27"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00027] For method setAttribute arguments Element  element|String  name|String  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'xmi.name' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'UML' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'xmi.version' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  '1.4' should be converted to const"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#27"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00027] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'XMI.content' should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#32"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00032] For method setAttributes arguments Element  element|String[][]  attributes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'UML:Model' should be converted to const"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#32"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00032] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#36"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.setAttributes@POLYN142343 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#36"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'PlantUML' should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.setAttributes@POLYN142343 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.build@POLYN156049 the MagicNumber/String  'UML:Namespace.ownedElement' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#48"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#39"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method createActorElement arguments Participant  participant"
+ , "c3" : "QC-JAV000006[00039] For method getDisplayString arguments Display  display"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#48"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#39"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument participant is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00039] The argument display is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#49"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createActorElement@POLYN157906 the MagicNumber/String  'UML:Actor' should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.getDisplayString@POLYN142726 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createActorElement@POLYN157906 the MagicNumber/String  'name' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createActorElement@POLYN157906 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createActorElement@POLYN157906 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00070] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createCollaborationElement@POLYN158343 the MagicNumber/String  'UML:Collaboration' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createCollaborationElement@POLYN158343 the MagicNumber/String  'UML:Namespace.ownedElement' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createCollaborationElement@POLYN158343 the MagicNumber/String  'UML:Collaboration.interaction' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createCollaborationElement@POLYN158343 the MagicNumber/String  'UML:Interaction' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createCollaborationElement@POLYN158343 the MagicNumber/String  'UML:Interaction.message' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createCollaborationElement@POLYN158343 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#81"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#43"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method createSendAction arguments Message  message"
+ , "c3" : "QC-JAV000006[00043] For method getXmiId arguments String  tag|Object  object"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#81"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#43"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00081] The argument message is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00043] The argument tag is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createSendAction@POLYN159784 the MagicNumber/String  'UML:SendAction' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createSendAction@POLYN159784 the MagicNumber/String  'UML:Action.script' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createSendAction@POLYN159784 the MagicNumber/String  'UML:ActionExpression' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createSendAction@POLYN159784 the MagicNumber/String  'xmi.id' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createSendAction@POLYN159784 the MagicNumber/String  'UML:ActionExpression' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createSendAction@POLYN159784 the MagicNumber/String  'body' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#90"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method createElement arguments Object  object|String  tag"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createElement@POLYN160474 the MagicNumber/String  'xmi.id' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createElement@POLYN160474 the MagicNumber/String  'UML:ActionExpression' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#94"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00094] For method createRef arguments String  tag|Object  target"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createRef@POLYN160809 the MagicNumber/String  'xmi.idref' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#100"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method createClassifierRole arguments Participant  participant"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#100"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#43"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument participant is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00043] The argument object is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#101"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createClassifierRole@POLYN161184 the MagicNumber/String  'UML:ClassifierRole' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.getXmiId@POLYN142917 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createClassifierRole@POLYN161184 the MagicNumber/String  'name' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createClassifierRole@POLYN161184 the MagicNumber/String  'UML:ClassifierRole.base' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createClassifierRole@POLYN161184 the MagicNumber/String  'UML:Actor' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#109"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method createMessage arguments Message  message|Message  prevMessage"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#109"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00109] The argument message is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  'UML:Message' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  'UML:Message.sender' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#112"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  'UML:ClassifierRole' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  'UML:Message.receiver' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  'UML:ClassifierRole' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  'UML:Message.action' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  'UML:SendAction' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  'UML:Message.predecessor' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramArgo.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo.createMessage@POLYN161723 the MagicNumber/String  'UML:Message' should be converted to const"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#13"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00013] Public method build is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 };

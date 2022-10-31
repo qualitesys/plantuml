@@ -1,27 +1,36 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/graphic/GraphicalElement.java.html" 
- , "texte" : "File src/jcckit/graphic/GraphicalElement.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/graphic/GraphicalElement.java.xml" 
+   "fic1"  : "./qc/src/jcckit/graphic/GraphicalCompositeRenderer.java.html" 
+ , "texte" : "File src/jcckit/graphic/GraphicalCompositeRenderer.java 0 rule violation " 
+ , "fic2"  : "./qc/src/jcckit/graphic/GraphicalCompositeRenderer.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "jcckit.graphic.GraphicalElement"
+ , "c1" : "Renderer"
+ , "c2" : "jcckit.graphic.GraphicalCompositeRenderer"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.graphic.GraphicalElement" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.graphic.GraphicalCompositeRenderer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00007"
- , "c5link" : "././qc/src/jcckit/graphic/GraphicalElement.java.html#7"
+ , "c5link" : "././qc/src/jcckit/graphic/GraphicalCompositeRenderer.java.html#7"
  , "c1" : "void"
- , "c2" : "renderWith(Renderer)"
+ , "c2" : "startRendering(GraphicalComposite)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/jcckit/graphic/GraphicalCompositeRenderer.java.html#10"
+ , "c1" : "void"
+ , "c2" : "finishRendering(GraphicalComposite)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/GraphicalElement.java.png" 
+   {"ligne" : "./qc/src/jcckit/graphic/GraphicalCompositeRenderer.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/GraphicalElement.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/graphic/GraphicalCompositeRenderer.java.svg" }
 
 ] 
 , 

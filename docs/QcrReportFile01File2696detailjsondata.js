@@ -1,38 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<DotPath,TikzGraphics>"
- , "c2" : "net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz"
+ , "c1" : "UDriver<UCenteredCharacter,TikzGraphics>"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.tikz.DriverCenteredCharacterTikz2"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.tikz.DriverCenteredCharacterTikz2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.html#12"
  , "c1" : "void"
- , "c2" : "draw(DotPath;double;double;ColorMapper;UParam;TikzGraphics)"
+ , "c2" : "draw(UCenteredCharacter;double;double;ColorMapper;UParam;TikzGraphics)"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.svg" }
 
 ] 
 , 
@@ -73,13 +73,6 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -90,44 +83,37 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#10"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class DriverDotPathTikz contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00010] The class DriverCenteredCharacterTikz2 contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.html#12"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method draw arguments DotPath  path|double  x|double  y|ColorMapper  mapper|UParam  param|TikzGraphics  tikz"
+ , "c3" : "QC-JAV000006[00012] For method draw arguments UCenteredCharacter  centeredCharacter|double  x|double  y|ColorMapper  mapper|UParam  param|TikzGraphics  tikz"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.html#12"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument path is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00012] The argument centeredCharacter is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.html#12"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00012] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz2.java.html#12"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00012] The argument tikz is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#13"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz.draw@POLYN148061 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 };

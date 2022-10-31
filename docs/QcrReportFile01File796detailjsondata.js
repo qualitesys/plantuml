@@ -1,65 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/board/PostIt.java 5 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/board/CommandBoardPlus.java 12 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.board.PostIt"
+ , "c1" : "SingleLineCommand2<BoardDiagram>"
+ , "c2" : "net.sourceforge.plantuml.board.CommandBoardPlus"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.board.PostIt" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.board.CommandBoardPlus" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/PostIt.java.html#13"
- , "c1" : "PostIt"
- , "c2" : "PostIt(ISkinParam;BNode)"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#14"
+ , "c1" : "CommandBoardPlus"
+ , "c2" : "CommandBoardPlus()"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/PostIt.java.html#18"
- , "c1" : "double"
- , "c2" : "getHeight()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#18"
+ , "c1" : "IRegex"
+ , "c2" : "getRegexConcat()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/PostIt.java.html#22"
- , "c1" : "double"
- , "c2" : "getWidth()"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#26"
+ , "c1" : "CommandExecutionResult"
+ , "c2" : "executeArg(BoardDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/PostIt.java.html#28"
- , "c1" : "TextBlock"
- , "c2" : "getCard()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.svg" }
 
 ] 
 , 
@@ -86,61 +77,110 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
  , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "9"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.html#8"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class PostIt contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.board.CommandBoardPlus.CommandBoardPlus@POLYN149770 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.html#19"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.board.PostIt.getHeight@POLYN147420 the MagicNumber/String  90 should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN149916 the MagicNumber/String  'PLUS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.html#23"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.board.PostIt.getWidth@POLYN147513 the MagicNumber/String  170 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.html#18"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00018] Public method getHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN149916 the MagicNumber/String  '([+]*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.html#22"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00022] Public method getWidth is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#22"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN149916 the MagicNumber/String  'LABEL' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#22"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN149916 the MagicNumber/String  '([^%s].*)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#26"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00026] For method executeArg arguments BoardDiagram  diagram|LineLocation  location|RegexResult  arg"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#26"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00026] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#26"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00026] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN150383 the MagicNumber/String  'PLUS' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN150383 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN150383 the MagicNumber/String  'LABEL' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN150383 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

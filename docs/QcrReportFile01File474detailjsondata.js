@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<ActivityDiagram>"
- , "c2" : "net.sourceforge.plantuml.activitydiagram.command.CommandEndif"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram.command.CommandEndif" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#15"
- , "c1" : "CommandEndif"
- , "c2" : "CommandEndif()"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#17"
+ , "c1" : "CommandEndPartition"
+ , "c2" : "CommandEndPartition()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#19"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#21"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,11 +36,11 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#29"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#33"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(ActivityDiagram;LineLocation;RegexResult)"
- , "c3" : "3"
+ , "c3" : "2"
  , "c4" : "4"
 }} 
 ] 
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.svg" }
 
 ] 
 , 
@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "6"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,59 +100,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#22"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.getRegexConcat@POLYN150569 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.getRegexConcat@POLYN151255 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#24"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.getRegexConcat@POLYN150569 the MagicNumber/String  'if' should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.getRegexConcat@POLYN151255 the MagicNumber/String  'partition' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#29"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method executeArg arguments ActivityDiagram  diagram|LineLocation  location|RegexResult  arg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#29"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#30"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN150988 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN150988 the MagicNumber/String  'No if for this endif' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.getRegexConcat@POLYN151255 the MagicNumber/String  '\\}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN150988 the MagicNumber/String  null should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#33"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00033] For method executeArg arguments ActivityDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#34"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#33"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00033] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN150988 the MagicNumber/String  'No if for this endif' should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.executeArg@POLYN151812 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#36"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.executeArg@POLYN151812 the MagicNumber/String  'No partition defined' should be converted to const"
 }} 
 ]
 };

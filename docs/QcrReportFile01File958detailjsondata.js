@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/command/CommandSkinParam.java 14 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java 13 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<TitledDiagram>"
- , "c2" : "net.sourceforge.plantuml.command.CommandSkinParam"
+ , "c1" : "SingleLineCommand2<AbstractPSystem>"
+ , "c2" : "net.sourceforge.plantuml.command.CommandScaleWidthOrHeight"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.command.CommandSkinParam" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.command.CommandScaleWidthOrHeight" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#14"
- , "c1" : "CommandSkinParam"
- , "c2" : "CommandSkinParam()"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#15"
+ , "c1" : "CommandScaleWidthOrHeight"
+ , "c2" : "CommandScaleWidthOrHeight()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#18"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#19"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,21 +36,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#28"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#29"
  , "c1" : "CommandExecutionResult"
- , "c2" : "executeArg(TitledDiagram;LineLocation;RegexResult)"
- , "c3" : "1"
- , "c4" : "3"
+ , "c2" : "executeArg(AbstractPSystem;LineLocation;RegexResult)"
+ , "c3" : "3"
+ , "c4" : "5"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.svg" }
 
 ] 
 , 
@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "11"
+ , "c4" : "10"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,101 +100,94 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#20"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandSkinParam.getRegexConcat@POLYN150442 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.getRegexConcat@POLYN151377 the MagicNumber/String  'scale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#20"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandSkinParam.getRegexConcat@POLYN150442 the MagicNumber/String  '(skinparam|skinparamlocked)' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.getRegexConcat@POLYN151377 the MagicNumber/String  'VALUE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#22"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.command.CommandSkinParam.getRegexConcat@POLYN150442 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.getRegexConcat@POLYN151377 the MagicNumber/String  '([0-9.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#22"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.command.CommandSkinParam.getRegexConcat@POLYN150442 the MagicNumber/String  '([\\w.]*(?:\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?[\\w.]*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.getRegexConcat@POLYN151377 the MagicNumber/String  'WIDTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#24"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.command.CommandSkinParam.getRegexConcat@POLYN150442 the MagicNumber/String  'VALUE' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.getRegexConcat@POLYN151377 the MagicNumber/String  '(width|height)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.command.CommandSkinParam.getRegexConcat@POLYN150442 the MagicNumber/String  '([^{}]*)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#28"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method executeArg arguments TitledDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00029] For method executeArg arguments AbstractPSystem  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#28"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#29"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00029] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#28"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#29"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00029] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#30"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.CommandSkinParam.executeArg@POLYN151037 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.executeArg@POLYN151948 the MagicNumber/String  'VALUE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#30"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.CommandSkinParam.executeArg@POLYN151037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.executeArg@POLYN151948 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#30"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.CommandSkinParam.executeArg@POLYN151037 the MagicNumber/String  'VALUE' should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.executeArg@POLYN151948 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#30"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.CommandSkinParam.executeArg@POLYN151037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.executeArg@POLYN151948 the MagicNumber/String  'WIDTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#34"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.command.CommandSkinParam.executeArg@POLYN151037 the MagicNumber/String  'General failure: no style available.' should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.command.CommandScaleWidthOrHeight.executeArg@POLYN151948 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

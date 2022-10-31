@@ -1,56 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java 7 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "GAbstractConnection"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDown"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionSideThenVerticalThenSide"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDown" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionSideThenVerticalThenSide" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#18"
- , "c1" : "GConnectionVerticalDown"
- , "c2" : "GConnectionVerticalDown(UTranslate;GPoint;UTranslate;GPoint;TextBlock)"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.html#22"
+ , "c1" : "GConnectionSideThenVerticalThenSide"
+ , "c2" : "GConnectionSideThenVerticalThenSide(UTranslate;GPoint;UTranslate;GPoint;double;TextBlock)"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#28"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.html#33"
  , "c1" : "void"
  , "c2" : "drawTranslate(UGraphic;UTranslate;UTranslate)"
  , "c3" : "1"
- , "c4" : "11"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#45"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.html#39"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
- , "c4" : "6"
+ , "c4" : "11"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.svg" }
 
 ] 
 , 
@@ -80,7 +80,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "4"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,52 +100,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#28"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.html#33"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method drawTranslate arguments UGraphic  ug|UTranslate  translate1|UTranslate  translate2"
+ , "c3" : "QC-JAV000006[00033] For method drawTranslate arguments UGraphic  ug|UTranslate  translate1|UTranslate  translate2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument translate1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument translate2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#35"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDown.drawTranslate@POLYN155216 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionSideThenVerticalThenSide.drawTranslate@POLYN155018 the MagicNumber/String  'wip3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#45"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.html#39"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00039] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#45"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.html#39"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00045] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00039] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 };

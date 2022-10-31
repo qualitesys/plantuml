@@ -1,72 +1,72 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/command/regex/RegexResult.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.command.regex.RegexResult"
+ , "c1" : "Iterable<String>"
+ , "c2" : "net.sourceforge.plantuml.command.regex.RegexPartialMatch"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.command.regex.RegexResult" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.command.regex.RegexPartialMatch" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#11"
- , "c1" : "RegexResult"
- , "c2" : "RegexResult(Map<String,RegexPartialMatch>)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#16"
- , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#20"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#13"
  , "c1" : "RegexPartialMatch"
- , "c2" : "get(String)"
+ , "c2" : "RegexPartialMatch(String)"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#17"
+ , "c1" : "void"
+ , "c2" : "add(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#24"
- , "c1" : "String"
- , "c2" : "get(String;int)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#32"
- , "c1" : "String"
- , "c2" : "getLazzy(String;int)"
- , "c3" : "5"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#48"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#21"
  , "c1" : "int"
  , "c2" : "size()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#25"
+ , "c1" : "String"
+ , "c2" : "get(int)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#29"
+ , "c1" : "Iterator<String>"
+ , "c2" : "iterator()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#34"
+ , "c1" : "String"
+ , "c2" : "toString()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,9 +75,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.svg" }
 
 ] 
 , 
@@ -105,13 +105,6 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
@@ -121,86 +114,51 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#7"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00007] The class RegexResult contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00009] The class RegexPartialMatch contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#20"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#17"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method get arguments String  key"
+ , "c3" : "QC-JAV000006[00017] For method add arguments String  group"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#24"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#25"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method get arguments String  key|int  num"
+ , "c3" : "QC-JAV000006[00025] For method get arguments int  i"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#26"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.command.regex.RegexResult.get@POLYN150648 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.command.regex.RegexPartialMatch.toString@POLYN148690 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#27"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.command.regex.RegexResult.get@POLYN150648 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#32"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method getLazzy arguments String  key|int  num"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00037] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.command.regex.RegexResult.getLazzy@POLYN151012 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.command.regex.RegexResult.getLazzy@POLYN151012 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.command.regex.RegexResult.getLazzy@POLYN151012 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.command.regex.RegexPartialMatch.toString@POLYN148690 the MagicNumber/String  '}' should be converted to const"
 }} 
 ]
 };

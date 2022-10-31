@@ -1,65 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/graphic/Anchor.java.html" 
- , "texte" : "File src/jcckit/graphic/Anchor.java 15 rule violations " 
- , "fic2"  : "./qc/src/jcckit/graphic/Anchor.java.xml" 
+   "fic1"  : "./qc/src/jcckit/data/DataPoint.java.html" 
+ , "texte" : "File src/jcckit/data/DataPoint.java 4 rule violations " 
+ , "fic2"  : "./qc/src/jcckit/data/DataPoint.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "jcckit.graphic.Anchor"
+ , "c1" : "PointDataElement"
+ , "c2" : "jcckit.data.DataPoint"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.graphic.Anchor" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.data.DataPoint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/jcckit/graphic/Anchor.java.html#20"
- , "c1" : "Anchor"
- , "c2" : "getHorizontalAnchor(ConfigParameters;String;Anchor)"
- , "c3" : "8"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/jcckit/graphic/Anchor.java.html#39"
- , "c1" : "Anchor"
- , "c2" : "getVerticalAnchor(ConfigParameters;String;Anchor)"
- , "c3" : "8"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/jcckit/graphic/Anchor.java.html#59"
- , "c1" : "Anchor"
- , "c2" : "Anchor(int)"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#8"
+ , "c1" : "DataPoint"
+ , "c2" : "DataPoint(double;double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/jcckit/graphic/Anchor.java.html#64"
- , "c1" : "int"
- , "c2" : "getFactor()"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#13"
+ , "c1" : "DataContainer"
+ , "c2" : "getContainer()"
  , "c3" : "1"
  , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#18"
+ , "c1" : "void"
+ , "c2" : "setContainer(DataContainer)"
+ , "c3" : "1"
+ , "c4" : "0"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/Anchor.java.png" 
+   {"ligne" : "./qc/src/jcckit/data/DataPoint.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/Anchor.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/data/DataPoint.java.svg" }
 
 ] 
 , 
@@ -87,22 +78,15 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "2"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
  , "c4" : "1"
 }}
 ,
@@ -110,128 +94,44 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "6"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#8"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class Anchor contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00014] In method jcckit.data.DataPoint.getContainer@POLYN142697 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method getHorizontalAnchor arguments ConfigParameters  config|String  key|Anchor  defaultValue"
+ , "c3" : "QC-JAV000006[00018] For method setContainer arguments DataContainer  container"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00020] For method getHorizontalAnchor list of called methods Object monObjet|String config_getN163705"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN163503 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN163503 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN163503 the MagicNumber/String  'Invalid horizontal anchor.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method getVerticalAnchor arguments ConfigParameters  config|String  key|Anchor  defaultValue"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00039] For method getVerticalAnchor list of called methods Object monObjet|String config_getN165188"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN164986 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN164986 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN164986 the MagicNumber/String  'Invalid vertcal anchor.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#18"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00020] Public method getHorizontalAnchor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000005[00018] Void method setContainer is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#18"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00039] Public method getVerticalAnchor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000004[00018] Void method setContainer is empty or contains only a return. Interface segregation"
 }} 
 ]
 };

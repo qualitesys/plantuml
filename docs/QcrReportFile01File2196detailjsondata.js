@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "ArithmeticStrategy"
- , "c2" : "net.sourceforge.plantuml.svek.ArithmeticStrategySum"
+ , "c2" : "net.sourceforge.plantuml.svek.ArithmeticStrategyMax"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.ArithmeticStrategySum" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.ArithmeticStrategyMax" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#8"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.html#8"
  , "c1" : "void"
  , "c2" : "eat(double)"
- , "c3" : "1"
+ , "c3" : "2"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#12"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.html#14"
  , "c1" : "double"
  , "c2" : "getResult()"
  , "c3" : "1"
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.svg" }
 
 ] 
 , 
@@ -85,14 +85,14 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#4"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class ArithmeticStrategySum contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class ArithmeticStrategyMax contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#8"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.html#8"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00008] For method eat arguments double  v"
 }} 

@@ -1,155 +1,83 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/wire/WireDiagram.java 32 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/wire/WPrint.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UmlDiagram"
- , "c2" : "net.sourceforge.plantuml.wire.WireDiagram"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.wire.WPrint"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.wire.WireDiagram" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.wire.WPrint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#35"
- , "c1" : "DiagramDescription"
- , "c2" : "getDescription()"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#24"
+ , "c1" : "WPrint"
+ , "c2" : "WPrint(ISkinParam;UTranslate;HColor;Display)"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#39"
- , "c1" : "WireDiagram"
- , "c2" : "WireDiagram(UmlSource)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#44"
- , "c1" : "ImageData"
- , "c2" : "exportDiagramInternal(OutputStream;int;FileFormatOption)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#50"
- , "c1" : "TextBlockBackcolored"
- , "c2" : "getTextBlock()"
- , "c3" : "1"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#77"
- , "c1" : "void"
- , "c2" : "drawMe(UGraphic)"
- , "c3" : "4"
  , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#90"
- , "c1" : "CommandExecutionResult"
- , "c2" : "addComponent(String;String;int;int;HColor)"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#31"
+ , "c1" : "HColor"
+ , "c2" : "getBlack()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#35"
+ , "c1" : "TextBlock"
+ , "c2" : "getTextBlock()"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#95"
- , "c1" : "CommandExecutionResult"
- , "c2" : "newColumn(String)"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#41"
+ , "c1" : "UChange"
+ , "c2" : "getPosition()"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#100"
- , "c1" : "CommandExecutionResult"
- , "c2" : "spot(String;HColor;String;String)"
- , "c3" : "2"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#110"
- , "c1" : "CommandExecutionResult"
- , "c2" : "wgoto(String;double;double)"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#45"
+ , "c1" : "void"
+ , "c2" : "drawMe(UGraphic)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#115"
- , "c1" : "CommandExecutionResult"
- , "c2" : "wmove(String;double;double)"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#49"
+ , "c1" : "double"
+ , "c2" : "getHeight(StringBounder)"
  , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#120"
- , "c1" : "CommandExecutionResult"
- , "c2" : "print(String;String)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#127"
- , "c1" : "int"
- , "c2" : "computeIndentationLevel(String)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#132"
- , "c1" : "CommandExecutionResult"
- , "c2" : "vlink(String;String;String;String;WLinkType;WArrowDirection;HColor;Display)"
- , "c3" : "3"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#150"
- , "c1" : "CommandExecutionResult"
- , "c2" : "hlink(String;String;String;String;WLinkType;WArrowDirection;HColor;Display)"
- , "c3" : "3"
- , "c4" : "8"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.svg" }
 
 ] 
 , 
@@ -176,9 +104,16 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
@@ -186,240 +121,65 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "20"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "11"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00017] The class WPrint contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.wire.WPrint.WPrint@POLYN152724 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#36"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.wire.WireDiagram.getDescription@POLYN173522 the MagicNumber/String  'Wire Diagram' should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.wire.WPrint.getTextBlock@POLYN153347 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.wire.WireDiagram.WireDiagram@POLYN173637 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#44"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00045] For method drawMe arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.wire.WireDiagram.getTextBlock@POLYN174128 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.wire.WireDiagram.getTextBlock@POLYN174128 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#77"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method drawMe arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00049] For method getHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#90"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method addComponent arguments String  indent|String  name|int  width|int  height|HColor  color"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#49"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00049] Public method getHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#95"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00095] For method newColumn arguments String  indent"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#100"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method spot arguments String  name|HColor  color|String  x|String  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.wire.WireDiagram.spot@POLYN176079 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.wire.WireDiagram.spot@POLYN176079 the MagicNumber/String  'No such element ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method wgoto arguments String  indent|double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#115"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method wmove arguments String  indent|double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#120"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00120] For method print arguments String  indent|String  text"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#127"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00127] For method computeIndentationLevel arguments String  indent"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#127"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00127] The argument indent is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.wire.WireDiagram.computeIndentationLevel@POLYN177913 the MagicNumber/String  '    ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.wire.WireDiagram.computeIndentationLevel@POLYN177913 the MagicNumber/String  '\t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#132"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method vlink arguments String  name1|String  x1|String  y1|String  name2|WLinkType  type|WArrowDirection  direction|HColor  color|Display  label"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN178166 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN178166 the MagicNumber/String  'No such element ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN178166 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN178166 the MagicNumber/String  'No such element ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN178166 the MagicNumber/String  '0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN178166 the MagicNumber/String  '0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#150"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method hlink arguments String  name1|String  x1|String  y1|String  name2|WLinkType  type|WArrowDirection  direction|HColor  color|Display  label"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#153"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN179546 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN179546 the MagicNumber/String  'No such element ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#157"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN179546 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN179546 the MagicNumber/String  'No such element ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#161"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN179546 the MagicNumber/String  '0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#161"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN179546 the MagicNumber/String  '0' should be converted to const"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#45"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00045] Public method drawMe is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 };

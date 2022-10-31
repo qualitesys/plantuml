@@ -1,63 +1,54 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/EaterForeach.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Eater"
- , "c2" : "net.sourceforge.plantuml.tim.EaterForeach"
+ , "c1" : "Exception"
+ , "c2" : "net.sourceforge.plantuml.tim.EaterExceptionLocated"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.tim.EaterForeach" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.tim.EaterExceptionLocated" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#13"
- , "c1" : "EaterForeach"
- , "c2" : "EaterForeach(StringLocated)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#13"
+ , "c1" : "EaterExceptionLocated"
+ , "c2" : "EaterExceptionLocated(String;StringLocated)"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#18"
- , "c1" : "void"
- , "c2" : "analyze(TContext;TMemory)"
- , "c3" : "1"
- , "c4" : "9"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#30"
- , "c1" : "boolean"
- , "c2" : "isSkip()"
- , "c3" : "2"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#37"
- , "c1" : "String"
- , "c2" : "getVarname()"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#18"
+ , "c1" : "EaterExceptionLocated"
+ , "c2" : "located(String;StringLocated)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#41"
- , "c1" : "JsonArray"
- , "c2" : "getJsonArray()"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#22"
+ , "c1" : "String"
+ , "c2" : "getMessage()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#26"
+ , "c1" : "StringLocated"
+ , "c2" : "getLocation()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -66,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.svg" }
 
 ] 
 , 
@@ -95,13 +86,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -112,44 +96,9 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#18"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method analyze arguments TContext  context|TMemory  memory"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.tim.EaterForeach.analyze@POLYN149145 the MagicNumber/String  '!foreach' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.tim.EaterForeach.analyze@POLYN149145 the MagicNumber/String  'in' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.tim.EaterForeach.isSkip@POLYN149861 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.tim.EaterForeach.isSkip@POLYN149861 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterForeach.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.tim.EaterForeach.isSkip@POLYN149861 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00018] For method located arguments String  message|StringLocated  location"
 }} 
 ]
 };

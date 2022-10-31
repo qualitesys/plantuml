@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/bpm/CommandGoto.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/bpm/CommandEndBranch.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<BpmDiagram>"
- , "c2" : "net.sourceforge.plantuml.bpm.CommandGoto"
+ , "c2" : "net.sourceforge.plantuml.bpm.CommandEndBranch"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.bpm.CommandGoto" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.bpm.CommandEndBranch" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#14"
- , "c1" : "CommandGoto"
- , "c2" : "CommandGoto()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#14"
+ , "c1" : "CommandEndBranch"
+ , "c2" : "CommandEndBranch()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#18"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#18"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -37,20 +37,20 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#27"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#27"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(BpmDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.svg" }
 
 ] 
 , 
@@ -80,14 +80,14 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -101,58 +101,30 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#20"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN149532 the MagicNumber/String  'goto' should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.bpm.CommandEndBranch.getRegexConcat@POLYN149046 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#22"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN149532 the MagicNumber/String  'ID' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN149532 the MagicNumber/String  '([%pLN_.@]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.bpm.CommandEndBranch.getRegexConcat@POLYN149046 the MagicNumber/String  'branch' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#27"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00027] For method executeArg arguments BpmDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#27"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00027] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#27"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.bpm.CommandGoto.executeArg@POLYN149975 the MagicNumber/String  'ID' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.bpm.CommandGoto.executeArg@POLYN149975 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

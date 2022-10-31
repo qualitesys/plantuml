@@ -1,43 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java 5 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/creole/atom/Atom.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractAtomAtom"
- , "c2" : "net.sourceforge.plantuml.creole.atom.AtomEmoji"
+ , "c1" : "UShape"
+ , "c2" : "net.sourceforge.plantuml.creole.atom.Atom"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomEmoji" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.creole.atom.Atom" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#17"
- , "c1" : "AtomEmoji"
- , "c2" : "AtomEmoji(Emoji;double;double;HColor)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#23"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html#13"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#28"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html#15"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "1"
@@ -45,10 +36,19 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#32"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html#17"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html#19"
+ , "c1" : "List<Atom>"
+ , "c2" : "splitInTwo(StringBounder;double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -57,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.svg" }
 
 ] 
 , 
@@ -84,57 +84,5 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "3"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#23"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method calculateDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.calculateDimension@POLYN149824 the MagicNumber/String  36 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#28"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method getStartingAltitude arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.getStartingAltitude@POLYN150076 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#32"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method drawU arguments UGraphic  ug"
-}} 
-]
 };
 console.log('leListeStr 99 main end');

@@ -1,99 +1,54 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html" 
- , "texte" : "File src/jcckit/plot/CartesianCoordinateSystem.java 50 rule violations " 
- , "fic2"  : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.xml" 
+   "fic1"  : "./qc/src/jcckit/plot/BarFactory.java.html" 
+ , "texte" : "File src/jcckit/plot/BarFactory.java 16 rule violations " 
+ , "fic2"  : "./qc/src/jcckit/plot/BarFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "CoordinateSystem"
- , "c2" : "jcckit.plot.CartesianCoordinateSystem"
+ , "c1" : "AbstractSymbolFactory"
+ , "c2" : "jcckit.plot.BarFactory"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.plot.CartesianCoordinateSystem" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.plot.BarFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#30"
- , "c1" : "CartesianCoordinateSystem"
- , "c2" : "CartesianCoordinateSystem(ConfigParameters)"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/jcckit/plot/BarFactory.java.html#21"
+ , "c1" : "BarFactory"
+ , "c2" : "BarFactory(ConfigParameters)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#38"
- , "c1" : "CartesianCoordinateSystem"
- , "c2" : "CartesianCoordinateSystem(GraphPoint;AxisParameters;AxisParameters)"
- , "c3" : "1"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#58"
- , "c1" : "void"
- , "c2" : "createView(GraphPoint;AxisParameters;AxisParameters)"
- , "c3" : "1"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/jcckit/plot/BarFactory.java.html#28"
+ , "c1" : "Symbol"
+ , "c2" : "createSymbol(GraphPoint;GraphicAttributes;Hint;Hint)"
+ , "c3" : "4"
  , "c4" : "18"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#81"
- , "c1" : "void"
- , "c2" : "createLabel(double;double;AxisParameters)"
- , "c3" : "2"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#90"
- , "c1" : "void"
- , "c2" : "createTicsAndGrid(boolean;double;double;AxisParameters)"
- , "c3" : "4"
- , "c4" : "23"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#126"
- , "c1" : "void"
- , "c2" : "addLine(GraphPoint;GraphPoint;GraphicAttributes)"
- , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#135"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/jcckit/plot/BarFactory.java.html#59"
  , "c1" : "GraphicalElement"
- , "c2" : "getView()"
+ , "c2" : "createLegendSymbol(GraphPoint;double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#140"
- , "c1" : "ClippingShape"
- , "c2" : "getClippingShape()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00145"
- , "c5link" : "././qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#145"
- , "c1" : "Transformation"
- , "c2" : "getTransformation()"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/jcckit/plot/BarFactory.java.html#65"
+ , "c1" : "GraphicalElement"
+ , "c2" : "createPlainSymbol(GraphPoint;double;GraphicAttributes)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -102,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.png" 
+   {"ligne" : "./qc/src/jcckit/plot/BarFactory.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/plot/BarFactory.java.svg" }
 
 ] 
 , 
@@ -134,394 +89,142 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "9"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
  , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "32"
+ , "c4" : "10"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00019] The class CartesianCoordinateSystem contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#30"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#21"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00030] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00021] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#32"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN179875 the MagicNumber/String  0.15 should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method jcckit.plot.BarFactory.BarFactory@POLYN166100 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#32"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN179875 the MagicNumber/String  0.1 should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method jcckit.plot.BarFactory.BarFactory@POLYN166100 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#38"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument origin is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#39"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument xAxisParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#40"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument yAxisParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN180584 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#58"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method createView arguments GraphPoint  origin|AxisParameters  xAxisParameters|AxisParameters  yAxisParameters"
+ , "c3" : "QC-JAV000006[00028] For method createSymbol arguments GraphPoint  point|GraphicAttributes  attributes|Hint  hintForNextPoint|Hint  hintFromPreviousCurve"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#58"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00058] For method createView list of called methods Object monObjet|double origin_getXN181959|double origin_getYN182119"
+ , "c3" : "QC-JAV000007[00028] For method createSymbol list of called methods Object monObjet|double position_getXN167325|double position_getYN167400|double point_getXN167475|double point_getYN167592"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#58"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#28"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument origin is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00028] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method jcckit.plot.BarFactory.createSymbol@POLYN166705 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method jcckit.plot.BarFactory.createSymbol@POLYN166705 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method jcckit.plot.BarFactory.createSymbol@POLYN166705 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method jcckit.plot.BarFactory.createSymbol@POLYN166705 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method jcckit.plot.BarFactory.createSymbol@POLYN166705 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method jcckit.plot.BarFactory.createSymbol@POLYN166705 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method jcckit.plot.BarFactory.createSymbol@POLYN166705 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#59"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument xAxisParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#60"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00060] The argument yAxisParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN181816 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN181816 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN181816 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN181816 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#81"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method createLabel arguments double  x|double  y|AxisParameters  parameters"
+ , "c3" : "QC-JAV000006[00059] For method createLegendSymbol arguments GraphPoint  centerPosition|double  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#81"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00081] The argument parameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method jcckit.plot.CartesianCoordinateSystem.createLabel@POLYN183875 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#90"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method createTicsAndGrid arguments boolean  isXAxis|double  low|double  high|AxisParameters  parameters"
+ , "c3" : "QC-JAV000006[00065] For method createPlainSymbol arguments GraphPoint  centerPosition|double  size|GraphicAttributes  attributes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#90"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00090] For method createTicsAndGrid list of called methods Object monObjet|double[] parameters_calculateTicsN184595|jcckit.graphic.GraphPoint _transformation_transformToGraphN185262|double gPoint1_getXN185508|double gPoint1_getYN185613|double parameters_ticLabelPosition_getXN187240|double parameters_ticLabelPosition_getYN187353"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#91"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00091] The argument parameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#98"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00098] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00108] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN184421 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#126"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00126] For method addLine arguments GraphPoint  point1|GraphPoint  point2|GraphicAttributes  attributes"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method jcckit.plot.CartesianCoordinateSystem.addLine@POLYN187771 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method jcckit.plot.BarFactory.createPlainSymbol@POLYN169587 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 };

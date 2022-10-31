@@ -1,38 +1,30 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/h/ST_Rect_t.java.html" 
- , "texte" : "File src/h/ST_Rect_t.java 9 rule violations " 
- , "fic2"  : "./qc/src/h/ST_Rect_t.java.xml" 
+   "fic1"  : "./qc/src/h/ST_RTree.java.html" 
+ , "texte" : "File src/h/ST_RTree.java 10 rule violations " 
+ , "fic2"  : "./qc/src/h/ST_RTree.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "UnsupportedStarStruct"
- , "c2" : "h.ST_Rect_t"
+ , "c2" : "h.ST_RTree"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "h.ST_Rect_t" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/h/ST_Rect_t.java.html#13"
- , "c1" : "void"
- , "c2" : "___(__struct__)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
+ { "nomclasse" : "h.ST_RTree" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_Rect_t.java.png" 
+   {"ligne" : "./qc/src/h/ST_RTree.java.png" 
 
- , "ligneplantuml" : "./qc/src/h/ST_Rect_t.java.svg" }
+ , "ligneplantuml" : "./qc/src/h/ST_RTree.java.svg" }
 
 ] 
 , 
@@ -60,81 +52,81 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "8"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c2" : "QC-JAVCWE493"
+ , "c3" : "Critical public variable without final modifier"
+ , "c4" : "10"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/h/ST_Rect_t.java.html#13"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method ___ arguments __struct__  other"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#9"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#12"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00015"
- , "c1link" : "./qc/src/h/ST_Rect_t.java.html#15"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method h.ST_Rect_t.___@POLYN153595 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/h/ST_Rect_t.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method h.ST_Rect_t.___@POLYN153595 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAVCWE493[00015] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00016"
- , "c1link" : "./qc/src/h/ST_Rect_t.java.html#16"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method h.ST_Rect_t.___@POLYN153595 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAVCWE493[00016] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/h/ST_Rect_t.java.html#16"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method h.ST_Rect_t.___@POLYN153595 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAVCWE493[00022] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/h/ST_Rect_t.java.html#17"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method h.ST_Rect_t.___@POLYN153595 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAVCWE493[00026] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/h/ST_Rect_t.java.html#17"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method h.ST_Rect_t.___@POLYN153595 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAVCWE493[00029] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/h/ST_Rect_t.java.html#18"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method h.ST_Rect_t.___@POLYN153595 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAVCWE493[00030] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/h/ST_Rect_t.java.html#18"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method h.ST_Rect_t.___@POLYN153595 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAVCWE493[00031] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[00033] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ]
 };

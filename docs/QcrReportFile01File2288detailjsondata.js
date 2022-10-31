@@ -1,37 +1,46 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractExtremityFactoryExtremityFactory"
- , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryHalfArrow"
+ , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtendsLike"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryHalfArrow" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtendsLike" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.html#12"
- , "c1" : "UDrawable"
- , "c2" : "createUDrawable(XPoint2D;double;Side)"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.html#15"
+ , "c1" : "ExtremityFactoryExtendsLike"
+ , "c2" : "ExtremityFactoryExtendsLike(HColor;boolean)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.html#17"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.html#21"
+ , "c1" : "UDrawable"
+ , "c2" : "createUDrawable(XPoint2D;double;Side)"
+ , "c3" : "3"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.html#30"
  , "c1" : "UDrawable"
  , "c2" : "createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side)"
- , "c3" : "1"
+ , "c3" : "3"
  , "c4" : "3"
 }} 
 ] 
@@ -39,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.svg" }
 
 ] 
 , 
@@ -68,17 +77,10 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -91,45 +93,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.html#12"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.html#21"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method createUDrawable arguments XPoint2D  p0|double  angle|Side  side"
+ , "c3" : "QC-JAV000006[00021] For method createUDrawable arguments XPoint2D  p0|double  angle|Side  side"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.html#17"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.html#30"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
+ , "c3" : "QC-JAV000006[00030] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.html#17"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00017] The argument p0 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.html#17"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00017] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.html#19"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryHalfArrow.createUDrawable@POLYN148605 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryHalfArrow.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryHalfArrow.createUDrawable@POLYN148605 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtendsLike.createUDrawable@POLYN150778 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ]
 };

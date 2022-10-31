@@ -1,38 +1,83 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java 5 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/version/PSystemLicense.java 9 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PSystemSingleLineFactory"
- , "c2" : "net.sourceforge.plantuml.version.PSystemLicenseFactory"
+ , "c1" : "PlainDiagramUDrawable"
+ , "c2" : "net.sourceforge.plantuml.version.PSystemLicense"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.version.PSystemLicenseFactory" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.version.PSystemLicense" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.html#14"
- , "c1" : "AbstractPSystem"
- , "c2" : "executeLine(UmlSource;String)"
- , "c3" : "2"
- , "c4" : "3"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#25"
+ , "c1" : "UDrawable"
+ , "c2" : "getRootDrawable(FileFormatOption)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#29"
+ , "c1" : "PSystemLicense"
+ , "c2" : "create(UmlSource)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#33"
+ , "c1" : "PSystemLicense"
+ , "c2" : "PSystemLicense(UmlSource)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#37"
+ , "c1" : "TextBlockBackcolored"
+ , "c2" : "getGraphicStrings(List<String>)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#41"
+ , "c1" : "DiagramDescription"
+ , "c2" : "getDescription()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#45"
+ , "c1" : "void"
+ , "c2" : "drawU(UGraphic)"
+ , "c3" : "3"
+ , "c4" : "18"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.svg" }
 
 ] 
 , 
@@ -69,51 +114,79 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.html#14"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#25"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method executeLine arguments UmlSource  source|String  line"
+ , "c3" : "QC-JAV000006[00025] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.html#14"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#29"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00029] For method create arguments UmlSource  source"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#37"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00037] For method getGraphicStrings arguments List&lt;String &gt;  strings"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.version.PSystemLicense.getDescription@POLYN158023 the MagicNumber/String  '(License)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#45"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00045] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#45"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00045] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.version.PSystemLicenseFactory.executeLine@POLYN146970 the MagicNumber/String  '(?i)^li[sc][ea]n[sc]e\\s*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.version.PSystemLicense.drawU@POLYN158141 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.html#20"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.version.PSystemLicenseFactory.executeLine@POLYN146970 the MagicNumber/String  'Error ' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.version.PSystemLicense.drawU@POLYN158141 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicenseFactory.java.html#22"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.version.PSystemLicenseFactory.executeLine@POLYN146970 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.version.PSystemLicense.drawU@POLYN158141 the MagicNumber/String  20 should be converted to const"
 }} 
 ]
 };

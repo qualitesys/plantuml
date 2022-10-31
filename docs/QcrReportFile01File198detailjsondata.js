@@ -1,30 +1,74 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/h/ST_Agraphinfo_t.java.html" 
- , "texte" : "File src/h/ST_Agraphinfo_t.java 30 rule violations " 
- , "fic2"  : "./qc/src/h/ST_Agraphinfo_t.java.xml" 
+   "fic1"  : "./qc/src/h/ST_Agraph_s.java.html" 
+ , "texte" : "File src/h/ST_Agraph_s.java 18 rule violations " 
+ , "fic2"  : "./qc/src/h/ST_Agraph_s.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ST_Agrec_s"
- , "c2" : "h.ST_Agraphinfo_t"
+ , "c1" : "ST_Agobj_s"
+ , "c2" : "h.ST_Agraph_s"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "h.ST_Agraphinfo_t" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "h.ST_Agraph_s" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/h/ST_Agraph_s.java.html#28"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/h/ST_Agraph_s.java.html#32"
+ , "c1" : "ST_Agraph_s"
+ , "c2" : "ST_Agraph_s()"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/h/ST_Agraph_s.java.html#40"
+ , "c1" : "Object"
+ , "c2" : "getTheField(OFFSET)"
+ , "c3" : "3"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/h/ST_Agraph_s.java.html#51"
+ , "c1" : "void"
+ , "c2" : "___(__struct__)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/h/ST_Agraph_s.java.html#56"
+ , "c1" : "boolean"
+ , "c2" : "isSameThan(__ptr__)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_Agraphinfo_t.java.png" 
+   {"ligne" : "./qc/src/h/ST_Agraph_s.java.png" 
 
- , "ligneplantuml" : "./qc/src/h/ST_Agraphinfo_t.java.svg" }
+ , "ligneplantuml" : "./qc/src/h/ST_Agraph_s.java.svg" }
 
 ] 
 , 
@@ -54,219 +98,149 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
- , "c4" : "30"
+ , "c4" : "9"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "6"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#77"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00077] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00015] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#78"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00078] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00016] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#84"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00084] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00017] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#86"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00086] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00018] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#87"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00087] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00019] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#88"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00088] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00020] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#89"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00089] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00021] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#91"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00091] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00022] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#92"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00092] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00024] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#105"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00105] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[00029] In method h.ST_Agraph_s.toString@POLYN157745 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#107"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00107] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[00033] In method h.ST_Agraph_s.ST_Agraph_s@POLYN157884 the MagicNumber/String  'G' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#108"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00108] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[00035] In method h.ST_Agraph_s.ST_Agraph_s@POLYN157884 the MagicNumber/String  'creation ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00109] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#40"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00040] For method getTheField arguments OFFSET  offset"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#110"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00110] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[00041] In method h.ST_Agraph_s.getTheField@POLYN158165 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#111"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00111] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[00041] In method h.ST_Agraph_s.getTheField@POLYN158165 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#118"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00118] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[00044] In method h.ST_Agraph_s.getTheField@POLYN158165 the MagicNumber/String  'link' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00119] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#51"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00051] For method ___ arguments __struct__  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00121] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00124] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00127] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00128] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00130] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00131] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00135] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00136] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00137] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00138] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00139] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00140] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00141] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#56"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00056] For method isSameThan arguments __ptr__  other"
 }} 
 ]
 };

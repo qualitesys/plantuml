@@ -1,99 +1,72 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/salt/Cell.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/real/RealUtils.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.salt.Cell"
+ , "c2" : "net.sourceforge.plantuml.real.RealUtils"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.salt.Cell" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.real.RealUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#12"
- , "c1" : "Cell"
- , "c2" : "Cell(int;int)"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#9"
+ , "c1" : "RealOrigin"
+ , "c2" : "createOrigin()"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#15"
+ , "c1" : "Real"
+ , "c2" : "middle(Real;Real)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#19"
- , "c1" : "void"
- , "c2" : "mergeLeft()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#19"
+ , "c1" : "Real"
+ , "c2" : "max(Real...)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#23"
- , "c1" : "int"
- , "c2" : "getMinRow()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#23"
+ , "c1" : "Real"
+ , "c2" : "max(Collection<Real>)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#27"
- , "c1" : "int"
- , "c2" : "getMaxRow()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#27"
+ , "c1" : "Real"
+ , "c2" : "min(Real...)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#31"
- , "c1" : "int"
- , "c2" : "getMinCol()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#35"
- , "c1" : "int"
- , "c2" : "getMaxCol()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#39"
- , "c1" : "int"
- , "c2" : "getNbRows()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#43"
- , "c1" : "int"
- , "c2" : "getNbCols()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#48"
- , "c1" : "String"
- , "c2" : "toString()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#31"
+ , "c1" : "Real"
+ , "c2" : "min(Collection<Real>)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -102,9 +75,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.svg" }
 
 ] 
 , 
@@ -141,65 +114,72 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "7"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "5"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00005"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#5"
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#7"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00005] The class Cell contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00007] The class RealUtils contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#40"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.salt.Cell.getNbRows@POLYN148882 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.real.RealUtils.createOrigin@POLYN148296 the MagicNumber/String  'O' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#44"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.salt.Cell.getNbCols@POLYN149014 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.real.RealUtils.createOrigin@POLYN148296 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  '(' should be converted to const"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#15"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00015] For method middle arguments Real  r1|Real  r2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  ',' should be converted to const"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#19"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00019] For method max arguments Real  ...reals"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  ')-(' should be converted to const"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#23"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00023] For method max arguments Collection&lt;Real &gt;  reals"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  ',' should be converted to const"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#27"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00027] For method min arguments Real  ...reals"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  ')' should be converted to const"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#31"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00031] For method min arguments Collection&lt;Real &gt;  reals"
 }} 
 ]
 };

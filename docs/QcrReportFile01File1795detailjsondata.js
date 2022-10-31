@@ -1,56 +1,110 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/salt/CommandAnything.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/salt/Cell.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<PSystemSalt>"
- , "c2" : "net.sourceforge.plantuml.salt.CommandAnything"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.salt.Cell"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.salt.CommandAnything" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.salt.Cell" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#15"
- , "c1" : "CommandAnything"
- , "c2" : "CommandAnything()"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#12"
+ , "c1" : "Cell"
+ , "c2" : "Cell(int;int)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#19"
- , "c1" : "IRegex"
- , "c2" : "getRegexConcat()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#19"
+ , "c1" : "void"
+ , "c2" : "mergeLeft()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#26"
- , "c1" : "CommandExecutionResult"
- , "c2" : "executeArg(PSystemSalt;LineLocation;RegexResult)"
- , "c3" : "3"
- , "c4" : "5"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#23"
+ , "c1" : "int"
+ , "c2" : "getMinRow()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#27"
+ , "c1" : "int"
+ , "c2" : "getMaxRow()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#31"
+ , "c1" : "int"
+ , "c2" : "getMinCol()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#35"
+ , "c1" : "int"
+ , "c2" : "getMaxCol()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#39"
+ , "c1" : "int"
+ , "c2" : "getNbRows()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#43"
+ , "c1" : "int"
+ , "c2" : "getNbCols()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#48"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.svg" }
 
 ] 
 , 
@@ -77,10 +131,10 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -89,84 +143,63 @@ var maDataBlocs = {
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "7"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#16"
+ , "c1" : "00005"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#5"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.salt.CommandAnything.CommandAnything@POLYN150419 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000008[00005] The class Cell contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#21"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.salt.CommandAnything.getRegexConcat@POLYN150565 the MagicNumber/String  'ALL' should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.salt.Cell.getNbRows@POLYN148882 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#21"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.salt.CommandAnything.getRegexConcat@POLYN150565 the MagicNumber/String  '(.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.salt.Cell.getNbCols@POLYN149014 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#26"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method executeArg arguments PSystemSalt  diagram|LineLocation  location|RegexResult  arg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#26"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#26"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#27"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.salt.CommandAnything.executeArg@POLYN150904 the MagicNumber/String  'ALL' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#27"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.salt.CommandAnything.executeArg@POLYN150904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#28"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.salt.CommandAnything.executeArg@POLYN150904 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  ')-(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandAnything.java.html#32"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.salt.CommandAnything.executeArg@POLYN150904 the MagicNumber/String  'Not ready' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Cell.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.Cell.toString@POLYN149160 the MagicNumber/String  ')' should be converted to const"
 }} 
 ]
 };

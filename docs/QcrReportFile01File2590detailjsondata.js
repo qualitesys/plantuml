@@ -1,9 +1,9 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UHidden.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UHidden.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UHidden.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UGroupType.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UGroupType.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UGroupType.java.xml" 
  , "fic3"  : "" 
 }
 , 

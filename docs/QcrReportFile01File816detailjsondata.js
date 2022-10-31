@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/bpm/CommandEndBranch.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/bpm/CommandElseBranch.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<BpmDiagram>"
- , "c2" : "net.sourceforge.plantuml.bpm.CommandEndBranch"
+ , "c2" : "net.sourceforge.plantuml.bpm.CommandElseBranch"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.bpm.CommandEndBranch" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.bpm.CommandElseBranch" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#14"
- , "c1" : "CommandEndBranch"
- , "c2" : "CommandEndBranch()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html#14"
+ , "c1" : "CommandElseBranch"
+ , "c2" : "CommandElseBranch()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#18"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html#18"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#27"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html#25"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(BpmDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.svg" }
 
 ] 
 , 
@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,31 +100,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#20"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.bpm.CommandEndBranch.getRegexConcat@POLYN149046 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.bpm.CommandElseBranch.getRegexConcat@POLYN148746 the MagicNumber/String  'else' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.bpm.CommandEndBranch.getRegexConcat@POLYN149046 the MagicNumber/String  'branch' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#27"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html#25"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method executeArg arguments BpmDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00025] For method executeArg arguments BpmDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#27"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html#25"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00025] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 };

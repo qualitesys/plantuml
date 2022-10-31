@@ -1,56 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java 22 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/code/deflate/ByteHistory.java 14 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.code.deflate.CanonicalCode"
+ , "c2" : "net.sourceforge.plantuml.code.deflate.ByteHistory"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.code.deflate.CanonicalCode" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.code.deflate.ByteHistory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c1" : "CanonicalCode"
- , "c2" : "CanonicalCode(int[])"
- , "c3" : "9"
- , "c4" : "22"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c1" : "int"
- , "c2" : "decodeNextSymbol(BitInputStream)"
- , "c3" : "3"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c1" : "String"
- , "c2" : "toString()"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
+ , "c1" : "ByteHistory"
+ , "c2" : "ByteHistory(int)"
  , "c3" : "2"
- , "c4" : "5"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
+ , "c1" : "void"
+ , "c2" : "append(int)"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
+ , "c1" : "void"
+ , "c2" : "copy(int;int;OutputStreamProtected)"
+ , "c3" : "4"
+ , "c4" : "10"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.svg" }
 
 ] 
 , 
@@ -94,170 +94,114 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "19"
+ , "c4" : "10"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#94"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00094] The class CanonicalCode contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00064] The class ByteHistory contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.ByteHistory@POLYN149935 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  'Negative code length' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.ByteHistory@POLYN149935 the MagicNumber/String  'Size must be positive' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  'Maximum code length exceeded' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.ByteHistory@POLYN149935 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  'This canonical code produces an over-full Huffman code tree' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN171209 the MagicNumber/String  'This canonical code produces an under-full Huffman code tree' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method decodeNextSymbol arguments BitInputStream  in"
+ , "c3" : "QC-JAV000006[00064] For method append arguments int  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.append@POLYN150397 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.append@POLYN150397 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00064] For method copy arguments int  dist|int  len|OutputStreamProtected  out"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument in is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00064] The argument out is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN173566 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.copy@POLYN151408 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN173566 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.copy@POLYN151408 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN173566 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.copy@POLYN151408 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN173566 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.copy@POLYN151408 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.toString@POLYN174316 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.toString@POLYN174316 the MagicNumber/String  'Code %s: Symbol %d%n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.toString@POLYN174316 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.copy@POLYN151408 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 };

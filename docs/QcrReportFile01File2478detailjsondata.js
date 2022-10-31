@@ -1,25 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/stdlib/Now.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/stdlib/Newline.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SimpleReturnFunction"
- , "c2" : "net.sourceforge.plantuml.tim.stdlib.Now"
+ , "c2" : "net.sourceforge.plantuml.tim.stdlib.Newline"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.tim.stdlib.Now" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.tim.stdlib.Newline" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html#18"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html#16"
  , "c1" : "TFunctionSignature"
  , "c2" : "getSignature()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html#22"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html#20"
  , "c1" : "boolean"
  , "c2" : "canCover(int;Set<String>)"
  , "c3" : "1"
@@ -36,21 +36,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html#26"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html#24"
  , "c1" : "TValue"
  , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.svg" }
 
 ] 
 , 
@@ -93,45 +93,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html#19"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.tim.stdlib.Now.getSignature@POLYN149363 the MagicNumber/String  '%now' should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.stdlib.Newline.getSignature@POLYN148271 the MagicNumber/String  '%newline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html#19"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.tim.stdlib.Now.getSignature@POLYN149363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.stdlib.Newline.getSignature@POLYN148271 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html#22"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html#20"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00020] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html#23"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.tim.stdlib.Now.canCover@POLYN149513 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.tim.stdlib.Newline.canCover@POLYN148421 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html#24"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00024] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html#26"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Now.java.html#28"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.tim.stdlib.Now.executeReturnFunction@POLYN149691 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.tim.stdlib.Newline.executeReturnFunction@POLYN148599 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ]
 };

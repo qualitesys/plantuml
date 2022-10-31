@@ -1,52 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java 20 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java 14 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "GraphicalElementInGroupable"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.NoteBox"
+ , "c1" : "Arrow"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.NoteBox" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#29"
- , "c1" : "NoteBox"
- , "c2" : "NoteBox(double;Component;LivingParticipantBox;LivingParticipantBox;NotePosition;Url)"
- , "c3" : "2"
- , "c4" : "7"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#21"
+ , "c1" : "MessageSelfArrow"
+ , "c2" : "MessageSelfArrow(double;Rose;ArrowComponent;LivingParticipantBox;double;Url;double)"
+ , "c3" : "1"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#42"
- , "c1" : "double"
- , "c2" : "getRightShift(double)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#50"
- , "c1" : "double"
- , "c2" : "getPreferredWidth(StringBounder)"
- , "c3" : "3"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#64"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#30"
  , "c1" : "double"
  , "c2" : "getPreferredHeight(StringBounder)"
  , "c3" : "1"
@@ -54,44 +36,62 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#69"
- , "c1" : "void"
- , "c2" : "drawInternalU(UGraphic;double;Context2D)"
- , "c3" : "3"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#85"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#35"
  , "c1" : "double"
- , "c2" : "getStartingX(StringBounder)"
- , "c3" : "9"
- , "c4" : "9"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#104"
- , "c1" : "SegmentColored"
- , "c2" : "getSegment(StringBounder)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#111"
- , "c1" : "void"
- , "c2" : "pushToRight(double)"
+ , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#115"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#40"
+ , "c1" : "void"
+ , "c2" : "drawInternalU(UGraphic;double;Context2D)"
+ , "c3" : "1"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#52"
+ , "c1" : "double"
+ , "c2" : "getStartingX(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#64"
+ , "c1" : "int"
+ , "c2" : "getDirection(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#69"
+ , "c1" : "double"
+ , "c2" : "getArrowYStartLevel(StringBounder)"
+ , "c3" : "2"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#80"
+ , "c1" : "double"
+ , "c2" : "getArrowYEndLevel(StringBounder)"
+ , "c3" : "2"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#90"
  , "c1" : "double"
  , "c2" : "getMaxX(StringBounder)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00119"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#119"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#94"
  , "c1" : "double"
  , "c2" : "getMinX(StringBounder)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#123"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#98"
  , "c1" : "String"
  , "c2" : "toString(StringBounder)"
  , "c3" : "1"
@@ -117,19 +117,19 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#127"
- , "c1" : "Url"
- , "c2" : "getUrl()"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#103"
+ , "c1" : "LivingParticipantBox"
+ , "c2" : "getParticipantAt(StringBounder;NotePosition)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#131"
- , "c1" : "NotePosition"
- , "c2" : "getNotePosition()"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#108"
+ , "c1" : "double"
+ , "c2" : "getActualWidth(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -138,9 +138,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.svg" }
 
 ] 
 , 
@@ -177,156 +177,114 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "9"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "10"
+ , "c4" : "12"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.NoteBox@POLYN165222 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#42"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#30"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method getRightShift arguments double  y"
+ , "c3" : "QC-JAV000006[00030] For method getPreferredHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getRightShift@POLYN166018 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getRightShift@POLYN166018 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getRightShift@POLYN166018 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#50"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#35"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method getPreferredWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00035] For method getPreferredWidth arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#40"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00040] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#40"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00040] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#52"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00052] For method getStartingX arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#64"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method getPreferredHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00064] For method getDirection arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow.getDirection@POLYN162663 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#69"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
+ , "c3" : "QC-JAV000006[00069] For method getArrowYStartLevel arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#69"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00069] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.drawInternalU@POLYN167143 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.drawInternalU@POLYN167143 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#85"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method getStartingX arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00080] For method getArrowYEndLevel arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getStartingX@POLYN168232 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getStartingX@POLYN168232 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getStartingX@POLYN168232 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#104"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00104] For method getSegment arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00090] For method getMaxX arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#111"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00111] For method pushToRight arguments double  x"
+ , "c3" : "QC-JAV000006[00094] For method getMinX arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#115"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method getMaxX arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00098] For method toString arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#119"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00119] For method getMinX arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00103] For method getParticipantAt arguments StringBounder  stringBounder|NotePosition  position"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#123"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#108"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00123] For method toString arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00108] For method getActualWidth arguments StringBounder  stringBounder"
 }} 
 ]
 };

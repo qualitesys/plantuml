@@ -1,65 +1,101 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java 11 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.elk.proxy.graph.ElkWithProperty"
+ , "c1" : "ElkWithProperty"
+ , "c2" : "net.sourceforge.plantuml.elk.proxy.graph.ElkNode"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.graph.ElkWithProperty" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.graph.ElkNode" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#10"
+ , "c1" : "ElkNode"
+ , "c2" : "ElkNode(Object)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#14"
- , "c1" : "ElkWithProperty"
- , "c2" : "ElkWithProperty(Object)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#14"
+ , "c1" : "ElkNode"
+ , "c2" : "getParent()"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#22"
+ , "c1" : "double"
+ , "c2" : "getX()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#19"
- , "c1" : "int"
- , "c2" : "hashCode()"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#26"
+ , "c1" : "double"
+ , "c2" : "getY()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#24"
- , "c1" : "boolean"
- , "c2" : "equals(Object)"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#30"
+ , "c1" : "Collection<ElkLabel>"
+ , "c2" : "getLabels()"
+ , "c3" : "2"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#39"
+ , "c1" : "double"
+ , "c2" : "getWidth()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#29"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#43"
+ , "c1" : "double"
+ , "c2" : "getHeight()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#47"
  , "c1" : "void"
- , "c2" : "setProperty(Object;Object)"
- , "c3" : "7"
- , "c4" : "8"
+ , "c2" : "setDimensions(double;double)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.svg" }
 
 ] 
 , 
@@ -87,109 +123,88 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
+ , "c4" : "9"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#10"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class ElkWithProperty contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getParent@POLYN141738 the MagicNumber/String  'getParent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#24"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method equals arguments Object  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#29"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method setProperty arguments Object  key|Object  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#33"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00033] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getParent@POLYN141738 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#33"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00033] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getParent@POLYN141738 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#35"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00035] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getX@POLYN142096 the MagicNumber/String  'getX' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#31"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.elk.proxy.graph.ElkWithProperty.setProperty@POLYN142917 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getY@POLYN142264 the MagicNumber/String  'getY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#34"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.elk.proxy.graph.ElkWithProperty.setProperty@POLYN142917 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getLabels@POLYN142453 the MagicNumber/String  'getLabels' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#39"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.elk.proxy.graph.ElkWithProperty.setProperty@POLYN142917 the MagicNumber/String  'setProperty' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.elk.proxy.graph.ElkWithProperty.setProperty@POLYN142917 the MagicNumber/String  'setProperty' should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getWidth@POLYN142977 the MagicNumber/String  'getWidth' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkWithProperty.java.html#44"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.elk.proxy.graph.ElkWithProperty.setProperty@POLYN142917 the MagicNumber/String  'setProperty' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getHeight@POLYN143145 the MagicNumber/String  'getHeight' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#47"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00047] For method setDimensions arguments double  width|double  height"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.setDimensions@POLYN143305 the MagicNumber/String  'setDimensions' should be converted to const"
 }} 
 ]
 };

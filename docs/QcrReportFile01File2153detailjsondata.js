@@ -1,65 +1,83 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/stats/TextConverter.java 20 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java 31 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.stats.TextConverter"
+ , "c2" : "net.sourceforge.plantuml.stats.StatsUtilsIncrement"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.stats.TextConverter" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.stats.StatsUtilsIncrement" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#16"
- , "c1" : "TextConverter"
- , "c2" : "TextConverter(Stats)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#30"
+ , "c1" : "void"
+ , "c2" : "onceMoreParse(long;Class<?extendsDiagram>)"
+ , "c3" : "2"
+ , "c4" : "10"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#20"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#46"
  , "c1" : "void"
- , "c2" : "printMe(PrintStream)"
+ , "c2" : "onceMoreGenerate(long;Class<?extendsDiagram>;FileFormat)"
  , "c3" : "3"
  , "c4" : "14"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#45"
- , "c1" : "int"
- , "c2" : "getLinesUsed()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#68"
+ , "c1" : "ParsedGenerated"
+ , "c2" : "getByTypeCurrent(Class<?extendsDiagram>)"
+ , "c3" : "2"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#49"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#78"
+ , "c1" : "ParsedGenerated"
+ , "c2" : "getByTypeEver(Class<?extendsDiagram>)"
+ , "c3" : "2"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#88"
+ , "c1" : "String"
+ , "c2" : "name(Class<?extendsDiagram>)"
+ , "c3" : "11"
+ , "c4" : "12"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#127"
  , "c1" : "void"
- , "c2" : "main(String[])"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "realTimeExport()"
+ , "c3" : "4"
+ , "c4" : "6"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.svg" }
 
 ] 
 , 
@@ -86,17 +104,10 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "9"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -110,156 +121,233 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "7"
+ , "c4" : "23"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "5"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class TextConverter contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#20"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00020] The class StatsUtilsIncrement contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#30"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method printMe arguments PrintStream  ps"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00027] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00027] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000006[00030] For method onceMoreParse arguments long  duration|Class&lt;?  extends Diagram &gt;  type"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#31"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00031] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreParse@POLYN169726 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#31"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00031] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreParse@POLYN169726 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00033] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00035] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00035] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00036] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00036] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.stats.TextConverter.printMe@POLYN151921 the MagicNumber/String  'ID' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.stats.TextConverter.printMe@POLYN151921 the MagicNumber/String  'Start' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.stats.TextConverter.printMe@POLYN151921 the MagicNumber/String  'Duration' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.stats.TextConverter.printMe@POLYN151921 the MagicNumber/String  'Generated' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.stats.TextConverter.printMe@POLYN151921 the MagicNumber/String  'Mean(ms)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.stats.TextConverter.printMe@POLYN151921 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.stats.TextConverter.printMe@POLYN151921 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#49"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method main arguments String[]  args"
+ , "c3" : "QC-JAV000006[00046] For method onceMoreGenerate arguments long  duration|Class&lt;?  extends Diagram &gt;  type|FileFormat  fileFormat"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextConverter.java.html#49"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00049] Public method main is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN170873 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN170873 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN170873 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN170873 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#68"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00068] For method getByTypeCurrent arguments Class&lt;?  extends Diagram &gt;  type"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.getByTypeCurrent@POLYN172468 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#78"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00078] For method getByTypeEver arguments Class&lt;?  extends Diagram &gt;  type"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#78"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00078] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.getByTypeEver@POLYN173075 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.getByTypeEver@POLYN173075 the MagicNumber/String  'type.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#88"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00088] For method name arguments Class&lt;?  extends Diagram &gt;  type"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#88"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00088] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Error' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'ActivityDiagramBeta' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Salt' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'PSystemSudoku' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Sudoku' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Dot' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Welcome' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'PSystemDitaa' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Ditaa' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'PSystemJcckit' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Jcckit' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Math' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Diagram' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Other' should be converted to const"
 }} 
 ]
 };

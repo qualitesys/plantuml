@@ -1,65 +1,74 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/theme/ThemeUtils.java 16 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/text/StyledString.java 15 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.theme.ThemeUtils"
+ , "c2" : "net.sourceforge.plantuml.text.StyledString"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.theme.ThemeUtils" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.text.StyledString" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#27"
- , "c1" : "List<String>"
- , "c2" : "getAllThemeNames()"
- , "c3" : "3"
- , "c4" : "5"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#16"
+ , "c1" : "StyledString"
+ , "c2" : "StyledString(String;FontStyle)"
+ , "c3" : "1"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#39"
- , "c1" : "ReadLine"
- , "c2" : "getReaderTheme(String)"
- , "c3" : "2"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#50"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#22"
  , "c1" : "String"
- , "c2" : "getFullPath(String;String)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#58"
- , "c1" : "String"
- , "c2" : "getFilename(String)"
+ , "c2" : "toString()"
  , "c3" : "1"
  , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#26"
+ , "c1" : "String"
+ , "c2" : "getText()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#30"
+ , "c1" : "FontStyle"
+ , "c2" : "getStyle()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#34"
+ , "c1" : "List<StyledString>"
+ , "c2" : "build(String)"
+ , "c3" : "6"
+ , "c4" : "12"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.svg" }
 
 ] 
 , 
@@ -86,9 +95,9 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
  , "c4" : "1"
 }}
 ,
@@ -103,128 +112,121 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "11"
+ , "c4" : "12"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#19"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00019] The class ThemeUtils contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00011] The class StyledString contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#28"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.theme.ThemeUtils.getAllThemeNames@POLYN154732 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.text.StyledString.toString@POLYN152589 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#39"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.text.StyledString.toString@POLYN152589 the MagicNumber/String  ']' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method getReaderTheme arguments String  filename"
+ , "c3" : "QC-JAV000006[00034] For method build arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#36"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#40"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.theme.ThemeUtils.getReaderTheme@POLYN155642 the MagicNumber/String  'Loading theme ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.theme.ThemeUtils.getReaderTheme@POLYN155642 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.theme.ThemeUtils.getReaderTheme@POLYN155642 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.theme.ThemeUtils.getReaderTheme@POLYN155642 the MagicNumber/String  '&amp;lt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.theme.ThemeUtils.getReaderTheme@POLYN155642 the MagicNumber/String  '&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#44"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.theme.ThemeUtils.getReaderTheme@POLYN155642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#45"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.theme.ThemeUtils.getReaderTheme@POLYN155642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#50"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method getFullPath arguments String  from|String  filename"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#50"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument from is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#52"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.theme.ThemeUtils.getFullPath@POLYN156451 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.theme.ThemeUtils.getFullPath@POLYN156451 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.theme.ThemeUtils.getFullPath@POLYN156451 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method getFilename arguments String  filename"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#34"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00034] Public method build is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 };

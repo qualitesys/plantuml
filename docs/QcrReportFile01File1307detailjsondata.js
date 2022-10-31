@@ -1,119 +1,74 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/gitlog/Commit.java 37 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/fun/IconLoader.java 23 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.gitlog.Commit"
+ , "c2" : "net.sourceforge.plantuml.fun.IconLoader"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.gitlog.Commit" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#14"
- , "c1" : "Commit"
- , "c2" : "Commit(String;CursorPosition)"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
+ { "nomclasse" : "net.sourceforge.plantuml.fun.IconLoader" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#23"
- , "c1" : "String"
- , "c2" : "getComment()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#23"
+ , "c1" : "BufferedImage"
+ , "c2" : "getRandom()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#28"
- , "c1" : "int"
- , "c2" : "hashCode()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#33"
- , "c1" : "boolean"
- , "c2" : "equals(Object)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#39"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#28"
  , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "getSomeQuote()"
+ , "c3" : "3"
+ , "c4" : "8"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#43"
- , "c1" : "List<CursorPosition>"
- , "c2" : "getCandidatesForDown()"
- , "c3" : "7"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#62"
- , "c1" : "void"
- , "c2" : "addAbove(List<CursorPosition>;CursorPosition)"
- , "c3" : "4"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#74"
- , "c1" : "List<Commit>"
- , "c2" : "getAncestors()"
- , "c3" : "2"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#43"
+ , "c1" : "BufferedImage"
+ , "c2" : "getIcon(String)"
+ , "c3" : "3"
  , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#86"
- , "c1" : "String"
- , "c2" : "getName()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#54"
+ , "c1" : "BufferedImage"
+ , "c2" : "getIconSlow(String)"
+ , "c3" : "2"
+ , "c4" : "7"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#90"
- , "c1" : "CursorPosition"
- , "c2" : "getPosition()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#69"
+ , "c1" : "BufferedImage"
+ , "c2" : "addTransparent(BufferedImage)"
+ , "c3" : "5"
+ , "c4" : "9"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.svg" }
 
 ] 
 , 
@@ -140,27 +95,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -171,275 +105,184 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "29"
+ , "c4" : "18"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "INFO"
+ , "c2" : "QC-JAV000019"
+ , "c3" : "Lock statement"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#8"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class Commit contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00016] The class IconLoader contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#14"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument position is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#29"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00029] Lock statement on synchronized resource"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#18"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.gitlog.Commit.Commit@POLYN156664 the MagicNumber/String  '* ' should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN157556 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#18"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.gitlog.Commit.Commit@POLYN156664 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN157556 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#18"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.gitlog.Commit.Commit@POLYN156664 the MagicNumber/String  '*-' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN157556 the MagicNumber/String  'sprite' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#18"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.gitlog.Commit.Commit@POLYN156664 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN157556 the MagicNumber/String  '%03d' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#33"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN157556 the MagicNumber/String  '.png' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN157556 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN157556 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#43"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method equals arguments Object  obj"
+ , "c3" : "QC-JAV000006[00043] For method getIcon arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#45"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.fun.IconLoader.getIcon@POLYN158506 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#45"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.fun.IconLoader.getIcon@POLYN158506 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.gitlog.Commit.getCandidatesForDown@POLYN157813 the MagicNumber/String  '-' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#62"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method addAbove arguments List&lt;CursorPosition &gt;  result|CursorPosition  here"
+ , "c3" : "QC-JAV000006[00054] For method getIconSlow arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#62"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#62"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument here is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#63"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.fun.IconLoader.getIconSlow@POLYN159043 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#63"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  '|' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.fun.IconLoader.getIconSlow@POLYN159043 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#66"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  '\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.fun.IconLoader.getIconSlow@POLYN159043 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  '/' should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#69"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00069] For method addTransparent arguments BufferedImage  ico"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#70"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN159701 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#70"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.gitlog.Commit.addAbove@POLYN158939 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN159701 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN159701 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN159701 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#78"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00078] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN159701 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#74"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00074] Public method getAncestors is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN159701 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

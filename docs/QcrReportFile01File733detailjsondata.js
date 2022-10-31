@@ -1,30 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/argon2/Constants.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/argon2/Constants.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/argon2/Constants.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/argon2/Argon2Factory.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/argon2/Argon2Factory.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/argon2/Argon2Factory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.argon2.Constants"
+ , "c2" : "net.sourceforge.plantuml.argon2.Argon2Factory"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.argon2.Constants" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.argon2.Argon2Factory" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00005"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/Argon2Factory.java.html#5"
+ , "c1" : "Argon2"
+ , "c2" : "create()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/argon2/Constants.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/argon2/Argon2Factory.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/argon2/Constants.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/argon2/Argon2Factory.java.svg" }
 
 ] 
 , 
@@ -54,37 +62,16 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "4"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Constants.java.html#6"
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Argon2Factory.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00006] The class Constants contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Constants.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00023] The class Defaults contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Constants.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00039] The class Constraints contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Constants.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00073] The class Messages contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class Argon2Factory contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
 };

@@ -1,56 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/h/ST_Agtag_s.java.html" 
- , "texte" : "File src/h/ST_Agtag_s.java 8 rule violations " 
- , "fic2"  : "./qc/src/h/ST_Agtag_s.java.xml" 
+   "fic1"  : "./qc/src/h/ST_Agsym_s.java.html" 
+ , "texte" : "File src/h/ST_Agsym_s.java 13 rule violations " 
+ , "fic2"  : "./qc/src/h/ST_Agsym_s.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "UnsupportedStarStruct"
- , "c2" : "h.ST_Agtag_s"
+ , "c2" : "h.ST_Agsym_s"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "h.ST_Agtag_s" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "h.ST_Agsym_s" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/h/ST_Agtag_s.java.html#15"
- , "c1" : "String"
- , "c2" : "toString()"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/h/ST_Agsym_s.java.html#21"
+ , "c1" : "OFFSET"
+ , "c2" : "createOFFSET(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/h/ST_Agtag_s.java.html#20"
- , "c1" : "ST_Agtag_s"
- , "c2" : "copy()"
- , "c3" : "1"
- , "c4" : "7"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/h/ST_Agsym_s.java.html#26"
+ , "c1" : "Object"
+ , "c2" : "getTheField(OFFSET)"
+ , "c3" : "4"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/h/ST_Agtag_s.java.html#31"
- , "c1" : "void"
- , "c2" : "___(__struct__)"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/h/ST_Agsym_s.java.html#41"
+ , "c1" : "boolean"
+ , "c2" : "isSameThan(__ptr__)"
  , "c3" : "1"
- , "c4" : "6"
+ , "c4" : "2"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_Agtag_s.java.png" 
+   {"ligne" : "./qc/src/h/ST_Agsym_s.java.png" 
 
- , "ligneplantuml" : "./qc/src/h/ST_Agtag_s.java.svg" }
+ , "ligneplantuml" : "./qc/src/h/ST_Agsym_s.java.svg" }
 
 ] 
 , 
@@ -80,79 +80,114 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
- , "c4" : "5"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#8"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00008] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00013] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#9"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#10"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00014] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00016"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#16"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method h.ST_Agtag_s.toString@POLYN155050 the MagicNumber/String  'id=' should be converted to const"
+ , "c3" : "QC-JAVCWE493[00016] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#16"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method h.ST_Agtag_s.toString@POLYN155050 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAVCWE493[00017] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#31"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[00018] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#19"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[00019] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#21"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method ___ arguments __struct__  other"
+ , "c3" : "QC-JAV000006[00021] For method createOFFSET arguments String  field"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#26"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00026] For method getTheField arguments OFFSET  offset"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method h.ST_Agsym_s.getTheField@POLYN155874 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method h.ST_Agsym_s.getTheField@POLYN155874 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method h.ST_Agsym_s.getTheField@POLYN155874 the MagicNumber/String  'name' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method h.ST_Agsym_s.getTheField@POLYN155874 the MagicNumber/String  'link' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#41"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00041] For method isSameThan arguments __ptr__  other"
 }} 
 ]
 };

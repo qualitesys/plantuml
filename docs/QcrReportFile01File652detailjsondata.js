@@ -1,25 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractFtile"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStart"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStart" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#32"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#30"
+ , "c1" : "FtileCircleStart"
+ , "c2" : "FtileCircleStart(ISkinParam;HColor;Swimlane;Style)"
+ , "c3" : "1"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#41"
  , "c1" : "Collection<Ftile>"
  , "c2" : "getMyChildren()"
  , "c3" : "1"
@@ -27,17 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#36"
- , "c1" : "FtileCircleStop"
- , "c2" : "FtileCircleStop(ISkinParam;HColor;HColor;Swimlane;Style)"
- , "c3" : "1"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#47"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#45"
  , "c1" : "Set<Swimlane>"
  , "c2" : "getSwimlanes()"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#54"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#52"
  , "c1" : "Swimlane"
  , "c2" : "getSwimlaneIn()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#58"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#56"
  , "c1" : "Swimlane"
  , "c2" : "getSwimlaneOut()"
  , "c3" : "1"
@@ -63,17 +63,17 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#62"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#60"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
- , "c4" : "7"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#78"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#67"
  , "c1" : "FtileGeometry"
  , "c2" : "calculateDimensionFtile(StringBounder)"
  , "c3" : "1"
@@ -84,9 +84,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.svg" }
 
 ] 
 , 
@@ -123,7 +123,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "6"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -136,73 +136,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#36"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#30"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00030] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#48"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop.getSwimlanes@POLYN159084 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStart.getSwimlanes@POLYN157102 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#62"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00060] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#62"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#60"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00060] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#67"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00067] For method calculateDimensionFtile arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#68"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop.drawU@POLYN159484 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStart.calculateDimensionFtile@POLYN157947 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#69"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStart.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop.drawU@POLYN159484 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop.drawU@POLYN159484 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method calculateDimensionFtile arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop.calculateDimensionFtile@POLYN160592 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleStop.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop.calculateDimensionFtile@POLYN160592 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStart.calculateDimensionFtile@POLYN157947 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

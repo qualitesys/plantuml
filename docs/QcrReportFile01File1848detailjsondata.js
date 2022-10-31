@@ -1,65 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java 12 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java 26 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ElementFactory"
- , "c2" : "net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff"
+ , "c1" : "AbstractElementFactoryComplex"
+ , "c2" : "net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#20"
- , "c1" : "ElementFactoryRadioOff"
- , "c2" : "ElementFactoryRadioOff(DataSource;ISkinSimple)"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#17"
+ , "c1" : "ElementFactoryPyramid"
+ , "c2" : "ElementFactoryPyramid(DataSource;Dictionary)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#25"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#21"
  , "c1" : "Terminated<Element>"
  , "c2" : "create()"
- , "c3" : "2"
- , "c4" : "5"
+ , "c3" : "7"
+ , "c4" : "14"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#36"
- , "c1" : "List<String>"
- , "c2" : "extracted(String)"
- , "c3" : "1"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#53"
+ , "c1" : "boolean"
+ , "c2" : "isStar(Element)"
+ , "c3" : "2"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#41"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#60"
  , "c1" : "boolean"
  , "c2" : "ready()"
- , "c3" : "1"
- , "c4" : "2"
+ , "c3" : "3"
+ , "c4" : "5"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.svg" }
 
 ] 
 , 
@@ -86,16 +86,9 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
  , "c4" : "1"
 }}
 ,
@@ -103,7 +96,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "9"
+ , "c4" : "24"
 }}
 ,
 { "ligne" : { "" : ""
@@ -116,87 +109,185 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#15"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00015] The class ElementFactoryRadioOff contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000001[00041] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#26"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff.create@POLYN152330 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.create@POLYN158426 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.create@POLYN158426 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.create@POLYN158426 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#31"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff.create@POLYN152330 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.create@POLYN158426 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#32"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff.create@POLYN152330 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.create@POLYN158426 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#32"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff.create@POLYN152330 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.create@POLYN158426 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#36"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.create@POLYN158426 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.create@POLYN158426 the MagicNumber/String  '}' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.create@POLYN158426 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method extracted arguments String  text"
+ , "c3" : "QC-JAV000006[00053] For method isStar arguments Element  element"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#36"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#37"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff.extracted@POLYN153119 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.isStar@POLYN160566 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#38"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff.extracted@POLYN153119 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.isStar@POLYN160566 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#42"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff.ready@POLYN153472 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.isStar@POLYN160566 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#43"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff.ready@POLYN153472 the MagicNumber/String  '()' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRadioOff.java.html#43"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRadioOff.ready@POLYN153472 the MagicNumber/String  '( )' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  '{+' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  '{^' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  '{#' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  '{!' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  '{-' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  '[NSEW]=|T' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#66"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryPyramid.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid.ready@POLYN160942 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 };

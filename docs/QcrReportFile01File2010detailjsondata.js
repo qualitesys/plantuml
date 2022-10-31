@@ -1,9 +1,9 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PushStrategy.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/puma/PushStrategy.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PushStrategy.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PushSide.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/puma/PushSide.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PushSide.java.xml" 
  , "fic3"  : "" 
 }
 , 

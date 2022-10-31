@@ -1,25 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/ResetFont.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/graphic/ResetFont.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/ResetFont.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/graphic/RemoveStyle.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "FontChange"
- , "c2" : "net.sourceforge.plantuml.graphic.ResetFont"
+ , "c2" : "net.sourceforge.plantuml.graphic.RemoveStyle"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.graphic.ResetFont" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.graphic.RemoveStyle" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/ResetFont.java.html#6"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#8"
+ , "c1" : "RemoveStyle"
+ , "c2" : "RemoveStyle(FontStyle)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#12"
  , "c1" : "FontConfiguration"
  , "c2" : "apply(FontConfiguration)"
  , "c3" : "1"
@@ -30,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/graphic/ResetFont.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/graphic/ResetFont.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.svg" }
 
 ] 
 , 
@@ -83,23 +92,23 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/ResetFont.java.html#4"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class ResetFont contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class RemoveStyle contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/ResetFont.java.html#6"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#12"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00006] For method apply arguments FontConfiguration  initial"
+ , "c3" : "QC-JAV000006[00012] For method apply arguments FontConfiguration  initial"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/ResetFont.java.html#6"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#12"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00006] The argument initial is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00012] The argument initial is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 };

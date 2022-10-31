@@ -1,39 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/ElkObjectProxy.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/ElkObjectProxy.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/ElkObjectProxy.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/ElkPath.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/elk/ElkPath.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/ElkPath.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.elk.proxy.ElkObjectProxy"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.ElkObjectProxy" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00005"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/ElkObjectProxy.java.html#5"
- , "c1" : "Object"
- , "c2" : "getTrueObject()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
+ { "nomclasse" : "" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/ElkObjectProxy.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/ElkObjectProxy.java.svg" }
-
 ] 
 , 
 "data04" : [
@@ -57,5 +41,22 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999999"
+ , "c3" : "Syntax analysis failure on the source code"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00002"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/ElkPath.java.html#2"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/elk/ElkPath.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . elk ; import java "
+}} 
+]
 };
 console.log('leListeStr 99 main end');

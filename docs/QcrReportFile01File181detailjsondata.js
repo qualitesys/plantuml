@@ -1,30 +1,30 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/h/ST_Agattr_s.java.html" 
- , "texte" : "File src/h/ST_Agattr_s.java 2 rule violations " 
- , "fic2"  : "./qc/src/h/ST_Agattr_s.java.xml" 
+   "fic1"  : "./qc/src/h/SHAPE_INFO.java.html" 
+ , "texte" : "File src/h/SHAPE_INFO.java 0 rule violation " 
+ , "fic2"  : "./qc/src/h/SHAPE_INFO.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ST_Agrec_s"
- , "c2" : "h.ST_Agattr_s"
+ , "c1" : "java.lang.Object"
+ , "c2" : "h.SHAPE_INFO"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "h.ST_Agattr_s" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "h.SHAPE_INFO" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_Agattr_s.java.png" 
+   {"ligne" : "./qc/src/h/SHAPE_INFO.java.png" 
 
- , "ligneplantuml" : "./qc/src/h/ST_Agattr_s.java.svg" }
+ , "ligneplantuml" : "./qc/src/h/SHAPE_INFO.java.svg" }
 
 ] 
 , 
@@ -49,29 +49,5 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAVCWE493"
- , "c3" : "Critical public variable without final modifier"
- , "c4" : "2"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_Agattr_s.java.html#10"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/h/ST_Agattr_s.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-]
 };
 console.log('leListeStr 99 main end');

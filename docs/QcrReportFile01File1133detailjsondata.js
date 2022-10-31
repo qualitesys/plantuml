@@ -1,43 +1,52 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java 45 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java 43 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractTextBlockWithPorts"
- , "c2" : "net.sourceforge.plantuml.cucadiagram.TextBlockMap"
+ , "c2" : "net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.TextBlockMap" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#38"
- , "c1" : "TextBlockMap"
- , "c2" : "TextBlockMap(FontConfiguration;ISkinParam;Map<String,String>;LineBreakStrategy)"
- , "c3" : "3"
- , "c4" : "9"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#32"
+ , "c1" : "TextBlockCucaJSon"
+ , "c2" : "TextBlockCucaJSon(FontConfiguration;ISkinParam;JsonValue;LineBreakStrategy)"
+ , "c3" : "1"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#55"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#40"
+ , "c1" : "TextBlockJson"
+ , "c2" : "getJsonTextBlock()"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#49"
  , "c1" : "Ports"
  , "c2" : "getPorts(StringBounder)"
- , "c3" : "2"
- , "c4" : "10"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#70"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#53"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -45,71 +54,44 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#75"
- , "c1" : "double"
- , "c2" : "getWidthColA(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#79"
- , "c1" : "double"
- , "c2" : "getWidthColB(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#83"
- , "c1" : "double"
- , "c2" : "getMaxWidth(StringBounder;Collection<TextBlock>)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#91"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#57"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
- , "c3" : "4"
- , "c4" : "18"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#117"
- , "c1" : "double"
- , "c2" : "getTotalHeight(StringBounder)"
- , "c3" : "2"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#127"
- , "c1" : "double"
- , "c2" : "getHeightOfRow(StringBounder;TextBlock;TextBlock)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#132"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#128"
  , "c1" : "TextBlock"
- , "c2" : "getTextBlock(String;LineBreakStrategy)"
- , "c3" : "2"
- , "c4" : "5"
+ , "c2" : "getTextBlockValue(JsonValue;double)"
+ , "c3" : "4"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#167"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#142"
+ , "c1" : "TextBlock"
+ , "c2" : "getTextBlock(String)"
+ , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#187"
+ , "c1" : "FontConfiguration"
+ , "c2" : "getFontConfiguration()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00191"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#191"
  , "c1" : "void"
  , "c2" : "setTotalWidth(double)"
  , "c3" : "1"
@@ -120,9 +102,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.svg" }
 
 ] 
 , 
@@ -152,345 +134,331 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "6"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "12"
+ , "c4" : "13"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "15"
+ , "c4" : "13"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "12"
+ , "c4" : "13"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#38"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument map is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getJsonTextBlock@POLYN177276 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#43"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00047] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00048] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getJsonTextBlock@POLYN177276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00049] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.TextBlockMap@POLYN176660 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#55"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method getPorts arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00049] For method getPorts arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00060] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00061] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getPorts@POLYN177860 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getPorts@POLYN177860 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getPorts@POLYN177860 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#70"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00057] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#75"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#66"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00066] The argument json is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method getWidthColA arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00072] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#76"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00076] For method getWidth1 arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#79"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method getWidthColB arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method getMaxWidth arguments StringBounder  stringBounder|Collection&lt;TextBlock &gt;  blocks"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#84"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getMaxWidth@POLYN179512 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00079] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#91"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockJson.getWidth1@POLYN178708 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00085] For method getWidth2 arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#91"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00091] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00088] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockJson.getWidth2@POLYN179243 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#94"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00094] For method getHeight arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00097] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00098] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#99"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#99"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#100"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000001[00100] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#101"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00101] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockJson.getHeight@POLYN179800 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00104] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#107"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00107] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.drawU@POLYN179948 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#107"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00107] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#105"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.drawU@POLYN179948 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00114] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#108"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.drawU@POLYN179948 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00115] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00116] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00117] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#128"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00117] For method getTotalHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00128] For method getTextBlockValue arguments JsonValue  value|double  width2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00120] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getTotalHeight@POLYN182408 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#127"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00127] For method getHeightOfRow arguments StringBounder  stringBounder|TextBlock  key|TextBlock  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#127"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#128"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00127] The argument key is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00128] The argument value is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#127"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00127] The argument value is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#132"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method getTextBlock arguments String  key|LineBreakStrategy  wordWrap"
+ , "c3" : "QC-JAV000006[00142] For method getTextBlock arguments String  key"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#132"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00132] The argument key is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#133"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getTextBlock@POLYN183341 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN183415 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#138"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getTextBlock@POLYN183341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN183415 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#138"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getTextBlock@POLYN183341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN183415 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#139"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getTextBlock@POLYN183341 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN183415 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.getTextBlock@POLYN183341 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#151"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#161"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00151] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00161] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#155"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00155] For method drawU arguments UGraphic  ug"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00164] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#155"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00155] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00165] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.cucadiagram.TextBlockMap.Point.getDiameter@POLYN184961 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.calculateDimension@POLYN184377 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#167"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.calculateDimension@POLYN184377 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#172"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00167] For method setTotalWidth arguments double  totalWidth"
+ , "c3" : "QC-JAV000006[00172] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#172"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00172] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00176] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.drawU@POLYN185014 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.drawU@POLYN185014 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#191"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00191] For method setTotalWidth arguments double  totalWidth"
 }} 
 ]
 };

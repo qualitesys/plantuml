@@ -1,36 +1,27 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/Stencil.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/creole/Stencil.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/Stencil.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/SheetBuilder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/creole/SheetBuilder.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/SheetBuilder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.creole.Stencil"
+ , "c2" : "net.sourceforge.plantuml.creole.SheetBuilder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.creole.Stencil" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.creole.SheetBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Stencil.java.html#8"
- , "c1" : "double"
- , "c2" : "getStartingX(StringBounder;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Stencil.java.html#10"
- , "c1" : "double"
- , "c2" : "getEndingX(StringBounder;double)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/SheetBuilder.java.html#8"
+ , "c1" : "Sheet"
+ , "c2" : "createSheet(Display)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,9 +30,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/Stencil.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/SheetBuilder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/Stencil.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/SheetBuilder.java.svg" }
 
 ] 
 , 

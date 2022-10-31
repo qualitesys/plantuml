@@ -1,245 +1,92 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/gen/lib/label/xlabels__c.java.html" 
- , "texte" : "File src/gen/lib/label/xlabels__c.java 452 rule violations " 
- , "fic2"  : "./qc/src/gen/lib/label/xlabels__c.java.xml" 
+   "fic1"  : "./qc/src/gen/lib/label/split_q__c.java.html" 
+ , "texte" : "File src/gen/lib/label/split_q__c.java 207 rule violations " 
+ , "fic2"  : "./qc/src/gen/lib/label/split_q__c.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "gen.lib.label.xlabels__c"
+ , "c2" : "gen.lib.label.split_q__c"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "gen.lib.label.xlabels__c" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "gen.lib.label.split_q__c" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#51"
- , "c1" : "int"
- , "c2" : "icompare(ST_dt_s;Object;Object;ST_dtdisc_s)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00319"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#319"
- , "c1" : "ST_XLabels_t"
- , "c2" : "xlnew(CArray<ST_object_t>;int;CArray<ST_xlabel_t>;int;ST_label_params_t)"
- , "c3" : "3"
- , "c4" : "16"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00849"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/gen/lib/label/split_q__c.java.html#33"
  , "c1" : "void"
- , "c2" : "xlfree(ST_XLabels_t)"
- , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00849"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c1" : "int"
- , "c2" : "floorLog2(int)"
- , "c3" : "7"
- , "c4" : "14"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00849"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c1" : "int"
- , "c2" : "xlhorder(ST_XLabels_t)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00849"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c1" : "int"
- , "c2" : "hd_hil_s_from_xy(ST_point;int)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "int"
- , "c2" : "hd_hil_s_from_xy_(ST_point;int)"
- , "c3" : "2"
- , "c4" : "14"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "double"
- , "c2" : "aabbaabb(ST_Rect_t;ST_Rect_t)"
+ , "c2" : "SplitNode(ST_RTree;ST_Node_t___;ST_Branch_t;ST_Node_t___[])"
  , "c3" : "3"
- , "c4" : "10"
+ , "c4" : "19"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "boolean"
- , "c2" : "lblenclosing(ST_object_t;ST_object_t)"
- , "c3" : "2"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/gen/lib/label/split_q__c.java.html#75"
  , "c1" : "void"
- , "c2" : "objp2rect(ST_object_t;ST_Rect_t)"
- , "c3" : "1"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "void"
- , "c2" : "objplp2rect(ST_object_t;ST_Rect_t)"
- , "c3" : "1"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "ST_Rect_t"
- , "c2" : "objplpmks(ST_XLabels_t;ST_object_t)"
- , "c3" : "2"
- , "c4" : "12"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "int"
- , "c2" : "getintrsxi(ST_XLabels_t;ST_object_t;ST_object_t)"
- , "c3" : "2"
- , "c4" : "30"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "double"
- , "c2" : "recordointrsx(ST_XLabels_t;ST_object_t;ST_object_t;ST_Rect_t;double;ST_object_t[])"
- , "c3" : "7"
- , "c4" : "17"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "double"
- , "c2" : "recordlintrsx(ST_XLabels_t;ST_object_t;ST_object_t;ST_Rect_t;double;ST_object_t[])"
- , "c3" : "7"
- , "c4" : "17"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "ST_BestPos_t"
- , "c2" : "xlintersections(ST_XLabels_t;ST_object_t;ST_object_t[])"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "ST_BestPos_t"
- , "c2" : "xlintersections_(ST_XLabels_t;ST_object_t;ST_object_t[])"
- , "c3" : "11"
- , "c4" : "33"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "ST_BestPos_t"
- , "c2" : "xladjust(ST_XLabels_t;ST_object_t)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "ST_BestPos_t"
- , "c2" : "xladjust_(ST_XLabels_t;ST_object_t)"
- , "c3" : "23"
- , "c4" : "85"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "int"
- , "c2" : "xlhdxload(ST_XLabels_t)"
+ , "c2" : "GetBranches(ST_RTree;ST_Node_t___;ST_Branch_t)"
  , "c3" : "3"
- , "c4" : "16"
+ , "c4" : "13"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/gen/lib/label/split_q__c.java.html#108"
  , "c1" : "void"
- , "c2" : "xlhdxunload(ST_XLabels_t)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "int"
- , "c2" : "xlspdxload(ST_XLabels_t)"
- , "c3" : "2"
- , "c4" : "9"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "int"
- , "c2" : "xlinitialize(ST_XLabels_t)"
- , "c3" : "3"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c1" : "int"
- , "c2" : "placeLabels(CArray<ST_object_t>;int;CArray<ST_xlabel_t>;int;ST_label_params_t)"
+ , "c2" : "MethodZero(ST_RTree)"
  , "c3" : "10"
- , "c4" : "21"
+ , "c4" : "34"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00183"
+ , "c5link" : "././qc/src/gen/lib/label/split_q__c.java.html#183"
+ , "c1" : "void"
+ , "c2" : "PickSeeds(ST_RTree)"
+ , "c3" : "5"
+ , "c4" : "22"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00223"
+ , "c5link" : "././qc/src/gen/lib/label/split_q__c.java.html#223"
+ , "c1" : "void"
+ , "c2" : "Classify(ST_RTree;int;int)"
+ , "c3" : "3"
+ , "c4" : "8"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00301"
+ , "c5link" : "././qc/src/gen/lib/label/split_q__c.java.html#301"
+ , "c1" : "void"
+ , "c2" : "LoadNodes(ST_RTree;ST_Node_t___;ST_Node_t___;ST_PartitionVars)"
+ , "c3" : "5"
+ , "c4" : "11"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00301"
+ , "c5link" : "././qc/src/gen/lib/label/split_q__c.java.html#301"
+ , "c1" : "void"
+ , "c2" : "InitPVars(ST_RTree)"
+ , "c3" : "2"
+ , "c4" : "13"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/gen/lib/label/xlabels__c.java.png" 
+   {"ligne" : "./qc/src/gen/lib/label/split_q__c.java.png" 
 
- , "ligneplantuml" : "./qc/src/gen/lib/label/xlabels__c.java.svg" }
+ , "ligneplantuml" : "./qc/src/gen/lib/label/split_q__c.java.svg" }
 
 ] 
 , 
@@ -264,56 +111,19 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-,
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "16"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "17"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAVCWE481"
- , "c3" : "Assigning instead of comparing"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAVCWE493"
- , "c3" : "Critical public variable without final modifier"
- , "c4" : "1"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "8"
+ , "c4" : "23"
 }}
 ,
 { "ligne" : { "" : ""
@@ -327,3201 +137,1472 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "369"
+ , "c4" : "163"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000021"
  , "c3" : "The same method is called several times, might be optimized"
- , "c4" : "8"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAVCWE500"
- , "c3" : "Static public field not marked final"
- , "c4" : "1"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "24"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
+ , "c4" : "7"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#39"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00039] The class xlabels__c contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00024] The class split_q__c contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00041] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#41"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#33"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00041] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c3" : "QC-JAV000006[00033] For method SplitNode arguments ST_RTree  rtp|ST_Node_t___  n|ST_Branch_t  b|ST_Node_t___[]  nn"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#33"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00033] The argument rtp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  '6vl3snxd6k95gamfkwfsfdguc' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  'SplitNode' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  'akhni40ndam0u9c6i7raxw4mp' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  '4g80zdlbvunm838x8g3ic9tex' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  '9352ql3e58qs4fzapgjfrms2s' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  '2cjo6wz1rmxfm5k7u7rw5dqpj' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method icompare arguments ST_dt_s  dt|Object  v1|Object  v2|ST_dtdisc_s  disc"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#52"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method gen.lib.label.xlabels__c.icompare@POLYN290117 the MagicNumber/String  '5p3ac8qk4gnne5hj1dc21ysi' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#52"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method gen.lib.label.xlabels__c.icompare@POLYN290117 the MagicNumber/String  'icompare' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#55"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00055] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#55"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00055] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  'z7xk6s3hzi3qcoiq2exj9hpv' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#58"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method gen.lib.label.xlabels__c.icompare@POLYN290117 the MagicNumber/String  '5p3ac8qk4gnne5hj1dc21ysi' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#58"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method gen.lib.label.xlabels__c.icompare@POLYN290117 the MagicNumber/String  'icompare' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00317"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#317"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#61"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00061] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  '6vl3snxd6k95gamfkwfsfdguc' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method gen.lib.label.split_q__c.SplitNode@POLYN208179 the MagicNumber/String  'SplitNode' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00317] For method xlnew arguments CArray&lt;ST_object_t &gt;  objs|int  n_objs|CArray&lt;ST_xlabel_t &gt;  lbls|int  n_lbls|ST_label_params_t  params"
+ , "c3" : "QC-JAV000006[00075] For method GetBranches arguments ST_RTree  rtp|ST_Node_t___  n|ST_Branch_t  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00801"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#801"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00801] In method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String  '88mbfm305igsr7cew5qx6yldp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00843"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#843"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00843] In method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String  'xlnew' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String  '4t1y5iinm4310lkpvbal1spve' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String  '3m406diamp5s5kwcqtwo4pshf' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String  '4t1y5iinm4310lkpvbal1spve' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String  '3m406diamp5s5kwcqtwo4pshf' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String  '88mbfm305igsr7cew5qx6yldp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String  'xlnew' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00849] For method xlfree arguments ST_XLabels_t  xlp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#75"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00849] The argument xlp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00075] The argument rtp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlfree@POLYN292718 the MagicNumber/String  'apvhod2s1yjb8717rb7gie2kb' should be converted to const"
+ , "c3" : "QC-JAV000001[00091] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlfree@POLYN292718 the MagicNumber/String  'xlfree' should be converted to const"
+ , "c3" : "QC-JAV000001[00092] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlfree@POLYN292718 the MagicNumber/String  'apvhod2s1yjb8717rb7gie2kb' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  'al7lyin008m7kvrvuxhcuvn61' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlfree@POLYN292718 the MagicNumber/String  'xlfree' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  'GetBranches' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  'al7lyin008m7kvrvuxhcuvn61' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method gen.lib.label.split_q__c.GetBranches@POLYN210454 the MagicNumber/String  'GetBranches' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#108"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00849] For method floorLog2 arguments int  n"
+ , "c3" : "QC-JAV000006[00108] For method MethodZero arguments ST_RTree  rtp"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  '6lz36gkh8fla3z6f0lxniy368' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  'floorLog2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  '6lz36gkh8fla3z6f0lxniy368' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.floorLog2@POLYN293390 the MagicNumber/String  'floorLog2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00849] For method xlhorder arguments ST_XLabels_t  xlp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#108"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00849] The argument xlp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00108] The argument rtp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlhorder@POLYN295101 the MagicNumber/String  'uvnzthcpf4xiih05gxie2rx1' should be converted to const"
+ , "c3" : "QC-JAV000021[00116] The same method call rtp.split.Partitions[0]rtp.split.Partitions[0]rtp.split.Partitions[0] is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlhorder@POLYN295101 the MagicNumber/String  'xlhorder' should be converted to const"
+ , "c3" : "QC-JAV000021[00117] The same method call rtp.split.Partitions[0]rtp.split.Partitions[0] is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlhorder@POLYN295101 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000021[00118] The same method call rtp.split.Partitions[0] is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlhorder@POLYN295101 the MagicNumber/String  'uvnzthcpf4xiih05gxie2rx1' should be converted to const"
+ , "c3" : "QC-JAV000001[00124] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.xlhorder@POLYN295101 the MagicNumber/String  'xlhorder' should be converted to const"
+ , "c3" : "QC-JAV000001[00125] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00128] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00130] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00131] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00133] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00124] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00125] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00128] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00130] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00131] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00133] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00146] The same method call rtp.split.Partitions[0] is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00156] The same method call rtp.split.Partitions[0] is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  '4woz5xy4gjlahoj7no3ljxmex' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  'MethodZero' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00146] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  '4edp65b21liyii0fj1ikco7o0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  '20lpsuiyepr2ujozaf6gp4cc' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#161"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00161] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  '9qtt6i40h8vtjp2cvqyb8ycaz' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  '2x1nx9nsne4x3ygmcywl1m3og' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  'jdepsnmrs3ghh78ql301sfvu' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  'gqfhorilvtlogp6f2ozx5akf' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  'flupwh3kosf3fkhkxllllt1' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  '4woz5xy4gjlahoj7no3ljxmex' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method gen.lib.label.split_q__c.MethodZero@POLYN212253 the MagicNumber/String  'MethodZero' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#183"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00849] For method hd_hil_s_from_xy arguments ST_point  p|int  n"
+ , "c3" : "QC-JAV000006[00183] For method PickSeeds arguments ST_RTree  rtp"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy@POLYN295982 the MagicNumber/String  '9lkyvq87bawe3yon7bdwvcjzq' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy@POLYN295982 the MagicNumber/String  'hd_hil_s_from_xy' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy@POLYN295982 the MagicNumber/String  '9lkyvq87bawe3yon7bdwvcjzq' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy@POLYN295982 the MagicNumber/String  'hd_hil_s_from_xy' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method hd_hil_s_from_xy_ arguments ST_point  p|int  n"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.hd_hil_s_from_xy_@POLYN296426 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method aabbaabb arguments ST_Rect_t  r|ST_Rect_t  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  'bpkzwylrchx5wta1qhytfgbtr' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  'aabbaabb' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  'bpkzwylrchx5wta1qhytfgbtr' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.aabbaabb@POLYN298302 the MagicNumber/String  'aabbaabb' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method lblenclosing arguments ST_object_t  objp|ST_object_t  objp1"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#183"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument objp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00183] The argument rtp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument objp1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00001] The same method call xlp.get__(0)xlp.get__(0)xlp.get__(0)xlp.get__(0)xlp.get__(0) is used several times, should be optimized "
+ , "c3" : "QC-JAV000001[00191] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00001] The same method call xlp.get__(0)xlp.get__(0)xlp.get__(0) is used several times, should be optimized "
+ , "c3" : "QC-JAV000001[00196] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00001] The same method call xlp.get__(0) is used several times, should be optimized "
+ , "c3" : "QC-JAV000001[00199] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00001] The same method call xlp.get__(0)xlp.get__(0) is used several times, should be optimized "
+ , "c3" : "QC-JAV000001[00200] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00001] The same method call xlp.get__(0) is used several times, should be optimized "
+ , "c3" : "QC-JAV000001[00201] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  '2g71cq6f8w5jbmbnn2x9y5qfq' should be converted to const"
+ , "c3" : "QC-JAV000001[00196] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  'lblenclosing' should be converted to const"
+ , "c3" : "QC-JAV000001[00199] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00200] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00201] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  '8rui4cun4tvq5xy6ke6r3p55e' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  'PickSeeds' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  '2g71cq6f8w5jbmbnn2x9y5qfq' should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.lblenclosing@POLYN300736 the MagicNumber/String  'lblenclosing' should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00190] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00190] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00193] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#209"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00209] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#210"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00210] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00212] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  '8rui4cun4tvq5xy6ke6r3p55e' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00212] In method gen.lib.label.split_q__c.PickSeeds@POLYN217466 the MagicNumber/String  'PickSeeds' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#223"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method objp2rect arguments ST_object_t  op|ST_Rect_t  r"
+ , "c3" : "QC-JAV000006[00223] For method Classify arguments ST_RTree  rtp|int  i|int  group"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#223"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument op is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00223] The argument rtp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objp2rect@POLYN302181 the MagicNumber/String  'dq1wkb4oxshdggv6cwtgas6m' should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  '4qyy2dpbkziuubssvfwb8u1sh' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objp2rect@POLYN302181 the MagicNumber/String  'objp2rect' should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  'Classify' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objp2rect@POLYN302181 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objp2rect@POLYN302181 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objp2rect@POLYN302181 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objp2rect@POLYN302181 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objp2rect@POLYN302181 the MagicNumber/String  'dq1wkb4oxshdggv6cwtgas6m' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objp2rect@POLYN302181 the MagicNumber/String  'objp2rect' should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#233"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00233] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#237"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00237] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#239"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00239] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#240"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00240] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#240"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00240] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  '4qyy2dpbkziuubssvfwb8u1sh' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String  'Classify' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00280"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#280"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method objplp2rect arguments ST_object_t  objp|ST_Rect_t  r"
+ , "c3" : "QC-JAV000006[00280] For method LoadNodes arguments ST_RTree  rtp|ST_Node_t___  n|ST_Node_t___  q|ST_PartitionVars  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument objp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00301] The argument rtp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  '71b5ttp3xs7lo9fqgb7ypyqgx' should be converted to const"
+ , "c3" : "QC-JAV000021[00301] The same method call rtp.split.Partitions[0] is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  'objplp2rect' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  'ay7l4setwyl3hbx4o2jpa7vyz' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  'LoadNodes' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  '71b5ttp3xs7lo9fqgb7ypyqgx' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplp2rect@POLYN303429 the MagicNumber/String  'objplp2rect' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  'ay7l4setwyl3hbx4o2jpa7vyz' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.LoadNodes@POLYN222675 the MagicNumber/String  'LoadNodes' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method objplpmks arguments ST_XLabels_t  xlp|ST_object_t  objp"
+ , "c3" : "QC-JAV000006[00301] For method InitPVars arguments ST_RTree  rtp"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument objp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00301] The argument rtp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  'ksqjbiie0e6vvaeawdxriie5' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  'dvgjc83sogjhzf5kxpir405rh' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  'objplpmks' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  'InitPVars' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  'ksqjbiie0e6vvaeawdxriie5' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.objplpmks@POLYN305063 the MagicNumber/String  'objplpmks' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method getintrsxi arguments ST_XLabels_t  xlp|ST_object_t  op|ST_object_t  cp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument op is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument cp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00001] The same method call clp.get__(0) is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'calnhom3s9dqvvi6crrz3h2wp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'getintrsxi' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'bofpvwtmumoe1ckgnlgbwg8bt' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'f039op8rn0jopi9r8kora4cwz' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '11drvggon8u61uz4iw75insly' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '5t4dji6xy0hdyx5wguao13hy5' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'kx0a7gocqji2ms0neepjemp0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'al11nyatzn20y82ligyxw6doz' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '6u28hrhgdf9tpy6v85nmoma8q' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '3nbwdw3wfkpmnrf8loezvflkx' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '9352ql3e58qs4fzapgjfrms2s' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'akdfo982ws6tlct2c4wlm7hdb' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '6h2iz13c1pog9oqz0a4f1sqth' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'kx0a7gocqji2ms0neepjemp0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '2rdl000508m132a9u1h076lba' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '6u28hrhgdf9tpy6v85nmoma8q' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '7p6vu0p80gdkcsj4l5hz59dqb' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '9352ql3e58qs4fzapgjfrms2s' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '69apu46xpi0gdi4dt1tir6dbh' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '73lwftxejfwwrm0v22inmutya' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  '9t0t38axcdz9uuxxaxd4e5oi2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'an605gtk4m1ql9srrrj5k6dah' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'cmp9l0lizmu0ars1jf1oxdms' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'ahwo5hst5k1gyq20ve63ahe81' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'c24nfmv9i7o5eoqaymbibp7m7' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'calnhom3s9dqvvi6crrz3h2wp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.getintrsxi@POLYN307072 the MagicNumber/String  'getintrsxi' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method recordointrsx arguments ST_XLabels_t  xlp|ST_object_t  op|ST_object_t  cp|ST_Rect_t  rp|double  a|ST_object_t[]  intrsx"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  '52awwxu810dg9a2pjq45aomam' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  'recordointrsx' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  '52awwxu810dg9a2pjq45aomam' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordointrsx@POLYN309700 the MagicNumber/String  'recordointrsx' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method recordlintrsx arguments ST_XLabels_t  xlp|ST_object_t  op|ST_object_t  cp|ST_Rect_t  rp|double  a|ST_object_t[]  intrsx"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  '2umrncgkunxoyeuc8i9hd5pwa' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  'recordlintrsx' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  '2umrncgkunxoyeuc8i9hd5pwa' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.recordlintrsx@POLYN312011 the MagicNumber/String  'recordlintrsx' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method xlintersections arguments ST_XLabels_t  xlp|ST_object_t  objp|ST_object_t[]  intrsx"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections@POLYN314322 the MagicNumber/String  '2td62i5hus8obwt8j1lo3ddj9' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections@POLYN314322 the MagicNumber/String  'xlintersections' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections@POLYN314322 the MagicNumber/String  '2td62i5hus8obwt8j1lo3ddj9' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections@POLYN314322 the MagicNumber/String  'xlintersections' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method xlintersections_ arguments ST_XLabels_t  xlp|ST_object_t  objp|ST_object_t[]  intrsx"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00001] For method xlintersections_ list of called methods Object monObjet|double aabbaabbN317183|double recordointrsxN317363|double aabbaabbN317954|double recordlintrsxN318134"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument xlp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument objp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00001] The same method call xlp.objs.get__(i) is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00001] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00001] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlintersections_@POLYN314819 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method xladjust arguments ST_XLabels_t  xlp|ST_object_t  objp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust@POLYN318743 the MagicNumber/String  '8rxvucqsqnqej6h8p1osfnk4b' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust@POLYN318743 the MagicNumber/String  'xladjust' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust@POLYN318743 the MagicNumber/String  '8rxvucqsqnqej6h8p1osfnk4b' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust@POLYN318743 the MagicNumber/String  'xladjust' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method xladjust_ arguments ST_XLabels_t  xlp|ST_object_t  objp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument objp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00001] The same method call lp.get__(0) is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  9 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  7 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'c5acs4cl77hgu5j6nmhk090uz' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'ez8sbh237xdqdjeewev2ys74y' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'ajgw2jggmwmofm77lgbx5eo2n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'nwfhss2g67z5exjkorj0brd' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'eav75dwa3f3ieedr9mnov3a6u' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '38u334kkfej5n3r31uv1afw9q' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '8pbum2o0fs86ceaiuxv4efbb6' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '5xx7o143ftoj0rhyhg1hqgioa' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'eqanxe9w90oki7yqvwyzpfcw1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '8yd6g3a3f0g09gmu5f67vah0x' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'd6ac36j6lh6qspxwnn3vi0uc3' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '6t98dcecgbvbvtpycwiq2ynnj' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'flupwh3kosf3fkhkxllllt1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '4w0qgfnt6kpuhb381pmra3ln4' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '6st33ex0udr4mk4sa9vd119uz' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'ajgw2jggmwmofm77lgbx5eo2n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'nwfhss2g67z5exjkorj0brd' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'eolwmrajeldp9gf9ug6ue0gx2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'bz3822dbe0xnwj4nm7pf39kae' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '8pbum2o0fs86ceaiuxv4efbb6' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '5xx7o143ftoj0rhyhg1hqgioa' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'eqanxe9w90oki7yqvwyzpfcw1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '8yd6g3a3f0g09gmu5f67vah0x' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'd6ac36j6lh6qspxwnn3vi0uc3' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '6t98dcecgbvbvtpycwiq2ynnj' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'flupwh3kosf3fkhkxllllt1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '4bcpk3ixfwrlr0yzrjv2efigj' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '7natp0873pfsvymhhhvki1sev' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '56ycmo0ljb7e86mnezdx3regh' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '9cepfi69gtzy7muk9d27es8oc' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'az41g895dhl39ckrigxl1c5jl' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '8pbum2o0fs86ceaiuxv4efbb6' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '5xx7o143ftoj0rhyhg1hqgioa' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'eqanxe9w90oki7yqvwyzpfcw1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '8yd6g3a3f0g09gmu5f67vah0x' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  'd6ac36j6lh6qspxwnn3vi0uc3' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xladjust_@POLYN319187 the MagicNumber/String  '6t98dcecgbvbvtpycwiq2ynnj' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method xlhdxload arguments ST_XLabels_t  xlp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument xlp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00001] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00001] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  'e29g2hwlogx0zchsnvi464c7t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  'xlhdxload' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  0000001 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  'e29g2hwlogx0zchsnvi464c7t' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxload@POLYN330640 the MagicNumber/String  'xlhdxload' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method xlhdxunload arguments ST_XLabels_t  xlp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxunload@POLYN332918 the MagicNumber/String  '26qpvnyd6tmdut8i2wo4itza3' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxunload@POLYN332918 the MagicNumber/String  'xlhdxunload' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxunload@POLYN332918 the MagicNumber/String  '26qpvnyd6tmdut8i2wo4itza3' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlhdxunload@POLYN332918 the MagicNumber/String  'xlhdxunload' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method xlspdxload arguments ST_XLabels_t  xlp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument xlp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00001] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00001] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00001] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00001] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  '3wrxwwd3y5ts0ekr32o8vhuvv' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  'xlspdxload' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  0000200 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  0000010 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  '3wrxwwd3y5ts0ekr32o8vhuvv' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlspdxload@POLYN333429 the MagicNumber/String  'xlspdxload' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method xlinitialize arguments ST_XLabels_t  xlp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument xlp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00001] Assigning instead of comparing on r=xlhdxload(xlp) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00001] Assigning instead of comparing on r=xlspdxload(xlp) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlinitialize@POLYN334953 the MagicNumber/String  '6d3fqrllm55toeo3wscwvv4ty' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlinitialize@POLYN334953 the MagicNumber/String  'xlinitialize' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlinitialize@POLYN334953 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlinitialize@POLYN334953 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlinitialize@POLYN334953 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlinitialize@POLYN334953 the MagicNumber/String  '6d3fqrllm55toeo3wscwvv4ty' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.xlinitialize@POLYN334953 the MagicNumber/String  'xlinitialize' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method placeLabels arguments CArray&lt;ST_object_t &gt;  objs|int  n_objs|CArray&lt;ST_xlabel_t &gt;  lbls|int  n_lbls|ST_label_params_t  params"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument objs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument params is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00001] Assigning instead of comparing on r=xlinitialize(xlp) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  'brqgbskh3z4ah8infjompibvu' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  'placeLabels' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  'dvgjc83sogjhzf5kxpir405rh' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  'brqgbskh3z4ah8infjompibvu' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN336011 the MagicNumber/String  'placeLabels' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xlnew@POLYN290910"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xladjust@POLYN318743"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xlintersections@POLYN314322"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00801"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#801"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00801] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String '88mbfm305igsr7cew5qx6yldp' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00843"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#843"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00843] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String 'xlnew' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00849] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String '3m406diamp5s5kwcqtwo4pshf' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00849] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String '3m406diamp5s5kwcqtwo4pshf' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00849] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String '4t1y5iinm4310lkpvbal1spve' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00849] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String '4t1y5iinm4310lkpvbal1spve' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00849] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String '88mbfm305igsr7cew5qx6yldp' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00849"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#849"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00849] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN290910 the MagicNumber/String 'xlnew' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xladjust@POLYN318743 the MagicNumber/String '8rxvucqsqnqej6h8p1osfnk4b' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xladjust@POLYN318743 the MagicNumber/String '8rxvucqsqnqej6h8p1osfnk4b' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xladjust@POLYN318743 the MagicNumber/String 'xladjust' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xladjust@POLYN318743 the MagicNumber/String 'xladjust' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xlintersections@POLYN314322 the MagicNumber/String '2td62i5hus8obwt8j1lo3ddj9' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xlintersections@POLYN314322 the MagicNumber/String '2td62i5hus8obwt8j1lo3ddj9' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xlintersections@POLYN314322 the MagicNumber/String 'xlintersections' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xlintersections@POLYN314322 the MagicNumber/String 'xlintersections' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  'InitPVars' should be converted to const"
 }} 
 ]
 };

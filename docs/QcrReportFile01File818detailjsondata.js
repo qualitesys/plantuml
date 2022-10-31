@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/bpm/CommandMerge.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/bpm/CommandGoto.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<BpmDiagram>"
- , "c2" : "net.sourceforge.plantuml.bpm.CommandMerge"
+ , "c2" : "net.sourceforge.plantuml.bpm.CommandGoto"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.bpm.CommandMerge" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.bpm.CommandGoto" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#14"
- , "c1" : "CommandMerge"
- , "c2" : "CommandMerge()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#14"
+ , "c1" : "CommandGoto"
+ , "c2" : "CommandGoto()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#18"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#18"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -37,7 +37,7 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#27"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#27"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(BpmDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.svg" }
 
 ] 
 , 
@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "7"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -101,72 +101,58 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#20"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.bpm.CommandMerge.getRegexConcat@POLYN149772 the MagicNumber/String  'ID' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.bpm.CommandMerge.getRegexConcat@POLYN149772 the MagicNumber/String  '([%pLN_.@]+)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.bpm.CommandMerge.getRegexConcat@POLYN149772 the MagicNumber/String  ':?' should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN149532 the MagicNumber/String  'goto' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#22"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.bpm.CommandMerge.getRegexConcat@POLYN149772 the MagicNumber/String  '\\&amp;lt;\\+\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN149532 the MagicNumber/String  'ID' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#22"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN149532 the MagicNumber/String  '([%pLN_.@]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#27"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00027] For method executeArg arguments BpmDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#27"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00027] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#27"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00027] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#28"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.bpm.CommandMerge.executeArg@POLYN150235 the MagicNumber/String  'ID' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.bpm.CommandGoto.executeArg@POLYN149975 the MagicNumber/String  'ID' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#28"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.bpm.CommandMerge.executeArg@POLYN150235 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.bpm.CommandMerge.executeArg@POLYN150235 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.bpm.CommandGoto.executeArg@POLYN149975 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

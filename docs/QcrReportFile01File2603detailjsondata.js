@@ -1,133 +1,142 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/URectangle.java 36 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UPolygon.java 31 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractShadowableUShapeSized"
- , "c2" : "net.sourceforge.plantuml.ugraphic.URectangle"
+ , "c1" : "AbstractShadowable"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.UPolygon"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.URectangle" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UPolygon" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#18"
- , "c1" : "URectangle"
- , "c2" : "withHeight(double)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#18"
+ , "c1" : "UPolygon"
+ , "c2" : "UPolygon()"
  , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#22"
+ , "c1" : "UPolygon"
+ , "c2" : "UPolygon(List<XPoint2D>)"
+ , "c3" : "2"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#25"
- , "c1" : "URectangle"
- , "c2" : "withWidth(double)"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#30"
+ , "c1" : "UPolygon"
+ , "c2" : "UPolygon(String)"
  , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#34"
+ , "c1" : "XPoint2D"
+ , "c2" : "getPoint(int)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#38"
+ , "c1" : "XPoint2D"
+ , "c2" : "checkMiddleContactForSpecificTriangle(XPoint2D)"
+ , "c3" : "3"
+ , "c4" : "8"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#51"
+ , "c1" : "void"
+ , "c2" : "addPoint(double;double)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#56"
+ , "c1" : "void"
+ , "c2" : "addPoint(XPoint2D)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#60"
+ , "c1" : "void"
+ , "c2" : "manageMinMax(double;double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#64"
+ , "c1" : "List<XPoint2D>"
+ , "c2" : "getPoints()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#68"
+ , "c1" : "UPolygon"
+ , "c2" : "translate(double;double)"
+ , "c3" : "2"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#32"
- , "c1" : "URectangle"
- , "c2" : "withCommentAndCodeLine(String;String)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#76"
+ , "c1" : "void"
+ , "c2" : "rotate(double)"
+ , "c3" : "2"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#37"
- , "c1" : "URectangle"
- , "c2" : "rounded(double)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#82"
+ , "c1" : "void"
+ , "c2" : "affine(AffineTransform)"
+ , "c3" : "2"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#42"
- , "c1" : "Shadowable"
- , "c2" : "diagonalCorner(double)"
- , "c3" : "3"
- , "c4" : "13"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#62"
- , "c1" : "URectangle"
- , "c2" : "ignoreForCompressionOnX()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#66"
- , "c1" : "URectangle"
- , "c2" : "ignoreForCompressionOnY()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#70"
- , "c1" : "URectangle"
- , "c2" : "URectangle(double;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#74"
- , "c1" : "URectangle"
- , "c2" : "URectangle(XDimension2D)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#78"
- , "c1" : "URectangle"
- , "c2" : "URectangle(double;double;double;double;String;boolean;boolean;String)"
- , "c3" : "3"
- , "c4" : "10"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#97"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#89"
  , "c1" : "String"
  , "c2" : "toString()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c3" : "2"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#101"
- , "c1" : "double"
- , "c2" : "getWidth()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#105"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#96"
  , "c1" : "double"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -135,35 +144,53 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#109"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#100"
  , "c1" : "double"
- , "c2" : "getRx()"
+ , "c2" : "getWidth()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#113"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#104"
  , "c1" : "double"
- , "c2" : "getRy()"
+ , "c2" : "getMinX()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#108"
+ , "c1" : "double"
+ , "c2" : "getMinY()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#112"
+ , "c1" : "double"
+ , "c2" : "getMaxX()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#117"
- , "c1" : "URectangle"
- , "c2" : "clip(UClip)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#117"
+ , "c1" : "double"
+ , "c2" : "getMaxY()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00121"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#121"
  , "c1" : "MinMax"
  , "c2" : "getMinMax()"
  , "c3" : "1"
@@ -172,47 +199,38 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#125"
- , "c1" : "String"
- , "c2" : "getComment()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#125"
+ , "c1" : "double[]"
+ , "c2" : "getPointArray(double;double)"
+ , "c3" : "2"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#138"
+ , "c1" : "CompressionMode"
+ , "c2" : "getCompressionMode()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#129"
- , "c1" : "String"
- , "c2" : "getCodeLine()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00133"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#133"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#142"
  , "c1" : "void"
- , "c2" : "drawWhenCompressed(UGraphic;CompressionMode)"
- , "c3" : "3"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00149"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#149"
- , "c1" : "boolean"
- , "c2" : "isIgnoreForCompressionOn(CompressionMode)"
- , "c3" : "3"
- , "c4" : "3"
+ , "c2" : "setCompressionMode(CompressionMode)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.svg" }
 
 ] 
 , 
@@ -242,275 +260,254 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "26"
+ , "c4" : "16"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000021"
+ , "c3" : "The same method is called several times, might be optimized"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "8"
+ , "c4" : "10"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#18"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method withHeight arguments double  newHeight"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#19"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.ugraphic.UPolygon.UPolygon@POLYN163639 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#25"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method withWidth arguments double  newWidth"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.ugraphic.UPolygon.UPolygon@POLYN163755 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#32"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method withCommentAndCodeLine arguments String  comment|String  codeLine"
+ , "c3" : "QC-JAV000006[00034] For method getPoint arguments int  idx"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#37"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#38"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method rounded arguments double  round"
+ , "c3" : "QC-JAV000006[00038] For method checkMiddleContactForSpecificTriangle arguments XPoint2D  center"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00040] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00041] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#42"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method diagonalCorner arguments double  diagonalCorner"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00042] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#46"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.ugraphic.URectangle.diagonalCorner@POLYN167294 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000021[00045] The same method call all.size() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#50"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.ugraphic.URectangle.diagonalCorner@POLYN167294 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN164451 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN164451 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN164451 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN164451 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN164451 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN164451 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN164451 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN164451 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.ugraphic.URectangle.diagonalCorner@POLYN167294 the MagicNumber/String  0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#51"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00051] For method addPoint arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.URectangle.diagonalCorner@POLYN167294 the MagicNumber/String  0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#56"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00056] For method addPoint arguments XPoint2D  point"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.URectangle.diagonalCorner@POLYN167294 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.URectangle.diagonalCorner@POLYN167294 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.URectangle.ignoreForCompressionOnX@POLYN168618 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ugraphic.URectangle.ignoreForCompressionOnY@POLYN168903 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169172 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169172 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169172 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169172 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169172 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169172 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#74"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00074] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169659 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#60"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00060] For method manageMinMax arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#81"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#68"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00068] For method translate arguments double  dx|double  dy"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#76"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00076] For method rotate arguments double  theta"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169659 the MagicNumber/String  'height=' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.UPolygon.rotate@POLYN166904 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#82"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00082] For method affine arguments AffineTransform  rotate"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#83"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.UPolygon.affine@POLYN167141 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#84"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.URectangle.URectangle@POLYN169659 the MagicNumber/String  'width=' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.UPolygon.toString@POLYN167563 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#98"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ugraphic.URectangle.toString@POLYN170737 the MagicNumber/String  'width=' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ugraphic.UPolygon.toString@POLYN167563 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ugraphic.URectangle.toString@POLYN170737 the MagicNumber/String  ' height=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#117"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#125"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00117] For method clip arguments UClip  clip"
+ , "c3" : "QC-JAV000006[00125] For method getPointArray arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#133"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00133] For method drawWhenCompressed arguments UGraphic  ug|CompressionMode  mode"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#133"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00133] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#135"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.URectangle.drawWhenCompressed@POLYN171659 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.ugraphic.UPolygon.getPointArray@POLYN168532 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#136"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.ugraphic.URectangle.drawWhenCompressed@POLYN171659 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.ugraphic.URectangle.drawWhenCompressed@POLYN171659 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.URectangle.drawWhenCompressed@POLYN171659 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ugraphic.UPolygon.getPointArray@POLYN168532 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ugraphic.URectangle.drawWhenCompressed@POLYN171659 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ugraphic.URectangle.drawWhenCompressed@POLYN171659 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.html#149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00149] For method isIgnoreForCompressionOn arguments CompressionMode  mode"
+ , "c3" : "QC-JAV000006[00142] For method setCompressionMode arguments CompressionMode  compressionMode"
 }} 
 ]
 };

@@ -1,52 +1,79 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/nwdiag/next/NBox.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/nwdiag/next/NBar.java 11 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Staged"
- , "c2" : "net.sourceforge.plantuml.nwdiag.next.NBox"
+ , "c2" : "net.sourceforge.plantuml.nwdiag.next.NBar"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.nwdiag.next.NBox" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.nwdiag.next.NBar" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#13"
- , "c1" : "void"
- , "c2" : "add(NBar)"
- , "c3" : "2"
- , "c4" : "3"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#13"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#22"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#17"
+ , "c1" : "NBox"
+ , "c2" : "getParent()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#21"
+ , "c1" : "void"
+ , "c2" : "setParent(NBox)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#26"
  , "c1" : "NStage"
  , "c2" : "getStart()"
- , "c3" : "2"
- , "c4" : "5"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#31"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#31"
  , "c1" : "NStage"
  , "c2" : "getEnd()"
- , "c3" : "2"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#35"
+ , "c1" : "void"
+ , "c2" : "addStage(NStage)"
+ , "c3" : "3"
  , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#40"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#47"
  , "c1" : "int"
  , "c2" : "getNWidth()"
  , "c3" : "1"
@@ -54,17 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#44"
- , "c1" : "Map<NBar,Integer>"
- , "c2" : "getPositions()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#49"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#52"
  , "c1" : "boolean"
  , "c2" : "contains(NStage)"
  , "c3" : "1"
@@ -75,9 +93,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.svg" }
 
 ] 
 , 
@@ -128,79 +146,86 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#8"
+ , "c1" : "00006"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#6"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class NBox contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00006] The class NBar contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#13"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#14"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.nwdiag.next.NBar.toString@POLYN149552 the MagicNumber/String  '-&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#21"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method add arguments NBar  bar"
+ , "c3" : "QC-JAV000006[00021] For method setParent arguments NBox  parent"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.nwdiag.next.NBox.getStart@POLYN152070 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.nwdiag.next.NBox.getStart@POLYN152070 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.nwdiag.next.NBox.getEnd@POLYN152626 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.nwdiag.next.NBox.getEnd@POLYN152626 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#49"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#35"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method contains arguments NStage  stage"
+ , "c3" : "QC-JAV000006[00035] For method addStage arguments NStage  stage"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#49"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.nwdiag.next.NBar.addStage@POLYN150109 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.nwdiag.next.NBar.addStage@POLYN150109 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.nwdiag.next.NBar.getNWidth@POLYN150804 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#52"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00052] For method contains arguments NStage  stage"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#52"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument stage is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00052] The argument stage is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#50"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.nwdiag.next.NBox.contains@POLYN153445 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.nwdiag.next.NBar.contains@POLYN150906 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#50"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBar.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.nwdiag.next.NBox.contains@POLYN153445 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.nwdiag.next.NBar.contains@POLYN150906 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

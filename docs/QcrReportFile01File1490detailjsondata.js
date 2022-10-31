@@ -1,45 +1,36 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/mda/MDADiagramImpl.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/math/TeXIconBuilder.java 13 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "MDADiagram"
- , "c2" : "net.sourceforge.plantuml.mda.MDADiagramImpl"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.math.TeXIconBuilder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.mda.MDADiagramImpl" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.math.TeXIconBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#20"
- , "c1" : "MDADiagram"
- , "c2" : "create(String)"
- , "c3" : "4"
- , "c4" : "8"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#14"
+ , "c1" : "TeXIconBuilder"
+ , "c2" : "TeXIconBuilder(String;Color)"
+ , "c3" : "1"
+ , "c4" : "11"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#39"
- , "c1" : "MDADiagramImpl"
- , "c2" : "MDADiagramImpl(ClassDiagram)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#47"
- , "c1" : "Collection<MDAPackage>"
- , "c2" : "getPackages()"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#35"
+ , "c1" : "Icon"
+ , "c2" : "getIcon()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.svg" }
 
 ] 
 , 
@@ -94,86 +85,100 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "7"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "11"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#18"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00018] The class MDADiagramImpl contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00010] The class TeXIconBuilder contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#20"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method create arguments String  uml"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#14"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00014] The argument foregroundColor is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#22"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.mda.MDADiagramImpl.create@POLYN152862 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.mda.MDADiagramImpl.create@POLYN152862 the MagicNumber/String  '@startuml\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  'org.scilab.forge.jlatexmath.TeXFormula' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#23"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.mda.MDADiagramImpl.create@POLYN152862 the MagicNumber/String  '\n@enduml' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#25"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.mda.MDADiagramImpl.create@POLYN152862 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  'setStyle' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#26"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.mda.MDADiagramImpl.create@POLYN152862 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  'setSize' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  20 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  'build' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#29"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.mda.MDADiagramImpl.create@POLYN152862 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#34"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.mda.MDADiagramImpl.create@POLYN152862 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  'setInsets' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#39"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument classDiagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  'setForeground' should be converted to const"
 }} 
 ]
 };

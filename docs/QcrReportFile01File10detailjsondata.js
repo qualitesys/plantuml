@@ -1,63 +1,72 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java 34 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.xml" 
+   "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html" 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java 7 rule violations " 
+ , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "ext.plantuml.com.ctreber.acearth.plugins.markers.Marker"
+ , "c1" : "ActionListener"
+ , "c2" : "ext.plantuml.com.ctreber.acearth.plugins.Plugin"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "ext.plantuml.com.ctreber.acearth.plugins.markers.Marker" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "ext.plantuml.com.ctreber.acearth.plugins.Plugin" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#27"
- , "c1" : "Marker"
- , "c2" : "Marker(Coordinate;String;int)"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#18"
+ , "c1" : "void"
+ , "c2" : "actionPerformed(ActionEvent)"
  , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "0"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#62"
- , "c1" : "Marker"
- , "c2" : "createFromLine(String)"
- , "c3" : "7"
- , "c4" : "13"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#101"
- , "c1" : "String"
- , "c2" : "toString()"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#22"
+ , "c1" : "boolean"
+ , "c2" : "hasGUIP()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#126"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#24"
  , "c1" : "void"
- , "c2" : "render(PixelCanvas;Projection)"
- , "c3" : "8"
- , "c4" : "14"
+ , "c2" : "render()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#169"
- , "c1" : "Marker"
- , "c2" : "loadMarkerFile(String)"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#26"
+ , "c1" : "void"
+ , "c2" : "setProjection(Projection)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#31"
+ , "c1" : "void"
+ , "c2" : "setRenderTarget(PixelCanvas)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#36"
+ , "c1" : "void"
+ , "c2" : "setParent(ACearth)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -66,9 +75,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.png" 
+   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.png" 
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.svg" }
+ , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.svg" }
 
 ] 
 , 
@@ -93,41 +102,18 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-,
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
  , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "6"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
  , "c4" : "1"
 }}
 ,
@@ -139,264 +125,61 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "18"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#17"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00017] The class Marker contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00011] The class Plugin contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#62"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method createFromLine arguments String  pLine"
+ , "c3" : "QC-JAV000006[00018] For method actionPerformed arguments ActionEvent  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#62"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#26"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00062] For method createFromLine list of called methods Object monObjet|java.util.List StringParser_parseN156591"
+ , "c3" : "QC-JAV000006[00026] For method setProjection arguments Projection  pProjection"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  'left' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  'right' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  'above' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  'below' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.createFromLine@POLYN156489 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.toString@POLYN158306 the MagicNumber/String  ' (' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.toString@POLYN158306 the MagicNumber/String  '), align: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#126"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#31"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00126] For method render arguments PixelCanvas  pCanvas|Projection  pProjection"
+ , "c3" : "QC-JAV000006[00031] For method setRenderTarget arguments PixelCanvas  pRenderTarget"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#126"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#36"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00126] For method render list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D pProjection_rotateN158599|ext.plantuml.com.ctreber.acearth.util.Point2D pProjection_finalizeN158905|java.awt.Graphics2D pCanvas_getGraphics2DN159236"
+ , "c3" : "QC-JAV000006[00036] For method setParent arguments ACearth  pParent"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#126"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00126] The argument pCanvas is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#126"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00126] The argument pProjection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String  9 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#157"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#157"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#169"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00169] For method loadMarkerFile arguments String  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#169"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#18"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00169] Public method loadMarkerFile is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000005[00018] Void method actionPerformed is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#129"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#18"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00129] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#147"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00147] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#156"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String '' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#156"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String 9 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#157"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00157] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#157"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00157] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN158476 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV000004[00018] Void method actionPerformed is empty or contains only a return. Interface segregation"
 }} 
 ]
 };

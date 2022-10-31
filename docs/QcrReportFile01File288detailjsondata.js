@@ -1,27 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/graphic/FillAttributes.java.html" 
- , "texte" : "File src/jcckit/graphic/FillAttributes.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/graphic/FillAttributes.java.xml" 
+   "fic1"  : "./qc/src/jcckit/graphic/ClippingShape.java.html" 
+ , "texte" : "File src/jcckit/graphic/ClippingShape.java 0 rule violation " 
+ , "fic2"  : "./qc/src/jcckit/graphic/ClippingShape.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "GraphicAttributes"
- , "c2" : "jcckit.graphic.FillAttributes"
+ , "c1" : "java.lang.Object"
+ , "c2" : "jcckit.graphic.ClippingShape"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.graphic.FillAttributes" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.graphic.ClippingShape" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/graphic/FillAttributes.java.html#9"
- , "c1" : "Color"
- , "c2" : "getFillColor()"
+ , "c5" : "00007"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingShape.java.html#7"
+ , "c1" : "boolean"
+ , "c2" : "isInside(GraphPoint)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingShape.java.html#10"
+ , "c1" : "ClippingRectangle"
+ , "c2" : "getBoundingBox()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingShape.java.html#13"
+ , "c1" : "BasicGraphicalElement"
+ , "c2" : "getGraphicalElement()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/FillAttributes.java.png" 
+   {"ligne" : "./qc/src/jcckit/graphic/ClippingShape.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/FillAttributes.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/graphic/ClippingShape.java.svg" }
 
 ] 
 , 

@@ -1,83 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/help/Help.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/help/Help.java 9 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/help/Help.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/help/CommandHelpType.java 11 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UmlDiagram"
- , "c2" : "net.sourceforge.plantuml.help.Help"
+ , "c1" : "SingleLineCommand2<Help>"
+ , "c2" : "net.sourceforge.plantuml.help.CommandHelpType"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.help.Help" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.help.CommandHelpType" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/help/Help.java.html#31"
- , "c1" : "DiagramDescription"
- , "c2" : "getDescription()"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#15"
+ , "c1" : "CommandHelpType"
+ , "c2" : "CommandHelpType()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/help/Help.java.html#35"
- , "c1" : "Help"
- , "c2" : "Help(UmlSource)"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#19"
+ , "c1" : "IRegex"
+ , "c2" : "getRegexConcat()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/help/Help.java.html#40"
- , "c1" : "ImageBuilder"
- , "c2" : "createImageBuilder(FileFormatOption)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/help/Help.java.html#45"
- , "c1" : "ImageData"
- , "c2" : "exportDiagramInternal(OutputStream;int;FileFormatOption)"
- , "c3" : "1"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/help/Help.java.html#56"
- , "c1" : "void"
- , "c2" : "add(CharSequence)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/help/Help.java.html#61"
- , "c1" : "ClockwiseTopRightBottomLeft"
- , "c2" : "getDefaultMargins()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#27"
+ , "c1" : "CommandExecutionResult"
+ , "c2" : "executeArg(Help;LineLocation;RegexResult)"
+ , "c3" : "2"
+ , "c4" : "8"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/help/Help.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/help/Help.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.svg" }
 
 ] 
 , 
@@ -104,82 +77,103 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "6"
+ , "c4" : "9"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.help.CommandHelpType.getRegexConcat@POLYN151017 the MagicNumber/String  'help' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.help.CommandHelpType.getRegexConcat@POLYN151017 the MagicNumber/String  'types?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#27"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00027] For method executeArg arguments Help  diagram|LineLocation  location|RegexResult  arg"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#27"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00027] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.help.CommandHelpType.executeArg@POLYN151436 the MagicNumber/String  '&amp;lt;b&amp;gt;Help on types' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.help.CommandHelpType.executeArg@POLYN151436 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.help.CommandHelpType.executeArg@POLYN151436 the MagicNumber/String  'The code of this command is located in &amp;lt;i&amp;gt;net.sourceforge.plantuml.help&amp;lt;/i&amp;gt; package.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.help.CommandHelpType.executeArg@POLYN151436 the MagicNumber/String  'You may improve it on &amp;lt;i&amp;gt;https://github.com/plantuml/plantuml/tree/master/src/net/sourceforge/plantuml/help&amp;lt;/i&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/Help.java.html#32"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.help.Help.getDescription@POLYN155761 the MagicNumber/String  '(Help)' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.help.CommandHelpType.executeArg@POLYN151436 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/Help.java.html#36"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.help.Help.Help@POLYN155876 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.help.CommandHelpType.executeArg@POLYN151436 the MagicNumber/String  ' The possible types are :' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/Help.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method createImageBuilder arguments FileFormatOption  fileFormatOption"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/Help.java.html#41"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpType.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.help.Help.createImageBuilder@POLYN156076 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/Help.java.html#45"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormat"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/Help.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.help.Help.exportDiagramInternal@POLYN156288 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/Help.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.help.Help.exportDiagramInternal@POLYN156288 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/Help.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method add arguments CharSequence  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/Help.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.help.Help.getDefaultMargins@POLYN157408 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.help.CommandHelpType.executeArg@POLYN151436 the MagicNumber/String  '* ' should be converted to const"
 }} 
 ]
 };

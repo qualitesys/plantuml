@@ -1,45 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/EaterStartsub.java 5 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/EaterReturn.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Eater"
- , "c2" : "net.sourceforge.plantuml.tim.EaterStartsub"
+ , "c2" : "net.sourceforge.plantuml.tim.EaterReturn"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.tim.EaterStartsub" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.tim.EaterReturn" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#10"
- , "c1" : "EaterStartsub"
- , "c2" : "EaterStartsub(StringLocated)"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#11"
+ , "c1" : "EaterReturn"
+ , "c2" : "EaterReturn(StringLocated)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#15"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#16"
  , "c1" : "void"
  , "c2" : "analyze(TContext;TMemory)"
- , "c3" : "2"
- , "c4" : "5"
+ , "c3" : "1"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#25"
- , "c1" : "String"
- , "c2" : "getSubname()"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#23"
+ , "c1" : "TValue"
+ , "c2" : "getValue2()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.svg" }
 
 ] 
 , 
@@ -80,7 +80,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -93,38 +93,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#15"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method analyze arguments TContext  context|TMemory  memory"
+ , "c3" : "QC-JAV000006[00016] For method analyze arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#17"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.EaterStartsub.analyze@POLYN146859 the MagicNumber/String  '!startsub' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.tim.EaterStartsub.analyze@POLYN146859 the MagicNumber/String  '\\w+' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.tim.EaterStartsub.analyze@POLYN146859 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.tim.EaterStartsub.analyze@POLYN146859 the MagicNumber/String  'Bad sub name' should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.tim.EaterReturn.analyze@POLYN146780 the MagicNumber/String  '!return' should be converted to const"
 }} 
 ]
 };

@@ -1,74 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/Position.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/salt/Position.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/Position.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.salt.Position"
+ , "c1" : "PSystemCommandFactory"
+ , "c2" : "net.sourceforge.plantuml.salt.PSystemSaltFactory2"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.salt.Position" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.salt.PSystemSaltFactory2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Position.java.html#9"
- , "c1" : "Position"
- , "c2" : "Position(int;int)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Position.java.html#14"
- , "c1" : "int"
- , "c2" : "getRow()"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#16"
+ , "c1" : "PSystemSaltFactory2"
+ , "c2" : "PSystemSaltFactory2(DiagramType)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Position.java.html#18"
- , "c1" : "int"
- , "c2" : "getCol()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#21"
+ , "c1" : "List<Command>"
+ , "c2" : "createCommands()"
+ , "c3" : "2"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Position.java.html#23"
- , "c1" : "int"
- , "c2" : "hashCode()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Position.java.html#28"
- , "c1" : "boolean"
- , "c2" : "equals(Object)"
- , "c3" : "1"
- , "c4" : "2"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#35"
+ , "c1" : "PSystemSalt"
+ , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c3" : "2"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/Position.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/Position.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.svg" }
 
 ] 
 , 
@@ -96,13 +78,6 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "1"
@@ -118,24 +93,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Position.java.html#4"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class Position contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Position.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.salt.Position.hashCode@POLYN147276 the MagicNumber/String  49 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Position.java.html#28"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#35"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method equals arguments Object  obj"
+ , "c3" : "QC-JAV000006[00035] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.salt.PSystemSaltFactory2.createEmptyDiagram@POLYN150707 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 };

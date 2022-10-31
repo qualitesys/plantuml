@@ -1,43 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java 7 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "CommandMultilines2<PSystemEbnf>"
- , "c2" : "net.sourceforge.plantuml.ebnf.CommandNoteMultilines"
+ , "c2" : "net.sourceforge.plantuml.ebnf.CommandEbnfMultilines"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ebnf.CommandNoteMultilines" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ebnf.CommandEbnfMultilines" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#21"
- , "c1" : "CommandNoteMultilines"
- , "c2" : "CommandNoteMultilines()"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#16"
+ , "c1" : "CommandEbnfMultilines"
+ , "c2" : "CommandEbnfMultilines()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#25"
- , "c1" : "ColorParser"
- , "c2" : "color()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#29"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#20"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -45,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#38"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#27"
  , "c1" : "String"
  , "c2" : "getPatternEnd()"
  , "c3" : "1"
@@ -54,21 +45,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#43"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#32"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeNow(PSystemEbnf;BlocLines)"
  , "c3" : "1"
- , "c4" : "6"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.svg" }
 
 ] 
 , 
@@ -98,14 +89,14 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -118,52 +109,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#31"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.ebnf.CommandNoteMultilines.getRegexConcat@POLYN154657 the MagicNumber/String  'note' should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.getRegexConcat@POLYN150140 the MagicNumber/String  'LINE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#39"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.ebnf.CommandNoteMultilines.getPatternEnd@POLYN155068 the MagicNumber/String  '^end[%s]?note$' should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.getRegexConcat@POLYN150140 the MagicNumber/String  '(\\w[-\\w]*[%s]*=.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#43"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.getPatternEnd@POLYN150479 the MagicNumber/String  '^(.*);$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#32"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method executeNow arguments PSystemEbnf  diagram|BlocLines  lines"
+ , "c3" : "QC-JAV000006[00032] For method executeNow arguments PSystemEbnf  diagram|BlocLines  lines"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#43"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#32"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00043] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00032] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#43"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00043] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#45"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ebnf.CommandNoteMultilines.executeNow@POLYN155170 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.executeNow@POLYN150581 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#45"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ebnf.CommandNoteMultilines.executeNow@POLYN155170 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.executeNow@POLYN150581 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 };

@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/lang/Something.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.project.lang.Something"
+ , "c1" : "SentenceSimple"
+ , "c2" : "net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.lang.Something" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Something.java.html#11"
- , "c1" : "IRegex"
- , "c2" : "toRegex(String)"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#14"
+ , "c1" : "SentenceTaskStartsWithColor"
+ , "c2" : "SentenceTaskStartsWithColor()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Something.java.html#13"
- , "c1" : "Failable<?extendsObject>"
- , "c2" : "getMe(GanttDiagram;RegexResult;String)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#20"
+ , "c1" : "CommandExecutionResult"
+ , "c2" : "execute(GanttDiagram;Object;Object)"
+ , "c3" : "2"
+ , "c4" : "11"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.svg" }
 
 ] 
 , 
@@ -66,5 +66,57 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#20"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00020] For method execute arguments GanttDiagram  diagram|Object  subject|Object  complement"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#20"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00020] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor.execute@POLYN151738 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor.execute@POLYN151738 the MagicNumber/String  1 should be converted to const"
+}} 
+]
 };
 console.log('leListeStr 99 main end');

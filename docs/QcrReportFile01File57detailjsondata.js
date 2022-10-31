@@ -1,47 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/FormatException.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/FormatException.java 0 rule violation " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/FormatException.java.xml" 
+   "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.html" 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/EncodeHintType.java 1 rule violations " 
+ , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ReaderException"
- , "c2" : "ext.plantuml.com.google.zxing.FormatException"
+ , "c1" : "java.lang.Object"
+ , "c2" : "ext.plantuml.com.google.zxing.EncodeHintType"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "ext.plantuml.com.google.zxing.FormatException" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/FormatException.java.html#10"
- , "c1" : "FormatException"
- , "c2" : "FormatException()"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
+ { "nomclasse" : "ext.plantuml.com.google.zxing.EncodeHintType" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/FormatException.java.html#14"
- , "c1" : "FormatException"
- , "c2" : "getFormatInstance()"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.html#14"
+ , "c1" : "EncodeHintType"
+ , "c2" : "EncodeHintType()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "0"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/FormatException.java.png" 
+   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.png" 
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/FormatException.java.svg" }
+ , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.svg" }
 
 ] 
 , 
@@ -66,5 +57,22 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00006"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.html#6"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00006] The class EncodeHintType contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+]
 };
 console.log('leListeStr 99 main end');

@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "FtileFactoryDelegator"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateParallel"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateGroup"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateParallel" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateGroup" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.html#14"
- , "c1" : "FtileFactoryDelegatorCreateParallel"
- , "c2" : "FtileFactoryDelegatorCreateParallel(FtileFactory)"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.html#18"
+ , "c1" : "FtileFactoryDelegatorCreateGroup"
+ , "c2" : "FtileFactoryDelegatorCreateGroup(FtileFactory)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.html#19"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.html#23"
  , "c1" : "Ftile"
- , "c2" : "createParallel(List<Ftile>;ForkStyle;String;Swimlane;Swimlane)"
- , "c3" : "7"
- , "c4" : "7"
+ , "c2" : "createGroup(Ftile;Display;HColor;PositionedNote;USymbol;Style)"
+ , "c3" : "2"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.svg" }
 
 ] 
 , 
@@ -68,6 +68,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -77,10 +84,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.html#19"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.html#23"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method createParallel arguments List&lt;Ftile &gt;  all|ForkStyle  style|String  label|Swimlane  in|Swimlane  out"
+ , "c3" : "QC-JAV000006[00023] For method createGroup arguments Ftile  list|Display  name|HColor  backColor|PositionedNote  note|USymbol  type|Style  style"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateGroup.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateGroup.createGroup@POLYN150056 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 };

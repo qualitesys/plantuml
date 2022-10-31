@@ -1,47 +1,101 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java 7 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FtileFactoryDelegator"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote"
+ , "c1" : "AbstractTextBlockStencil"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#17"
- , "c1" : "FtileFactoryDelegatorAddNote"
- , "c2" : "FtileFactoryDelegatorAddNote(FtileFactory)"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#34"
+ , "c1" : "FloatingNote"
+ , "c2" : "FloatingNote(Display;ISkinParam;SName;boolean)"
+ , "c3" : "1"
+ , "c4" : "10"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#54"
+ , "c1" : "FloatingNote"
+ , "c2" : "create(Display;ISkinParam;SName)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#22"
- , "c1" : "Ftile"
- , "c2" : "addNote(Ftile;Swimlane;Collection<PositionedNote>;VerticalAlignment)"
- , "c3" : "4"
- , "c4" : "6"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#58"
+ , "c1" : "FloatingNote"
+ , "c2" : "createOpale(Display;ISkinParam;SName)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#62"
+ , "c1" : "void"
+ , "c2" : "setOpale(Direction;XPoint2D;XPoint2D)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#67"
+ , "c1" : "void"
+ , "c2" : "drawU(UGraphic)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#71"
+ , "c1" : "XDimension2D"
+ , "c2" : "calculateDimension(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#75"
+ , "c1" : "double"
+ , "c2" : "getStartingX(StringBounder;double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#79"
+ , "c1" : "double"
+ , "c2" : "getEndingX(StringBounder;double)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.svg" }
 
 ] 
 , 
@@ -78,65 +132,86 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "7"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method addNote arguments Ftile  ftile|Swimlane  swimlane|Collection&lt;PositionedNote &gt;  notes|VerticalAlignment  verticalAlignment"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#22"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#34"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument notes is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00034] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote.addNote@POLYN151167 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#54"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00054] For method create arguments Display  note|ISkinParam  skinParam|SName  sname"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#31"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote.addNote@POLYN151167 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote.create@POLYN163960 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote.addNote@POLYN151167 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#58"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00058] For method createOpale arguments Display  note|ISkinParam  skinParam|SName  sname"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#36"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote.addNote@POLYN151167 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote.createOpale@POLYN164229 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote.addNote@POLYN151167 the MagicNumber/String  true should be converted to const"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#62"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00062] For method setOpale arguments Direction  strategy|XPoint2D  pp1|XPoint2D  pp2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#67"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00067] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#71"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00071] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#75"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00075] For method getStartingX arguments StringBounder  stringBounder|double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#79"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00079] For method getEndingX arguments StringBounder  stringBounder|double  y"
 }} 
 ]
 };

@@ -1,74 +1,146 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/UrlBuilder.java 33 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/Url.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/Url.java 17 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/Url.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.UrlBuilder"
+ , "c1" : "EnsureVisible"
+ , "c2" : "net.sourceforge.plantuml.Url"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.UrlBuilder" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.Url" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#37"
- , "c1" : "String"
- , "c2" : "getRegexp()"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#17"
+ , "c1" : "Url"
+ , "c2" : "Url(String;String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#55"
- , "c1" : "UrlBuilder"
- , "c2" : "UrlBuilder(String;UrlMode)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#60"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#21"
  , "c1" : "Url"
- , "c2" : "getUrl(String)"
- , "c3" : "6"
- , "c4" : "12"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#91"
- , "c1" : "boolean"
- , "c2" : "matchesOrFind(Matcher2)"
+ , "c2" : "Url(String;String;String)"
  , "c3" : "5"
- , "c4" : "3"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#101"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#36"
+ , "c1" : "boolean"
+ , "c2" : "isLatex(String)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#40"
+ , "c1" : "boolean"
+ , "c2" : "isLatex()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#44"
  , "c1" : "String"
- , "c2" : "withTopUrl(String)"
+ , "c2" : "getUrl()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#48"
+ , "c1" : "String"
+ , "c2" : "getTooltip()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#52"
+ , "c1" : "String"
+ , "c2" : "getLabel()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#57"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#61"
+ , "c1" : "String"
+ , "c2" : "getCoords(double)"
  , "c3" : "2"
  , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#68"
+ , "c1" : "void"
+ , "c2" : "setMember(boolean)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#72"
+ , "c1" : "boolean"
+ , "c2" : "isMember()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#78"
+ , "c1" : "void"
+ , "c2" : "ensureVisible(double;double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Url.java.html#82"
+ , "c1" : "boolean"
+ , "c2" : "hasData()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/Url.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/Url.java.svg" }
 
 ] 
 , 
@@ -95,10 +167,10 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "2"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -112,247 +184,135 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "27"
+ , "c4" : "11"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#8"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class UrlBuilder contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00009] The class Url contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#38"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.UrlBuilder.getRegexp@POLYN159207 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.Url.Url@POLYN155894 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#39"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.UrlBuilder.getRegexp@POLYN159207 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.Url.Url@POLYN156082 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#40"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.UrlBuilder.getRegexp@POLYN159207 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.Url.Url@POLYN156082 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#41"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.UrlBuilder.getRegexp@POLYN159207 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.Url.Url@POLYN156082 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#60"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.Url.Url@POLYN156082 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#36"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method getUrl arguments String  s"
+ , "c3" : "QC-JAV000006[00036] For method isLatex arguments String  pendingUrl"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.UrlBuilder.getUrl@POLYN160350 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#91"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method matchesOrFind arguments Matcher2  m"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#101"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method withTopUrl arguments String  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.UrlBuilder.withTopUrl@POLYN162909 the MagicNumber/String  'http:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.UrlBuilder.withTopUrl@POLYN162909 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.UrlBuilder.withTopUrl@POLYN162909 the MagicNumber/String  'https:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.UrlBuilder.withTopUrl@POLYN162909 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.UrlBuilder.withTopUrl@POLYN162909 the MagicNumber/String  'file:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.UrlBuilder.withTopUrl@POLYN162909 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.UrlBuilder.withTopUrl@POLYN162909 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#36"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00036] The argument pendingUrl is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#37"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00037] Public method getRegexp is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.Url.isLatex@POLYN156940 the MagicNumber/String  'latex://' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/UrlBuilder.java.html#60"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00060] Public method getUrl is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.Url.toString@POLYN157488 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.Url.toString@POLYN157488 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.Url.toString@POLYN157488 the MagicNumber/String  1.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#61"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00061] For method getCoords arguments double  scale"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.Url.getCoords@POLYN157725 the MagicNumber/String  1.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.Url.getCoords@POLYN157725 the MagicNumber/String  '0,0,0,0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#68"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00068] For method setMember arguments boolean  member"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Url.java.html#78"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00078] For method ensureVisible arguments double  x|double  y"
 }} 
 ]
 };

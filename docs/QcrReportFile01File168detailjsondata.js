@@ -1,317 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/gen/lib/pathplan/route__c.java.html" 
- , "texte" : "File src/gen/lib/pathplan/route__c.java 568 rule violations " 
- , "fic2"  : "./qc/src/gen/lib/pathplan/route__c.java.xml" 
+   "fic1"  : "./qc/src/gen/lib/pack/pack__c.java.html" 
+ , "texte" : "File src/gen/lib/pack/pack__c.java 69 rule violations " 
+ , "fic2"  : "./qc/src/gen/lib/pack/pack__c.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "gen.lib.pathplan.route__c"
+ , "c2" : "gen.lib.pack.pack__c"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "gen.lib.pathplan.route__c" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "gen.lib.pack.pack__c" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00215"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#215"
- , "c1" : "int"
- , "c2" : "Proutespline(CArray<ST_Pedge_t>;int;ST_Ppoly_t;CArray<ST_pointf>;ST_Ppoly_t)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00634"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#634"
- , "c1" : "int"
- , "c2" : "Proutespline_w_(CArray<ST_Pedge_t>;int;ST_Ppoly_t;CArray<ST_pointf>;ST_Ppoly_t)"
- , "c3" : "3"
- , "c4" : "17"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00748"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c1" : "int"
- , "c2" : "reallyroutespline(CArray<ST_Pedge_t>;int;CArray<ST_pointf>;int;ST_pointf;ST_pointf)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00748"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c1" : "int"
- , "c2" : "reallyroutespline_w_(CArray<ST_Pedge_t>;int;CArray<ST_pointf>;int;ST_pointf;ST_pointf)"
- , "c3" : "13"
- , "c4" : "38"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "int"
- , "c2" : "mkspline(CArray<ST_pointf>;int;CArray<ST_tna_t>;ST_pointf;ST_pointf;ST_pointf;ST_pointf;ST_pointf;ST_pointf)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "int"
- , "c2" : "mkspline_w_(CArray<ST_pointf>;int;CArray<ST_tna_t>;ST_pointf;ST_pointf;ST_pointf;ST_pointf;ST_pointf;ST_pointf)"
- , "c3" : "4"
- , "c4" : "33"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "dist_n(CArray<ST_pointf>;int)"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/gen/lib/pack/pack__c.java.html#22"
+ , "c1" : "EN_pack_mode"
+ , "c2" : "parsePackModeInfo(CString;EN_pack_mode;ST_pack_info)"
  , "c3" : "2"
- , "c4" : "9"
+ , "c4" : "39"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "int"
- , "c2" : "splinefits(CArray<ST_Pedge_t>;int;ST_pointf;ST_pointf;ST_pointf;ST_pointf;CArray<ST_pointf>;int)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "int"
- , "c2" : "splinefits_w_(CArray<ST_Pedge_t>;int;ST_pointf;ST_pointf;ST_pointf;ST_pointf;CArray<ST_pointf>;int)"
- , "c3" : "10"
- , "c4" : "40"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "boolean"
- , "c2" : "splineisinside(CArray<ST_Pedge_t>;int;CArray<ST_pointf>)"
- , "c3" : "6"
- , "c4" : "26"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "int"
- , "c2" : "splineintersectsline(CArray<ST_pointf>;CArray<ST_pointf>;double[])"
- , "c3" : "24"
- , "c4" : "59"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "void"
- , "c2" : "points2coeff(double;double;double;double;double[])"
- , "c3" : "1"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "void"
- , "c2" : "addroot(double;double[];int[])"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "ST_pointf"
- , "c2" : "normv(ST_pointf)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "ST_pointf"
- , "c2" : "normv_w_(ST_pointf)"
- , "c3" : "2"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "void"
- , "c2" : "growops(int)"
- , "c3" : "6"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "ST_pointf"
- , "c2" : "add(ST_pointf;ST_pointf)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "ST_pointf"
- , "c2" : "add_w_(ST_pointf;ST_pointf)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "ST_pointf"
- , "c2" : "sub(ST_pointf;ST_pointf)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "ST_pointf"
- , "c2" : "sub_w_(ST_pointf;ST_pointf)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "dist(ST_pointf;ST_pointf)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "dist_w_(ST_pointf;ST_pointf)"
- , "c3" : "1"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "ST_pointf"
- , "c2" : "scale(ST_pointf;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "ST_pointf"
- , "c2" : "scale_w_(ST_pointf;double)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "dot(ST_pointf;ST_pointf)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "dot_w_(ST_pointf;ST_pointf)"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/gen/lib/pack/pack__c.java.html#84"
+ , "c1" : "EN_pack_mode"
+ , "c2" : "getPackModeInfo(ST_Agraph_s;EN_pack_mode;ST_pack_info)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "B0(double)"
- , "c3" : "1"
- , "c4" : "4"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/gen/lib/pack/pack__c.java.html#100"
+ , "c1" : "int"
+ , "c2" : "getPack(ST_Agraph_s;int;int)"
+ , "c3" : "2"
+ , "c4" : "10"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "B1(double)"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/gen/lib/pack/pack__c.java.html#123"
+ , "c1" : "EN_pack_mode"
+ , "c2" : "getPackInfo(ST_Agraph_s;EN_pack_mode;int;ST_pack_info)"
  , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "B2(double)"
- , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "B3(double)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "B01(double)"
- , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c1" : "double"
- , "c2" : "B23(double)"
- , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "7"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/gen/lib/pathplan/route__c.java.png" 
+   {"ligne" : "./qc/src/gen/lib/pack/pack__c.java.png" 
 
- , "ligneplantuml" : "./qc/src/gen/lib/pathplan/route__c.java.svg" }
+ , "ligneplantuml" : "./qc/src/gen/lib/pack/pack__c.java.svg" }
 
 ] 
 , 
@@ -336,42 +84,19 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-,
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "75"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "43"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE481"
  , "c3" : "Assigning instead of comparing"
- , "c4" : "6"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -385,3999 +110,499 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "409"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000021"
- , "c3" : "The same method is called several times, might be optimized"
- , "c4" : "1"
+ , "c4" : "61"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "32"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#15"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00015] The class pack__c contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#22"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00022] For method parsePackModeInfo arguments CString  p|EN_pack_mode  dflt|ST_pack_info  pinfo"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#22"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00022] The argument pinfo is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00023"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#23"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00023] The class route__c contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00023] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'dyb1n3lhbi0wnr9kvmu6onux9' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#154"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'parsePackModeInfo' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '\0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '2ybrtqq8efxouph8wjbrnowxz' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '2v5u3irq50r1n2ccuna0y09lk' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '4o68zbwd6291pxryyntjh2432' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#36"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00036] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '3cxht114gc0fn4wl8xjy515bv' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'edkaa80od81ojkn7d4h0q1zbu' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '106zhcf9a6frvafctbbgrbws3' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'epac8gmlq3r1q3g6lh3fb9nzh' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '2e563kaxakuuou2t5kqvv33w5' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '6t98dcecgbvbvtpycwiq2ynnj' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '38dve3snq2grkwui6y1tpc6r1' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'ems4wqj0nbd0vi3sttf36tnir' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '3ckdfsy55ba8os2xhymh002al' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '1i6xlg2sfqvjqjdu811xm5398' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#46"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00046] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '7e1uy5mzei37p66t8jp01r3mk' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'b3tzhasiwa1p83l47nhl6k5x8' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '6t98dcecgbvbvtpycwiq2ynnj' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'ai3czg6gaaxspsmndknpyvuiu' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'f3lyz2cejs6yn5fyckhn7ba1' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'd6yjom2gtqleeq1vf5l72eazl' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '2xe2y3s32q27l74dshw3831hu' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00053] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'ai3czg6gaaxspsmndknpyvuiu' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'e00kor2k58i044hvvxytt9dhg' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#55"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00055] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  '8vzhimdinzz48u15tcx34gzgs' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'coafx7pn3ah1ulp0o7a0z119r' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'ai3czg6gaaxspsmndknpyvuiu' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'f187wptsr73liavtlyoyfovp3' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#59"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00059] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'aqi1ed010xc3cj8xoye8vqkqe' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'epewq8yin5pr1meeofxvntjes' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#61"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00061] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'ai3czg6gaaxspsmndknpyvuiu' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'flupwh3kosf3fkhkxllllt1' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'dyb1n3lhbi0wnr9kvmu6onux9' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method gen.lib.pack.pack__c.parsePackModeInfo@POLYN170035 the MagicNumber/String  'parsePackModeInfo' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00154] For method Proutespline arguments CArray&lt;ST_Pedge_t &gt;  edges|int  edgen|ST_Ppoly_t  input|CArray&lt;ST_pointf &gt;  evs|ST_Ppoly_t  output"
+ , "c3" : "QC-JAV000006[00084] For method getPackModeInfo arguments ST_Agraph_s  g|EN_pack_mode  dflt|ST_pack_info  pinfo"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#237"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00237] The argument input is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method gen.lib.pack.pack__c.getPackModeInfo@POLYN173178 the MagicNumber/String  'bnxqpsmvz6tyekstfjte4pzwj' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00614"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#614"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method gen.lib.pack.pack__c.getPackModeInfo@POLYN173178 the MagicNumber/String  'getPackModeInfo' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00087] In method gen.lib.pack.pack__c.getPackModeInfo@POLYN173178 the MagicNumber/String  'packmode' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method gen.lib.pack.pack__c.getPackModeInfo@POLYN173178 the MagicNumber/String  'bnxqpsmvz6tyekstfjte4pzwj' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method gen.lib.pack.pack__c.getPackModeInfo@POLYN173178 the MagicNumber/String  'getPackModeInfo' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#100"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00614] For method Proutespline_w_ arguments CArray&lt;ST_Pedge_t &gt;  edges|int  edgen|ST_Ppoly_t  input|CArray&lt;ST_pointf &gt;  evs|ST_Ppoly_t  output"
+ , "c3" : "QC-JAV000006[00100] For method getPack arguments ST_Agraph_s  g|int  not_def|int  dflt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00748] The argument input is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00748] The argument evs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00748] The argument output is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  '9stmrdqlmufyk2wutp3totr5j' should be converted to const"
+ , "c3" : "QC-JAVCWE481[00106] Assigning instead of comparing on p=agget(g,new CString('pack')) (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  'Proutespline' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  'ata97fmix5q1oikrmk5pezvrf' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  'getPack' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  '8d9xfgejx5vgd6shva5wk5k06' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  'pack' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  'enpqar7c7okvibe7xhe0vjtfn' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  '3puzxwczcmpxvlw8cvmeyio74' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  '65w8fxtw319slbg2c6nvtmow8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  '5lifdir9mxnvpi8ur34qo0jej' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  'ata97fmix5q1oikrmk5pezvrf' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method gen.lib.pack.pack__c.getPack@POLYN174092 the MagicNumber/String  'getPack' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  '9stmrdqlmufyk2wutp3totr5j' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.Proutespline_w_@POLYN300114 the MagicNumber/String  'Proutespline' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00748] For method reallyroutespline arguments CArray&lt;ST_Pedge_t &gt;  edges|int  edgen|CArray&lt;ST_pointf &gt;  inps|int  inpn|ST_pointf  ev0|ST_pointf  ev1"
+ , "c3" : "QC-JAV000006[00123] For method getPackInfo arguments ST_Agraph_s  g|EN_pack_mode  dflt|int  dfltMargin|ST_pack_info  pinfo"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#123"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00748] The argument ev0 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00123] The argument pinfo is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00748] The argument ev1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00748] For method reallyroutespline_w_ arguments CArray&lt;ST_Pedge_t &gt;  edges|int  edgen|CArray&lt;ST_pointf &gt;  inps|int  inpn|ST_pointf  ev0|ST_pointf  ev1"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00748] The argument inps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00748] Assigning instead of comparing on Z.z().tnas=CArray.&amp;lt;ST_tna_t &amp;gt;ALLOC__(inpn,ST_tna_t.class ) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00748] Assigning instead of comparing on Z.z().tnas=CArray.&amp;lt;ST_tna_t &amp;gt;REALLOC__(inpn,Z.z().tnas,ST_tna_t.class ) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00001] Assigning instead of comparing on d=dist(p,inps.get__(i)) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  '13dxqzbgtpl4ubnnvw6ehzzi9' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  'reallyroutespline' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  3.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  3.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  '13dxqzbgtpl4ubnnvw6ehzzi9' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN302960 the MagicNumber/String  'reallyroutespline' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method mkspline arguments CArray&lt;ST_pointf &gt;  inps|int  inpn|CArray&lt;ST_tna_t &gt;  tnas|ST_pointf  ev0|ST_pointf  ev1|ST_pointf  sp0|ST_pointf  sv0|ST_pointf  sp1|ST_pointf  sv1"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument ev0 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument ev1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method mkspline_w_ arguments CArray&lt;ST_pointf &gt;  inps|int  inpn|CArray&lt;ST_tna_t &gt;  tnas|ST_pointf  ev0|ST_pointf  ev1|ST_pointf  sp0|ST_pointf  sv0|ST_pointf  sp1|ST_pointf  sv1"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument inps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument tnas is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument sp0 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument sv0 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument sp1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument sv1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  '29sok6jkfyobf83q130snkhmh' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  'mkspline' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1e-6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1e-6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  3.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  '29sok6jkfyobf83q130snkhmh' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String  'mkspline' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method dist_n arguments CArray&lt;ST_pointf &gt;  p|int  n"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  'ea6jsc0rwfyjtmmuxax6r5ngk' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  'dist_n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  'ea6jsc0rwfyjtmmuxax6r5ngk' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_n@POLYN318415 the MagicNumber/String  'dist_n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method splinefits arguments CArray&lt;ST_Pedge_t &gt;  edges|int  edgen|ST_pointf  pa|ST_pointf  va|ST_pointf  pb|ST_pointf  vb|CArray&lt;ST_pointf &gt;  inps|int  inpn"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument pa is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument va is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument pb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument vb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method splinefits_w_ arguments CArray&lt;ST_Pedge_t &gt;  edges|int  edgen|ST_pointf  pa|ST_pointf  va|ST_pointf  pb|ST_pointf  vb|CArray&lt;ST_pointf &gt;  inps|int  inpn"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument pa is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument va is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument pb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument vb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  '987ednrgu5qo9dzhpiox47mhb' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  'splinefits' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  3.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  3.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  3.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  3.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  1E should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  .01 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  '987ednrgu5qo9dzhpiox47mhb' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splinefits_w_@POLYN320722 the MagicNumber/String  'splinefits' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method splineisinside arguments CArray&lt;ST_Pedge_t &gt;  edges|int  edgen|CArray&lt;ST_pointf &gt;  sps"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument edges is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument sps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00001] Assigning instead of comparing on rootn=splineintersectsline(sps,lps,roots) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00001] The same method call roots[rooti] is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  'b6eghkeu16aum3l778ig52ht1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  'splineisinside' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1E should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1E should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1E should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  1E should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  'b6eghkeu16aum3l778ig52ht1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineisinside@POLYN326231 the MagicNumber/String  'splineisinside' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method splineintersectsline arguments CArray&lt;ST_pointf &gt;  sps|CArray&lt;ST_pointf &gt;  lps|double[]  roots"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument sps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument lps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  '32nc8itszi77u36la8npt2870' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  'splineintersectsline' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  '32nc8itszi77u36la8npt2870' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.splineintersectsline@POLYN330590 the MagicNumber/String  'splineintersectsline' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method points2coeff arguments double  v0|double  v1|double  v2|double  v3|double[]  coeff"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  '9011b45d42bhwfxzhgxqnlfhp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  'points2coeff' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  '9011b45d42bhwfxzhgxqnlfhp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.points2coeff@POLYN340655 the MagicNumber/String  'points2coeff' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method addroot arguments double  root|double[]  roots|int[]  rootnp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.addroot@POLYN341965 the MagicNumber/String  '6ldk438jjflh0huxkg4cs8kwu' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.addroot@POLYN341965 the MagicNumber/String  'addroot' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.addroot@POLYN341965 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.addroot@POLYN341965 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.addroot@POLYN341965 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.addroot@POLYN341965 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.addroot@POLYN341965 the MagicNumber/String  '6ldk438jjflh0huxkg4cs8kwu' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.addroot@POLYN341965 the MagicNumber/String  'addroot' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method normv arguments ST_pointf  v"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method normv_w_ arguments ST_pointf  v"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.normv_w_@POLYN343029 the MagicNumber/String  '3i8m1m9fg7qmnt8jloorwlu8e' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.normv_w_@POLYN343029 the MagicNumber/String  'normv' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.normv_w_@POLYN343029 the MagicNumber/String  1e-6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.normv_w_@POLYN343029 the MagicNumber/String  '3i8m1m9fg7qmnt8jloorwlu8e' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.normv_w_@POLYN343029 the MagicNumber/String  'normv' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method growops arguments int  newopn"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00001] Assigning instead of comparing on Z.z().ops_route=CArray.&amp;lt;ST_pointf &amp;gt;ALLOC__(newopn,ST_pointf.class ) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00001] Assigning instead of comparing on Z.z().ops_route=CArray.&amp;lt;ST_pointf &amp;gt;REALLOC__(newopn,Z.z().ops_route,ST_pointf.class ) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.growops@POLYN344098 the MagicNumber/String  'd59jcnpi1y0wr8e9uwxny2fvk' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.growops@POLYN344098 the MagicNumber/String  'growops' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.growops@POLYN344098 the MagicNumber/String  '413an1hqgkb4ezaec6qdsdplx' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.growops@POLYN344098 the MagicNumber/String  '1r6uhbnmxv8c6msnscw07w0qx' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.growops@POLYN344098 the MagicNumber/String  '8u0qgahxvk5pplf90thmhwxhl' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.growops@POLYN344098 the MagicNumber/String  '1r6uhbnmxv8c6msnscw07w0qx' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.growops@POLYN344098 the MagicNumber/String  'd59jcnpi1y0wr8e9uwxny2fvk' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.growops@POLYN344098 the MagicNumber/String  'growops' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method add arguments ST_pointf  p1|ST_pointf  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method add_w_ arguments ST_pointf  p1|ST_pointf  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.add_w_@POLYN345968 the MagicNumber/String  'f4a7nt247bokdwr2owda050of' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.add_w_@POLYN345968 the MagicNumber/String  'add' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.add_w_@POLYN345968 the MagicNumber/String  'f4a7nt247bokdwr2owda050of' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.add_w_@POLYN345968 the MagicNumber/String  'add' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method sub arguments ST_pointf  p1|ST_pointf  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method sub_w_ arguments ST_pointf  p1|ST_pointf  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.sub_w_@POLYN347004 the MagicNumber/String  'c4l1gvlkv2s4mi6os7r9dh89f' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.sub_w_@POLYN347004 the MagicNumber/String  'sub' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.sub_w_@POLYN347004 the MagicNumber/String  'c4l1gvlkv2s4mi6os7r9dh89f' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.sub_w_@POLYN347004 the MagicNumber/String  'sub' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method dist arguments ST_pointf  p1|ST_pointf  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method dist_w_ arguments ST_pointf  p1|ST_pointf  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_w_@POLYN348020 the MagicNumber/String  'dqnlz0tceriykws4ngudl94w9' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_w_@POLYN348020 the MagicNumber/String  'dist' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_w_@POLYN348020 the MagicNumber/String  'dqnlz0tceriykws4ngudl94w9' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dist_w_@POLYN348020 the MagicNumber/String  'dist' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method scale arguments ST_pointf  p|double  c"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method scale_w_ arguments ST_pointf  p|double  c"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.scale_w_@POLYN349155 the MagicNumber/String  '19149pdllzhplvew0bsh5v6hy' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.scale_w_@POLYN349155 the MagicNumber/String  'scale' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.scale_w_@POLYN349155 the MagicNumber/String  '19149pdllzhplvew0bsh5v6hy' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.scale_w_@POLYN349155 the MagicNumber/String  'scale' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method dot arguments ST_pointf  p1|ST_pointf  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method dot_w_ arguments ST_pointf  p1|ST_pointf  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00001] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dot_w_@POLYN350152 the MagicNumber/String  '7ebsa2s1eoopqj1pp43bh5fw' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dot_w_@POLYN350152 the MagicNumber/String  'dot' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dot_w_@POLYN350152 the MagicNumber/String  '7ebsa2s1eoopqj1pp43bh5fw' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.dot_w_@POLYN350152 the MagicNumber/String  'dot' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method B0 arguments double  t"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B0@POLYN350829 the MagicNumber/String  '73nhv3cuxqa9va0puve0ji2d5' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B0@POLYN350829 the MagicNumber/String  'B0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B0@POLYN350829 the MagicNumber/String  1.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B0@POLYN350829 the MagicNumber/String  '73nhv3cuxqa9va0puve0ji2d5' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B0@POLYN350829 the MagicNumber/String  'B0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method B1 arguments double  t"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B1@POLYN351500 the MagicNumber/String  'jkfs4ak0xr5pzwye7qnm6irp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B1@POLYN351500 the MagicNumber/String  'B1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B1@POLYN351500 the MagicNumber/String  1.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B1@POLYN351500 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B1@POLYN351500 the MagicNumber/String  'jkfs4ak0xr5pzwye7qnm6irp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B1@POLYN351500 the MagicNumber/String  'B1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method B2 arguments double  t"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B2@POLYN352195 the MagicNumber/String  '9ziajuqys2xceftdw0vac02g9' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B2@POLYN352195 the MagicNumber/String  'B2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B2@POLYN352195 the MagicNumber/String  1.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B2@POLYN352195 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B2@POLYN352195 the MagicNumber/String  '9ziajuqys2xceftdw0vac02g9' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B2@POLYN352195 the MagicNumber/String  'B2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method B3 arguments double  t"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B3@POLYN352890 the MagicNumber/String  '5sjstsgkvoou9grsty3y0cnvg' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B3@POLYN352890 the MagicNumber/String  'B3' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B3@POLYN352890 the MagicNumber/String  '5sjstsgkvoou9grsty3y0cnvg' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B3@POLYN352890 the MagicNumber/String  'B3' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method B01 arguments double  t"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B01@POLYN353482 the MagicNumber/String  '9hzfapzxcesobeegq4aokksbp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B01@POLYN353482 the MagicNumber/String  'B01' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B01@POLYN353482 the MagicNumber/String  1.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B01@POLYN353482 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B01@POLYN353482 the MagicNumber/String  '9hzfapzxcesobeegq4aokksbp' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B01@POLYN353482 the MagicNumber/String  'B01' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method B23 arguments double  t"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B23@POLYN354221 the MagicNumber/String  '571cxp9l20eyvqjwdoy9vnc6t' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method gen.lib.pack.pack__c.getPackInfo@POLYN175317 the MagicNumber/String  'ce4a70w8ddkj4l9efi74h61s6' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B23@POLYN354221 the MagicNumber/String  'B23' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method gen.lib.pack.pack__c.getPackInfo@POLYN175317 the MagicNumber/String  'getPackInfo' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B23@POLYN354221 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method gen.lib.pack.pack__c.getPackInfo@POLYN175317 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B23@POLYN354221 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method gen.lib.pack.pack__c.getPackInfo@POLYN175317 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B23@POLYN354221 the MagicNumber/String  '571cxp9l20eyvqjwdoy9vnc6t' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method gen.lib.pack.pack__c.getPackInfo@POLYN175317 the MagicNumber/String  'ce4a70w8ddkj4l9efi74h61s6' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/gen/lib/pack/pack__c.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.pathplan.route__c.B23@POLYN354221 the MagicNumber/String  'B23' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.mkspline_w_@POLYN311741"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String '29sok6jkfyobf83q130snkhmh' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String '29sok6jkfyobf83q130snkhmh' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 'mkspline' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 'mkspline' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0.0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0.0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0.0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0.0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 0.0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1e-6 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 1e-6 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/route__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 3.0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV000010[00135] In method gen.lib.pack.pack__c.getPackInfo@POLYN175317 the MagicNumber/String  'getPackInfo' should be converted to const"
 }} 
 ]
 };

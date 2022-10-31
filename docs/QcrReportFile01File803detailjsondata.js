@@ -1,31 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEvent.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/bpm/BpmEvent.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEvent.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmElementType.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/bpm/BpmElementType.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmElementType.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.bpm.BpmEvent"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.bpm.BpmEvent" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.bpm." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEvent.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEvent.java.svg" }
-
 ] 
 , 
 "data04" : [

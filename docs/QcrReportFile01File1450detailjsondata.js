@@ -1,200 +1,308 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/json/JsonHandler.java 32 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/json/JsonArray.java 36 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.json.JsonHandler"
+ , "c1" : "JsonValueIterable<JsonValue>"
+ , "c2" : "net.sourceforge.plantuml.json.JsonArray"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.json.JsonHandler" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.json.JsonArray" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "Location"
- , "c2" : "getLocation()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "JsonArray()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "startNull()"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "endNull()"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "startBoolean()"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "endBoolean(boolean)"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "startString()"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "endString(String)"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "startNumber()"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "endNumber(String)"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "A"
- , "c2" : "startArray()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "JsonArray(JsonArray)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "endArray(A)"
- , "c3" : "1"
- , "c4" : "0"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "JsonArray(JsonArray;boolean)"
+ , "c3" : "4"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "startArrayValue(A)"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "endArrayValue(A)"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "O"
- , "c2" : "startObject()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "readFrom(Reader)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "endObject(O)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "readFrom(String)"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "startObjectName(O)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "unmodifiableArray(JsonArray)"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "endObjectName(O;String)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "add(int)"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "startObjectValue(O;String)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "add(long)"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c1" : "void"
- , "c2" : "endObjectValue(O;String)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "add(float)"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "add(double)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "add(boolean)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "add(String)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "add(JsonValue)"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "set(int;int)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "set(int;long)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "set(int;float)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "set(int;double)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "set(int;boolean)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "set(int;String)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "set(int;JsonValue)"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "remove(int)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "int"
+ , "c2" : "size()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "boolean"
+ , "c2" : "isEmpty()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonValue"
+ , "c2" : "get(int)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "List<JsonValue>"
+ , "c2" : "values()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "Iterator<JsonValue>"
+ , "c2" : "iterator()"
+ , "c3" : "1"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "void"
+ , "c2" : "write(JsonWriter)"
+ , "c3" : "3"
+ , "c4" : "6"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "boolean"
+ , "c2" : "isArray()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "JsonArray"
+ , "c2" : "asArray()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "int"
+ , "c2" : "hashCode()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c1" : "boolean"
+ , "c2" : "equals(Object)"
+ , "c3" : "4"
+ , "c4" : "5"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.svg" }
 
 ] 
 , 
@@ -221,16 +329,9 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "18"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
  , "c4" : "1"
 }}
 ,
@@ -238,240 +339,275 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "13"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000021"
+ , "c3" : "The same method is called several times, might be optimized"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "11"
+ , "c4" : "21"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00001] The class JsonHandler contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.JsonArray@POLYN232261 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method endBoolean arguments boolean  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method endString arguments String  string"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method endNumber arguments String  string"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonHandler.startArray@POLYN198185 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.JsonArray@POLYN232402 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method endArray arguments A  array"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method startArrayValue arguments A  array"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method endArrayValue arguments A  array"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonHandler.startObject@POLYN199961 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.JsonArray@POLYN232402 the MagicNumber/String  'array is null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method endObject arguments O  object"
+ , "c3" : "QC-JAV000006[00001] For method readFrom arguments Reader  reader"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method startObjectName arguments O  object"
+ , "c3" : "QC-JAV000006[00001] For method readFrom arguments String  string"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method endObjectName arguments O  object|String  name"
+ , "c3" : "QC-JAV000006[00001] For method unmodifiableArray arguments JsonArray  array"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.unmodifiableArray@POLYN234461 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method startObjectValue arguments O  object|String  name"
+ , "c3" : "QC-JAV000006[00001] For method add arguments int  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method endObjectValue arguments O  object|String  name"
+ , "c3" : "QC-JAV000006[00001] For method add arguments long  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method startArray is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method add arguments float  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method startObject is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method add arguments double  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method startNull is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method add arguments boolean  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method endNull is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method add arguments String  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method startBoolean is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method add arguments JsonValue  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method endBoolean is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.add@POLYN237147 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method startString is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.add@POLYN237147 the MagicNumber/String  'value is null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method endString is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method set arguments int  index|int  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method startNumber is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method set arguments int  index|long  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method endNumber is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method set arguments int  index|float  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method endArray is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method set arguments int  index|double  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method startArrayValue is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method set arguments int  index|boolean  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method endArrayValue is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method set arguments int  index|String  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method endObject is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method set arguments int  index|JsonValue  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method startObjectName is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.set@POLYN241684 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method endObjectName is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.set@POLYN241684 the MagicNumber/String  'value is null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method startObjectValue is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method remove arguments int  index"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00001] Public method endObjectValue is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method get arguments int  index"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method write arguments JsonWriter  writer"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00001] The argument writer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.isArray@POLYN245099 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00001] For method equals arguments Object  object"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00001] The same method call object.getClass() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.equals@POLYN245793 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.equals@POLYN245793 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.equals@POLYN245793 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonArray.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonArray.equals@POLYN245793 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 };

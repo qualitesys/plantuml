@@ -1,47 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/nwdiag/VerticalLine.java 20 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDrawable"
- , "c2" : "net.sourceforge.plantuml.nwdiag.VerticalLine"
+ , "c1" : "PSystemCommandFactory"
+ , "c2" : "net.sourceforge.plantuml.nwdiag.NwDiagramFactory"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.nwdiag.VerticalLine" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.nwdiag.NwDiagramFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#17"
- , "c1" : "VerticalLine"
- , "c2" : "VerticalLine(double;double;Set<Double>)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html#17"
+ , "c1" : "NwDiagramFactory"
+ , "c2" : "NwDiagramFactory(DiagramType)"
  , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#23"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic)"
- , "c3" : "8"
- , "c4" : "19"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html#22"
+ , "c1" : "NwDiagram"
+ , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html#27"
+ , "c1" : "List<Command>"
+ , "c2" : "createCommands()"
+ , "c3" : "1"
+ , "c4" : "12"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.svg" }
 
 ] 
 , 
@@ -68,27 +77,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "17"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -98,143 +86,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class VerticalLine contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#23"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html#22"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#23"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  9 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  9 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.nwdiag.VerticalLine.drawU@POLYN153305 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00022] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ]
 };

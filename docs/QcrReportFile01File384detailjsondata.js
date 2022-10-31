@@ -1,128 +1,272 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/FileGroup.java 52 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/FileGroup.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/FileFormatOption.java 29 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.FileGroup"
+ , "c1" : "Serializable"
+ , "c2" : "net.sourceforge.plantuml.FileFormatOption"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.FileGroup" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.FileFormatOption" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#22"
- , "c1" : "FileGroup"
- , "c2" : "FileGroup(String;List<String>;Option)"
- , "c3" : "5"
- , "c4" : "7"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#26"
+ , "c1" : "double"
+ , "c2" : "getScaleCoef()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#31"
+ , "c1" : "FileFormatOption"
+ , "c2" : "FileFormatOption(FileFormat)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#37"
- , "c1" : "void"
- , "c2" : "recurse()"
- , "c3" : "4"
- , "c4" : "7"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#37"
+ , "c1" : "FileFormatOption"
+ , "c2" : "FileFormatOption(FileFormat;boolean)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#52"
- , "c1" : "void"
- , "c2" : "initNoStar()"
- , "c3" : "4"
- , "c4" : "3"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#42"
+ , "c1" : "FileFormatOption"
+ , "c2" : "FileFormatOption(FileFormat;boolean;boolean;String;boolean;String;TikzFontDistortion;double;String;String;ColorMapper)"
+ , "c3" : "1"
+ , "c4" : "11"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#61"
- , "c1" : "void"
- , "c2" : "addResultFile(File)"
- , "c3" : "3"
- , "c4" : "3"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#58"
+ , "c1" : "StringBounder"
+ , "c2" : "getDefaultStringBounder(SvgCharSizeHack)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#62"
+ , "c1" : "String"
+ , "c2" : "getSvgLinkTarget()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#66"
+ , "c1" : "boolean"
+ , "c2" : "isWithMetadata()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#70"
- , "c1" : "void"
- , "c2" : "addSimpleDirectory(File)"
- , "c3" : "3"
- , "c4" : "2"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#70"
+ , "c1" : "String"
+ , "c2" : "getPreserveAspectRatio()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#78"
- , "c1" : "void"
- , "c2" : "addSimpleDirectory(File;String)"
- , "c3" : "5"
- , "c4" : "2"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#74"
+ , "c1" : "FileFormatOption"
+ , "c2" : "withUseRedForError()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#79"
+ , "c1" : "FileFormatOption"
+ , "c2" : "withTikzFontDistortion(TikzFontDistortion)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#84"
+ , "c1" : "FileFormatOption"
+ , "c2" : "withSvgLinkTarget(String)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#89"
- , "c1" : "String"
- , "c2" : "getNormalizedPath(File)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#89"
+ , "c1" : "FileFormatOption"
+ , "c2" : "withPreserveAspectRatio(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#95"
- , "c1" : "void"
- , "c2" : "initWithSimpleStar()"
- , "c3" : "4"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#113"
- , "c1" : "void"
- , "c2" : "initWithDoubleStar(File)"
- , "c3" : "7"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#127"
- , "c1" : "List<File>"
- , "c2" : "getFiles()"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#94"
+ , "c1" : "FileFormatOption"
+ , "c2" : "withHoverColor(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#131"
- , "c1" : "String"
- , "c2" : "toRegexp(String)"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#99"
+ , "c1" : "FileFormatOption"
+ , "c2" : "withScale(double)"
  , "c3" : "1"
- , "c4" : "8"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#104"
+ , "c1" : "FileFormatOption"
+ , "c2" : "withWartermark(String)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#109"
+ , "c1" : "FileFormatOption"
+ , "c2" : "withColorMapper(ColorMapper)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#115"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#119"
+ , "c1" : "FileFormat"
+ , "c2" : "getFileFormat()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#124"
+ , "c1" : "AffineTransform"
+ , "c2" : "getAffineTransform()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#128"
+ , "c1" : "boolean"
+ , "c2" : "isUseRedForError()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#134"
+ , "c1" : "void"
+ , "c2" : "setDebugSvek(boolean)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#138"
+ , "c1" : "boolean"
+ , "c2" : "isDebugSvek()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#142"
+ , "c1" : "String"
+ , "c2" : "getHoverColor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#146"
+ , "c1" : "void"
+ , "c2" : "hideMetadata()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#150"
+ , "c1" : "TikzFontDistortion"
+ , "c2" : "getTikzFontDistortion()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00154"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#154"
+ , "c1" : "String"
+ , "c2" : "getWatermark()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#158"
+ , "c1" : "ColorMapper"
+ , "c2" : "getColorMapper()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.svg" }
 
 ] 
 , 
@@ -149,27 +293,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -180,380 +303,219 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "39"
+ , "c4" : "19"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "9"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#13"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00013] The class FileGroup contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00013] The class FileFormatOption contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#22"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument pattern is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.FileGroup.FileGroup@POLYN165143 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165260 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.FileGroup.FileGroup@POLYN165143 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165260 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.FileGroup.FileGroup@POLYN165143 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165260 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.FileGroup.FileGroup@POLYN165143 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165260 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#28"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.FileGroup.FileGroup@POLYN165143 the MagicNumber/String  '**' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165260 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#28"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.FileGroup.FileGroup@POLYN165143 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165260 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#40"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.FileGroup.recurse@POLYN165982 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165260 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#44"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.FileGroup.recurse@POLYN165982 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165260 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#44"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.FileGroup.recurse@POLYN165982 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165655 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#45"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.FileGroup.recurse@POLYN165982 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165655 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#47"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.FileGroup.recurse@POLYN165982 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165655 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#61"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165655 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165655 the MagicNumber/String  1.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165655 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165655 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method addResultFile arguments File  f"
+ , "c3" : "QC-JAV000006[00058] For method getDefaultStringBounder arguments SvgCharSizeHack  charSizeHack"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#70"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method addSimpleDirectory arguments File  dir"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#72"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileGroup.addSimpleDirectory@POLYN167511 the MagicNumber/String  '(?i)^.*_extr\\d+\\.txt$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method addSimpleDirectory arguments File  dir|String  pattern"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#78"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument dir is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.FileFormatOption.withUseRedForError@POLYN167560 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.FileGroup.addSimpleDirectory@POLYN167841 the MagicNumber/String  false should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#79"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00079] For method withTikzFontDistortion arguments TikzFontDistortion  tikzFontDistortion"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#80"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.FileGroup.addSimpleDirectory@POLYN167841 the MagicNumber/String  'dir=' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.FileFormatOption.withTikzFontDistortion@POLYN167906 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.FileGroup.addSimpleDirectory@POLYN167841 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#84"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00084] For method withSvgLinkTarget arguments String  svgLinkTarget"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#89"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method getNormalizedPath arguments File  f"
+ , "c3" : "QC-JAV000006[00089] For method withPreserveAspectRatio arguments String  preserveAspectRatio"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.FileGroup.getNormalizedPath@POLYN168428 the MagicNumber/String  '\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.FileGroup.getNormalizedPath@POLYN168428 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.FileGroup.initWithSimpleStar@POLYN168730 the MagicNumber/String  '**' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.FileGroup.initWithSimpleStar@POLYN168730 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#94"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00094] For method withHoverColor arguments String  hoverColor"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.FileGroup.initWithSimpleStar@POLYN168730 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.FileGroup.initWithSimpleStar@POLYN168730 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.FileGroup.initWithSimpleStar@POLYN168730 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.FileGroup.initWithSimpleStar@POLYN168730 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.FileGroup.initWithSimpleStar@POLYN168730 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method initWithDoubleStar arguments File  currentDir"
+ , "c3" : "QC-JAV000006[00099] For method withScale arguments double  scale"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#113"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00113] The argument currentDir is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00119] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.FileGroup.initWithDoubleStar@POLYN169734 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#131"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#104"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00131] For method toRegexp arguments String  pattern"
+ , "c3" : "QC-JAV000006[00104] For method withWartermark arguments String  watermark"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#131"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00131] The argument pattern is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#109"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00109] For method withColorMapper arguments ColorMapper  colorMapper"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#132"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '\\.' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.FileFormatOption.getAffineTransform@POLYN170695 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '?' should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#134"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00134] For method setDebugSvek arguments boolean  debugsvek"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#134"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '[^/]' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '/**/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '(/|/.{0,}/)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '**' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '.{0,}' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '[^/]{0,}' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '(?i)^(\\./)?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.FileGroup.toRegexp@POLYN170593 the MagicNumber/String  '$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileGroup.java.html#127"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00127] Public method getFiles is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.FileFormatOption.hideMetadata@POLYN171238 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 };

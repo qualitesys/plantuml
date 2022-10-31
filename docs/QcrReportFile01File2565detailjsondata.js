@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractPlacementStrategy"
- , "c2" : "net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Center"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Center" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java.html#14"
- , "c1" : "PlacementStrategyY1Y2Center"
- , "c2" : "PlacementStrategyY1Y2Center(StringBounder)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html#14"
+ , "c1" : "PlacementStrategyY1Y2"
+ , "c2" : "PlacementStrategyY1Y2(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java.html#18"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html#18"
  , "c1" : "Map<TextBlock,XPoint2D>"
  , "c2" : "getPositions(double;double)"
  , "c3" : "2"
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.svg" }
 
 ] 
 , 
@@ -85,23 +85,23 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java.html#18"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html#18"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00018] For method getPositions arguments double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java.html#22"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Center.getPositions@POLYN150115 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2.getPositions@POLYN150115 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Center.java.html#26"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Center.getPositions@POLYN150115 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2.getPositions@POLYN150115 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 };

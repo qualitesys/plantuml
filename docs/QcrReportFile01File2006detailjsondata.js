@@ -1,74 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.puma.PSegment"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.puma.FixedLink"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.puma.PSegment" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.puma.FixedLink" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#10"
- , "c1" : "PSegment"
- , "c2" : "PSegment(double)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#16"
- , "c1" : "double"
- , "c2" : "getMinsize()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#20"
- , "c1" : "void"
- , "c2" : "push(double)"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.html#9"
+ , "c1" : "FixedLink"
+ , "c2" : "FixedLink(SegmentPosition;SegmentPosition)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#25"
- , "c1" : "String"
- , "c2" : "getDebugPosition()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#29"
- , "c1" : "double"
- , "c2" : "getPosition(double)"
- , "c3" : "3"
- , "c4" : "3"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.html#14"
+ , "c1" : "boolean"
+ , "c2" : "pushIfNeed()"
+ , "c3" : "2"
+ , "c4" : "7"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.svg" }
 
 ] 
 , 
@@ -105,13 +78,6 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
  , "c4" : "2"
 }}
  ] 
@@ -119,58 +85,23 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#4"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class PSegment contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class FixedLink contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#12"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.PSegment@POLYN147737 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.sequencediagram.puma.FixedLink.pushIfNeed@POLYN147218 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#20"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method push arguments double  delta"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#26"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getDebugPosition@POLYN148279 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getDebugPosition@POLYN148279 the MagicNumber/String  '-' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#29"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getPosition arguments double  position"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getPosition@POLYN148505 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getPosition@POLYN148505 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sequencediagram.puma.FixedLink.pushIfNeed@POLYN147218 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 };

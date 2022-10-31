@@ -1,27 +1,81 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/graphic/TextRenderer.java.html" 
- , "texte" : "File src/jcckit/graphic/TextRenderer.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/graphic/TextRenderer.java.xml" 
+   "fic1"  : "./qc/src/jcckit/graphic/TextAttributes.java.html" 
+ , "texte" : "File src/jcckit/graphic/TextAttributes.java 0 rule violation " 
+ , "fic2"  : "./qc/src/jcckit/graphic/TextAttributes.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Renderer"
- , "c2" : "jcckit.graphic.TextRenderer"
+ , "c1" : "GraphicAttributes"
+ , "c2" : "jcckit.graphic.TextAttributes"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.graphic.TextRenderer" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.graphic.TextAttributes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/jcckit/graphic/TextRenderer.java.html#7"
- , "c1" : "void"
- , "c2" : "render(Text)"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#9"
+ , "c1" : "Color"
+ , "c2" : "getTextColor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#12"
+ , "c1" : "String"
+ , "c2" : "getFontName()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#15"
+ , "c1" : "FontStyle"
+ , "c2" : "getFontStyle()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#18"
+ , "c1" : "double"
+ , "c2" : "getFontSize()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#21"
+ , "c1" : "double"
+ , "c2" : "getOrientationAngle()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#24"
+ , "c1" : "Anchor"
+ , "c2" : "getHorizontalAnchor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#27"
+ , "c1" : "Anchor"
+ , "c2" : "getVerticalAnchor()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +84,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/TextRenderer.java.png" 
+   {"ligne" : "./qc/src/jcckit/graphic/TextAttributes.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/TextRenderer.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/graphic/TextAttributes.java.svg" }
 
 ] 
 , 

@@ -1,52 +1,52 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java 12 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/creole/atom/AtomMath.java 14 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractAtomAtom"
- , "c2" : "net.sourceforge.plantuml.creole.atom.AtomOpenIcon"
+ , "c2" : "net.sourceforge.plantuml.creole.atom.AtomMath"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomOpenIcon" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomMath" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#21"
- , "c1" : "AtomOpenIcon"
- , "c2" : "AtomOpenIcon(HColor;double;OpenIcon;FontConfiguration;Url)"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#23"
+ , "c1" : "AtomMath"
+ , "c2" : "AtomMath(ScientificEquationSafe;HColor;HColor)"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#29"
- , "c1" : "TextBlock"
- , "c2" : "asTextBlock()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#29"
+ , "c1" : "XDimension2D"
+ , "c2" : "calculateDimensionSlow(StringBounder)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#33"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#36"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c3" : "2"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#37"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#43"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "1"
@@ -54,21 +54,30 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#41"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#47"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
- , "c3" : "3"
- , "c4" : "3"
+ , "c3" : "5"
+ , "c4" : "10"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#67"
+ , "c1" : "Color"
+ , "c2" : "getColor(ColorMapper;HColor;Color)"
+ , "c3" : "2"
+ , "c4" : "2"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.svg" }
 
 ] 
 , 
@@ -112,93 +121,107 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "5"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#21"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument fontConfiguration is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.creole.atom.AtomOpenIcon.AtomOpenIcon@POLYN152161 the MagicNumber/String  12.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.creole.atom.AtomOpenIcon.AtomOpenIcon@POLYN152161 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.creole.atom.AtomOpenIcon.asTextBlock@POLYN152742 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.creole.atom.AtomOpenIcon.asTextBlock@POLYN152742 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#33"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00029] For method calculateDimensionSlow arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.creole.atom.AtomMath.calculateDimensionSlow@POLYN156077 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#36"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00036] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#37"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method getStartingAltitude arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#38"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.creole.atom.AtomOpenIcon.getStartingAltitude@POLYN153135 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.creole.atom.AtomMath.calculateDimension@POLYN156523 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#41"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#43"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00043] For method getStartingAltitude arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#41"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.creole.atom.AtomMath.getStartingAltitude@POLYN156792 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#47"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00047] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#47"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00047] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#42"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.creole.atom.AtomOpenIcon.drawU@POLYN153268 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.creole.atom.AtomMath.drawU@POLYN156894 the MagicNumber/String  'SVG' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.html#46"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.creole.atom.AtomOpenIcon.drawU@POLYN153268 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.creole.atom.AtomMath.drawU@POLYN156894 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.creole.atom.AtomMath.drawU@POLYN156894 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#59"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.creole.atom.AtomMath.drawU@POLYN156894 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#67"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00067] For method getColor arguments ColorMapper  colorMapper|HColor  color|Color  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#67"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00067] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 };

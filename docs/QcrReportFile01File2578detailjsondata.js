@@ -1,27 +1,36 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UDriver.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UDriver.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UDriver.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UComment.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UComment.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UComment.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.ugraphic.UDriver"
+ , "c1" : "UShape"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.UComment"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UDriver" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UComment" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UDriver.java.html#7"
- , "c1" : "void"
- , "c2" : "draw(SHAPE;double;double;ColorMapper;UParam;O)"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UComment.java.html#8"
+ , "c1" : "UComment"
+ , "c2" : "UComment(String)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UComment.java.html#12"
+ , "c1" : "String"
+ , "c2" : "getComment()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/UDriver.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/UComment.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UDriver.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UComment.java.svg" }
 
 ] 
 , 
@@ -57,5 +66,22 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UComment.java.html#4"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00004] The class UComment contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+]
 };
 console.log('leListeStr 99 main end');

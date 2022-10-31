@@ -1,83 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java 11 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/EaterAssert.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Eater"
- , "c2" : "net.sourceforge.plantuml.tim.EaterDeclareProcedure"
+ , "c2" : "net.sourceforge.plantuml.tim.EaterAssert"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.tim.EaterDeclareProcedure" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.tim.EaterAssert" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#13"
- , "c1" : "EaterDeclareProcedure"
- , "c2" : "EaterDeclareProcedure(StringLocated)"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#9"
+ , "c1" : "EaterAssert"
+ , "c2" : "EaterAssert(StringLocated)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#19"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#14"
  , "c1" : "void"
  , "c2" : "analyze(TContext;TMemory)"
- , "c3" : "5"
- , "c4" : "12"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#39"
- , "c1" : "boolean"
- , "c2" : "peekUnquoted()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#43"
- , "c1" : "boolean"
- , "c2" : "peekFinal()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#47"
- , "c1" : "TFunctionImpl"
- , "c2" : "getFunction()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#51"
- , "c1" : "boolean"
- , "c2" : "getFinalFlag()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c3" : "3"
+ , "c4" : "10"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.svg" }
 
 ] 
 , 
@@ -107,7 +71,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "10"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -120,80 +84,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#19"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#14"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method analyze arguments TContext  context|TMemory  memory"
+ , "c3" : "QC-JAV000006[00014] For method analyze arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#21"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.analyze@POLYN150223 the MagicNumber/String  '!' should be converted to const"
+ , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.tim.EaterAssert.analyze@POLYN148096 the MagicNumber/String  '!assert' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.tim.EaterAssert.analyze@POLYN148096 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#22"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.analyze@POLYN150223 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.tim.EaterAssert.analyze@POLYN148096 the MagicNumber/String  ':' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.tim.EaterAssert.analyze@POLYN148096 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#25"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.analyze@POLYN150223 the MagicNumber/String  'unquoted' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.tim.EaterAssert.analyze@POLYN148096 the MagicNumber/String  'Assertion error : ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.analyze@POLYN150223 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.analyze@POLYN150223 the MagicNumber/String  'final' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.analyze@POLYN150223 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.analyze@POLYN150223 the MagicNumber/String  'procedure' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.peekUnquoted@POLYN151320 the MagicNumber/String  'u' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.peekFinal@POLYN151442 the MagicNumber/String  'f' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareProcedure.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.tim.EaterDeclareProcedure.peekFinal@POLYN151442 the MagicNumber/String  'i' should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.tim.EaterAssert.analyze@POLYN148096 the MagicNumber/String  'Assertion error' should be converted to const"
 }} 
 ]
 };

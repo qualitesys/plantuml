@@ -1,25 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleLine.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleLine.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleLine.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleCrowfoot.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleCrowfoot.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleCrowfoot.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractExtremityFactoryExtremityFactory"
- , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleLine"
+ , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleCrowfoot"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleLine" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleCrowfoot" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleLine.java.html#12"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleCrowfoot.java.html#12"
  , "c1" : "UDrawable"
  , "c2" : "createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side)"
  , "c3" : "1"
@@ -30,9 +30,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleLine.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleCrowfoot.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleLine.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleCrowfoot.java.svg" }
 
 ] 
 , 
@@ -69,7 +69,7 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleLine.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleCrowfoot.java.html#12"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00012] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
 }} 

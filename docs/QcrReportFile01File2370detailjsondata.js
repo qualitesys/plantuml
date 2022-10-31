@@ -1,74 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/text/StyledString.java 15 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/text/RichText.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/text/RichText.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.text.StyledString"
+ , "c2" : "net.sourceforge.plantuml.text.RichText"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.text.StyledString" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.text.RichText" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#16"
- , "c1" : "StyledString"
- , "c2" : "StyledString(String;FontStyle)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#22"
- , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#26"
- , "c1" : "String"
- , "c2" : "getText()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#30"
- , "c1" : "FontStyle"
- , "c2" : "getStyle()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#34"
- , "c1" : "List<StyledString>"
- , "c2" : "build(String)"
- , "c3" : "6"
- , "c4" : "12"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/text/RichText.java.html#8"
+ , "c1" : "boolean"
+ , "c2" : "isRich(String)"
+ , "c3" : "3"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.svg" }
 
 ] 
 , 
@@ -95,9 +59,9 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
  , "c4" : "1"
 }}
 ,
@@ -112,7 +76,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "12"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -125,108 +89,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#11"
+ , "c1" : "00006"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#6"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class StyledString contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00006] The class RichText contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.text.StyledString.toString@POLYN152589 the MagicNumber/String  '[' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.text.StyledString.toString@POLYN152589 the MagicNumber/String  ']' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#34"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#8"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method build arguments String  s"
+ , "c3" : "QC-JAV000006[00008] For method isRich arguments String  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#36"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#8"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00008] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00009] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN145755 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#38"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN145755 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#40"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN145755 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#44"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN145755 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#45"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.text.StyledString.build@POLYN152953 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/text/StyledString.java.html#34"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00034] Public method build is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN145755 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 };

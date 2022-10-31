@@ -1,30 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/h/ST_Agiddisc_s.java.html" 
- , "texte" : "File src/h/ST_Agiddisc_s.java 7 rule violations " 
- , "fic2"  : "./qc/src/h/ST_Agiddisc_s.java.xml" 
+   "fic1"  : "./qc/src/h/ST_Agedgepair_s.java.html" 
+ , "texte" : "File src/h/ST_Agedgepair_s.java 0 rule violation " 
+ , "fic2"  : "./qc/src/h/ST_Agedgepair_s.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "UnsupportedStarStruct"
- , "c2" : "h.ST_Agiddisc_s"
+ , "c2" : "h.ST_Agedgepair_s"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "h.ST_Agiddisc_s" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "h.ST_Agedgepair_s" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/h/ST_Agedgepair_s.java.html#11"
+ , "c1" : "ST_Agedgepair_s"
+ , "c2" : "ST_Agedgepair_s()"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_Agiddisc_s.java.png" 
+   {"ligne" : "./qc/src/h/ST_Agedgepair_s.java.png" 
 
- , "ligneplantuml" : "./qc/src/h/ST_Agiddisc_s.java.svg" }
+ , "ligneplantuml" : "./qc/src/h/ST_Agedgepair_s.java.svg" }
 
 ] 
 , 
@@ -49,64 +57,5 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAVCWE493"
- , "c3" : "Critical public variable without final modifier"
- , "c4" : "7"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/h/ST_Agiddisc_s.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_Agiddisc_s.java.html#10"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/h/ST_Agiddisc_s.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/h/ST_Agiddisc_s.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/h/ST_Agiddisc_s.java.html#13"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00013] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/h/ST_Agiddisc_s.java.html#14"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00014] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/h/ST_Agiddisc_s.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00015] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-]
 };
 console.log('leListeStr 99 main end');

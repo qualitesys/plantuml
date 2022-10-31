@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/StdrptPipe0.java 13 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/StdrptNull.java 13 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Stdrpt"
- , "c2" : "net.sourceforge.plantuml.StdrptPipe0"
+ , "c2" : "net.sourceforge.plantuml.StdrptNull"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.StdrptPipe0" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.StdrptNull" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#12"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptNull.java.html#11"
  , "c1" : "void"
  , "c2" : "printInfo(PrintStream;Diagram)"
- , "c3" : "3"
- , "c4" : "5"
+ , "c3" : "1"
+ , "c4" : "0"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#24"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptNull.java.html#14"
  , "c1" : "void"
  , "c2" : "finalMessage(ErrorStatus)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#33"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptNull.java.html#23"
  , "c1" : "void"
  , "c2" : "errorLine(int;File)"
  , "c3" : "1"
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.svg" }
 
 ] 
 , 
@@ -77,10 +77,24 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "3"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -94,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "6"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -107,94 +121,94 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#10"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class StdrptPipe0 contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00009] The class StdrptNull contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#12"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#11"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method printInfo arguments PrintStream  output|Diagram  sys"
+ , "c3" : "QC-JAV000006[00011] For method printInfo arguments PrintStream  output|Diagram  sys"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#12"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#14"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00014] For method finalMessage arguments ErrorStatus  error"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#14"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument output is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00014] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#15"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.StdrptPipe0.printInfo@POLYN149195 the MagicNumber/String  'ERROR' should be converted to const"
+ , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.StdrptNull.finalMessage@POLYN147264 the MagicNumber/String  'Some diagram description contains errors' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#19"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.StdrptNull.finalMessage@POLYN147264 the MagicNumber/String  'No diagram found' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#23"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00023] For method errorLine arguments int  lineError|File  file"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#23"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#24"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method finalMessage arguments ErrorStatus  error"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.StdrptNull.errorLine@POLYN147617 the MagicNumber/String  'Error line ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#24"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#26"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN149860 the MagicNumber/String  'Some diagram description contains errors' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.StdrptNull.errorLine@POLYN147617 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#29"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN149860 the MagicNumber/String  'No diagram found' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.StdrptNull.errorLine@POLYN147617 the MagicNumber/String  ' in file: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method errorLine arguments int  lineError|File  file"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#11"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00011] Void method printInfo is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN150213 the MagicNumber/String  'Error line ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN150213 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN150213 the MagicNumber/String  ' in file: ' should be converted to const"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptNull.java.html#11"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00011] Void method printInfo is empty or contains only a return. Interface segregation"
 }} 
 ]
 };

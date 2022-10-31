@@ -1,82 +1,118 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java 52 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java 31 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FtileSwitchWithDiamonds"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks"
+ , "c1" : "FtileSwitchNude"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#32"
- , "c1" : "FtileSwitchWithManyLinks"
- , "c2" : "FtileSwitchWithManyLinks(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder;Rainbow)"
- , "c3" : "1"
- , "c4" : "2"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#32"
+ , "c1" : "FtileSwitchWithDiamonds"
+ , "c2" : "FtileSwitchWithDiamonds(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder)"
+ , "c3" : "3"
+ , "c4" : "8"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00264"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#264"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#50"
  , "c1" : "double"
- , "c2" : "getYdelta1a(StringBounder)"
- , "c3" : "3"
+ , "c2" : "getW9(StringBounder)"
+ , "c3" : "2"
  , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00276"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#276"
- , "c1" : "Ftile"
- , "c2" : "addLinks(StringBounder)"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#59"
+ , "c1" : "Collection<Ftile>"
+ , "c2" : "getMyChildren()"
  , "c3" : "1"
  , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00283"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#283"
- , "c1" : "void"
- , "c2" : "addIngoingArrows(List<Connection>)"
- , "c3" : "2"
- , "c4" : "6"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#66"
+ , "c1" : "double"
+ , "c2" : "getYdelta1a(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00292"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#292"
- , "c1" : "void"
- , "c2" : "addOutgoingArrows(StringBounder;List<Connection>)"
- , "c3" : "5"
- , "c4" : "8"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#70"
+ , "c1" : "double"
+ , "c2" : "getYdelta1b(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00309"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#309"
- , "c1" : "int"
- , "c2" : "getFirstOutgoingArrow(StringBounder)"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#75"
+ , "c1" : "FtileGeometry"
+ , "c2" : "calculateDimensionInternalSlow(StringBounder)"
  , "c3" : "3"
+ , "c4" : "10"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#98"
+ , "c1" : "void"
+ , "c2" : "drawU(UGraphic)"
+ , "c3" : "5"
  , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00319"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#319"
- , "c1" : "int"
- , "c2" : "getLastOutgoingArrow(StringBounder)"
- , "c3" : "3"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#113"
+ , "c1" : "UTranslate"
+ , "c2" : "getTranslateOf(Ftile;StringBounder)"
+ , "c3" : "5"
+ , "c4" : "11"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#134"
+ , "c1" : "UTranslate"
+ , "c2" : "getTranslateMain(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00140"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#140"
+ , "c1" : "UTranslate"
+ , "c2" : "getTranslateDiamond1(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#148"
+ , "c1" : "UTranslate"
+ , "c2" : "getTranslateDiamond2(StringBounder)"
+ , "c3" : "1"
  , "c4" : "5"
 }} 
 ] 
@@ -84,9 +120,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.svg" }
 
 ] 
 , 
@@ -116,394 +152,240 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "6"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "4"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "27"
+ , "c4" : "19"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "15"
+ , "c4" : "9"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#47"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method drawU arguments UGraphic  ug"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#32"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00032] The argument tiles is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#47"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#32"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00047] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00032] The argument diamond1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.FtileSwitchWithDiamonds@POLYN173211 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.FtileSwitchWithDiamonds@POLYN173211 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#50"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00050] For method getW9 arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getW9@POLYN174389 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getW9@POLYN174389 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getW9@POLYN174389 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#66"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00066] For method getYdelta1a arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getYdelta1a@POLYN175350 the MagicNumber/String  20 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#70"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00070] For method getYdelta1b arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getYdelta1b@POLYN175465 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#75"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method getP1 arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00075] For method calculateDimensionInternalSlow arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#78"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionHorizontalThenVertical.getP1@POLYN208329 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.calculateDimensionInternalSlow@POLYN175594 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#89"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionHorizontalThenVertical.isLast@POLYN208993 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.calculateDimensionInternalSlow@POLYN175594 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.calculateDimensionInternalSlow@POLYN175594 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method getP2 arguments StringBounder  stringBounder"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.calculateDimensionInternalSlow@POLYN175594 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#108"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00108] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00098] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#108"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#98"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00108] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00098] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionVerticalThenHorizontal.drawU@POLYN209793 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#113"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00113] For method getTranslateOf arguments Ftile  tile|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#145"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionVerticalThenHorizontal.drawU@POLYN209793 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getTranslateOf@POLYN178414 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#146"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionVerticalThenHorizontal.drawU@POLYN209793 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getTranslateOf@POLYN178414 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#147"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionVerticalThenHorizontal.drawU@POLYN209793 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getTranslateOf@POLYN178414 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#147"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionVerticalThenHorizontal.drawU@POLYN209793 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getTranslateOf@POLYN178414 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getTranslateOf@POLYN178414 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getTranslateOf@POLYN178414 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#134"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00134] For method getTranslateMain arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#140"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00140] For method getTranslateDiamond1 arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#141"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getTranslateDiamond1@POLYN180584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionVerticalThenHorizontal.drawU@POLYN209793 the MagicNumber/String  12 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#148"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method getP1 arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00148] For method getTranslateDiamond2 arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#172"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00172] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#172"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00172] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#193"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionVerticalTop.drawU@POLYN213695 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionVerticalTop.drawU@POLYN213695 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#202"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00202] For method getP2 arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#218"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00218] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#218"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00218] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#238"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.ConnectionVerticalBottom.drawU@POLYN216687 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00256"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#256"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00256] For method getP1 arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#264"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00264] For method getYdelta1a arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#265"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.getYdelta1a@POLYN219885 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00271"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#271"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.getYdelta1a@POLYN219885 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#273"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.getYdelta1a@POLYN219885 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00276"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#276"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00276] For method addLinks arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#283"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00283] For method addIngoingArrows arguments List&lt;Connection &gt;  conns"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#283"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00283] The argument conns is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00287"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#287"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00287] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#284"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.addIngoingArrows@POLYN221041 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#284"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.addIngoingArrows@POLYN221041 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#285"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00285] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.addIngoingArrows@POLYN221041 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#285"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00285] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.addIngoingArrows@POLYN221041 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#286"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.addIngoingArrows@POLYN221041 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#286"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.addIngoingArrows@POLYN221041 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#292"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00292] For method addOutgoingArrows arguments StringBounder  stringBounder|List&lt;Connection &gt;  conns"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#292"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00292] The argument conns is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#302"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00302] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00298"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#298"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.addOutgoingArrows@POLYN222115 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00301"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#301"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.addOutgoingArrows@POLYN222115 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00309"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#309"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00309] For method getFirstOutgoingArrow arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00311"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#311"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00311] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#310"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.getFirstOutgoingArrow@POLYN223577 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#310"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.getFirstOutgoingArrow@POLYN223577 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00319"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#319"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00319] For method getLastOutgoingArrow arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00321"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#321"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00321] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#320"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.getLastOutgoingArrow@POLYN224138 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#320"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.getLastOutgoingArrow@POLYN224138 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00326"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#326"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00326] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks.getLastOutgoingArrow@POLYN224138 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds.getTranslateDiamond2@POLYN181131 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 };

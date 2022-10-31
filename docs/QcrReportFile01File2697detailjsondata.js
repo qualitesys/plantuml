@@ -1,38 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java 25 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<UEllipse,TikzGraphics>"
- , "c2" : "net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz"
+ , "c1" : "UDriver<DotPath,TikzGraphics>"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#12"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
  , "c1" : "void"
- , "c2" : "draw(UEllipse;double;double;ColorMapper;UParam;TikzGraphics)"
- , "c3" : "3"
- , "c4" : "16"
+ , "c2" : "draw(DotPath;double;double;ColorMapper;UParam;TikzGraphics)"
+ , "c3" : "1"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.svg" }
 
 ] 
 , 
@@ -76,7 +76,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "20"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -90,177 +90,44 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#10"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class DriverEllipseTikz contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00010] The class DriverDotPathTikz contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method draw arguments UEllipse  shape|double  x|double  y|ColorMapper  mapper|UParam  param|TikzGraphics  tikz"
+ , "c3" : "QC-JAV000006[00012] For method draw arguments DotPath  path|double  x|double  y|ColorMapper  mapper|UParam  param|TikzGraphics  tikz"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00012] The argument path is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00012] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00012] The argument tikz is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#18"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  90 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  180. should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  180. should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  180. should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  180. should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  360 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  270 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  360 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  270 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz.draw@POLYN153797 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz.draw@POLYN148061 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 };

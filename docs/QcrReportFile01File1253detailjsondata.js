@@ -1,36 +1,27 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ElkObjectProxy"
- , "c2" : "net.sourceforge.plantuml.elk.proxy.core.math.ElkPadding"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.elk.proxy.core.RecursiveGraphLayoutEngine"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.core.math.ElkPadding" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.core.RecursiveGraphLayoutEngine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.html#10"
- , "c1" : "ElkPadding"
- , "c2" : "ElkPadding(double;double;double;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.html#15"
- , "c1" : "Object"
- , "c2" : "getTrueObject()"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.html#11"
+ , "c1" : "void"
+ , "c2" : "layout(ElkNode;NullElkProgressMonitor)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,9 +30,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.svg" }
 
 ] 
 , 
@@ -68,6 +59,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -80,21 +78,49 @@ var maDataBlocs = {
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "1"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
+}}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.html#6"
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.html#7"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00006] The class ElkPadding contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00007] The class RecursiveGraphLayoutEngine contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.html#11"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.html#11"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00011] For method layout arguments ElkNode  root|NullElkProgressMonitor  monitor"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.html#11"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00011] The argument root is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.html#11"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00011] The argument monitor is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.elk.proxy.core.math.ElkPadding.ElkPadding@POLYN137540 the MagicNumber/String  'org.eclipse.elk.core.math.ElkPadding' should be converted to const"
+ , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.elk.proxy.core.RecursiveGraphLayoutEngine.layout@POLYN137719 the MagicNumber/String  'layout' should be converted to const"
 }} 
 ]
 };

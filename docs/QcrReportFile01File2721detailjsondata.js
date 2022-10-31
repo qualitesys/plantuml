@@ -1,128 +1,74 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/utils/MTRandom.java 74 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/utils/Cypher.java 26 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Random"
- , "c2" : "net.sourceforge.plantuml.utils.MTRandom"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.utils.Cypher"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.utils.MTRandom" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.utils.Cypher" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#40"
- , "c1" : "MTRandom"
- , "c2" : "MTRandom()"
- , "c3" : "1"
- , "c4" : "0"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#30"
+ , "c1" : "Cypher"
+ , "c2" : "Cypher()"
+ , "c3" : "4"
+ , "c4" : "7"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#43"
- , "c1" : "MTRandom"
- , "c2" : "MTRandom(boolean)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#50"
- , "c1" : "MTRandom"
- , "c2" : "MTRandom(long)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#55"
- , "c1" : "MTRandom"
- , "c2" : "MTRandom(byte[])"
- , "c3" : "1"
- , "c4" : "2"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#48"
+ , "c1" : "String"
+ , "c2" : "cypher(String)"
+ , "c3" : "2"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#61"
- , "c1" : "MTRandom"
- , "c2" : "MTRandom(int[])"
- , "c3" : "1"
- , "c4" : "2"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#61"
+ , "c1" : "String"
+ , "c2" : "changeWord(String)"
+ , "c3" : "6"
+ , "c4" : "9"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#69"
- , "c1" : "void"
- , "c2" : "setSeed(int)"
- , "c3" : "3"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#87"
- , "c1" : "void"
- , "c2" : "setSeed(long)"
- , "c3" : "4"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00106"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#106"
- , "c1" : "void"
- , "c2" : "setSeed(byte[])"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#111"
- , "c1" : "void"
- , "c2" : "setSeed(int[])"
- , "c3" : "7"
- , "c4" : "19"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00133"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#133"
- , "c1" : "int"
- , "c2" : "next(int)"
- , "c3" : "4"
- , "c4" : "18"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00175"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#175"
- , "c1" : "int[]"
- , "c2" : "pack(byte[])"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#83"
+ , "c1" : "String"
+ , "c2" : "buildRandomWord(int)"
  , "c3" : "4"
  , "c4" : "11"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#99"
+ , "c1" : "void"
+ , "c2" : "addException(String)"
+ , "c3" : "2"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.svg" }
 
 ] 
 , 
@@ -149,544 +95,236 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAVCWE481"
+ , "c3" : "Assigning instead of comparing"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "65"
+ , "c4" : "15"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "INFO"
  , "c2" : "QC-JAV000019"
  , "c3" : "Lock statement"
- , "c4" : "3"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#44"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.utils.MTRandom.MTRandom@POLYN220043 the MagicNumber/String  0L should be converted to const"
+ , "c3" : "QC-JAV000008[00021] The class Cypher contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#56"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.utils.MTRandom.MTRandom@POLYN220880 the MagicNumber/String  0L should be converted to const"
+ , "c3" : "QC-JAVCWE481[00036] Assigning instead of comparing on s=br.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#62"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.utils.MTRandom.MTRandom@POLYN221299 the MagicNumber/String  0L should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.utils.Cypher.Cypher@POLYN161728 the MagicNumber/String  'words.txt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#69"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.utils.Cypher.Cypher@POLYN161728 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#36"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.utils.Cypher.Cypher@POLYN161728 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.utils.Cypher.Cypher@POLYN161728 the MagicNumber/String  '[a-z]+' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#48"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00048] Lock statement on synchronized method cypher"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method setSeed arguments int  seed"
+ , "c3" : "QC-JAV000006[00048] For method cypher arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00053] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.utils.Cypher.cypher@POLYN162686 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#61"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00061] For method changeWord arguments String  word"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#61"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00061] The argument word is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.utils.Cypher.changeWord@POLYN163360 the MagicNumber/String  '^([a-f0-9]{3}|[a-f0-9]{6})$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.utils.Cypher.changeWord@POLYN163360 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.utils.Cypher.changeWord@POLYN163360 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.utils.Cypher.changeWord@POLYN163360 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.utils.Cypher.changeWord@POLYN163360 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#76"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN221499 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.utils.Cypher.changeWord@POLYN163360 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN221499 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN221499 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN221499 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN221499 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN221499 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#87"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00087] Lock statement on synchronized method setSeed"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#87"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method setSeed arguments long  seed"
+ , "c3" : "QC-JAV000006[00083] For method buildRandomWord arguments int  len"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#97"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN222748 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00085] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#97"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN222748 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.utils.Cypher.buildRandomWord@POLYN164495 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.utils.Cypher.buildRandomWord@POLYN164495 the MagicNumber/String  'a' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.utils.Cypher.buildRandomWord@POLYN164495 the MagicNumber/String  26 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN222748 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN222748 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN222748 the MagicNumber/String  32 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00106] For method setSeed arguments byte[]  buf"
+ , "c3" : "QC-JAV000006[00099] For method addException arguments String  word"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#111"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00111] Lock statement on synchronized method setSeed"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#99"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00099] The argument word is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#111"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00111] For method setSeed arguments int[]  buf"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#113"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  'Seed buffer may not be empty' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.utils.MTRandom.setSeed@POLYN224372 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#133"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00133] Lock statement on synchronized method next"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#133"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00133] For method next arguments int  bits"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  0x1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  0x1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  0x1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#157"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#163"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  11 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  7 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  15 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#166"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  18 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.utils.MTRandom.next@POLYN227712 the MagicNumber/String  32 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#175"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00175] For method pack arguments byte[]  buf"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#178"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  0xff should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  0x3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.utils.Cypher.addException@POLYN165545 the MagicNumber/String  'CypherWarning:' should be converted to const"
 }} 
 ]
 };

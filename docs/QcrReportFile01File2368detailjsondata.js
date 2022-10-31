@@ -1,38 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/telnet/TelnetServer.java 5 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.telnet.TelnetServer"
+ , "c1" : "Thread"
+ , "c2" : "net.sourceforge.plantuml.telnet.AcceptTelnetClient"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.telnet.TelnetServer" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.telnet.AcceptTelnetClient" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#8"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#21"
+ , "c1" : "AcceptTelnetClient"
+ , "c2" : "AcceptTelnetClient(Socket)"
+ , "c3" : "1"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#30"
+ , "c1" : "String"
+ , "c2" : "runInternal()"
+ , "c3" : "4"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#46"
  , "c1" : "void"
- , "c2" : "main(String[])"
- , "c3" : "2"
- , "c4" : "3"
+ , "c2" : "run()"
+ , "c3" : "1"
+ , "c4" : "7"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.svg" }
 
 ] 
 , 
@@ -67,60 +85,67 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "7"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#7"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00007] The class TelnetServer contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.AcceptTelnetClient@POLYN152543 the MagicNumber/String  'Client Connected ...' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#8"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method main arguments String[]  args"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00033] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#11"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00011] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN153029 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#9"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00009] In method net.sourceforge.plantuml.telnet.TelnetServer.main@POLYN145774 the MagicNumber/String  4242 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN153029 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#10"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.telnet.TelnetServer.main@POLYN145774 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN153029 the MagicNumber/String  'S=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN153029 the MagicNumber/String  '\n' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN153029 the MagicNumber/String  '@enduml' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.run@POLYN153813 the MagicNumber/String  'UML=' should be converted to const"
 }} 
 ]
 };

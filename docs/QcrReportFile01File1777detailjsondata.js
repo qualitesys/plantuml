@@ -1,54 +1,54 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/timescale/TimeScale.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.project.timescale.TimeScale"
+ , "c2" : "net.sourceforge.plantuml.project.time.WeekNumberStrategy"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.timescale.TimeScale" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.time.WeekNumberStrategy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#8"
- , "c1" : "double"
- , "c2" : "getStartingPosition(Day)"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#9"
+ , "c1" : "WeekNumberStrategy"
+ , "c2" : "WeekNumberStrategy(DayOfWeek;int)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#15"
+ , "c1" : "int"
+ , "c2" : "getFirstDayOfWeekAsLegacyInt()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#10"
- , "c1" : "double"
- , "c2" : "getEndingPosition(Day)"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#19"
+ , "c1" : "int"
+ , "c2" : "getMinimalDaysInFirstWeek()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#12"
- , "c1" : "double"
- , "c2" : "getWidth(Day)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#14"
- , "c1" : "boolean"
- , "c2" : "isBreaking(Day)"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#23"
+ , "c1" : "DayOfWeek"
+ , "c2" : "getFirstDayOfWeek()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -57,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.svg" }
 
 ] 
 , 
@@ -84,5 +84,22 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#4"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00004] The class WeekNumberStrategy contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+]
 };
 console.log('leListeStr 99 main end');

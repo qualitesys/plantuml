@@ -1,115 +1,169 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/MinMax.java 40 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/LimitFinder.java 46 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.ugraphic.MinMax"
+ , "c1" : "UGraphicNo"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.LimitFinder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.MinMax" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.LimitFinder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#16"
- , "c1" : "boolean"
- , "c2" : "doesHorizontalCross(XPoint2D;XPoint2D)"
- , "c3" : "6"
- , "c4" : "7"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#18"
+ , "c1" : "UGraphic"
+ , "c2" : "apply(UChange)"
+ , "c3" : "2"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#36"
- , "c1" : "MinMax"
- , "c2" : "getEmpty(boolean)"
- , "c3" : "2"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#32"
+ , "c1" : "LimitFinder"
+ , "c2" : "create(StringBounder;boolean)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#38"
+ , "c1" : "LimitFinder"
+ , "c2" : "LimitFinder(StringBounder;UTranslate;MinMaxMutable)"
+ , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#44"
- , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#48"
- , "c1" : "MinMax"
- , "c2" : "fromMutable(MinMaxMutable)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#52"
- , "c1" : "MinMax"
- , "c2" : "MinMax(double;double;double;double)"
- , "c3" : "5"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#71"
- , "c1" : "MinMax"
- , "c2" : "addPoint(XPoint2D)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#75"
- , "c1" : "MinMax"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#43"
+ , "c1" : "void"
  , "c2" : "addPoint(double;double)"
+ , "c3" : "2"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#49"
+ , "c1" : "void"
+ , "c2" : "draw(UShape)"
+ , "c3" : "35"
+ , "c4" : "16"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#91"
+ , "c1" : "void"
+ , "c2" : "drawEmpty(double;double;UEmpty)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#96"
+ , "c1" : "void"
+ , "c2" : "drawUPath(double;double;UPath)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#103"
+ , "c1" : "void"
+ , "c2" : "drawUPolygon(double;double;UPolygon)"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#111"
+ , "c1" : "void"
+ , "c2" : "drawULine(double;double;ULine)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#116"
+ , "c1" : "void"
+ , "c2" : "drawRectangle(double;double;URectangle)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#122"
+ , "c1" : "void"
+ , "c2" : "drawDotPath(double;double;DotPath)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#128"
+ , "c1" : "void"
+ , "c2" : "drawImage(double;double;UImage)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#133"
+ , "c1" : "void"
+ , "c2" : "drawImageSvg(double;double;UImageSvg)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#138"
+ , "c1" : "void"
+ , "c2" : "drawEllipse(double;double;UEllipse)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#144"
+ , "c1" : "void"
+ , "c2" : "drawText(double;double;UText)"
+ , "c3" : "1"
+ , "c4" : "6"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00154"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#154"
+ , "c1" : "ColorMapper"
+ , "c2" : "getColorMapper()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#79"
- , "c1" : "MinMax"
- , "c2" : "addMinMax(MinMax)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#84"
- , "c1" : "MinMax"
- , "c2" : "fromMax(double;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#88"
- , "c1" : "MinMax"
- , "c2" : "fromDim(XDimension2D)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#92"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#158"
  , "c1" : "double"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -117,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#96"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#162"
  , "c1" : "double"
  , "c2" : "getMaxY()"
  , "c3" : "1"
@@ -126,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#100"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#166"
  , "c1" : "double"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -135,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#104"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#170"
  , "c1" : "double"
  , "c2" : "getMinY()"
  , "c3" : "1"
@@ -144,66 +198,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00108"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#108"
- , "c1" : "double"
- , "c2" : "getHeight()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#112"
- , "c1" : "double"
- , "c2" : "getWidth()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#116"
- , "c1" : "XDimension2D"
- , "c2" : "getDimension()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#120"
- , "c1" : "void"
- , "c2" : "drawGray(UGraphic)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#124"
- , "c1" : "void"
- , "c2" : "draw(UGraphic;HColor)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#130"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#174"
  , "c1" : "MinMax"
- , "c2" : "translate(UTranslate)"
- , "c3" : "1"
- , "c4" : "3"
+ , "c2" : "getMinMax()"
+ , "c3" : "2"
+ , "c4" : "2"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.svg" }
 
 ] 
 , 
@@ -230,320 +239,348 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "5"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "9"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c4" : "12"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "14"
+ , "c4" : "20"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "11"
+ , "c4" : "14"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class MinMax contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#16"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method doesHorizontalCross arguments XPoint2D  pt1|XPoint2D  pt2"
+ , "c3" : "QC-JAV000006[00018] For method apply arguments UChange  change"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#16"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#18"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument pt1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00018] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#16"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.ugraphic.LimitFinder.apply@POLYN179685 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#32"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00032] For method create arguments StringBounder  stringBounder|boolean  initToZero"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.LimitFinder.create@POLYN180955 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#43"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00043] For method addPoint arguments double  x|double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.ugraphic.LimitFinder.addPoint@POLYN181601 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#49"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00049] For method draw arguments UShape  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#49"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument pt2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00049] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.ugraphic.MinMax.doesHorizontalCross@POLYN164825 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.MinMax.doesHorizontalCross@POLYN164825 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.ugraphic.MinMax.doesHorizontalCross@POLYN164825 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ugraphic.MinMax.doesHorizontalCross@POLYN164825 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#36"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method getEmpty arguments boolean  initToZero"
+ , "c3" : "QC-JAV000006[00091] For method drawEmpty arguments double  x|double  y|UEmpty  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.ugraphic.MinMax.getEmpty@POLYN165826 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.ugraphic.MinMax.getEmpty@POLYN165826 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.ugraphic.MinMax.getEmpty@POLYN165826 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.ugraphic.MinMax.getEmpty@POLYN165826 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ugraphic.MinMax.toString@POLYN166281 the MagicNumber/String  '(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ugraphic.MinMax.toString@POLYN166281 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ugraphic.MinMax.toString@POLYN166281 the MagicNumber/String  ')-&amp;gt;(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ugraphic.MinMax.toString@POLYN166281 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ugraphic.MinMax.toString@POLYN166281 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#48"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method fromMutable arguments MinMaxMutable  minmax"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#48"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#91"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument minmax is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00091] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#71"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method addPoint arguments XPoint2D  pt"
+ , "c3" : "QC-JAV000006[00096] For method drawUPath arguments double  x|double  y|UPath  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#71"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#96"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00096] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#75"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method addPoint arguments double  x|double  y"
+ , "c3" : "QC-JAV000006[00103] For method drawUPolygon arguments double  x|double  y|UPolygon  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#79"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method addMinMax arguments MinMax  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#79"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#103"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00079] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00103] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#84"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method fromMax arguments double  maxX|double  maxY"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#85"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.MinMax.fromMax@POLYN168916 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawUPolygon@POLYN185797 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#88"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method fromDim arguments XDimension2D  dim"
+ , "c3" : "QC-JAV000006[00111] For method drawULine arguments double  x|double  y|ULine  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#88"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#111"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00088] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00111] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#120"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00120] For method drawGray arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00116] For method drawRectangle arguments double  x|double  y|URectangle  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#124"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#116"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00116] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawRectangle@POLYN186789 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawRectangle@POLYN186789 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawRectangle@POLYN186789 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawRectangle@POLYN186789 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawRectangle@POLYN186789 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawRectangle@POLYN186789 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method draw arguments UGraphic  ug|HColor  color"
+ , "c3" : "QC-JAV000006[00122] For method drawDotPath arguments double  x|double  y|DotPath  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#124"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#122"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00124] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00122] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#124"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#128"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00128] For method drawImage arguments double  x|double  y|UImage  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#128"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00124] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00128] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method translate arguments UTranslate  translate"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawImage@POLYN187915 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawImage@POLYN187915 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#133"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00133] For method drawImageSvg arguments double  x|double  y|UImageSvg  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#133"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00130] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00133] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#36"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00036] Public method getEmpty is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawImageSvg@POLYN188330 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#48"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00048] Public method fromMutable is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawImageSvg@POLYN188330 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#71"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00071] Public method addPoint is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#138"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00138] For method drawEllipse arguments double  x|double  y|UEllipse  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#88"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00088] Public method fromDim is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#138"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00138] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMax.java.html#120"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00120] Public method drawGray is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#140"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawEllipse@POLYN188745 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#140"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawEllipse@POLYN188745 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#141"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawEllipse@POLYN188745 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#141"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawEllipse@POLYN188745 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#144"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00144] For method drawText arguments double  x|double  y|UText  text"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#144"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00144] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.ugraphic.LimitFinder.drawText@POLYN189292 the MagicNumber/String  1.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/LimitFinder.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.LimitFinder.getMinMax@POLYN190730 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 };

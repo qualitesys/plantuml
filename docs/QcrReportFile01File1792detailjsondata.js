@@ -1,27 +1,72 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealOrigin.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/real/RealOrigin.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/real/RealOrigin.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/real/RealMoveable.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/real/RealMoveable.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Real"
- , "c2" : "net.sourceforge.plantuml.real.RealOrigin"
+ , "c1" : "AbstractRealReal"
+ , "c2" : "net.sourceforge.plantuml.real.RealMoveable"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.real.RealOrigin" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.real.RealMoveable" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealOrigin.java.html#6"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#15"
+ , "c1" : "RealMoveable"
+ , "c2" : "RealMoveable(RealLine;String)"
+ , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#22"
  , "c1" : "void"
- , "c2" : "compileNow()"
+ , "c2" : "move(double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#24"
+ , "c1" : "void"
+ , "c2" : "printCreationStackTrace()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#28"
+ , "c1" : "Real"
+ , "c2" : "addFixed(double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#33"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#37"
+ , "c1" : "String"
+ , "c2" : "getName()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +75,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/real/RealOrigin.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/real/RealMoveable.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/real/RealOrigin.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/real/RealMoveable.java.svg" }
 
 ] 
 , 
@@ -57,5 +102,50 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "2"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#22"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00022] For method move arguments double  delta"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#28"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00028] For method addFixed arguments double  delta"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.real.RealMoveable.toString@POLYN149504 the MagicNumber/String  '#' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMoveable.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.real.RealMoveable.toString@POLYN149504 the MagicNumber/String  '_' should be converted to const"
+}} 
+]
 };
 console.log('leListeStr 99 main end');

@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ScaleSimple.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ScaleProtected.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ScaleProtectedScale"
- , "c2" : "net.sourceforge.plantuml.ScaleSimple"
+ , "c1" : "Scale"
+ , "c2" : "net.sourceforge.plantuml.ScaleProtected"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ScaleSimple" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ScaleProtected" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleSimple.java.html#8"
- , "c1" : "ScaleSimple"
- , "c2" : "ScaleSimple(double)"
+ , "c5" : "00006"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleProtected.java.html#6"
+ , "c1" : "double"
+ , "c2" : "getScaleInternal(double;double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleSimple.java.html#12"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleProtected.java.html#8"
  , "c1" : "double"
- , "c2" : "getScaleInternal(double;double)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "getScale(double;double)"
+ , "c3" : "3"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.svg" }
 
 ] 
 , 
@@ -68,19 +68,75 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "4"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.html#12"
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.html#4"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00004] The class ScaleProtected contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00006"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.html#6"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method getScaleInternal arguments double  width|double  height"
+ , "c3" : "QC-JAV000006[00006] For method getScaleInternal arguments double  width|double  height"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.html#8"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00008] For method getScale arguments double  width|double  height"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.html#10"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.ScaleProtected.getScale@POLYN145821 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.html#11"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.ScaleProtected.getScale@POLYN145821 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.html#13"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.ScaleProtected.getScale@POLYN145821 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleProtected.java.html#14"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.ScaleProtected.getScale@POLYN145821 the MagicNumber/String  4 should be converted to const"
 }} 
 ]
 };

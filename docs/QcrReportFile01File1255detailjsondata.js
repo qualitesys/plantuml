@@ -1,30 +1,30 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/Direction.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/core/options/Direction.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/Direction.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/CoreOptions.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/core/options/CoreOptions.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/CoreOptions.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.elk.proxy.core.options.Direction"
+ , "c2" : "net.sourceforge.plantuml.elk.proxy.core.options.CoreOptions"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.core.options.Direction" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.core.options.CoreOptions" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/Direction.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/CoreOptions.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/Direction.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/CoreOptions.java.svg" }
 
 ] 
 , 
@@ -61,9 +61,9 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00005"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/Direction.java.html#5"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/CoreOptions.java.html#5"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00005] The class Direction contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00005] The class CoreOptions contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
 };

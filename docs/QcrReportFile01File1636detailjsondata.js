@@ -1,39 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilter.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/preproc2/ReadFilter.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilter.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorUtils.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/preproc2/PreprocessorUtils.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorUtils.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.preproc2.ReadFilter"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.preproc2.ReadFilter" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc2/ReadFilter.java.html#8"
- , "c1" : "ReadLine"
- , "c2" : "applyFilter(ReadLine)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
+ { "nomclasse" : "" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilter.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilter.java.svg" }
-
 ] 
 , 
 "data04" : [
@@ -57,5 +41,22 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999999"
+ , "c3" : "Syntax analysis failure on the source code"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00002"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorUtils.java.html#2"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/preproc2/PreprocessorUtils.java near following tokens by : Nicolas Jouanin ` * ` * ` */ package net . sourceforge . plantuml . preproc2 ; import java "
+}} 
+]
 };
 console.log('leListeStr 99 main end');

@@ -1,47 +1,30 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/oregon/BasicGame.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/openiconic/data/DummyIcon.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/openiconic/data/DummyIcon.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/openiconic/data/DummyIcon.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.oregon.BasicGame"
+ , "c2" : "net.sourceforge.plantuml.openiconic.data.DummyIcon"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.oregon.BasicGame" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.html#6"
- , "c1" : "void"
- , "c2" : "run(Keyboard)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.html#8"
- , "c1" : "Screen"
- , "c2" : "getScreen()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
+ { "nomclasse" : "net.sourceforge.plantuml.openiconic.data.DummyIcon" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/openiconic/data/DummyIcon.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/openiconic/data/DummyIcon.java.svg" }
 
 ] 
 , 
@@ -66,5 +49,22 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/data/DummyIcon.java.html#4"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00004] The class DummyIcon contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+]
 };
 console.log('leListeStr 99 main end');

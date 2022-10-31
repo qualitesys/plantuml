@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java 7 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/braille/DriverLineBraille.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<UPolygon,BrailleGrid>"
- , "c2" : "net.sourceforge.plantuml.braille.DriverPolygonBraille"
+ , "c1" : "UDriver<ULine,BrailleGrid>"
+ , "c2" : "net.sourceforge.plantuml.braille.DriverLineBraille"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.braille.DriverPolygonBraille" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.braille.DriverLineBraille" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#20"
- , "c1" : "DriverPolygonBraille"
- , "c2" : "DriverPolygonBraille(ClipContainer)"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#17"
+ , "c1" : "DriverLineBraille"
+ , "c2" : "DriverLineBraille(ClipContainer)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#24"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#21"
  , "c1" : "void"
- , "c2" : "draw(UPolygon;double;double;ColorMapper;UParam;BrailleGrid)"
- , "c3" : "5"
- , "c4" : "6"
+ , "c2" : "draw(ULine;double;double;ColorMapper;UParam;BrailleGrid)"
+ , "c3" : "3"
+ , "c4" : "10"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.svg" }
 
 ] 
 , 
@@ -85,7 +85,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -98,52 +98,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#16"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00016] The class DriverPolygonBraille contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00013] The class DriverLineBraille contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#24"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#21"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method draw arguments UPolygon  shape|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
+ , "c3" : "QC-JAV000006[00021] For method draw arguments ULine  shape|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#24"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#21"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00021] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#24"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#21"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00021] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#26"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.braille.DriverPolygonBraille.draw@POLYN151105 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.braille.DriverLineBraille.draw@POLYN150584 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#33"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.braille.DriverPolygonBraille.draw@POLYN151105 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.braille.DriverPolygonBraille.draw@POLYN151105 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.braille.DriverLineBraille.draw@POLYN150584 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 };

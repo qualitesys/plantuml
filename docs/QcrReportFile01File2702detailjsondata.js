@@ -1,38 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<URectangle,TikzGraphics>"
- , "c2" : "net.sourceforge.plantuml.ugraphic.tikz.DriverRectangleTikz"
+ , "c1" : "UDriver<UPolygon,TikzGraphics>"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.tikz.DriverPolygonTikz"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.tikz.DriverRectangleTikz" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.tikz.DriverPolygonTikz" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#15"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.html#14"
  , "c1" : "void"
- , "c2" : "draw(URectangle;double;double;ColorMapper;UParam;TikzGraphics)"
- , "c3" : "5"
- , "c4" : "11"
+ , "c2" : "draw(UPolygon;double;double;ColorMapper;UParam;TikzGraphics)"
+ , "c3" : "3"
+ , "c4" : "8"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.svg" }
 
 ] 
 , 
@@ -73,13 +73,6 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -89,59 +82,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#13"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00013] The class DriverRectangleTikz contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00012] The class DriverPolygonTikz contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#15"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.html#14"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method draw arguments URectangle  rect|double  x|double  y|ColorMapper  mapper|UParam  param|TikzGraphics  tikz"
+ , "c3" : "QC-JAV000006[00014] For method draw arguments UPolygon  poly|double  x|double  y|ColorMapper  mapper|UParam  param|TikzGraphics  tikz"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#15"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.html#14"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00014] The argument poly is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#15"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.html#14"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00014] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#15"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverPolygonTikz.java.html#14"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument tikz is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.ugraphic.tikz.DriverRectangleTikz.draw@POLYN152220 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.ugraphic.tikz.DriverRectangleTikz.draw@POLYN152220 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverRectangleTikz.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.tikz.DriverRectangleTikz.draw@POLYN152220 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAVCWE476[00014] The argument tikz is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 };

@@ -1,162 +1,81 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/salt/Dictionary.java 14 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/salt/DataSourceImpl.java 24 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SpriteContainer"
- , "c2" : "net.sourceforge.plantuml.salt.Dictionary"
+ , "c1" : "DataSource"
+ , "c2" : "net.sourceforge.plantuml.salt.DataSourceImpl"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.salt.Dictionary" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.salt.DataSourceImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#23"
- , "c1" : "void"
- , "c2" : "put(String;Element)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#18"
+ , "c1" : "DataSourceImpl"
+ , "c2" : "DataSourceImpl(List<String>)"
+ , "c3" : "9"
+ , "c4" : "19"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#27"
- , "c1" : "Element"
- , "c2" : "get(String)"
- , "c3" : "1"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#55"
+ , "c1" : "void"
+ , "c2" : "addInternal(String;Terminator)"
+ , "c3" : "2"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#32"
- , "c1" : "Sprite"
- , "c2" : "getSprite(String)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#36"
- , "c1" : "String"
- , "c2" : "getValue(String)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#40"
- , "c1" : "double"
- , "c2" : "getPadding()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#44"
- , "c1" : "Guillemet"
- , "c2" : "guillemet()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#48"
- , "c1" : "String"
- , "c2" : "getMonospacedFamily()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#52"
- , "c1" : "int"
- , "c2" : "getTabSize()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#56"
- , "c1" : "HColorSet"
- , "c2" : "getIHtmlColorSet()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#60"
- , "c1" : "int"
- , "c2" : "getDpi()"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#62"
+ , "c1" : "Terminated<String>"
+ , "c2" : "peek(int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#66"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#66"
+ , "c1" : "boolean"
+ , "c2" : "hasNext()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#70"
+ , "c1" : "Terminated<String>"
+ , "c2" : "next()"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#76"
  , "c1" : "void"
- , "c2" : "addSprite(String;Sprite)"
+ , "c2" : "remove()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#71"
- , "c1" : "LineBreakStrategy"
- , "c2" : "wrapWidth()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#75"
- , "c1" : "void"
- , "c2" : "copyAllFrom(Map<String,String>)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#79"
- , "c1" : "Map<String,String>"
- , "c2" : "values()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#83"
- , "c1" : "double"
- , "c2" : "minClassWidthTOBEREMOVED(Style)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#87"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#80"
  , "c1" : "String"
- , "c2" : "transformStringForSizeHack(String)"
+ , "c2" : "toString()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -165,9 +84,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.svg" }
 
 ] 
 , 
@@ -195,6 +114,13 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "10"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
@@ -204,114 +130,184 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
+ , "c4" : "11"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "8"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#19"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00019] The class Dictionary contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00013] The class DataSourceImpl contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#23"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method put arguments String  name|Element  element"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#22"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00022] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#27"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method get arguments String  name"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00024] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#32"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method getSprite arguments String  name"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00028] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00029] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00024] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00028] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00029] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#19"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN157759 the MagicNumber/String  '\\{(?:[-+^#!*/]|S-|SI|S)?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#22"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN157759 the MagicNumber/String  '|}' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#22"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN157759 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN157759 the MagicNumber/String  '|' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN157759 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN157759 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method getValue arguments String  key"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#37"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.salt.Dictionary.getValue@POLYN156113 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN157759 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.salt.Dictionary.getPadding@POLYN156223 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.salt.Dictionary.getTabSize@POLYN156499 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.salt.Dictionary.getDpi@POLYN156693 the MagicNumber/String  96 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#66"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method addSprite arguments String  name|Sprite  sprite"
+ , "c3" : "QC-JAV000006[00055] For method addInternal arguments String  s|Terminator  t"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#75"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method copyAllFrom arguments Map&lt;String ,String &gt;  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method minClassWidthTOBEREMOVED arguments Style  style"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#84"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.salt.Dictionary.minClassWidthTOBEREMOVED@POLYN157508 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.salt.DataSourceImpl.addInternal@POLYN160105 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#87"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method transformStringForSizeHack arguments String  s"
+ , "c3" : "QC-JAV000006[00062] For method peek arguments int  nb"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.salt.DataSourceImpl.toString@POLYN161206 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.salt.DataSourceImpl.toString@POLYN161206 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.salt.DataSourceImpl.toString@POLYN161206 the MagicNumber/String  '$$$' should be converted to const"
 }} 
 ]
 };

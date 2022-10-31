@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/nwdiag/CommandElement.java 12 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<NwDiagram>"
- , "c2" : "net.sourceforge.plantuml.nwdiag.CommandEndSomething"
+ , "c2" : "net.sourceforge.plantuml.nwdiag.CommandElement"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.nwdiag.CommandEndSomething" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.nwdiag.CommandElement" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#14"
- , "c1" : "CommandEndSomething"
- , "c2" : "CommandEndSomething()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#14"
+ , "c1" : "CommandElement"
+ , "c2" : "CommandElement()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#18"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#18"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#26"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#28"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(NwDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.svg" }
 
 ] 
 , 
@@ -80,14 +80,14 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "1"
+ , "c4" : "9"
 }}
 ,
 { "ligne" : { "" : ""
@@ -101,23 +101,86 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#21"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.nwdiag.CommandEndSomething.getRegexConcat@POLYN149040 the MagicNumber/String  '\\}' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.nwdiag.CommandElement.getRegexConcat@POLYN149844 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#26"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.nwdiag.CommandElement.getRegexConcat@POLYN149844 the MagicNumber/String  '([-.%pLN_]+)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.nwdiag.CommandElement.getRegexConcat@POLYN149844 the MagicNumber/String  'DEFINITION' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.nwdiag.CommandElement.getRegexConcat@POLYN149844 the MagicNumber/String  '(\\[(.*)\\])?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.nwdiag.CommandElement.getRegexConcat@POLYN149844 the MagicNumber/String  ';?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method executeArg arguments NwDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00028] For method executeArg arguments NwDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#26"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#28"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00028] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#28"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00028] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.nwdiag.CommandElement.executeArg@POLYN150415 the MagicNumber/String  'NAME' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.nwdiag.CommandElement.executeArg@POLYN150415 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.nwdiag.CommandElement.executeArg@POLYN150415 the MagicNumber/String  'DEFINITION' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandElement.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.nwdiag.CommandElement.executeArg@POLYN150415 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 };

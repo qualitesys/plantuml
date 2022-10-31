@@ -1,37 +1,37 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SentenceSimple"
- , "c2" : "net.sourceforge.plantuml.project.lang.SentencePausesDayOfWeek"
+ , "c2" : "net.sourceforge.plantuml.project.lang.SentencePausesDates"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.lang.SentencePausesDayOfWeek" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.lang.SentencePausesDates" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.html#11"
- , "c1" : "SentencePausesDayOfWeek"
- , "c2" : "SentencePausesDayOfWeek()"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java.html#12"
+ , "c1" : "SentencePausesDates"
+ , "c2" : "SentencePausesDates()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.html#16"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java.html#17"
  , "c1" : "CommandExecutionResult"
  , "c2" : "execute(GanttDiagram;Object;Object)"
- , "c3" : "1"
+ , "c3" : "2"
  , "c4" : "4"
 }} 
 ] 
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java.svg" }
 
 ] 
 , 
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.html#16"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java.html#17"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00017] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ]
 };

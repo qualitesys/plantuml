@@ -1,39 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/PortionShower.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/PortionShower.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/PortionShower.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/NoteLinkStrategy.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/NoteLinkStrategy.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/NoteLinkStrategy.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.cucadiagram.PortionShower"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.PortionShower" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/PortionShower.java.html#6"
- , "c1" : "boolean"
- , "c2" : "showPortion(EntityPortion;IEntity)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
+ { "nomclasse" : "net.sourceforge.plantuml.cucadiagram." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/cucadiagram/PortionShower.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/PortionShower.java.svg" }
-
 ] 
 , 
 "data04" : [

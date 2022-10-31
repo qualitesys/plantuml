@@ -1,83 +1,30 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/bpm/Navigator.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/Navigator.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/Line.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/bpm/Line.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/Line.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.bpm.Navigator"
+ , "c2" : "net.sourceforge.plantuml.bpm.Line"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.bpm.Navigator" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#6"
- , "c1" : "O"
- , "c2" : "next()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#8"
- , "c1" : "O"
- , "c2" : "previous()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#10"
- , "c1" : "O"
- , "c2" : "get()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#12"
- , "c1" : "void"
- , "c2" : "set(O)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#14"
- , "c1" : "void"
- , "c2" : "insertBefore(O)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#16"
- , "c1" : "void"
- , "c2" : "insertAfter(O)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
+ { "nomclasse" : "net.sourceforge.plantuml.bpm.Line" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/Navigator.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/Line.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/Navigator.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/Line.java.svg" }
 
 ] 
 , 
@@ -102,5 +49,22 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Line.java.html#4"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00004] The class Line contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+]
 };
 console.log('leListeStr 99 main end');

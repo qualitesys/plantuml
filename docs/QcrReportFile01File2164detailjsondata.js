@@ -1,74 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/style/Context.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/style/Context.java 18 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/style/Context.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.style.Context"
+ , "c1" : "CommandMultilines2<TitledDiagram>"
+ , "c2" : "net.sourceforge.plantuml.style.CommandStyleMultilinesCSS"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.style.Context" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.style.CommandStyleMultilinesCSS" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Context.java.html#15"
- , "c1" : "Context"
- , "c2" : "push(String)"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#17"
+ , "c1" : "CommandStyleMultilinesCSS"
+ , "c2" : "CommandStyleMultilinesCSS()"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Context.java.html#22"
- , "c1" : "Context"
- , "c2" : "pop()"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Context.java.html#31"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#22"
  , "c1" : "String"
- , "c2" : "toString()"
+ , "c2" : "getPatternEnd()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Context.java.html#35"
- , "c1" : "int"
- , "c2" : "size()"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#26"
+ , "c1" : "IRegex"
+ , "c2" : "getRegexConcat()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Context.java.html#39"
- , "c1" : "Collection<StyleSignatureBasic>"
- , "c2" : "toSignatures()"
- , "c3" : "7"
- , "c4" : "16"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#33"
+ , "c1" : "CommandExecutionResult"
+ , "c2" : "executeNow(TitledDiagram;BlocLines)"
+ , "c3" : "2"
+ , "c4" : "5"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/style/Context.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/style/Context.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.svg" }
 
 ] 
 , 
@@ -95,24 +86,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "7"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "9"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -125,129 +109,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class Context contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#15"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method push arguments String  newString"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#23"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.style.Context.pop@POLYN154911 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.getPatternEnd@POLYN152005 the MagicNumber/String  '^[%s]*\\&amp;lt;/style\\&amp;gt;[%s]*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#26"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.style.Context.pop@POLYN154911 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.getRegexConcat@POLYN152098 the MagicNumber/String  '\\&amp;lt;style\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#26"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#33"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00033] For method executeNow arguments TitledDiagram  diagram|BlocLines  lines"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#33"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00033] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#33"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00033] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.style.Context.pop@POLYN154911 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.executeNow@POLYN152399 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#36"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.executeNow@POLYN152399 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#43"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00048] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00049] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00050] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00051] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00051] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00058] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.style.Context.toSignatures@POLYN155651 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.style.Context.toSignatures@POLYN155651 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.style.Context.toSignatures@POLYN155651 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.style.Context.toSignatures@POLYN155651 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.style.Context.toSignatures@POLYN155651 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Context.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.style.Context.toSignatures@POLYN155651 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.executeNow@POLYN152399 the MagicNumber/String  'General failure: no style available.' should be converted to const"
 }} 
 ]
 };

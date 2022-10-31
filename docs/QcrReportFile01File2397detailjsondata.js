@@ -1,54 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/EaterTheme.java 22 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/EaterStartsub.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Eater"
- , "c2" : "net.sourceforge.plantuml.tim.EaterTheme"
+ , "c2" : "net.sourceforge.plantuml.tim.EaterStartsub"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.tim.EaterTheme" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.tim.EaterStartsub" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#30"
- , "c1" : "EaterTheme"
- , "c2" : "EaterTheme(StringLocated;ImportedFiles)"
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#10"
+ , "c1" : "EaterStartsub"
+ , "c2" : "EaterStartsub(StringLocated)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#36"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#15"
  , "c1" : "void"
  , "c2" : "analyze(TContext;TMemory)"
  , "c3" : "2"
- , "c4" : "9"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#53"
- , "c1" : "ReadLine"
- , "c2" : "getTheme()"
- , "c3" : "9"
- , "c4" : "18"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#98"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#25"
  , "c1" : "String"
- , "c2" : "getName()"
+ , "c2" : "getSubname()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -57,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.svg" }
 
 ] 
 , 
@@ -86,17 +77,10 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "20"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
@@ -109,157 +93,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#36"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#15"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method analyze arguments TContext  context|TMemory  memory"
+ , "c3" : "QC-JAV000006[00015] For method analyze arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#36"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#38"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.tim.EaterTheme.analyze@POLYN160760 the MagicNumber/String  '!theme' should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.EaterStartsub.analyze@POLYN146859 the MagicNumber/String  '!startsub' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#42"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.tim.EaterTheme.analyze@POLYN160760 the MagicNumber/String  ' from ' should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.tim.EaterStartsub.analyze@POLYN146859 the MagicNumber/String  '\\w+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#43"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.tim.EaterTheme.analyze@POLYN160760 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.tim.EaterStartsub.analyze@POLYN146859 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#44"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.tim.EaterTheme.analyze@POLYN160760 the MagicNumber/String  ' from ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.tim.EaterTheme.analyze@POLYN160760 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  'theme ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  'Cannot load ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  'http://' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  'https://' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  'Cannot open URL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  'Cannot decode charset' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  'No such theme ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  'theme ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterTheme.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.tim.EaterTheme.getTheme@POLYN161900 the MagicNumber/String  'Cannot load ' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.tim.EaterStartsub.analyze@POLYN146859 the MagicNumber/String  'Bad sub name' should be converted to const"
 }} 
 ]
 };

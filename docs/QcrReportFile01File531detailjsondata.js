@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java 26 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java 32 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<ActivityDiagram3>"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIf4"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIf2"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIf4" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIf2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#19"
- , "c1" : "CommandIf4"
- , "c2" : "CommandIf4()"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#23"
+ , "c1" : "CommandIf2"
+ , "c2" : "CommandIf2()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#23"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#27"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,21 +36,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#45"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#48"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(ActivityDiagram3;LineLocation;RegexResult)"
- , "c3" : "2"
- , "c4" : "6"
+ , "c3" : "4"
+ , "c4" : "10"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.svg" }
 
 ] 
 , 
@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "23"
+ , "c4" : "29"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,185 +100,227 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#26"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  'if' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  '\\(' should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#29"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  'TEST' should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#29"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  '(.*?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  ')?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#30"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  '\\)' should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  'if' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#32"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  '(is|equals?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  '\\(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#34"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  '\\(' should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  'TEST' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  '(.*?)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#35"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  'WHEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  '\\)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#35"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  '(.+?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  'then' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#36"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  '\\)' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  'WHEN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#38"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  'then' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  '\\((.+?)\\)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#40"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.getRegexConcat@POLYN155297 the MagicNumber/String  ';?' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.getRegexConcat@POLYN157993 the MagicNumber/String  ';?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#45"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method executeArg arguments ActivityDiagram3  diagram|LineLocation  location|RegexResult  arg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#45"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00045] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#45"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00045] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  'COLOR' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00048] For method executeArg arguments ActivityDiagram3  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  null should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#48"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00048] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#48"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#48"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00048] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  'COLOR' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#51"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  'TEST' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#51"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#52"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  'TEST' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#53"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  'WHEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#55"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf4.java.html#55"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf4.executeArg@POLYN156470 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  'URL' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#61"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  'topurl' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  'URL' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  'WHEN' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIf2.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIf2.executeArg@POLYN159162 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

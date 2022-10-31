@@ -1,25 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractGtile"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleStart"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleStart" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.html#24"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#32"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getDefaultStyleDefinitionCircle()"
  , "c3" : "1"
@@ -27,26 +27,26 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.html#28"
- , "c1" : "GtileCircleStart"
- , "c2" : "GtileCircleStart(StringBounder;ISkinParam;HColor;Swimlane)"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#36"
+ , "c1" : "GtileCircleSpot"
+ , "c2" : "GtileCircleSpot(StringBounder;ISkinParam;HColor;Swimlane;String;UFont)"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.html#37"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#48"
  , "c1" : "void"
  , "c2" : "drawUInternal(UGraphic)"
  , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.html#44"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#65"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -57,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.svg" }
 
 ] 
 , 
@@ -93,6 +93,13 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "7"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -102,24 +109,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.html#37"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method drawUInternal arguments UGraphic  ug"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot.GtileCircleSpot@POLYN158406 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.html#37"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#48"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00048] For method drawUInternal arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#48"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00037] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00048] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleStart.java.html#44"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot.drawUInternal@POLYN159272 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot.drawUInternal@POLYN159272 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot.drawUInternal@POLYN159272 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#59"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot.drawUInternal@POLYN159272 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#59"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot.drawUInternal@POLYN159272 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot.drawUInternal@POLYN159272 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileCircleSpot.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00065] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ]
 };

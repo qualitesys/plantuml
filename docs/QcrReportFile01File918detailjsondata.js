@@ -1,56 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/command/CommandAffineTransform.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "CommandMultilines<TitledDiagram>"
- , "c2" : "net.sourceforge.plantuml.command.CommandAffineTransformMultiline"
+ , "c1" : "SingleLineCommand2<UmlDiagram>"
+ , "c2" : "net.sourceforge.plantuml.command.CommandAffineTransform"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.command.CommandAffineTransformMultiline" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.command.CommandAffineTransform" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#8"
- , "c1" : "CommandAffineTransformMultiline"
- , "c2" : "CommandAffineTransformMultiline()"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#15"
+ , "c1" : "CommandAffineTransform"
+ , "c2" : "CommandAffineTransform()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#13"
- , "c1" : "String"
- , "c2" : "getPatternEnd()"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#19"
+ , "c1" : "IRegex"
+ , "c2" : "getRegexConcat()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#17"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#27"
  , "c1" : "CommandExecutionResult"
- , "c2" : "execute(TitledDiagram;BlocLines)"
+ , "c2" : "executeArg(UmlDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.svg" }
 
 ] 
 , 
@@ -77,10 +77,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -93,31 +100,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#9"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00009] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.CommandAffineTransformMultiline@POLYN145730 the MagicNumber/String  '^!transformation[%s]+\\{[%s]*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.command.CommandAffineTransform.getRegexConcat@POLYN149532 the MagicNumber/String  '!transformation' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#14"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.getPatternEnd@POLYN145856 the MagicNumber/String  '^[%s]*!\\}[%s]*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.command.CommandAffineTransform.getRegexConcat@POLYN149532 the MagicNumber/String  'ANIMATION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#17"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.command.CommandAffineTransform.getRegexConcat@POLYN149532 the MagicNumber/String  '([^{}]*)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method execute arguments TitledDiagram  diagram|BlocLines  lines"
+ , "c3" : "QC-JAV000006[00027] For method executeArg arguments UmlDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#20"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#27"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00027] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#27"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00027] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.execute@POLYN145944 the MagicNumber/String  'Not yet implemented' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.command.CommandAffineTransform.executeArg@POLYN149975 the MagicNumber/String  'ANIMATION' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.command.CommandAffineTransform.executeArg@POLYN149975 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

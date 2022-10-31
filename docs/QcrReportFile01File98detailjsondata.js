@@ -1,9 +1,9 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/gen/annotation/Reviewed.java.html" 
- , "texte" : "File src/gen/annotation/Reviewed.java 0 rule violation " 
- , "fic2"  : "./qc/src/gen/annotation/Reviewed.java.xml" 
+   "fic1"  : "./qc/src/gen/annotation/Original.java.html" 
+ , "texte" : "File src/gen/annotation/Original.java 0 rule violation " 
+ , "fic2"  : "./qc/src/gen/annotation/Original.java.xml" 
  , "fic3"  : "" 
 }
 , 

@@ -1,34 +1,43 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/eggs/SentenceProducer.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/eggs/SentenceDecoder.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.eggs.SentenceProducer"
+ , "c2" : "net.sourceforge.plantuml.eggs.SentenceDecoder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.eggs.SentenceProducer" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.eggs.SentenceDecoder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.html#10"
- , "c1" : "SentenceProducer"
- , "c2" : "SentenceProducer(String;String)"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#12"
+ , "c1" : "SentenceDecoder"
+ , "c2" : "SentenceDecoder(String;byte[])"
  , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#18"
+ , "c1" : "boolean"
+ , "c2" : "isOk()"
+ , "c3" : "5"
  , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.html#17"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#33"
  , "c1" : "String"
  , "c2" : "getSecret()"
  , "c3" : "1"
@@ -39,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.svg" }
 
 ] 
 , 
@@ -68,33 +77,68 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "6"
+}}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.html#6"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00006] The class SentenceProducer contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00008] The class SentenceDecoder contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceProducer.java.html#10"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00010] The argument sentence2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN148804 the MagicNumber/String  256 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN148804 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN148804 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN148804 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN148804 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN148804 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 };

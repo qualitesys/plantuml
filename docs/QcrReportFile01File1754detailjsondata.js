@@ -1,45 +1,36 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/lang/Subject.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/Subject.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/lang/Something.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.project.lang.Subject"
+ , "c2" : "net.sourceforge.plantuml.project.lang.Something"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.lang.Subject" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.lang.Something" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Something.java.html#11"
+ , "c1" : "IRegex"
+ , "c2" : "toRegex(String)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
 { "ligne" : { "" : ""
  , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html#13"
- , "c1" : "Collection<?extendsSentenceSimple>"
- , "c2" : "getSentences()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html#15"
- , "c1" : "IRegex"
- , "c2" : "toRegex()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html#17"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Something.java.html#13"
  , "c1" : "Failable<?extendsObject>"
- , "c2" : "getMe(GanttDiagram;RegexResult)"
+ , "c2" : "getMe(GanttDiagram;RegexResult;String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/Subject.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/Subject.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.svg" }
 
 ] 
 , 

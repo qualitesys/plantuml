@@ -1,56 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PSystemCommandFactory"
- , "c2" : "net.sourceforge.plantuml.compositediagram.CompositeDiagramFactory"
+ , "c1" : "AbstractEntityDiagram"
+ , "c2" : "net.sourceforge.plantuml.compositediagram.CompositeDiagram"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.compositediagram.CompositeDiagramFactory" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.compositediagram.CompositeDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html#22"
- , "c1" : "CompositeDiagramFactory"
- , "c2" : "CompositeDiagramFactory(ISkinSimple)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html#27"
- , "c1" : "List<Command>"
- , "c2" : "createCommands()"
- , "c3" : "1"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html#39"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.html#18"
  , "c1" : "CompositeDiagram"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "CompositeDiagram(UmlSource;Map<String,String>)"
  , "c3" : "1"
  , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.html#23"
+ , "c1" : "IEntity"
+ , "c2" : "getOrCreateLeaf(Ident;Code;LeafType;USymbol)"
+ , "c3" : "3"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.svg" }
 
 ] 
 , 
@@ -77,6 +68,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -86,10 +84,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html#39"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.html#23"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
+ , "c3" : "QC-JAV000006[00023] For method getOrCreateLeaf arguments Ident  ident|Code  code|LeafType  type|USymbol  symbol"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.compositediagram.CompositeDiagram.getOrCreateLeaf@POLYN149954 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 };

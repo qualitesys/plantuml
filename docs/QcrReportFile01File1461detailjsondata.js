@@ -1,25 +1,61 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/json/WriterConfig.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/json/PrettyPrint.java 22 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.json.WriterConfig"
+ , "c1" : "WriterConfig"
+ , "c2" : "net.sourceforge.plantuml.json.PrettyPrint"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.json.WriterConfig" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.json.PrettyPrint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117"
+ , "c1" : "PrettyPrint"
+ , "c2" : "PrettyPrint(char[])"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117"
+ , "c1" : "PrettyPrint"
+ , "c2" : "singleLine()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117"
+ , "c1" : "PrettyPrint"
+ , "c2" : "indentWithSpaces(int)"
+ , "c3" : "2"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c1" : "PrettyPrint"
+ , "c2" : "indentWithTabs()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
  , "c1" : "JsonWriter"
  , "c2" : "createWriter(Writer)"
  , "c3" : "1"
@@ -30,9 +66,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.svg" }
 
 ] 
 , 
@@ -60,74 +96,172 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAVCWE493"
- , "c3" : "Critical public variable without final modifier"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAVCWE500"
- , "c3" : "Static public field not marked final"
- , "c4" : "2"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "20"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00024] The class WriterConfig contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.json.PrettyPrint.singleLine@POLYN162115 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00117] For method indentWithSpaces arguments int  number"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00024] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.json.PrettyPrint.indentWithSpaces@POLYN162401 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
- , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00024] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00024] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.json.PrettyPrint.indentWithSpaces@POLYN162401 the MagicNumber/String  'number is negative' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
- , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00024] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.indentWithSpaces@POLYN162401 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.indentWithTabs@POLYN162991 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method createWriter arguments Writer  writer"
+ , "c3" : "QC-JAV000006[00001] For method createWriter arguments Writer  writer"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeArrayOpen@POLYN163709 the MagicNumber/String  '[' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeArrayClose@POLYN163930 the MagicNumber/String  ']' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeArraySeparator@POLYN164151 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeArraySeparator@POLYN164151 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeObjectOpen@POLYN164437 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeObjectClose@POLYN164658 the MagicNumber/String  '}' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeMemberSeparator@POLYN164879 the MagicNumber/String  ':' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeMemberSeparator@POLYN164879 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeObjectSeparator@POLYN165092 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeObjectSeparator@POLYN165092 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeNewLine@POLYN165372 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeNewLine@POLYN165372 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeNewLine@POLYN165372 the MagicNumber/String  '\n' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeNewLine@POLYN165372 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.PrettyPrint.PrettyPrintWriter.writeNewLine@POLYN165372 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 };

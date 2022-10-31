@@ -1,25 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/lang/ComplementInColors.java 15 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Something"
- , "c2" : "net.sourceforge.plantuml.project.lang.ComplementInColors"
+ , "c2" : "net.sourceforge.plantuml.project.lang.ComplementFromTo"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.lang.ComplementInColors" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.lang.ComplementFromTo" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#13"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#12"
  , "c1" : "IRegex"
  , "c2" : "toRegex(String)"
  , "c3" : "1"
@@ -27,21 +27,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#17"
- , "c1" : "Failable<CenterBorderColor>"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#16"
+ , "c1" : "Failable<TwoNames>"
  , "c2" : "getMe(GanttDiagram;RegexResult;String)"
  , "c3" : "1"
- , "c4" : "5"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.svg" }
 
 ] 
 , 
@@ -71,7 +71,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -85,7 +85,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "10"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -98,108 +98,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#11"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class ComplementInColors contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00010] The class ComplementFromTo contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#12"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00012] For method toRegex arguments String  suffix"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#13"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method toRegex arguments String  suffix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#14"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.project.lang.ComplementInColors.toRegex@POLYN149493 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.project.lang.ComplementFromTo.toRegex@POLYN148090 the MagicNumber/String  'COMPLEMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#14"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.project.lang.ComplementInColors.toRegex@POLYN149493 the MagicNumber/String  'in[%s]+(#?\\w+)(?:/(#?\\w+))?' should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.project.lang.ComplementFromTo.toRegex@POLYN148090 the MagicNumber/String  'from[%s]+\\[([^\\[\\]]+)\\][%s]+to[%s]+\\[([^\\[\\]]+)\\]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#17"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method getMe arguments GanttDiagram  diagram|RegexResult  arg|String  suffix"
+ , "c3" : "QC-JAV000006[00016] For method getMe arguments GanttDiagram  system|RegexResult  arg|String  suffix"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#16"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00016] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#17"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00017] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.project.lang.ComplementFromTo.getMe@POLYN148305 the MagicNumber/String  'COMPLEMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#17"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00017] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.project.lang.ComplementFromTo.getMe@POLYN148305 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#18"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.ComplementInColors.getMe@POLYN149708 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.ComplementFromTo.getMe@POLYN148305 the MagicNumber/String  'COMPLEMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#18"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementFromTo.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.ComplementInColors.getMe@POLYN149708 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.project.lang.ComplementInColors.getMe@POLYN149708 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.project.lang.ComplementInColors.getMe@POLYN149708 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.lang.ComplementInColors.getMe@POLYN149708 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.lang.ComplementInColors.getMe@POLYN149708 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.project.lang.ComplementInColors.getMe@POLYN149708 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementInColors.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.project.lang.ComplementInColors.getMe@POLYN149708 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.ComplementFromTo.getMe@POLYN148305 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 };

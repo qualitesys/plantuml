@@ -1,101 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sprite/StdlibDiagram.java 27 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sprite/SpriteUtils.java 29 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UmlDiagram"
- , "c2" : "net.sourceforge.plantuml.sprite.StdlibDiagram"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.sprite.SpriteUtils"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sprite.StdlibDiagram" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sprite.SpriteUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#42"
- , "c1" : "StdlibDiagram"
- , "c2" : "StdlibDiagram(UmlSource;Map<String,String>)"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#13"
+ , "c1" : "SpriteUtils"
+ , "c2" : "SpriteUtils()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "0"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#46"
- , "c1" : "DiagramDescription"
- , "c2" : "getDescription()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#16"
+ , "c1" : "String"
+ , "c2" : "encodeColor(BufferedImage;String)"
+ , "c3" : "2"
+ , "c4" : "7"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#51"
- , "c1" : "ImageBuilder"
- , "c2" : "createImageBuilder(FileFormatOption)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#28"
+ , "c1" : "String"
+ , "c2" : "encode(BufferedImage;String;SpriteGrayLevel)"
+ , "c3" : "2"
+ , "c4" : "7"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#56"
- , "c1" : "ImageData"
- , "c2" : "exportDiagramInternal(OutputStream;int;FileFormatOption)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#62"
- , "c1" : "TextBlock"
- , "c2" : "getTable()"
- , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#79"
- , "c1" : "void"
- , "c2" : "setStdlibName(String)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#83"
- , "c1" : "void"
- , "c2" : "drawInternal(UGraphic)"
- , "c3" : "5"
- , "c4" : "24"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#129"
- , "c1" : "HColor"
- , "c2" : "getBlack()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#41"
+ , "c1" : "String"
+ , "c2" : "encodeCompressed(BufferedImage;String;SpriteGrayLevel)"
+ , "c3" : "4"
+ , "c4" : "10"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.svg" }
 
 ] 
 , 
@@ -125,219 +89,233 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "1"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "6"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "16"
+ , "c4" : "20"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#47"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.sprite.StdlibDiagram.getDescription@POLYN166999 the MagicNumber/String  '(Sprites)' should be converted to const"
+ , "c3" : "QC-JAV000008[00009] The class SpriteUtils contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#51"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method createImageBuilder arguments FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00016] For method encodeColor arguments BufferedImage  img|String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sprite.StdlibDiagram.createImageBuilder@POLYN167139 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormatOption"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sprite.StdlibDiagram.getTable@POLYN167642 the MagicNumber/String  4096 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#79"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method setStdlibName arguments String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method drawInternal arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#83"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#16"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00083] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00016] The argument img is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#97"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00097] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeColor@POLYN154553 the MagicNumber/String  'sprite $' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#100"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00100] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeColor@POLYN154553 the MagicNumber/String  ' [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#108"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00108] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeColor@POLYN154553 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#109"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00109] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeColor@POLYN154553 the MagicNumber/String  '/color] {\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#111"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00111] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeColor@POLYN154553 the MagicNumber/String  '}\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00114] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#28"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00028] For method encode arguments BufferedImage  img|String  name|SpriteGrayLevel  level"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#28"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00028] The argument img is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#28"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00028] The argument level is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#86"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sprite.SpriteUtils.encode@POLYN155461 the MagicNumber/String  'sprite $' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#91"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sprite.SpriteUtils.encode@POLYN155461 the MagicNumber/String  ' [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#94"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sprite.SpriteUtils.encode@POLYN155461 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#97"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sprite.SpriteUtils.encode@POLYN155461 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#109"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.sprite.SpriteUtils.encode@POLYN155461 the MagicNumber/String  '] {\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#111"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.sprite.SpriteUtils.encode@POLYN155461 the MagicNumber/String  '}\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  30 should be converted to const"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#41"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00041] For method encodeCompressed arguments BufferedImage  img|String  name|SpriteGrayLevel  level"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#41"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00041] The argument img is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  50 should be converted to const"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#41"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00041] The argument level is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#121"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeCompressed@POLYN156460 the MagicNumber/String  'sprite $' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#122"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeCompressed@POLYN156460 the MagicNumber/String  ' [' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeCompressed@POLYN156460 the MagicNumber/String  'x' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeCompressed@POLYN156460 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeCompressed@POLYN156460 the MagicNumber/String  'z] ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeCompressed@POLYN156460 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#46"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeCompressed@POLYN156460 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeCompressed@POLYN156460 the MagicNumber/String  '{\n' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteUtils.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sprite.SpriteUtils.encodeCompressed@POLYN156460 the MagicNumber/String  '}\n' should be converted to const"
 }} 
 ]
 };

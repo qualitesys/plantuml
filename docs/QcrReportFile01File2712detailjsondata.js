@@ -1,92 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractUGraphic<VisioGraphics>ClipContainer"
- , "c2" : "net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx"
+ , "c1" : "UDriver<UText,VisioGraphics>"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#27"
- , "c1" : "double"
- , "c2" : "dpiFactor()"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#19"
+ , "c1" : "DriverTextVdx"
+ , "c2" : "DriverTextVdx(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#31"
- , "c1" : "UGraphicVdx"
- , "c2" : "UGraphicVdx(HColor;ColorMapper;StringBounder)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#37"
- , "c1" : "AbstractCommonUGraphic"
- , "c2" : "copyUGraphic()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#41"
- , "c1" : "UGraphicVdx"
- , "c2" : "UGraphicVdx(UGraphicVdx)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#46"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#23"
  , "c1" : "void"
- , "c2" : "register()"
- , "c3" : "1"
- , "c4" : "11"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#61"
- , "c1" : "void"
- , "c2" : "writeToStream(OutputStream;String;int)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#66"
- , "c1" : "boolean"
- , "c2" : "matchesProperty(String)"
- , "c3" : "2"
- , "c4" : "2"
+ , "c2" : "draw(UText;double;double;ColorMapper;UParam;VisioGraphics)"
+ , "c3" : "3"
+ , "c4" : "10"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.svg" }
 
 ] 
 , 
@@ -113,6 +68,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -123,51 +92,65 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#28"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.dpiFactor@POLYN156689 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000008[00015] The class DriverTextVdx contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#61"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#23"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c3" : "QC-JAV000006[00023] For method draw arguments UText  shape|double  x|double  y|ColorMapper  mapper|UParam  param|VisioGraphics  visio"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method matchesProperty arguments String  propertyName"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#23"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#67"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#23"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument visio is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.matchesProperty@POLYN158735 the MagicNumber/String  'SPECIALTXT' should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152631 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#68"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.matchesProperty@POLYN158735 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152631 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#70"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.matchesProperty@POLYN158735 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152631 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152631 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 };

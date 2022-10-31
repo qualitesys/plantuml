@@ -1,65 +1,119 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/Guillemet.java 25 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/Guillemet.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/GeneratedImageImpl.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.Guillemet"
+ , "c1" : "GeneratedImage"
+ , "c2" : "net.sourceforge.plantuml.GeneratedImageImpl"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.Guillemet" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.GeneratedImageImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Guillemet.java.html#16"
- , "c1" : "Guillemet"
- , "c2" : "fromDescription(String)"
- , "c3" : "6"
- , "c4" : "6"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#19"
+ , "c1" : "int"
+ , "c2" : "getStatus()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Guillemet.java.html#35"
- , "c1" : "Guillemet"
- , "c2" : "Guillemet(String;String)"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#23"
+ , "c1" : "GeneratedImageImpl"
+ , "c2" : "GeneratedImageImpl(SFile;String;BlockUml;int)"
+ , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#30"
+ , "c1" : "File"
+ , "c2" : "getPngFile()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#34"
+ , "c1" : "String"
+ , "c2" : "getDescription()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#38"
+ , "c1" : "int"
+ , "c2" : "lineErrorRaw()"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#47"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#51"
+ , "c1" : "int"
+ , "c2" : "compareTo(GeneratedImage)"
+ , "c3" : "2"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#64"
+ , "c1" : "int"
+ , "c2" : "hashCode()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#69"
+ , "c1" : "boolean"
+ , "c2" : "equals(Object)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Guillemet.java.html#41"
- , "c1" : "String"
- , "c2" : "manageGuillemet(String)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Guillemet.java.html#49"
- , "c1" : "String"
- , "c2" : "manageGuillemetStrict(String)"
- , "c3" : "8"
- , "c4" : "6"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#74"
+ , "c1" : "BlockUml"
+ , "c2" : "getBlockUml()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.svg" }
 
 ] 
 , 
@@ -86,17 +140,10 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -110,191 +157,65 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "18"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#7"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00007] The class Guillemet contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00012] The class GeneratedImageImpl contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#16"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.GeneratedImageImpl.lineErrorRaw@POLYN154593 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.GeneratedImageImpl.toString@POLYN154966 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method fromDescription arguments String  value"
+ , "c3" : "QC-JAV000006[00051] For method compareTo arguments GeneratedImage  this2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN154453 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN154453 the MagicNumber/String  'false' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN154453 the MagicNumber/String  '&amp;lt;&amp;lt; &amp;gt;&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN154453 the MagicNumber/String  'none' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN154453 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN154453 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#41"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method manageGuillemet arguments String  st"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#41"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#51"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument st is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.Guillemet.manageGuillemet@POLYN155725 the MagicNumber/String  '\\&amp;lt;\\&amp;lt;\\s?((?:\\&amp;lt;&amp;\\w+\\&amp;gt;|[^&amp;lt;&amp;gt;])+?)\\s?\\&amp;gt;\\&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.Guillemet.manageGuillemet@POLYN155725 the MagicNumber/String  '$1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#49"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method manageGuillemetStrict arguments String  st"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#49"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument st is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  '&amp;lt;&amp;lt; ' should be converted to const"
+ , "c3" : "QC-JAVCWE476[00051] The argument this2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#54"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.GeneratedImageImpl.compareTo@POLYN155118 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  ' &amp;gt;&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN156125 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#16"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00016] Public method fromDescription is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/GeneratedImageImpl.java.html#69"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00069] For method equals arguments Object  obj"
 }} 
 ]
 };

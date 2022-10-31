@@ -1,25 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java 13 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java 18 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Command"
- , "c2" : "net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange"
+ , "c1" : "CommandCreoleCacheCommand"
+ , "c2" : "net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#14"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#14"
  , "c1" : "String"
  , "c2" : "startingChars()"
  , "c3" : "1"
@@ -27,35 +27,26 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#25"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#18"
+ , "c1" : "CommandCreoleExposantChange"
+ , "c2" : "CommandCreoleExposantChange(String;FontPosition)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#23"
  , "c1" : "Command"
- , "c2" : "create()"
+ , "c2" : "create(FontPosition)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#29"
- , "c1" : "Command"
- , "c2" : "createEol()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#33"
- , "c1" : "CommandCreoleFontFamilyChange"
- , "c2" : "CommandCreoleFontFamilyChange(Pattern2)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#38"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#28"
  , "c1" : "int"
  , "c2" : "matchingSize(String)"
  , "c3" : "2"
@@ -63,21 +54,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#46"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#36"
  , "c1" : "String"
  , "c2" : "executeAndGetRemaining(String;StripeSimple)"
  , "c3" : "2"
- , "c4" : "9"
+ , "c4" : "8"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.svg" }
 
 ] 
 , 
@@ -107,121 +98,149 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "8"
+ , "c4" : "12"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#11"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class CommandCreoleFontFamilyChange contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.startingChars@POLYN151534 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#15"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#23"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00023] For method create arguments FontPosition  position"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#23"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument position is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.startingChars@POLYN152969 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.create@POLYN151837 the MagicNumber/String  '^(' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.create@POLYN151837 the MagicNumber/String  '\\&amp;lt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.create@POLYN151837 the MagicNumber/String  '\\&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.create@POLYN151837 the MagicNumber/String  '(.*?)\\&amp;lt;/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.create@POLYN151837 the MagicNumber/String  '\\&amp;gt;)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#28"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00028] For method matchingSize arguments String  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.matchingSize@POLYN152187 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.matchingSize@POLYN152187 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.matchingSize@POLYN152187 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#36"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00036] For method executeAndGetRemaining arguments String  line|StripeSimple  stripe"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#36"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00036] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#36"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00036] The argument stripe is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#38"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method matchingSize arguments String  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#40"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.matchingSize@POLYN153826 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.executeAndGetRemaining@POLYN152586 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#41"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.matchingSize@POLYN153826 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.executeAndGetRemaining@POLYN152586 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#43"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleExposantChange.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.matchingSize@POLYN153826 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#46"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method executeAndGetRemaining arguments String  line|StripeSimple  stripe"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#46"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00046] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#46"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00046] The argument stripe is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154225 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154225 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154225 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154225 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange.executeAndGetRemaining@POLYN152586 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 };

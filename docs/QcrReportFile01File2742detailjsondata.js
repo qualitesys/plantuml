@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java 37 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/wbs/CommandWBSItem.java 29 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "CommandMultilines2<WBSDiagram>"
- , "c2" : "net.sourceforge.plantuml.wbs.CommandWBSItemMultiline"
+ , "c1" : "SingleLineCommand2<WBSDiagram>"
+ , "c2" : "net.sourceforge.plantuml.wbs.CommandWBSItem"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.wbs.CommandWBSItemMultiline" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.wbs.CommandWBSItem" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#25"
- , "c1" : "CommandWBSItemMultiline"
- , "c2" : "CommandWBSItemMultiline()"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#19"
+ , "c1" : "CommandWBSItem"
+ , "c2" : "CommandWBSItem()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#29"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#23"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,39 +36,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#40"
- , "c1" : "String"
- , "c2" : "getPatternEnd()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#44"
- , "c1" : "IRegex"
- , "c2" : "getRegexConcatOld()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#55"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#34"
  , "c1" : "CommandExecutionResult"
- , "c2" : "executeNow(WBSDiagram;BlocLines)"
- , "c3" : "3"
- , "c4" : "11"
+ , "c2" : "executeArg(WBSDiagram;LineLocation;RegexResult)"
+ , "c3" : "5"
+ , "c4" : "10"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.svg" }
 
 ] 
 , 
@@ -105,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "34"
+ , "c4" : "26"
 }}
 ,
 { "ligne" : { "" : ""
@@ -118,262 +100,206 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#31"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcat@POLYN160370 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.wbs.CommandWBSItem.CommandWBSItem@POLYN155579 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#31"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcat@POLYN160370 the MagicNumber/String  '([ \t]*[*+-]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#32"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcat@POLYN160370 the MagicNumber/String  'BACKCOLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  '([ \t]*[*+-]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#32"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcat@POLYN160370 the MagicNumber/String  '\\[(#\\w+)\\]' should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  'BACKCOLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#33"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcat@POLYN160370 the MagicNumber/String  'SHAPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  '\\[(#\\w+)\\]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#33"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcat@POLYN160370 the MagicNumber/String  '(_)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  'SHAPE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  '(_)?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  'DIRECTION' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  '([&amp;lt;&amp;gt;])?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  'LABEL' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.wbs.CommandWBSItem.getRegexConcat@POLYN155725 the MagicNumber/String  '([^%s].*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcat@POLYN160370 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcat@POLYN160370 the MagicNumber/String  'DATA' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcat@POLYN160370 the MagicNumber/String  '(.*)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getPatternEnd@POLYN161067 the MagicNumber/String  '^(.*);(?:\\s*\\&amp;lt;\\&amp;lt;(.+)\\&amp;gt;\\&amp;gt;)?$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  'TYPE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  '([ \t]*[*+-]+)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  'BACKCOLOR' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  '\\[(#\\w+)\\]' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  'SHAPE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  '(_)?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  'DIRECTION' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  '([&amp;lt;&amp;gt;])?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  'LABEL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.getRegexConcatOld@POLYN161155 the MagicNumber/String  '([^%s].*)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#55"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method executeNow arguments WBSDiagram  diagram|BlocLines  lines"
+ , "c3" : "QC-JAV000006[00034] For method executeArg arguments WBSDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#55"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#34"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00055] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00034] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#55"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#34"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00055] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00034] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#60"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  'DATA' should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#60"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#60"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#62"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#63"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  'BACKCOLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#64"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#67"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#67"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#68"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  'BACKCOLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#68"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  'DIRECTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#69"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#70"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#77"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  'SHAPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItemMultiline.java.html#77"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.wbs.CommandWBSItemMultiline.executeNow@POLYN161918 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  'SHAPE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.wbs.CommandWBSItem.executeArg@POLYN156488 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

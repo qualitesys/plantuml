@@ -1,38 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<URectangle,VisioGraphics>"
- , "c2" : "net.sourceforge.plantuml.ugraphic.visio.DriverRectangleVdx"
+ , "c1" : "UDriver<UPolygon,VisioGraphics>"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.visio.DriverPolygonVdx"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.visio.DriverRectangleVdx" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.visio.DriverPolygonVdx" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.html#11"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java.html#11"
  , "c1" : "void"
- , "c2" : "draw(URectangle;double;double;ColorMapper;UParam;VisioGraphics)"
+ , "c2" : "draw(UPolygon;double;double;ColorMapper;UParam;VisioGraphics)"
  , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java.svg" }
 
 ] 
 , 
@@ -83,28 +83,28 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.html#9"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class DriverRectangleVdx contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00009] The class DriverPolygonVdx contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.html#11"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java.html#11"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method draw arguments URectangle  rect|double  x|double  y|ColorMapper  mapper|UParam  param|VisioGraphics  visio"
+ , "c3" : "QC-JAV000006[00011] For method draw arguments UPolygon  poly|double  x|double  y|ColorMapper  mapper|UParam  param|VisioGraphics  visio"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.html#11"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java.html#11"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00011] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00011] The argument poly is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.html#11"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverPolygonVdx.java.html#11"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00011] The argument visio is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 

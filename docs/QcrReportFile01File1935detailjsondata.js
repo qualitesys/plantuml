@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java 9 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java 9 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<SequenceDiagram>"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.command.CommandFootbox"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.command.CommandFootbox" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#15"
- , "c1" : "CommandFootboxOld"
- , "c2" : "CommandFootboxOld()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#15"
+ , "c1" : "CommandFootbox"
+ , "c2" : "CommandFootbox()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#19"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#19"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#29"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#27"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(SequenceDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.svg" }
 
 ] 
 , 
@@ -101,65 +101,65 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#21"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld.getRegexConcat@POLYN150227 the MagicNumber/String  'footbox' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootbox.getRegexConcat@POLYN150071 the MagicNumber/String  'TYPE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootbox.getRegexConcat@POLYN150071 the MagicNumber/String  '(hide|show)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#23"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld.getRegexConcat@POLYN150227 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootbox.getRegexConcat@POLYN150071 the MagicNumber/String  'footbox' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld.getRegexConcat@POLYN150227 the MagicNumber/String  '(on|off)?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#29"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method executeArg arguments SequenceDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00027] For method executeArg arguments SequenceDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#29"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#27"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00027] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#29"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#27"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00027] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#30"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld.executeArg@POLYN150712 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootbox.executeArg@POLYN150514 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#30"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld.executeArg@POLYN150712 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootbox.executeArg@POLYN150514 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootboxOld.java.html#30"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandFootbox.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld.executeArg@POLYN150712 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.sequencediagram.command.CommandFootbox.executeArg@POLYN150514 the MagicNumber/String  'show' should be converted to const"
 }} 
 ]
 };

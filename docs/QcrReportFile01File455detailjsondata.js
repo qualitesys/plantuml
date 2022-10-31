@@ -1,182 +1,83 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/StringLocated.java 34 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/StringLocated.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/StdrptV2.java 25 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.StringLocated"
+ , "c1" : "Stdrpt"
+ , "c2" : "net.sourceforge.plantuml.StdrptV2"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.StringLocated" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.StdrptV2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#21"
- , "c1" : "StringLocated"
- , "c2" : "StringLocated(String;LineLocation)"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#14"
+ , "c1" : "void"
+ , "c2" : "finalMessage()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "0"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#25"
- , "c1" : "StringLocated"
- , "c2" : "StringLocated(String;LineLocation;String)"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#17"
+ , "c1" : "void"
+ , "c2" : "finalMessage(ErrorStatus)"
  , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#20"
+ , "c1" : "void"
+ , "c2" : "errorLine(int;File)"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#23"
+ , "c1" : "void"
+ , "c2" : "printInfo(PrintStream;Diagram)"
+ , "c3" : "3"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#32"
- , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#32"
+ , "c1" : "void"
+ , "c2" : "out(PrintStream;PSystemError)"
+ , "c3" : "4"
+ , "c4" : "10"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#36"
- , "c1" : "StringLocated"
- , "c2" : "append(String)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#40"
- , "c1" : "StringLocated"
- , "c2" : "mergeEndBackslash(StringLocated)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#47"
- , "c1" : "StringLocated"
- , "c2" : "withErrorPreprocessor(String)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#51"
- , "c1" : "StringLocated"
- , "c2" : "substring(int;int)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#56"
- , "c1" : "StringLocated"
- , "c2" : "substring(int)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#60"
- , "c1" : "StringLocated"
- , "c2" : "getTrimmed()"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#69"
- , "c1" : "StringLocated"
- , "c2" : "removeInnerComment()"
- , "c3" : "6"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#91"
- , "c1" : "String"
- , "c2" : "removeSpecialInnerComment(String)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#98"
- , "c1" : "String"
- , "c2" : "getString()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#102"
- , "c1" : "LineLocation"
- , "c2" : "getLocation()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00106"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#106"
- , "c1" : "String"
- , "c2" : "getPreprocessorError()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#110"
- , "c1" : "long"
- , "c2" : "getFoxSignature()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#117"
- , "c1" : "TLineType"
- , "c2" : "getType()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StringLocated.java.html#124"
- , "c1" : "int"
- , "c2" : "length()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#50"
+ , "c1" : "boolean"
+ , "c2" : "empty(PSystemError)"
+ , "c3" : "4"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.svg" }
 
 ] 
 , 
@@ -204,8 +105,15 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
  , "c4" : "3"
 }}
 ,
@@ -213,7 +121,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -227,254 +135,191 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "23"
+ , "c4" : "11"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "5"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#10"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class StringLocated contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00012] The class StdrptV2 contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#22"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#17"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00017] For method finalMessage arguments ErrorStatus  error"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#20"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00020] For method errorLine arguments int  lineError|File  file"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#23"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00023] For method printInfo arguments PrintStream  output|Diagram  sys"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.StringLocated.StringLocated@POLYN161561 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.StdrptV2.printInfo@POLYN152603 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#36"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.StdrptV2.printInfo@POLYN152603 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#32"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method append arguments String  endOfLine"
+ , "c3" : "QC-JAV000006[00032] For method out arguments PrintStream  output|PSystemError  err"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method mergeEndBackslash arguments StringLocated  next"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#40"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#32"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument next is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00032] The argument output is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#32"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00032] The argument err is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  ':' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  ':' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  'error' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#41"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.StringLocated.mergeEndBackslash@POLYN162413 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.StringLocated.mergeEndBackslash@POLYN162413 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.StringLocated.mergeEndBackslash@POLYN162413 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#47"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method withErrorPreprocessor arguments String  preprocessorError"
+ , "c3" : "QC-JAV000006[00050] For method empty arguments PSystemError  err"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method substring arguments int  start|int  end"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154168 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154168 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method substring arguments int  start"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#61"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.StringLocated.getTrimmed@POLYN163692 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154168 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#71"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154168 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  '/'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  ''/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  ''/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  '/'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  '/'''' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN164191 the MagicNumber/String  ''''/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#91"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method removeSpecialInnerComment arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN165766 the MagicNumber/String  '/'''' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN165766 the MagicNumber/String  ''''/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN165766 the MagicNumber/String  '/'''[-\\w]*'''/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN165766 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.StringLocated.getFoxSignature@POLYN166368 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.StringLocated.getType@POLYN166626 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#51"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#14"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00051] Public method substring is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000005[00014] Void method finalMessage is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#56"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#14"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00056] Public method substring is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000004[00014] Void method finalMessage is empty or contains only a return. Interface segregation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#110"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#17"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00110] Public method getFoxSignature is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000005[00017] Void method finalMessage is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#17"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00017] Void method finalMessage is empty or contains only a return. Interface segregation"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#20"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00020] Void method errorLine is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#20"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00020] Void method errorLine is empty or contains only a return. Interface segregation"
 }} 
 ]
 };

@@ -1,83 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java 45 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/WithNote.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<ActivityDiagram3>"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3"
+ , "c1" : "AbstractInstruction"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.WithNote"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.WithNote" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#28"
- , "c1" : "String"
- , "c2" : "endingGroup()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#44"
- , "c1" : "void"
- , "c2" : "main(String[])"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#21"
+ , "c1" : "boolean"
+ , "c2" : "addNote(Display;NotePosition;NoteType;Colors;Swimlane)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#49"
- , "c1" : "CommandActivity3"
- , "c2" : "CommandActivity3()"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#26"
+ , "c1" : "Ftile"
+ , "c2" : "eventuallyAddNote(FtileFactory;Ftile;Swimlane;VerticalAlignment)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#34"
+ , "c1" : "Collection<PositionedNote>"
+ , "c2" : "getPositionedNotes()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#53"
- , "c1" : "IRegex"
- , "c2" : "getRegexConcat()"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#38"
+ , "c1" : "boolean"
+ , "c2" : "hasNotes()"
  , "c3" : "1"
  , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#66"
- , "c1" : "ColorParser"
- , "c2" : "color()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#71"
- , "c1" : "CommandExecutionResult"
- , "c2" : "executeArg(ActivityDiagram3;LineLocation;RegexResult)"
- , "c3" : "4"
- , "c4" : "12"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.svg" }
 
 ] 
 , 
@@ -107,14 +89,14 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "41"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -127,318 +109,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '(' should be converted to const"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#21"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00021] For method addNote arguments Display  note|NotePosition  position|NoteType  type|Colors  colors|Swimlane  swimlaneNote"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#30"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.activitydiagram3.WithNote.addNote@POLYN151209 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '|' should be converted to const"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#26"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00026] For method eventuallyAddNote arguments FtileFactory  factory|Ftile  ftile|Swimlane  swimlane|VerticalAlignment  verticalAlignment"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '\\\\' should be converted to const"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#26"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00026] The argument factory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#33"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '|' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '(?&amp;lt;![/|&amp;lt;&amp;gt;}\\]])[/&amp;lt;}]' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '|' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '(?&amp;lt;![/|}\\]])\\]' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '|' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '(?&amp;lt;!\\&amp;lt;/?\\w{1,5})(?&amp;lt;!\\&amp;lt;img[^&amp;gt;]{1,999})(?&amp;lt;!\\&amp;lt;[&amp;$]\\w{1,999})(?&amp;lt;!\\&amp;gt;)\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.activitydiagram3.WithNote.eventuallyAddNote@POLYN151631 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#39"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '|' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  '(?&amp;lt;!\\|.{1,999})\\|' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.endingGroup@POLYN161688 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#44"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method main arguments String[]  args"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.main@POLYN162100 the MagicNumber/String  '\\\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.main@POLYN162100 the MagicNumber/String  '\\\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.main@POLYN162100 the MagicNumber/String  '\\\\\\\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.getRegexConcat@POLYN162569 the MagicNumber/String  'URL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.getRegexConcat@POLYN162569 the MagicNumber/String  '(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.getRegexConcat@POLYN162569 the MagicNumber/String  ')?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.getRegexConcat@POLYN162569 the MagicNumber/String  'STEREO' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.getRegexConcat@POLYN162569 the MagicNumber/String  '(\\&amp;lt;{2}.*\\&amp;gt;{2})?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.getRegexConcat@POLYN162569 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.getRegexConcat@POLYN162569 the MagicNumber/String  'LABEL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.getRegexConcat@POLYN162569 the MagicNumber/String  '(.*)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.getRegexConcat@POLYN162569 the MagicNumber/String  'STYLE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#71"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method executeArg arguments ActivityDiagram3  diagram|LineLocation  location|RegexResult  arg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#71"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#71"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  'URL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  'topurl' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  'URL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  'STEREO' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  'STYLE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  'LABEL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivity3.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3.executeArg@POLYN163580 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.activitydiagram3.WithNote.hasNotes@POLYN152176 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

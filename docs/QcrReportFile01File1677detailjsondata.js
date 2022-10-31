@@ -1,63 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/core/AbstractTask.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/command/NaturalCommand.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Task"
- , "c2" : "net.sourceforge.plantuml.project.core.AbstractTask"
+ , "c1" : "SingleLineCommand2<GanttDiagram>"
+ , "c2" : "net.sourceforge.plantuml.project.command.NaturalCommand"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.core.AbstractTask" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.command.NaturalCommand" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#13"
- , "c1" : "AbstractTask"
- , "c2" : "AbstractTask(StyleBuilder;TaskCode)"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#15"
+ , "c1" : "NaturalCommand"
+ , "c2" : "NaturalCommand(Sentence)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#18"
- , "c1" : "void"
- , "c2" : "putInSameRowAs(Task)"
- , "c3" : "2"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#23"
- , "c1" : "Task"
- , "c2" : "getRow()"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#21"
+ , "c1" : "CommandExecutionResult"
+ , "c2" : "executeArg(GanttDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#27"
- , "c1" : "TaskCode"
- , "c2" : "getCode()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#31"
- , "c1" : "StyleBuilder"
- , "c2" : "getStyleBuilder()"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#25"
+ , "c1" : "NaturalCommand"
+ , "c2" : "create(Sentence)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -66,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.svg" }
 
 ] 
 , 
@@ -95,9 +77,9 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
  , "c4" : "1"
 }}
 ,
@@ -105,23 +87,30 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#6"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00006] The class AbstractTask contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#15"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00015] The argument sentence is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#18"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#21"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method putInSameRowAs arguments Task  row"
+ , "c3" : "QC-JAV000006[00021] For method executeArg arguments GanttDiagram  system|LineLocation  location|RegexResult  arg"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#25"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00025] For method create arguments Sentence  sentence"
 }} 
 ]
 };

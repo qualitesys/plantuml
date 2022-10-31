@@ -1,47 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/draw/PathUtils.java 21 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/draw/FingerPrint.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.project.draw.PathUtils"
+ , "c2" : "net.sourceforge.plantuml.project.draw.FingerPrint"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.draw.PathUtils" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.draw.FingerPrint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#9"
- , "c1" : "UPath"
- , "c2" : "UtoRight(double;double;double)"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#11"
+ , "c1" : "FingerPrint"
+ , "c2" : "FingerPrint(double;double;double;double)"
  , "c3" : "1"
- , "c4" : "9"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#21"
- , "c1" : "UPath"
- , "c2" : "UtoLeft(double;double;double)"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#19"
+ , "c1" : "String"
+ , "c2" : "toString()"
  , "c3" : "1"
- , "c4" : "9"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#23"
+ , "c1" : "double"
+ , "c2" : "overlap(FingerPrint)"
+ , "c3" : "3"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.svg" }
 
 ] 
 , 
@@ -68,6 +77,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -78,163 +94,86 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "18"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#7"
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00007] The class PathUtils contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class FingerPrint contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#9"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.draw.FingerPrint.toString@POLYN148952 the MagicNumber/String  'X=(' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.draw.FingerPrint.toString@POLYN148952 the MagicNumber/String  '-&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.draw.FingerPrint.toString@POLYN148952 the MagicNumber/String  ') Y=(' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.draw.FingerPrint.toString@POLYN148952 the MagicNumber/String  ' -&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.draw.FingerPrint.toString@POLYN148952 the MagicNumber/String  ')' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#23"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00009] For method UtoRight arguments double  width|double  height|double  round"
+ , "c3" : "QC-JAV000006[00023] For method overlap arguments FingerPrint  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#10"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#23"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoRight@POLYN150564 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoRight@POLYN150564 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoRight@POLYN150564 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#13"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoRight@POLYN150564 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#14"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoRight@POLYN150564 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#14"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoRight@POLYN150564 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoRight@POLYN150564 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoRight@POLYN150564 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoRight@POLYN150564 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#21"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method UtoLeft arguments double  width|double  height|double  round"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoLeft@POLYN151738 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoLeft@POLYN151738 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoLeft@POLYN151738 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoLeft@POLYN151738 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoLeft@POLYN151738 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoLeft@POLYN151738 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoLeft@POLYN151738 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoLeft@POLYN151738 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.project.draw.FingerPrint.overlap@POLYN149312 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/PathUtils.java.html#29"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.project.draw.PathUtils.UtoLeft@POLYN151738 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.project.draw.FingerPrint.overlap@POLYN149312 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java 6 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.xml" 
+   "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/WriterException.java.html" 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/WriterException.java 0 rule violation " 
+ , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/WriterException.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "ext.plantuml.com.google.zxing.client.j2se.MatrixToImageWriter"
+ , "c1" : "Exception"
+ , "c2" : "ext.plantuml.com.google.zxing.WriterException"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "ext.plantuml.com.google.zxing.client.j2se.MatrixToImageWriter" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "ext.plantuml.com.google.zxing.WriterException" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#15"
- , "c1" : "MatrixToImageWriter"
- , "c2" : "MatrixToImageWriter()"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/WriterException.java.html#8"
+ , "c1" : "WriterException"
+ , "c2" : "WriterException()"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#18"
- , "c1" : "BufferedImage"
- , "c2" : "toBufferedImage(BitMatrix;int;int)"
- , "c3" : "3"
- , "c4" : "9"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/WriterException.java.html#12"
+ , "c1" : "WriterException"
+ , "c2" : "WriterException(String)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.png" 
+   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/WriterException.java.png" 
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.svg" }
+ , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/WriterException.java.svg" }
 
 ] 
 , 
@@ -66,85 +66,5 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#10"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class MatrixToImageWriter contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#18"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method toBufferedImage arguments BitMatrix  matrix|int  fore|int  back"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#18"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00018] For method toBufferedImage list of called methods Object monObjet|int matrix_getWidthN145509|int matrix_getHeightN145584"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#18"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00018] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method ext.plantuml.com.google.zxing.client.j2se.MatrixToImageWriter.toBufferedImage@POLYN145362 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method ext.plantuml.com.google.zxing.client.j2se.MatrixToImageWriter.toBufferedImage@POLYN145362 the MagicNumber/String  0 should be converted to const"
-}} 
-]
 };
 console.log('leListeStr 99 main end');

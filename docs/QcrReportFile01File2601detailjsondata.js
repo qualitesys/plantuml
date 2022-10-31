@@ -1,31 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UPixel.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UPixel.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UPixel.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UPattern.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UPattern.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UPattern.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "UShape"
- , "c2" : "net.sourceforge.plantuml.ugraphic.UPixel"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UPixel" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPixel.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPixel.java.svg" }
-
 ] 
 , 
 "data04" : [
@@ -49,22 +41,5 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPixel.java.html#4"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class UPixel contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-]
 };
 console.log('leListeStr 99 main end');

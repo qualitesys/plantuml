@@ -1,182 +1,128 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/core/TaskSeparator.java 14 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/core/TaskInstant.java 19 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTaskTask"
- , "c2" : "net.sourceforge.plantuml.project.core.TaskSeparator"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.project.core.TaskInstant"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.core.TaskSeparator" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.core.TaskInstant" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#16"
- , "c1" : "TaskSeparator"
- , "c2" : "TaskSeparator(StyleBuilder;String;int)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#16"
+ , "c1" : "TaskInstant"
+ , "c2" : "TaskInstant(Moment;TaskAttribute)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#21"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#20"
+ , "c1" : "TaskInstant"
+ , "c2" : "TaskInstant(Moment;TaskAttribute;int;GanttConstraintMode;LoadPlanable)"
+ , "c3" : "2"
+ , "c4" : "6"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#32"
+ , "c1" : "TaskInstant"
+ , "c2" : "withDelta(int;GanttConstraintMode;LoadPlanable)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#36"
  , "c1" : "Day"
- , "c2" : "getStart()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "manageDelta(Day)"
+ , "c3" : "7"
+ , "c4" : "9"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#25"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#55"
  , "c1" : "Day"
- , "c2" : "getEnd()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#29"
- , "c1" : "void"
- , "c2" : "setStart(Day)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#33"
- , "c1" : "void"
- , "c2" : "setEnd(Day)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#37"
- , "c1" : "void"
- , "c2" : "setColors(CenterBorderColor...)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#41"
- , "c1" : "String"
- , "c2" : "getName()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#45"
- , "c1" : "void"
- , "c2" : "addResource(Resource;int)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#49"
- , "c1" : "Load"
- , "c2" : "getLoad()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#53"
- , "c1" : "void"
- , "c2" : "setLoad(Load)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#57"
- , "c1" : "void"
- , "c2" : "setDiamond(boolean)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#61"
- , "c1" : "boolean"
- , "c2" : "isDiamond()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "getInstantPrecise()"
+ , "c3" : "3"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#65"
- , "c1" : "void"
- , "c2" : "setCompletion(int)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#65"
+ , "c1" : "Day"
+ , "c2" : "getInstantTheorical()"
+ , "c3" : "3"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#76"
+ , "c1" : "String"
+ , "c2" : "toString()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#69"
- , "c1" : "void"
- , "c2" : "setUrl(Url)"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#80"
+ , "c1" : "Moment"
+ , "c2" : "getMoment()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#73"
- , "c1" : "void"
- , "c2" : "addPause(Day)"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#84"
+ , "c1" : "boolean"
+ , "c2" : "isTask()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#77"
- , "c1" : "void"
- , "c2" : "addPause(DayOfWeek)"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#88"
+ , "c1" : "TaskAttribute"
+ , "c2" : "getAttribute()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#81"
- , "c1" : "void"
- , "c2" : "setNote(Display)"
- , "c3" : "1"
- , "c4" : "0"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#92"
+ , "c1" : "boolean"
+ , "c2" : "sameRowAs(TaskInstant)"
+ , "c3" : "3"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.svg" }
 
 ] 
 , 
@@ -204,15 +150,22 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000004"
- , "c3" : "You must segregate your interface"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
  , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
@@ -220,114 +173,149 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "1"
+ , "c4" : "12"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "11"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#17"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.project.core.TaskSeparator.TaskSeparator@POLYN153366 the MagicNumber/String  '##' should be converted to const"
+ , "c3" : "QC-JAV000008[00008] The class TaskInstant contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#29"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method setStart arguments Day  start"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.project.core.TaskInstant.TaskInstant@POLYN157748 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#33"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.project.core.TaskInstant.TaskInstant@POLYN157748 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#32"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method setEnd arguments Day  end"
+ , "c3" : "QC-JAV000006[00032] For method withDelta arguments int  newDelta|GanttConstraintMode  mode|LoadPlanable  calendar"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#36"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00036] For method manageDelta arguments Day  value"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#36"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00036] The argument value is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#37"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method setColors arguments CenterBorderColor  ...colors"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.project.core.TaskInstant.manageDelta@POLYN158933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#45"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method addResource arguments Resource  resource|int  percentage"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.project.core.TaskInstant.manageDelta@POLYN158933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#53"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method setLoad arguments Load  load"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.project.core.TaskInstant.manageDelta@POLYN158933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method setDiamond arguments boolean  diamond"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.project.core.TaskInstant.manageDelta@POLYN158933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method setCompletion arguments int  completion"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.project.core.TaskInstant.manageDelta@POLYN158933 the MagicNumber/String  1000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#69"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method setUrl arguments Url  url"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.core.TaskInstant.manageDelta@POLYN158933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#73"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method addPause arguments Day  pause"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.core.TaskInstant.manageDelta@POLYN158933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#77"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.core.TaskInstant.toString@POLYN160821 the MagicNumber/String  ' of ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method addPause arguments DayOfWeek  pause"
+ , "c3" : "QC-JAV000006[00092] For method sameRowAs arguments TaskInstant  dest"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#81"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method setNote arguments Display  note"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#92"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00092] The argument dest is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#81"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.project.core.TaskInstant.sameRowAs@POLYN161262 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.project.core.TaskInstant.sameRowAs@POLYN161262 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#92"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00081] Void method setNote is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#81"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00081] Void method setNote is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000003[00092] Public method sameRowAs is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 };

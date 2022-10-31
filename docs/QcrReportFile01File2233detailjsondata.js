@@ -1,128 +1,110 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/Kal.java 41 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/InnerStateAutonom.java 20 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDrawable"
- , "c2" : "net.sourceforge.plantuml.svek.Kal"
+ , "c1" : "AbstractTextBlockIEntityImage"
+ , "c2" : "net.sourceforge.plantuml.svek.InnerStateAutonom"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.Kal" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.InnerStateAutonom" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#33"
- , "c1" : "Kal"
- , "c2" : "Kal(SvekLine;String;FontConfiguration;ISkinParam;EntityImpl;Link;StringBounder)"
- , "c3" : "9"
- , "c4" : "15"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#66"
- , "c1" : "XDimension2D"
- , "c2" : "getDimension()"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#29"
+ , "c1" : "InnerStateAutonom"
+ , "c2" : "InnerStateAutonom(IEntityImage;TextBlock;TextBlock;HColor;HColor;Url;boolean;UStroke;double;double;HColor)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "11"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#71"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#45"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
- , "c3" : "1"
- , "c4" : "4"
+ , "c3" : "4"
+ , "c4" : "14"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#78"
- , "c1" : "UTranslate"
- , "c2" : "getTranslate()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#83"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#75"
  , "c1" : "double"
- , "c2" : "getX1()"
+ , "c2" : "getSpaceYforURL(StringBounder)"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#87"
- , "c1" : "double"
- , "c2" : "getX2()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#91"
- , "c1" : "UTranslate"
- , "c2" : "getTextDelta()"
- , "c3" : "5"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#107"
- , "c1" : "Direction"
- , "c2" : "getPosition()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#111"
- , "c1" : "void"
- , "c2" : "setTranslate(UTranslate;UDrawable)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#120"
- , "c1" : "double"
- , "c2" : "overlapx(Kal)"
- , "c3" : "6"
  , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#136"
- , "c1" : "void"
- , "c2" : "moveX(double)"
- , "c3" : "3"
- , "c4" : "3"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#84"
+ , "c1" : "HColor"
+ , "c2" : "getBackcolor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#88"
+ , "c1" : "XDimension2D"
+ , "c2" : "calculateDimension(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#102"
+ , "c1" : "ShapeType"
+ , "c2" : "getShapeType()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#106"
+ , "c1" : "Margins"
+ , "c2" : "getShield(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#110"
+ , "c1" : "boolean"
+ , "c2" : "isHidden()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#114"
+ , "c1" : "double"
+ , "c2" : "getOverscanX(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.svg" }
 
 ] 
 , 
@@ -152,13 +134,6 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
@@ -166,310 +141,156 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "30"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000021"
- , "c3" : "The same method is called several times, might be optimized"
- , "c4" : "2"
+ , "c4" : "14"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "5"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00023] The class Kal contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#34"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00034] The argument link is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#71"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00045] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#71"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#45"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00045] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#74"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.svek.Kal.drawU@POLYN174605 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.svek.InnerStateAutonom.drawU@POLYN166245 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.svek.InnerStateAutonom.drawU@POLYN166245 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.InnerStateAutonom.drawU@POLYN166245 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.InnerStateAutonom.drawU@POLYN166245 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.InnerStateAutonom.drawU@POLYN166245 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.InnerStateAutonom.drawU@POLYN166245 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.Kal.drawU@POLYN174605 the MagicNumber/String  2 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#75"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00075] For method getSpaceYforURL arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#75"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.Kal.drawU@POLYN174605 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.svek.InnerStateAutonom.getSpaceYforURL@POLYN168674 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#84"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.svek.Kal.getX1@POLYN175454 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.svek.InnerStateAutonom.getSpaceYforURL@POLYN168674 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.InnerStateAutonom.getBackcolor@POLYN169432 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.svek.Kal.getX2@POLYN175596 the MagicNumber/String  10 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#88"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00088] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#94"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.svek.InnerStateAutonom.calculateDimension@POLYN169520 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#96"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.svek.InnerStateAutonom.calculateDimension@POLYN169520 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#96"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.svek.InnerStateAutonom.calculateDimension@POLYN169520 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#98"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.svek.InnerStateAutonom.calculateDimension@POLYN169520 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#111"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00111] For method setTranslate arguments UTranslate  translate|UDrawable  decoration"
+ , "c3" : "QC-JAV000006[00106] For method getShield arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#120"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00120] For method overlapx arguments Kal  other"
+ , "c3" : "QC-JAV000006[00114] For method getOverscanX arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#120"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00120] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#123"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerStateAutonom.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00123] The same method call other.getX1() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00125] The same method call other.getX2() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.svek.Kal.overlapx@POLYN177183 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#136"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method moveX arguments double  dx"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.Kal.moveX@POLYN178487 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.svek.Kal.moveX@POLYN178487 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.svek.InnerStateAutonom.getOverscanX@POLYN170771 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

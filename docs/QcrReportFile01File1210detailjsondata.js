@@ -1,200 +1,101 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ebnf/ETile.java 75 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ebnf/CornerCurved.java 34 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlock"
- , "c2" : "net.sourceforge.plantuml.ebnf.ETile"
+ , "c1" : "UDrawable"
+ , "c2" : "net.sourceforge.plantuml.ebnf.CornerCurved"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ebnf.ETile" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ebnf.CornerCurved" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#19"
- , "c1" : "StyleSignatureBasic"
- , "c2" : "getStyleSignature()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#23"
- , "c1" : "void"
- , "c2" : "push(ETile)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#26"
- , "c1" : "XDimension2D"
- , "c2" : "calculateDimension(StringBounder)"
- , "c3" : "1"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#20"
+ , "c1" : "CornerCurved"
+ , "c2" : "CornerCurved(CornerType;double;boolean)"
+ , "c3" : "2"
  , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#33"
- , "c1" : "double"
- , "c2" : "getWidth(StringBounder)"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#28"
+ , "c1" : "UDrawable"
+ , "c2" : "createSW(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#35"
- , "c1" : "double"
- , "c2" : "getH1(StringBounder)"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#32"
+ , "c1" : "UDrawable"
+ , "c2" : "createSE(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#37"
- , "c1" : "double"
- , "c2" : "getH2(StringBounder)"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#36"
+ , "c1" : "UDrawable"
+ , "c2" : "createNE(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#39"
- , "c1" : "void"
- , "c2" : "drawHline(UGraphic;double;double;double)"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#40"
+ , "c1" : "UDrawable"
+ , "c2" : "createNE_arrow(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#43"
- , "c1" : "void"
- , "c2" : "drawHlineDirected(UGraphic;double;double;double;double)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#51"
- , "c1" : "void"
- , "c2" : "drawHlineAntiDirected(UGraphic;double;double;double;double)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#58"
- , "c1" : "void"
- , "c2" : "drawVline(UGraphic;double;double;double)"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#44"
+ , "c1" : "UDrawable"
+ , "c2" : "createNW(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#62"
- , "c1" : "void"
- , "c2" : "drawVlineDirected(UGraphic;double;double;double)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#69"
- , "c1" : "void"
- , "c2" : "drawVlineAntiDirected(UGraphic;double;double;double)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#76"
- , "c1" : "UPath"
- , "c2" : "getArrowToLeft()"
- , "c3" : "1"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#87"
- , "c1" : "UPath"
- , "c2" : "getArrowToRight()"
- , "c3" : "1"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#98"
- , "c1" : "UPath"
- , "c2" : "getArrowToBottom()"
- , "c3" : "1"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#109"
- , "c1" : "UPath"
- , "c2" : "getArrowToTop()"
- , "c3" : "1"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#120"
- , "c1" : "void"
- , "c2" : "addCommentBelow(String)"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#48"
+ , "c1" : "UDrawable"
+ , "c2" : "createNW_arrow(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#124"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#53"
  , "c1" : "void"
- , "c2" : "addCommentAbove(String)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#128"
- , "c1" : "String"
- , "c2" : "getRepetitionLabel()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "drawU(UGraphic)"
+ , "c3" : "7"
+ , "c4" : "17"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.svg" }
 
 ] 
 , 
@@ -224,548 +125,268 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "6"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "56"
+ , "c4" : "25"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "13"
+ , "c4" : "7"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#23"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method push arguments ETile  tile"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#14"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00014] The class CornerCurved contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#26"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.ebnf.CornerCurved.CornerCurved@POLYN157212 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00028] For method createSW arguments double  delta"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ebnf.CornerCurved.createSW@POLYN157640 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#32"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00032] For method createSE arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method getWidth arguments StringBounder  stringBounder"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ebnf.CornerCurved.createSE@POLYN157845 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#35"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#36"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method getH1 arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00036] For method createNE arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#37"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.ebnf.CornerCurved.createNE@POLYN158050 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#40"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method getH2 arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00040] For method createNE_arrow arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#39"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.ebnf.CornerCurved.createNE_arrow@POLYN158255 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method drawHline arguments UGraphic  ug|double  y|double  x1|double  x2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#39"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#43"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method drawHlineDirected arguments UGraphic  ug|double  y|double  x1|double  x2|double  coef"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#43"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00043] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00044] For method createNW arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#45"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ebnf.ETile.drawHlineDirected@POLYN170978 the MagicNumber/String  25 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ebnf.CornerCurved.createNW@POLYN158460 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.ebnf.ETile.drawHlineDirected@POLYN170978 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.ebnf.ETile.drawHlineDirected@POLYN170978 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#51"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method drawHlineAntiDirected arguments UGraphic  ug|double  y|double  x1|double  x2|double  coef"
+ , "c3" : "QC-JAV000006[00048] For method createNW_arrow arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#51"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00051] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ebnf.CornerCurved.createNW_arrow@POLYN158665 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ebnf.ETile.drawHlineAntiDirected@POLYN171833 the MagicNumber/String  1 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#53"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#53"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00053] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ebnf.ETile.drawHlineAntiDirected@POLYN171833 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method drawVline arguments UGraphic  ug|double  x|double  y1|double  y2"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#59"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#58"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#62"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method drawVlineDirected arguments UGraphic  ug|double  x|double  y1|double  y2"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#62"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#64"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ebnf.ETile.drawVlineDirected@POLYN172982 the MagicNumber/String  .5 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#64"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ebnf.ETile.drawVlineDirected@POLYN172982 the MagicNumber/String  .5 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#64"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ebnf.ETile.drawVlineDirected@POLYN172982 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#69"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method drawVlineAntiDirected arguments UGraphic  ug|double  x|double  y1|double  y2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#69"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00069] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#71"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ebnf.ETile.drawVlineAntiDirected@POLYN173690 the MagicNumber/String  .5 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#71"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ebnf.ETile.drawVlineAntiDirected@POLYN173690 the MagicNumber/String  .5 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#71"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ebnf.ETile.drawVlineAntiDirected@POLYN173690 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#78"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#78"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#79"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#79"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#80"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#80"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToLeft@POLYN174401 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToRight@POLYN175121 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToBottom@POLYN175832 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#112"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#112"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ebnf.ETile.getArrowToTop@POLYN176543 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#120"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00120] For method addCommentBelow arguments String  comment"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ebnf.ETile.addCommentBelow@POLYN177255 the MagicNumber/String  'Ignoring below comment ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ebnf.ETile.addCommentBelow@POLYN177255 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#124"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method addCommentAbove arguments String  comment"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ebnf.ETile.addCommentAbove@POLYN177479 the MagicNumber/String  'Ignoring above comment ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ebnf.ETile.addCommentAbove@POLYN177479 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETile.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ebnf.ETile.getRepetitionLabel@POLYN177711 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ebnf.CornerCurved.drawU@POLYN158871 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 };

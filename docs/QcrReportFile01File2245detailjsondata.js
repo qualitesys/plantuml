@@ -1,34 +1,43 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/Ports.java 11 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/PortGeometry.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.svek.Ports"
+ , "c1" : "Comparable<PortGeometry>"
+ , "c2" : "net.sourceforge.plantuml.svek.PortGeometry"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.Ports" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.PortGeometry" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#19"
- , "c1" : "String"
- , "c2" : "encodePortNameToId(String)"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#11"
+ , "c1" : "PortGeometry"
+ , "c2" : "PortGeometry(String;double;double;int)"
+ , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#18"
+ , "c1" : "PortGeometry"
+ , "c2" : "translateY(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#24"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#23"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -36,48 +45,66 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#28"
- , "c1" : "Ports"
- , "c2" : "translateY(double)"
- , "c3" : "2"
- , "c4" : "3"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#27"
+ , "c1" : "double"
+ , "c2" : "getHeight()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#36"
- , "c1" : "void"
- , "c2" : "add(String;int;double;double)"
- , "c3" : "2"
- , "c4" : "3"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#31"
+ , "c1" : "double"
+ , "c2" : "getPosition()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#35"
+ , "c1" : "double"
+ , "c2" : "getLastY()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#39"
+ , "c1" : "int"
+ , "c2" : "getScore()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#43"
- , "c1" : "void"
- , "c2" : "addThis(Ports)"
- , "c3" : "3"
- , "c4" : "3"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#43"
+ , "c1" : "String"
+ , "c2" : "getId()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#52"
- , "c1" : "Collection<PortGeometry>"
- , "c2" : "getAllPortGeometry()"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#48"
+ , "c1" : "int"
+ , "c2" : "compareTo(PortGeometry)"
  , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.svg" }
 
 ] 
 , 
@@ -112,13 +139,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
@@ -128,93 +148,72 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#15"
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00015] The class Ports contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class PortGeometry contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#19"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method encodePortNameToId arguments String  portName"
+ , "c3" : "QC-JAV000006[00018] For method translateY arguments double  deltaY"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#20"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.svek.Ports.encodePortNameToId@POLYN154313 the MagicNumber/String  'p' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.svek.PortGeometry.toString@POLYN149896 the MagicNumber/String  'pos=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#28"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method translateY arguments double  deltaY"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method add arguments String  portName|int  score|double  position|double  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#39"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.svek.Ports.add@POLYN155087 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.svek.PortGeometry.toString@POLYN149896 the MagicNumber/String  ' height=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#43"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.svek.PortGeometry.toString@POLYN149896 the MagicNumber/String  ' (' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.svek.PortGeometry.toString@POLYN149896 the MagicNumber/String  ')' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method addThis arguments Ports  other"
+ , "c3" : "QC-JAV000006[00048] For method compareTo arguments PortGeometry  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#43"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PortGeometry.java.html#48"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00043] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00045] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00046] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.Ports.addThis@POLYN155773 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE476[00048] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 };

@@ -1,72 +1,63 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/asciiart/TextSkin.java 20 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java 17 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Rose"
- , "c2" : "net.sourceforge.plantuml.asciiart.TextSkin"
+ , "c1" : "AbstractComponentText"
+ , "c2" : "net.sourceforge.plantuml.asciiart.ComponentTextShape"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.asciiart.TextSkin" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.asciiart.ComponentTextShape" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#22"
- , "c1" : "TextSkin"
- , "c2" : "TextSkin(FileFormat)"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#20"
+ , "c1" : "ComponentTextShape"
+ , "c2" : "ComponentTextShape(ComponentType;Display;AsciiShape)"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#27"
- , "c1" : "ArrowComponent"
- , "c2" : "createComponentArrow(Style[];ArrowConfiguration;ISkinParam;Display)"
- , "c3" : "3"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#42"
- , "c1" : "Component"
- , "c2" : "createComponentNote(Style[];ComponentType;ISkinParam;Display;Colors;NotePosition)"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#26"
+ , "c1" : "void"
+ , "c2" : "drawU(UGraphic;Area;Context2D)"
+ , "c3" : "3"
+ , "c4" : "10"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#51"
- , "c1" : "Component"
- , "c2" : "createComponentNote(Style[];ComponentType;ISkinParam;Display;Colors)"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#43"
+ , "c1" : "int"
+ , "c2" : "getHeight()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#57"
- , "c1" : "Component"
- , "c2" : "createComponent(Style[];ComponentType;ArrowConfiguration;ISkinParam;Display)"
- , "c3" : "21"
- , "c4" : "21"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#47"
+ , "c1" : "double"
+ , "c2" : "getPreferredHeight(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#126"
- , "c1" : "Component"
- , "c2" : "createComponentNewPage(ISkinParam)"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#51"
+ , "c1" : "double"
+ , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,9 +66,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.svg" }
 
 ] 
 , 
@@ -107,170 +98,142 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "6"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000021"
- , "c3" : "The same method is called several times, might be optimized"
- , "c4" : "5"
+ , "c4" : "13"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "5"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#27"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#26"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method createComponentArrow arguments Style[]  styles|ArrowConfiguration  config|ISkinParam  param|Display  stringsToDisplay"
+ , "c3" : "QC-JAV000006[00026] For method drawU arguments UGraphic  ug|Area  area|Context2D  context"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#27"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#26"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00026] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#27"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#29"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00029] The same method call config.getArrowDirection()config.getArrowDirection() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#30"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00030] The same method call config.getArrowDirection() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#42"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  '_HEAD' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#36"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.drawU@POLYN154313 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#47"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method createComponentNote arguments Style[]  styles|ComponentType  type|ISkinParam  param|Display  stringsToDisplay|Colors  colors|NotePosition  notePosition"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#42"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00047] For method getPreferredHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#51"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method createComponentNote arguments Style[]  styles|ComponentType  type|ISkinParam  param|Display  stringsToDisplay|Colors  colors"
+ , "c3" : "QC-JAV000006[00051] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#53"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextShape.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.asciiart.TextSkin.createComponentNote@POLYN168117 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method createComponent arguments Style[]  style|ComponentType  type|ArrowConfiguration  config|ISkinParam  param|Display  stringsToDisplay"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#57"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00057] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#57"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00057] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#57"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00057] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00069] The same method call type.name() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00072] The same method call config.getArrowDirection()config.getArrowDirection() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00073] The same method call config.getArrowDirection() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.asciiart.TextSkin.createComponent@POLYN168488 the MagicNumber/String  '_HEAD' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.asciiart.TextSkin.createComponent@POLYN168488 the MagicNumber/String  '_TAIL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.asciiart.TextSkin.createComponent@POLYN168488 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TextSkin.java.html#126"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00126] For method createComponentNewPage arguments ISkinParam  param"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.asciiart.ComponentTextShape.getPreferredWidth@POLYN156113 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 };

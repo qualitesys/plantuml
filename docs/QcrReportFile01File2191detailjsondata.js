@@ -1,73 +1,28 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sudoku/SudokuDLX.java 19 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ISudoku"
- , "c2" : "net.sourceforge.plantuml.sudoku.SudokuDLX"
+ , "c1" : "PSystemSingleLineFactory"
+ , "c2" : "net.sourceforge.plantuml.sudoku.PSystemSudokuFactory"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sudoku.SudokuDLX" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sudoku.PSystemSudokuFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#15"
- , "c1" : "SudokuDLX"
- , "c2" : "SudokuDLX(Long)"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#17"
+ , "c1" : "AbstractPSystem"
+ , "c2" : "executeLine(UmlSource;String)"
  , "c3" : "3"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#27"
- , "c1" : "long"
- , "c2" : "getRatting()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#31"
- , "c1" : "long"
- , "c2" : "getSeed()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#35"
- , "c1" : "int"
- , "c2" : "getGiven(int;int)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#43"
- , "c1" : "void"
- , "c2" : "print()"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#51"
- , "c1" : "void"
- , "c2" : "main(String[])"
- , "c3" : "2"
  , "c4" : "4"
 }} 
 ] 
@@ -75,9 +30,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.svg" }
 
 ] 
 , 
@@ -105,165 +60,74 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "15"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class SudokuDLX contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#17"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00017] For method executeLine arguments UmlSource  source|String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#16"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN152242 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.sudoku.PSystemSudokuFactory.executeLine@POLYN149161 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#22"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN152242 the MagicNumber/String  10000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN152242 the MagicNumber/String  100000 should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.sudoku.PSystemSudokuFactory.executeLine@POLYN149161 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#23"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN152242 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sudoku.PSystemSudokuFactory.executeLine@POLYN149161 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#23"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN152242 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sudoku.PSystemSudokuFactory.executeLine@POLYN149161 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#24"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN152242 the MagicNumber/String  '\\s' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.sudoku.PSystemSudokuFactory.executeLine@POLYN149161 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#35"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method getGiven arguments int  x|int  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#37"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.sudoku.SudokuDLX.getGiven@POLYN153389 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.sudoku.PSystemSudokuFactory.executeLine@POLYN149161 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#38"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.sudoku.SudokuDLX.getGiven@POLYN153389 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.sudoku.SudokuDLX.getGiven@POLYN153389 the MagicNumber/String  '0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.sudoku.SudokuDLX.print@POLYN153777 the MagicNumber/String  'Rate=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.sudoku.SudokuDLX.print@POLYN153777 the MagicNumber/String  'Seed=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.sudoku.SudokuDLX.print@POLYN153777 the MagicNumber/String  36 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method main arguments String[]  args"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00053] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sudoku.SudokuDLX.main@POLYN154263 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sudoku.SudokuDLX.main@POLYN154263 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.sudoku.SudokuDLX.main@POLYN154263 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.sudoku.PSystemSudokuFactory.executeLine@POLYN149161 the MagicNumber/String  36 should be converted to const"
 }} 
 ]
 };

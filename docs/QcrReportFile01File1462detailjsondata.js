@@ -1,92 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/json/WritingBuffer.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/json/WriterConfig.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Writer"
- , "c2" : "net.sourceforge.plantuml.json.WritingBuffer"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.json.WriterConfig"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.json.WritingBuffer" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.json.WriterConfig" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
- , "c1" : "WritingBuffer"
- , "c2" : "WritingBuffer(Writer)"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "JsonWriter"
+ , "c2" : "createWriter(Writer)"
  , "c3" : "1"
  , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
- , "c1" : "WritingBuffer"
- , "c2" : "WritingBuffer(Writer;int)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
- , "c1" : "void"
- , "c2" : "write(int)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
- , "c1" : "void"
- , "c2" : "write(char[];int;int)"
- , "c3" : "3"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
- , "c1" : "void"
- , "c2" : "write(String;int;int)"
- , "c3" : "3"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#1"
- , "c1" : "void"
- , "c2" : "flush()"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00001"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#1"
- , "c1" : "void"
- , "c2" : "close()"
- , "c3" : "1"
- , "c4" : "0"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.svg" }
 
 ] 
 , 
@@ -113,82 +59,75 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAVCWE493"
+ , "c3" : "Critical public variable without final modifier"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAVCWE500"
+ , "c3" : "Static public field not marked final"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.json.WritingBuffer.WritingBuffer@POLYN156776 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000008[00024] The class WriterConfig contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[00024] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method write arguments int  c"
+ , "c3" : "QC-JAVCWE500[00024] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.json.WritingBuffer.write@POLYN157168 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAVCWE493[00024] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method write arguments char[]  cbuf|int  off|int  len"
+ , "c3" : "QC-JAVCWE500[00024] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method write arguments String  str|int  off|int  len"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument str is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.WritingBuffer.flush@POLYN158998 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.WritingBuffer.flush@POLYN158998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00024] For method createWriter arguments Writer  writer"
 }} 
 ]
 };

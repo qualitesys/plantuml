@@ -1,39 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ebnf/TextBlockable.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ebnf/TextBlockable.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ebnf/TextBlockable.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ebnf/Symbol.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ebnf/Symbol.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ebnf/Symbol.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.ebnf.TextBlockable"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ebnf.TextBlockable" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/TextBlockable.java.html#9"
- , "c1" : "TextBlock"
- , "c2" : "getUDrawable(ISkinParam)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
+ { "nomclasse" : "net.sourceforge.plantuml.ebnf." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ebnf/TextBlockable.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ebnf/TextBlockable.java.svg" }
-
 ] 
 , 
 "data04" : [

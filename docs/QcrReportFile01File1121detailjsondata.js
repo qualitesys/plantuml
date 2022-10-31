@@ -1,9 +1,9 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/NoteLinkStrategy.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/NoteLinkStrategy.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/NoteLinkStrategy.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/NamespaceStrategy.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/NamespaceStrategy.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/NamespaceStrategy.java.xml" 
  , "fic3"  : "" 
 }
 , 

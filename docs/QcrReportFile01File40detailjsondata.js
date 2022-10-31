@@ -1,38 +1,83 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/util/StringParser.java 25 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.xml" 
+   "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html" 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/util/Polygon.java 5 rule violations " 
+ , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "ext.plantuml.com.ctreber.acearth.util.StringParser"
+ , "c2" : "ext.plantuml.com.ctreber.acearth.util.Polygon"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "ext.plantuml.com.ctreber.acearth.util.StringParser" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "ext.plantuml.com.ctreber.acearth.util.Polygon" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#9"
- , "c1" : "List"
- , "c2" : "parse(String)"
- , "c3" : "16"
- , "c4" : "26"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#13"
+ , "c1" : "Polygon"
+ , "c2" : "Polygon(int;Point3D[])"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#19"
+ , "c1" : "int"
+ , "c2" : "getType()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#24"
+ , "c1" : "Point3D[]"
+ , "c2" : "getPoints()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#29"
+ , "c1" : "Point3D"
+ , "c2" : "getPoint(int)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#34"
+ , "c1" : "int"
+ , "c2" : "getSize()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#39"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.png" 
+   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.png" 
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.svg" }
+ , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.svg" }
 
 ] 
 , 
@@ -59,13 +104,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -76,7 +114,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "22"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -89,178 +127,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#7"
+ , "c1" : "00005"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#5"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00007] The class StringParser contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00005] The class Polygon contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#9"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00009] For method parse arguments String  pLine"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#9"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00009] The argument pLine is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#14"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000006[00029] For method getPoint arguments int  pIndex"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#41"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.ctreber.acearth.util.Polygon.toString@POLYN140504 the MagicNumber/String  'Type ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#41"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.ctreber.acearth.util.Polygon.toString@POLYN140504 the MagicNumber/String  ', ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#47"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ''' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ''' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  '[' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ']' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN143821 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.ctreber.acearth.util.Polygon.toString@POLYN140504 the MagicNumber/String  ' points' should be converted to const"
 }} 
 ]
 };

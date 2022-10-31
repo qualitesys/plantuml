@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<ActivityDiagram3>"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandStart3"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.command.CommandStart3" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.html#15"
- , "c1" : "CommandStart3"
- , "c2" : "CommandStart3()"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#16"
+ , "c1" : "CommandSplitEnd3"
+ , "c2" : "CommandSplitEnd3()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.html#19"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#20"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,21 +36,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.html#27"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#39"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(ActivityDiagram3;LineLocation;RegexResult)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.svg" }
 
 ] 
 , 
@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,31 +100,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.html#21"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.activitydiagram3.command.CommandStart3.getRegexConcat@POLYN149417 the MagicNumber/String  'start' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3.getRegexConcat@POLYN150712 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.html#22"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.activitydiagram3.command.CommandStart3.getRegexConcat@POLYN149417 the MagicNumber/String  ';?' should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3.getRegexConcat@POLYN150712 the MagicNumber/String  'split' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.html#27"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3.getRegexConcat@POLYN150712 the MagicNumber/String  'split' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3.getRegexConcat@POLYN150712 the MagicNumber/String  'end' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3.getRegexConcat@POLYN150712 the MagicNumber/String  ';?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#39"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method executeArg arguments ActivityDiagram3  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00039] For method executeArg arguments ActivityDiagram3  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandStart3.java.html#27"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSplitEnd3.java.html#39"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00039] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 };

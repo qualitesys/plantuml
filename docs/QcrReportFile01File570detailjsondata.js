@@ -1,326 +1,272 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java 26 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java 27 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "XDimension2D"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry"
+ , "c1" : "FtileFactory"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#16"
- , "c1" : "XPoint2D"
- , "c2" : "getPointA()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#20"
- , "c1" : "XPoint2D"
- , "c2" : "getPointIn()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#24"
- , "c1" : "XPoint2D"
- , "c2" : "getPointB()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#31"
- , "c1" : "XPoint2D"
- , "c2" : "getPointC()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#38"
- , "c1" : "XPoint2D"
- , "c2" : "getPointD()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#38"
+ , "c1" : "StyleSignatureBasic"
+ , "c2" : "getDefaultStyleDefinitionActivity()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#42"
+ , "c1" : "StyleSignatureBasic"
+ , "c2" : "getDefaultStyleDefinitionDiamond()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#46"
+ , "c1" : "StyleSignatureBasic"
+ , "c2" : "getDefaultStyleDefinitionArrow()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#50"
+ , "c1" : "Rainbow"
+ , "c2" : "getInLinkRenderingColor(Ftile)"
+ , "c3" : "4"
+ , "c4" : "8"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#66"
+ , "c1" : "TextBlock"
+ , "c2" : "getTextBlock(Display)"
  , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#45"
- , "c1" : "XPoint2D"
- , "c2" : "getPointOut()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#52"
- , "c1" : "FtileGeometry"
- , "c2" : "FtileGeometry(XDimension2D;double;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#56"
- , "c1" : "FtileGeometry"
- , "c2" : "FtileGeometry(double;double;double;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#61"
- , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#65"
- , "c1" : "FtileGeometry"
- , "c2" : "FtileGeometry(double;double;double;double;double)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#73"
- , "c1" : "FtileGeometry"
- , "c2" : "incHeight(double)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#77"
- , "c1" : "FtileGeometry"
- , "c2" : "addTop(double)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#77"
+ , "c1" : "Display"
+ , "c2" : "getInLinkRenderingDisplay(Ftile)"
  , "c3" : "2"
- , "c4" : "2"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#83"
- , "c1" : "FtileGeometry"
- , "c2" : "addBottom(double)"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#85"
+ , "c1" : "FtileFactoryDelegator"
+ , "c2" : "FtileFactoryDelegator(FtileFactory)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#89"
- , "c1" : "FtileGeometry"
- , "c2" : "incRight(double)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#89"
+ , "c1" : "Ftile"
+ , "c2" : "start(Swimlane)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#93"
- , "c1" : "FtileGeometry"
- , "c2" : "incLeft(double)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#93"
+ , "c1" : "Ftile"
+ , "c2" : "end(Swimlane)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#97"
- , "c1" : "FtileGeometry"
- , "c2" : "incVertically(double;double)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#97"
+ , "c1" : "Ftile"
+ , "c2" : "stop(Swimlane)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#102"
- , "c1" : "FtileGeometry"
- , "c2" : "FtileGeometry(XDimension2D;double;double;double)"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#101"
+ , "c1" : "Ftile"
+ , "c2" : "spot(Swimlane;String;HColor)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00106"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#106"
- , "c1" : "boolean"
- , "c2" : "hasPointOut()"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#105"
+ , "c1" : "Ftile"
+ , "c2" : "activity(Display;Swimlane;BoxStyle;Colors;Stereotype)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#110"
- , "c1" : "FtileGeometry"
- , "c2" : "withoutPointOut()"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#109"
+ , "c1" : "Ftile"
+ , "c2" : "addNote(Ftile;Swimlane;Collection<PositionedNote>;VerticalAlignment)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00114"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#114"
- , "c1" : "FtileGeometry"
- , "c2" : "translate(UTranslate)"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#123"
- , "c1" : "double"
- , "c2" : "getInY()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#114"
+ , "c1" : "Ftile"
+ , "c2" : "addUrl(Ftile;Url)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#127"
- , "c1" : "double"
- , "c2" : "getLeft()"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#118"
+ , "c1" : "Ftile"
+ , "c2" : "decorateIn(Ftile;LinkRendering)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#131"
- , "c1" : "double"
- , "c2" : "getRight()"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#122"
+ , "c1" : "Ftile"
+ , "c2" : "decorateOut(Ftile;LinkRendering)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#135"
- , "c1" : "double"
- , "c2" : "getOutY()"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#126"
+ , "c1" : "Ftile"
+ , "c2" : "assembly(Ftile;Ftile)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#139"
- , "c1" : "double"
- , "c2" : "getWidth()"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#130"
+ , "c1" : "Ftile"
+ , "c2" : "repeat(BoxStyle;Swimlane;Swimlane;Display;Ftile;Display;Display;Display;Colors;Ftile;boolean;LinkRendering;LinkRendering)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#137"
+ , "c1" : "Ftile"
+ , "c2" : "createWhile(LinkRendering;Swimlane;Ftile;Display;Display;HColor;Instruction;Ftile;LinkRendering;LinkRendering)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00143"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#143"
- , "c1" : "double"
- , "c2" : "getHeight()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#143"
+ , "c1" : "Ftile"
+ , "c2" : "createIf(Swimlane;List<Branch>;Branch;LinkRendering;LinkRendering;Url)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#147"
- , "c1" : "FtileGeometry"
- , "c2" : "addDim(double;double)"
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#148"
+ , "c1" : "Ftile"
+ , "c2" : "createSwitch(Swimlane;List<Branch>;LinkRendering;LinkRendering;Display)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00151"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#151"
- , "c1" : "FtileGeometry"
- , "c2" : "addMarginX(double)"
+ , "c5" : "00153"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#153"
+ , "c1" : "Ftile"
+ , "c2" : "createParallel(List<Ftile>;ForkStyle;String;Swimlane;Swimlane)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#155"
- , "c1" : "FtileGeometry"
- , "c2" : "addMarginX(double;double)"
+ , "c5" : "00157"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#157"
+ , "c1" : "Ftile"
+ , "c2" : "createGroup(Ftile;Display;HColor;PositionedNote;USymbol;Style)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#159"
- , "c1" : "FtileGeometry"
- , "c2" : "fixedHeight(double)"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#162"
+ , "c1" : "StringBounder"
+ , "c2" : "getStringBounder()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#163"
- , "c1" : "FtileGeometry"
- , "c2" : "appendBottom(FtileGeometry)"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#166"
+ , "c1" : "Rose"
+ , "c2" : "getRose()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#167"
- , "c1" : "FtileGeometry"
- , "c2" : "ensureHeight(double)"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#170"
+ , "c1" : "ISkinParam"
+ , "c2" : "skinParam()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00174"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#174"
- , "c1" : "FtileGeometry"
- , "c2" : "ensureRightStrange(double)"
- , "c3" : "2"
- , "c4" : "3"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#174"
+ , "c1" : "FtileFactory"
+ , "c2" : "getFactory()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.svg" }
 
 ] 
 , 
@@ -355,200 +301,214 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "9"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "14"
+ , "c4" : "19"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#28"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry.getPointB@POLYN170563 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000008[00032] The class FtileFactoryDelegator contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry.getPointD@POLYN171191 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry.getPointD@POLYN171191 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#52"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry.toString@POLYN172396 the MagicNumber/String  '[' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry.toString@POLYN172396 the MagicNumber/String  'x' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry.toString@POLYN172396 the MagicNumber/String  ' left=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry.toString@POLYN172396 the MagicNumber/String  ']' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#73"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method incHeight arguments double  northHeight"
+ , "c3" : "QC-JAV000006[00050] For method getInLinkRenderingColor arguments Ftile  tile"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#50"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00050] The argument tile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.getInLinkRenderingColor@POLYN177017 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#59"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.getInLinkRenderingColor@POLYN177017 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#66"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00066] For method getTextBlock arguments Display  display"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#66"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00066] The argument display is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.getTextBlock@POLYN178042 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#77"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method addTop arguments double  northHeight"
+ , "c3" : "QC-JAV000006[00077] For method getInLinkRenderingDisplay arguments Ftile  tile"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method addBottom arguments double  southHeight"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#77"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00077] The argument tile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.getInLinkRenderingDisplay@POLYN178665 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#89"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method incRight arguments double  missing"
+ , "c3" : "QC-JAV000006[00089] For method start arguments Swimlane  swimlane"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#93"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method incLeft arguments double  missing"
+ , "c3" : "QC-JAV000006[00093] For method end arguments Swimlane  swimlane"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#97"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method incVertically arguments double  missing1|double  missing2"
+ , "c3" : "QC-JAV000006[00097] For method stop arguments Swimlane  swimlane"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#102"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00102] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#101"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00101] For method spot arguments Swimlane  swimlane|String  spot|HColor  color"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#105"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00105] For method activity arguments Display  label|Swimlane  swimlane|BoxStyle  style|Colors  colors|Stereotype  stereotype"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#109"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00109] For method addNote arguments Ftile  ftile|Swimlane  swimlane|Collection&lt;PositionedNote &gt;  notes|VerticalAlignment  verticalAlignment"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00114] For method translate arguments UTranslate  translate"
+ , "c3" : "QC-JAV000006[00114] For method addUrl arguments Ftile  ftile|Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#114"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00114] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#147"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method addDim arguments double  deltaWidth|double  deltaHeight"
+ , "c3" : "QC-JAV000006[00118] For method decorateIn arguments Ftile  ftile|LinkRendering  linkRendering"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#151"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00151] For method addMarginX arguments double  marginx"
+ , "c3" : "QC-JAV000006[00122] For method decorateOut arguments Ftile  ftile|LinkRendering  linkRendering"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry.addMarginX@POLYN177590 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#155"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#126"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00155] For method addMarginX arguments double  margin1|double  margin2"
+ , "c3" : "QC-JAV000006[00126] For method assembly arguments Ftile  tile1|Ftile  tile2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#159"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#130"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00159] For method fixedHeight arguments double  fixedHeight"
+ , "c3" : "QC-JAV000006[00130] For method repeat arguments BoxStyle  boxStyleIn|Swimlane  swimlane|Swimlane  swimlaneOut|Display  startLabel|Ftile  repeat|Display  test|Display  yes|Display  out|Colors  colors|Ftile  backward|boolean  noOut|LinkRendering  incoming1|LinkRendering  incoming2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#163"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#137"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method appendBottom arguments FtileGeometry  other"
+ , "c3" : "QC-JAV000006[00137] For method createWhile arguments LinkRendering  outColor|Swimlane  swimlane|Ftile  whileBlock|Display  test|Display  yes|HColor  color|Instruction  specialOut|Ftile  back|LinkRendering  incoming1|LinkRendering  incoming2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#167"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#143"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00167] For method ensureHeight arguments double  newHeight"
+ , "c3" : "QC-JAV000006[00143] For method createIf arguments Swimlane  swimlane|List&lt;Branch &gt;  thens|Branch  elseBranch|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#174"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#148"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00174] For method ensureRightStrange arguments double  newRight"
+ , "c3" : "QC-JAV000006[00148] For method createSwitch arguments Swimlane  swimlane|List&lt;Branch &gt;  branches|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Display  labelTest"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometry.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry.ensureRightStrange@POLYN178891 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#153"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00153] For method createParallel arguments List&lt;Ftile &gt;  all|ForkStyle  style|String  label|Swimlane  in|Swimlane  out"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#157"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00157] For method createGroup arguments Ftile  list|Display  name|HColor  backColor|PositionedNote  note|USymbol  type|Style  style"
 }} 
 ]
 };

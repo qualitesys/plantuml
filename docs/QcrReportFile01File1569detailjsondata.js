@@ -1,38 +1,74 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/pdf/PdfConverter.java 16 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/oregon/SmartKeyboard.java 11 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.pdf.PdfConverter"
+ , "c2" : "net.sourceforge.plantuml.oregon.SmartKeyboard"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.pdf.PdfConverter" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.oregon.SmartKeyboard" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#11"
- , "c1" : "void"
- , "c2" : "convert(File;File)"
- , "c3" : "4"
- , "c4" : "20"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#13"
+ , "c1" : "SmartKeyboard"
+ , "c2" : "SmartKeyboard(Keyboard)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#17"
+ , "c1" : "String"
+ , "c2" : "input(Screen)"
+ , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#24"
+ , "c1" : "int"
+ , "c2" : "inputInt(Screen)"
+ , "c3" : "2"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#33"
+ , "c1" : "boolean"
+ , "c2" : "hasMore()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#37"
+ , "c1" : "List<String>"
+ , "c2" : "getHistory()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.svg" }
 
 ] 
 , 
@@ -59,6 +95,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -76,128 +119,93 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "12"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#9"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class PdfConverter contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00008] The class SmartKeyboard contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#11"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#17"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method convert arguments File  svgFile|File  pdfFile"
+ , "c3" : "QC-JAV000006[00017] For method input arguments Screen  screen"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#11"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#17"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00011] The argument svgFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00017] The argument screen is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#11"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.oregon.SmartKeyboard.input@POLYN149150 the MagicNumber/String  '&amp;lt;i&amp;gt;? ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#24"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00024] For method inputInt arguments Screen  screen"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#24"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00011] The argument pdfFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00024] The argument screen is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#13"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.oregon.SmartKeyboard.inputInt@POLYN149516 the MagicNumber/String  '\\d+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#23"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'log4j.debug' should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.oregon.SmartKeyboard.inputInt@POLYN149516 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#23"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'false' should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.oregon.SmartKeyboard.inputInt@POLYN149516 the MagicNumber/String  'Please enter a valid number instead of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'org.apache.batik.apps.rasterizer.SVGConverter' should be converted to const"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#24"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00024] Public method inputInt is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'org.apache.batik.apps.rasterizer.DestinationType' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'PDF' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'setDestinationType' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'setSources' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'setDst' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'execute' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#37"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00037] Public method getHistory is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 };
