@@ -201,5 +201,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.creole.atom.AtomOpenIcon.drawU@POLYN153268 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomOpenIcon.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

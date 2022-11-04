@@ -260,5 +260,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sprite.PSystemListInternalSprites.getDescription@POLYN154497 the MagicNumber/String  '(Sprites)' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sprite/PSystemListInternalSprites.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

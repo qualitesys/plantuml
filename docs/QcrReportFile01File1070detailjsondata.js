@@ -741,5 +741,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.creole.legacy.StripeSimple.searchCommand@POLYN213586 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeSimple.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

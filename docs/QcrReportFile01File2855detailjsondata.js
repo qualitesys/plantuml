@@ -84,5 +84,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/__ptr__.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -266,5 +266,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00062] For method transformStringForSizeHack arguments String  s"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

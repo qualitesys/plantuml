@@ -458,5 +458,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00151] For method setManageSnakes arguments boolean  manageSnakes"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

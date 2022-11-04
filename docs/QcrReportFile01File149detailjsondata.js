@@ -602,5 +602,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00122] In the recursive method gen.lib.dotgen.decomp__c.search_component@POLYN185598 the MagicNumber/String 'search_component' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/decomp__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

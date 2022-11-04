@@ -252,5 +252,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00078] For method withOutgoingArrow arguments Gtile  orig|double  margin"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

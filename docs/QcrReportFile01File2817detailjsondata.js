@@ -88,5 +88,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00005] In method org.stathissideris.ascii2image.core.DebugUtils.getLineNumber@POLYN135861 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/core/DebugUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -180,5 +180,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.image.EntityImageCircleEnd.drawU@POLYN157656 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

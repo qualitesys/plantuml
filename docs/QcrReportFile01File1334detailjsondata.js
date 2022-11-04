@@ -171,5 +171,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[00019] Public method create is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/CoordinateChange.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

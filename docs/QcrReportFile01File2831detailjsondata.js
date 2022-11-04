@@ -111,5 +111,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00020] In method org.stathissideris.ascii2image.graphics.ImageHandler.loadImage@POLYN141549 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

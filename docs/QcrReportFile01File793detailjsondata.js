@@ -300,5 +300,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.board.BoardDiagram.addLine@POLYN167132 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

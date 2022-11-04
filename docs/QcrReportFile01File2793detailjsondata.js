@@ -1123,5 +1123,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN201933 the MagicNumber/String  'Message' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

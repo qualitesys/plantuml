@@ -3472,5 +3472,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00555] In the recursive method gen.lib.common.ns__c.rerank@POLYN374049 the MagicNumber/String 'rerank' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/ns__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

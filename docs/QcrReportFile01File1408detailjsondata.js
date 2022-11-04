@@ -422,5 +422,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.graphic.USymbolFrame.asBig@POLYN170382 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolFrame.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

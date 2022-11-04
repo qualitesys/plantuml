@@ -318,5 +318,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[00092] Public method sameRowAs is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

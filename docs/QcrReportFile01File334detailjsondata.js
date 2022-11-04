@@ -286,5 +286,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00062] For method apply arguments Graphics2D  g"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/renderer/Transformation.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

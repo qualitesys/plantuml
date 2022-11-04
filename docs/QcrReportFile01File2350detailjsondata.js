@@ -134,5 +134,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00023] For method getV arguments double  x"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/QuadraticEquation.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

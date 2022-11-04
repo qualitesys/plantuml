@@ -162,5 +162,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.classdiagram.RowLayout.drawU@POLYN150349 the MagicNumber/String  20 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/RowLayout.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

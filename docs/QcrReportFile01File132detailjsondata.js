@@ -1510,5 +1510,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00439] In method gen.lib.common.labels__c.strdup_and_subst_obj@POLYN251176 the MagicNumber/String  'strdup_and_subst_obj' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/labels__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

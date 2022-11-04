@@ -318,5 +318,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN161988 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -104,5 +104,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00017] For method applyFilter arguments ReadLine  current"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAnd.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

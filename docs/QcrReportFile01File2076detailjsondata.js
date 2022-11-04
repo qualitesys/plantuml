@@ -164,5 +164,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.skin.CircleInterface.getPreferredHeight@POLYN151817 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/CircleInterface.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

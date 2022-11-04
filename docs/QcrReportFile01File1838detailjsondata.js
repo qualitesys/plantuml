@@ -138,5 +138,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex.getNextElement@POLYN150146 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

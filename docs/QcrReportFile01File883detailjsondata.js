@@ -718,5 +718,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN169608 the MagicNumber/String  6 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

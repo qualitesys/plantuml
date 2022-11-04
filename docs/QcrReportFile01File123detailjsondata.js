@@ -446,5 +446,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00049] In the recursive method gen.lib.cgraph.rec__c.set_data@POLYN177018 the MagicNumber/String 'set_data' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cgraph/rec__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

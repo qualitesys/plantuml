@@ -333,5 +333,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160500 the MagicNumber/String  '&amp;lt;/b&amp;gt;' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

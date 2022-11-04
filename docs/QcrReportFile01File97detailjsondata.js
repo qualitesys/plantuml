@@ -41,5 +41,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/annotation/HasND_Rank.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -1605,5 +1605,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  'InitPVars' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/label/split_q__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

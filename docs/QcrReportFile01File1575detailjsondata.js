@@ -334,5 +334,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.png.Metadata.displayMetadata@POLYN159256 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/png/Metadata.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

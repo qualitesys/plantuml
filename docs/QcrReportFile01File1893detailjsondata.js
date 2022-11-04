@@ -317,5 +317,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000021[00087] The same method call note.getPosition() is used several times, should be optimized "
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

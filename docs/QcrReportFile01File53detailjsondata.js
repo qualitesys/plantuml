@@ -404,5 +404,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00063] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN148902 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

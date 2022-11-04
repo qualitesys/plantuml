@@ -138,5 +138,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00024] For method getTheField arguments OFFSET  bytes"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/UnsupportedC.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

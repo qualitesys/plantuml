@@ -226,5 +226,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00093] In method h.ST_Agsubnode_s.castTo@POLYN164424 the MagicNumber/String  'dest=' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_Agsubnode_s.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -134,5 +134,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNolink.executeArg@POLYN150259 the MagicNumber/String  'NOLINK' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNolink.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

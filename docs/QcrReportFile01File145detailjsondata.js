@@ -869,5 +869,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00450] In method gen.lib.dotgen.class2__c.class2@POLYN240929 the MagicNumber/String  'class2' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/class2__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

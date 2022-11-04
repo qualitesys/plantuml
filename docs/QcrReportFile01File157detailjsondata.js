@@ -354,5 +354,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00070] In method gen.lib.dotgen.sameport__c.dot_sameports@POLYN161126 the MagicNumber/String  'dot_sameports' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/sameport__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

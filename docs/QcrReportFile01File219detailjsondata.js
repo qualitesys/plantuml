@@ -88,5 +88,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00033] For method castTo arguments Class  dest"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_SplitQ_t.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

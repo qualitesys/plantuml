@@ -1027,5 +1027,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.zopfli.Util.distExtraBitsValue@POLYN227293 the MagicNumber/String  8191 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/zopfli/Util.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -218,5 +218,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.tim.stdlib.GetJsonType.executeReturnFunction@POLYN153372 the MagicNumber/String  'json' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonType.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

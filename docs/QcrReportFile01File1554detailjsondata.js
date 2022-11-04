@@ -340,5 +340,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.implicit@POLYN151734 the MagicNumber/String  'L' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -189,5 +189,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00054] For method getEndingY arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -254,5 +254,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00053] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionMerc.inverseProjectY@POLYN148454 the MagicNumber/String  4 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionMerc.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

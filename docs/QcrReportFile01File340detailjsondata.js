@@ -222,5 +222,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00024] In the recursive method jcckit.util.ConfigParametersBasedConfigData.get@POLYN151644 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/util/ConfigParametersBasedConfigData.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

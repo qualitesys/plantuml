@@ -157,5 +157,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141804 the MagicNumber/String  'source' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

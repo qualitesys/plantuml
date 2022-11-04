@@ -386,5 +386,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00189] For method defineState arguments String  stateCode|String  label"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerRobustConcise.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

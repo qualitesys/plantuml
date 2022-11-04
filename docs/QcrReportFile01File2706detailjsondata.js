@@ -244,5 +244,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000004[00044] Void method draw is empty or contains only a return. Interface segregation"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

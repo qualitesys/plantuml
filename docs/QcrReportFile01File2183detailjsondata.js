@@ -101,5 +101,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00023] For method asColor arguments HColorSet  set"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/style/ValueColor.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

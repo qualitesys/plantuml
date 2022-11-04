@@ -125,5 +125,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.ugraphic.hand.ULineHand.ULineHand@POLYN147111 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/ULineHand.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

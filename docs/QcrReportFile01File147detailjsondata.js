@@ -179,5 +179,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00027] In method gen.lib.dotgen.compound__c.dot_compoundEdges@POLYN154321 the MagicNumber/String  'c24nfmv9i7o5eoqaymbibp7m7' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/compound__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

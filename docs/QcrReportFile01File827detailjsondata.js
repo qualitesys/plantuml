@@ -632,5 +632,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.bpm.GridArray.printMe@POLYN183162 the MagicNumber/String  '  ;  ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/bpm/GridArray.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

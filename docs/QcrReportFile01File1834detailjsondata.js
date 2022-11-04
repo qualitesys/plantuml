@@ -299,5 +299,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00068] For method getXEndForLevel arguments int  level"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/Skeleton2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

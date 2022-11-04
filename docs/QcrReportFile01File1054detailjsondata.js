@@ -222,5 +222,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.creole.command.CommandCreoleQrcode.executeAndGetRemaining@POLYN152083 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleQrcode.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

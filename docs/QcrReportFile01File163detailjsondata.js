@@ -1417,5 +1417,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00384] In the recursive method gen.lib.label.index__c.RTreeInsert2@POLYN213148 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/label/index__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

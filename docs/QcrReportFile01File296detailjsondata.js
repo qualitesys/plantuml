@@ -75,5 +75,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/LineAttributes.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

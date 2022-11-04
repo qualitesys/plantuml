@@ -232,5 +232,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.Control.calculateDimension@POLYN156489 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/Control.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

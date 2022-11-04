@@ -153,5 +153,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00025] For method decompress arguments byte[]  in"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/CompressionZopfliZlib.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

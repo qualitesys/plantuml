@@ -206,5 +206,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.tim.stdlib.Getenv.getenv@POLYN153344 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Getenv.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -183,5 +183,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN153239 the MagicNumber/String  'Unexpected error listing themes: ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -751,5 +751,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.api.NumberAnalyzed.getStandardDeviation@POLYN180976 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzed.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -141,5 +141,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing.executeArg@POLYN150065 the MagicNumber/String  true should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAllowMixing.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

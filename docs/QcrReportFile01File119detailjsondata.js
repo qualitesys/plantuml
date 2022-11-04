@@ -441,5 +441,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00110] In the recursive method gen.lib.cgraph.mem__c.agalloc@POLYN169758 the MagicNumber/String 'agalloc' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cgraph/mem__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

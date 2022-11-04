@@ -300,5 +300,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00066] In method jcckit.plot.TicLabelMap.form@POLYN172801 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/TicLabelMap.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

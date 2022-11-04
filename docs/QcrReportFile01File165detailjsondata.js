@@ -735,5 +735,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00229] In the recursive method gen.lib.label.rectangle__c.Overlap@POLYN175488 the MagicNumber/String 'Overlap' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/label/rectangle__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

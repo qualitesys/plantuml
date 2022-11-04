@@ -239,5 +239,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.command.CommandScale.executeArg@POLYN153356 the MagicNumber/String  'Scale cannot be zero' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandScale.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00023] For method getSuggestedFile arguments BlockUml  blockUml"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

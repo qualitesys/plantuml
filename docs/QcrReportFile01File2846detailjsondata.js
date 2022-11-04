@@ -92,5 +92,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00022] For method star arguments O  data"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/CStarStar.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

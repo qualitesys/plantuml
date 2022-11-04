@@ -101,5 +101,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000008[00007] The class Symbol contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/Symbol.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

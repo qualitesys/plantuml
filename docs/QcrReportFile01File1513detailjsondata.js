@@ -113,5 +113,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00028] For method executeArg arguments NwDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandComment.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

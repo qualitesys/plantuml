@@ -196,5 +196,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.PointListIteratorImpl.next@POLYN152042 the MagicNumber/String  'Error ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/PointListIteratorImpl.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

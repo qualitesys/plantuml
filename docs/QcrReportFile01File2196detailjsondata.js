@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00008] For method eat arguments double  v"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

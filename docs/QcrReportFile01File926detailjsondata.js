@@ -518,5 +518,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00110] For method concat arguments List&lt;String &gt;  strings"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

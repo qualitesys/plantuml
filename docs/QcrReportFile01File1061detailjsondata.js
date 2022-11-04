@@ -822,5 +822,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.creole.legacy.AtomText.toString@POLYN209792 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -1274,5 +1274,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00460] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251428 the MagicNumber/String  'merge_oneway' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/fastgr__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

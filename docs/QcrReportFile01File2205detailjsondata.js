@@ -779,5 +779,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svek.ClusterDotStringKermor.isThereALinkFromOrToGroup@POLYN191908 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDotStringKermor.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

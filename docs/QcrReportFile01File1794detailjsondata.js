@@ -182,5 +182,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00031] For method min arguments Collection&lt;Real &gt;  reals"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -83,5 +83,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00012] For method getScaleInternal arguments double  width|double  height"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

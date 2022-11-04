@@ -141,5 +141,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd.executeArg@POLYN150424 the MagicNumber/String  'Missing starting box' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxEnd.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -111,5 +111,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.tim.EaterDumpMemory.analyze@POLYN146087 the MagicNumber/String  '!dump_memory' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

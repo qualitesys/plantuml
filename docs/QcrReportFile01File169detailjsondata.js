@@ -4380,5 +4380,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.pathplan.route__c.mkspline_w_@POLYN311741 the MagicNumber/String 3.0 MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/pathplan/route__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

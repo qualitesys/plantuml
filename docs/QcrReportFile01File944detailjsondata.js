@@ -316,5 +316,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.CommandNamespace2.executeArg@POLYN163101 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespace2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

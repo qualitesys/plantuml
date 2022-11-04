@@ -311,5 +311,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.cucadiagram.GroupPrinter.print@POLYN155425 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupPrinter.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

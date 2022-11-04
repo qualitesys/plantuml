@@ -162,5 +162,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.tim.stdlib.Lighten.executeReturnFunction@POLYN152286 the MagicNumber/String  'No such color' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Lighten.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

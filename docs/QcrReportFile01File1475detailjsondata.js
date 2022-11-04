@@ -101,5 +101,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAVCWE493[00028] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/logo/LogoToken.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

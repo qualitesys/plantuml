@@ -172,5 +172,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.mindmap.SymetricalTee.toString@POLYN148343 the MagicNumber/String  ' e2=' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTee.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

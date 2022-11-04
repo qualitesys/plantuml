@@ -111,5 +111,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.font.PSystemListFonts.getDescription@POLYN148091 the MagicNumber/String  '(List fonts)' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

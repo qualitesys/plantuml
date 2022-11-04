@@ -113,5 +113,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00025] For method executeArg arguments UmlDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -325,5 +325,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.golem.Position.getCenterY@POLYN158005 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/golem/Position.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

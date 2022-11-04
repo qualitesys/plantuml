@@ -104,5 +104,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00012] For method decompress arguments String  stringAnnoted"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

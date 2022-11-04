@@ -176,5 +176,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.executeArg@POLYN151707 the MagicNumber/String  'MANUAL' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

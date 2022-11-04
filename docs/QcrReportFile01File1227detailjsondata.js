@@ -141,5 +141,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ebnf.TitleBox.drawU@POLYN151073 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ebnf/TitleBox.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

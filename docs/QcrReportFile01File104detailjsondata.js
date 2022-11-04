@@ -622,5 +622,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00121] In method gen.lib.cdt.dtdisc__c.dtdisc@POLYN172287 the MagicNumber/String  'dtdisc' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cdt/dtdisc__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

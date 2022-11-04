@@ -250,5 +250,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.graphic.USymbolStorage.asBig@POLYN160978 the MagicNumber/String  7 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

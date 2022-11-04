@@ -214,5 +214,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00027] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  'strcasecmp' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/strcasecmp__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

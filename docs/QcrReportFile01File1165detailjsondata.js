@@ -171,5 +171,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.dedication.PSystemDedication.getDescription@POLYN156309 the MagicNumber/String  '(Dedication)' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

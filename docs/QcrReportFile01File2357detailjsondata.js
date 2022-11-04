@@ -361,5 +361,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00118] For method main arguments String[]  arg"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

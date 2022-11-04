@@ -486,5 +486,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00181] For method calculateDimensionInternal arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -243,5 +243,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00067] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDatabase.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

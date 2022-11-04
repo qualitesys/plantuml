@@ -422,5 +422,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.toString@POLYN161946 the MagicNumber/String  ', long: ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

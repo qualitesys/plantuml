@@ -3283,5 +3283,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00173] In the recursive method gen.lib.common.postproc__c.translate_bb@POLYN301332 the MagicNumber/String 'translate_bb' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/postproc__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

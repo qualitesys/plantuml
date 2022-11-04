@@ -632,5 +632,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00153] In method ext.plantuml.com.google.zxing.common.BitMatrix.toString@POLYN185333 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

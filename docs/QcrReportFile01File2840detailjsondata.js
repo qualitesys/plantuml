@@ -7797,5 +7797,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00102] In the recursive method org.stathissideris.ascii2image.text.TextGrid.clear@POLYN431504 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

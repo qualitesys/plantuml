@@ -507,5 +507,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.timingdiagram.command.TimeTickBuilder.parseTimeTick@POLYN163011 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/TimeTickBuilder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

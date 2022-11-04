@@ -41,5 +41,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/golem/TileGeometry.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

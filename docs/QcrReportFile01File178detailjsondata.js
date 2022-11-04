@@ -41,5 +41,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/EN_pack_mode.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

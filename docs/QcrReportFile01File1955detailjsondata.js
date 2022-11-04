@@ -347,5 +347,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00123] For method getParticipantAt arguments StringBounder  stringBounder|NotePosition  position"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

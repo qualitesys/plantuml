@@ -629,5 +629,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN184034 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -104,5 +104,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.project.lang.SentenceHappens.execute@POLYN148631 the MagicNumber/String  true should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceHappens.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

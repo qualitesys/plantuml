@@ -1313,5 +1313,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN213505 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

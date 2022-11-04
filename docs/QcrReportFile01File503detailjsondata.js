@@ -354,5 +354,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000004[00141] Void method endSwitch is empty or contains only a return. Interface segregation"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

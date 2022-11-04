@@ -58,5 +58,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkClass.java near following tokens Contribution : Hisashi Miyashita ` * ` * ` */ package net . sourceforge . plantuml . classdiagram . command ; "
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkClass.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

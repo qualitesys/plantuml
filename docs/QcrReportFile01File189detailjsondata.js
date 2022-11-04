@@ -229,5 +229,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00059] In method h.ST_Agedge_s.plus_@POLYN160056 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_Agedge_s.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

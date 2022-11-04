@@ -688,5 +688,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.xmi.XmiDescriptionDiagram.transformerXml@POLYN184201 the MagicNumber/String  'yes' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/xmi/XmiDescriptionDiagram.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

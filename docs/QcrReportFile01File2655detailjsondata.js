@@ -139,5 +139,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.ugraphic.g2d.DriverDotPathG2d.draw@POLYN149043 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverDotPathG2d.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

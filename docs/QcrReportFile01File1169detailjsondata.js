@@ -178,5 +178,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.dedication.RBlock.getData@POLYN151535 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/dedication/RBlock.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

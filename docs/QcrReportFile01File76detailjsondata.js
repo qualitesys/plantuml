@@ -57,5 +57,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonException.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -595,5 +595,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

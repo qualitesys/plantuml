@@ -145,5 +145,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00041] In method jcckit.util.FactoryException.toString@POLYN151331 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/util/FactoryException.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

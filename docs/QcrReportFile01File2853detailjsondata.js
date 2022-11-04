@@ -219,5 +219,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00039] For method ___ arguments __struct__  other"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/UnsupportedStarStruct.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

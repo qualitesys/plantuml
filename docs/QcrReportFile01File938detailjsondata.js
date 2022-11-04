@@ -92,5 +92,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00022] For method execute arguments Diagram  diagram|BlocLines  lines"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesComment.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -414,5 +414,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ugraphic.UImageSvg.getWidth@POLYN164030 the MagicNumber/String  'width' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UImageSvg.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

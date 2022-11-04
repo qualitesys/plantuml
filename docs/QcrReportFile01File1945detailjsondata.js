@@ -146,5 +146,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA2.getRegexConcat@POLYN149861 the MagicNumber/String  ')?' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantA2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -132,5 +132,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.eggs.PSystemWelcomeFactory.createSystem@POLYN147441 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcomeFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

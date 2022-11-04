@@ -365,5 +365,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextG2d.printSingleText@POLYN174540 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextG2d.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

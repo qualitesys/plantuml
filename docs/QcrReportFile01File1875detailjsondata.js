@@ -130,5 +130,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager.create@POLYN149354 the MagicNumber/String  'secret' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

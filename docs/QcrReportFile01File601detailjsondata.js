@@ -651,5 +651,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.activitydiagram3.ftile.WormMutation.mute@POLYN175904 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

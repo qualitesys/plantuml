@@ -300,5 +300,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.graphic.TextBlockBordered.getPolygonNormal@POLYN166225 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

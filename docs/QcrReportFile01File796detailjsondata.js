@@ -183,5 +183,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN150383 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

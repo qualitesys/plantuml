@@ -238,5 +238,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158692 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -122,5 +122,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconic.getDefaultMargins@POLYN149899 the MagicNumber/String  5 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconic.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -123,5 +123,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00026] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN144452 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

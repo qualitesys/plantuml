@@ -204,5 +204,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.deflate.ByteHistory.copy@POLYN151408 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteHistory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

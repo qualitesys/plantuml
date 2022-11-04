@@ -1021,5 +1021,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00157] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN178297 the MagicNumber/String 'ptToLine2' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/geom__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

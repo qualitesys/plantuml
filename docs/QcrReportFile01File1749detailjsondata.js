@@ -161,5 +161,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00056] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

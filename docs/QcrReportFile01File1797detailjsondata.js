@@ -134,5 +134,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.salt.CommandSalt.executeArg@POLYN149691 the MagicNumber/String  true should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/CommandSalt.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

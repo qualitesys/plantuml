@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00017] For method ___ arguments __struct__  value"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_cinfo_t.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

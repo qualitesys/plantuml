@@ -1164,5 +1164,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00195] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

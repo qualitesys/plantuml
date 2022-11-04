@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00022] For method createFiles arguments OutputStream  fos"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/xmlsc/StateDiagramScxmlMaker.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

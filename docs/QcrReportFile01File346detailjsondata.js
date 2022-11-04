@@ -157,5 +157,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00016] In method jcckit.util.Point.Point@POLYN146425 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/util/Point.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

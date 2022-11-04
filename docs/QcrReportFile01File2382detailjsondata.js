@@ -124,5 +124,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00026] For method withLocation arguments StringLocated  sl"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/EaterException.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -127,5 +127,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.tim.EaterStartsub.analyze@POLYN146859 the MagicNumber/String  'Bad sub name' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/EaterStartsub.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -165,5 +165,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00026] In method gen.lib.cgraph.agerror__c.agerrorf@POLYN154954 the MagicNumber/String  'c24nfmv9i7o5eoqaymbibp7m7' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cgraph/agerror__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

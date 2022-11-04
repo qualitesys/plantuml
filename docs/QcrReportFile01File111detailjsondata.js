@@ -995,5 +995,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00130] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN181361 the MagicNumber/String 'dtvsearch' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cdt/dtview__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

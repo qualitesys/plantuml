@@ -232,5 +232,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN156747 the MagicNumber/String  'Cannot read: ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

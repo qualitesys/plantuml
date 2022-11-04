@@ -1133,5 +1133,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.ugraphic.eps.DriverTextEps.getMinMax@POLYN208761 the MagicNumber/String  'code=' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

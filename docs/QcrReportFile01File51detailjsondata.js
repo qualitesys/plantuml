@@ -104,5 +104,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00013] For method sort arguments Object[]  items|Comparator  comparator"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

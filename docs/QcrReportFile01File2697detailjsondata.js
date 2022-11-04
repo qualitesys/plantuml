@@ -130,5 +130,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz.draw@POLYN148061 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

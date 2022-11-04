@@ -92,5 +92,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00017] For method calculateDimensionFtile arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGoto.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

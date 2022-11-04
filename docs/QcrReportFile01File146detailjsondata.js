@@ -1978,5 +1978,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00634] In the recursive method gen.lib.dotgen.cluster__c.mark_lowcluster_basic@POLYN303004 the MagicNumber/String 'mark_lowcluster_basic' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/cluster__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

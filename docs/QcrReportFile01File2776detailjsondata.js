@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00015] For method move arguments double  dx|double  dy"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/wire/WCursor.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

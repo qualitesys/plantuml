@@ -58,5 +58,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999999[00003] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/smetana/core/JUtils.java near following tokens * limitations under the License . ` * ` */ package smetana . core ; import h . ST_Agattr_s ; import "
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/JUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

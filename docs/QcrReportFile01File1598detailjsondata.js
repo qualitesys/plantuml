@@ -111,5 +111,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.posimo.Mirror.getMirrored@POLYN145672 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/Mirror.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

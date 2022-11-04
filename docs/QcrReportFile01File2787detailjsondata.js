@@ -351,5 +351,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.createEntityNodeRef@POLYN165446 the MagicNumber/String  'xmi.idref' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -49,5 +49,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/api/mda/option3/MDAVisitor.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -376,5 +376,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00109] For method delayOn arguments double  y|double  height"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

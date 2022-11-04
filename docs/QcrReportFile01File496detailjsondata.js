@@ -178,5 +178,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00056] For method addNote arguments Display  note|NotePosition  position|NoteType  type|Colors  colors|Swimlane  swimlaneNote"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

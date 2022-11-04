@@ -57,5 +57,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Lazy.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

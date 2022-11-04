@@ -307,5 +307,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000001[00107] Avoid declaring class instance within loop, performance impact"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

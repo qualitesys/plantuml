@@ -600,5 +600,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.api.NumberAnalyzed2.getSliddingMean@POLYN178338 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzed2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

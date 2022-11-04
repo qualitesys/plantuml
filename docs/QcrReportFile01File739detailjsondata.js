@@ -766,5 +766,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.argon2.algorithm.FillSegment.getRefColumn@POLYN173351 the MagicNumber/String  32 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

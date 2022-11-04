@@ -427,5 +427,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.getLeaf@POLYN179594 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

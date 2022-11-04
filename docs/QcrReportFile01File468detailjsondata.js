@@ -241,5 +241,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.acearth.PSystemXearth.getDescription@POLYN168493 the MagicNumber/String  '(XEarth)' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

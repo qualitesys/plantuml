@@ -74,5 +74,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00005] For method append arguments XCubicCurve2D  bez|boolean  b"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

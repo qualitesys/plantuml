@@ -625,5 +625,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00239] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapDefault.EdgeXingComparator.compare@POLYN182508 the MagicNumber/String  'No result' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

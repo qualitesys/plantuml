@@ -335,5 +335,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.png.PngSplitter.PngSplitter@POLYN159484 the MagicNumber/String  'End of splitting' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/png/PngSplitter.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

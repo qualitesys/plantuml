@@ -319,5 +319,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.dedication.Noise.reverse@POLYN162072 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -654,5 +654,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000004[00166] Void method drawWhenCompressed is empty or contains only a return. Interface segregation"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

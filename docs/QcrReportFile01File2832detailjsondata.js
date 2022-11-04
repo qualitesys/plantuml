@@ -583,5 +583,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00212] In method org.stathissideris.ascii2image.graphics.ShapeEdge.toString@POLYN179559 the MagicNumber/String  ' -&amp;gt; ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -134,5 +134,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.statediagram.command.CommandEndState.executeArg@POLYN150545 the MagicNumber/String  'No inner state defined' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandEndState.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

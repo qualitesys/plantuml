@@ -247,5 +247,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.command.CommandMultilines.isCommandForbidden@POLYN153805 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

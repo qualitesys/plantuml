@@ -150,5 +150,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer.drawU@POLYN150751 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

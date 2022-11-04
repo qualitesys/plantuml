@@ -531,5 +531,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.tim.TFunctionImpl.finalizeEnddefinelong@POLYN181329 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -153,5 +153,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.getMe@POLYN148326 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

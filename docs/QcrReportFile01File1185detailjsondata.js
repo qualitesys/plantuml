@@ -1173,5 +1173,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.descdiagram.command.CommandCreateElementFull.getCharEncoding@POLYN213591 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

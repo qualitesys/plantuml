@@ -184,5 +184,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00041] For method is arguments SymbolType  type1|SymbolType  type2"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/hcl/HclTerm.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

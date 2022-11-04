@@ -176,5 +176,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.help.CommandHelpColor.executeArg@POLYN151516 the MagicNumber/String  '* ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpColor.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

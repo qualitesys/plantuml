@@ -118,5 +118,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottom.drawU@POLYN154671 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottom.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

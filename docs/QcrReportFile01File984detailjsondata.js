@@ -609,5 +609,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.command.note.sequence.FactorySequenceNoteCommand.executeInternal@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteCommand.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

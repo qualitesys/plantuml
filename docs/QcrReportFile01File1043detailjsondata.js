@@ -88,5 +88,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.creole.command.CommandCreoleCache.CommandCreoleCache@POLYN147523 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

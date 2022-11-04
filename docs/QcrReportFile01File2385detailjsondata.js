@@ -320,5 +320,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.tim.EaterFunctionCall.analyze@POLYN160577 the MagicNumber/String  'call001' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

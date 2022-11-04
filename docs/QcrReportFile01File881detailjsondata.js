@@ -148,5 +148,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.code.ArobaseStringCompressor2.clean2@POLYN146552 the MagicNumber/String  '\n@enduml' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

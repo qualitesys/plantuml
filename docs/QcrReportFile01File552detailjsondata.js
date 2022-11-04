@@ -239,5 +239,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.activitydiagram3.command.CommandWhile3.executeArg@POLYN155519 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandWhile3.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

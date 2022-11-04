@@ -242,5 +242,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00072] For method forceColor arguments ColorParam  param|HColor  color"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/SkinParamBackcolored.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

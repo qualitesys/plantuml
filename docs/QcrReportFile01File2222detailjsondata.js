@@ -239,5 +239,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00064] For method getOverscanX arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

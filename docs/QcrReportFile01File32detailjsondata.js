@@ -314,5 +314,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[00036] Public method getShadedColors is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/Shader.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

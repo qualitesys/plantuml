@@ -592,5 +592,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00069] In the recursive method ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByValue@POLYN156456 the MagicNumber/String 'Bad ECI value: ' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

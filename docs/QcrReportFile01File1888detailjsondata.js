@@ -639,5 +639,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.sequencediagram.Doll.getMaxX@POLYN187248 the MagicNumber/String  10 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Doll.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -141,5 +141,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00033] For method isSameThan arguments __ptr__  other"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_Agnode_s.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

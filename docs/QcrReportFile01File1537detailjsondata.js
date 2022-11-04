@@ -161,5 +161,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00028] For method set arguments int  i|int  j|LinkedElement  value"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NwArray.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

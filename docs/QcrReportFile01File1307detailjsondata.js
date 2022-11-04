@@ -285,5 +285,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN159701 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

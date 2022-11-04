@@ -498,5 +498,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.descdiagram.CommandCreateDomain.executeArg@POLYN171212 the MagicNumber/String  'biddable' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/descdiagram/CommandCreateDomain.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -301,5 +301,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.SvekUtils.pixelToInches@POLYN159522 the MagicNumber/String  '%6.6f' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

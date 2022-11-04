@@ -1214,5 +1214,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00379] In method net.sourceforge.plantuml.ant.PlantUmlTask.setSplash@POLYN227778 the MagicNumber/String  'on' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ant/PlantUmlTask.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

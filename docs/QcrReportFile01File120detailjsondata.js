@@ -1325,5 +1325,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00163] In the recursive method gen.lib.cgraph.node__c.installnodetoroot@POLYN215471 the MagicNumber/String 'installnodetoroot' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cgraph/node__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

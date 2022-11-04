@@ -2123,5 +2123,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00458] In the recursive method org.stathissideris.ascii2image.text.CellSet.removeDuplicateSets@POLYN256071 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

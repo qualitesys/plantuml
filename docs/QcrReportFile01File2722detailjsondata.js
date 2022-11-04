@@ -689,5 +689,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.utils.MTRandom.pack@POLYN231393 the MagicNumber/String  0xff should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/utils/MTRandom.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

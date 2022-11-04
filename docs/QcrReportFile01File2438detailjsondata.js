@@ -159,5 +159,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorImpl.jumpToCodePosition@POLYN152019 the MagicNumber/String  'Infinite loop?' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorImpl.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

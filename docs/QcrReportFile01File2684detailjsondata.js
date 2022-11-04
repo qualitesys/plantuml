@@ -160,5 +160,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN150846 the MagicNumber/String  'Error in svg for image ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

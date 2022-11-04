@@ -303,5 +303,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00087] For method doesIntersectWithThisCoef arguments Positionable  fixe|Positionable  toMove|double  deltaX|double  deltaY|double  c"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

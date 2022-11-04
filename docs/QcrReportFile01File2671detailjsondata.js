@@ -318,5 +318,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  50 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -124,5 +124,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdge.getSections@POLYN141489 the MagicNumber/String  'getSections' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

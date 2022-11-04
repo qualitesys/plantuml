@@ -327,5 +327,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.eggs.EggUtils.xor@POLYN157376 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

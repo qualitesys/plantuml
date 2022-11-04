@@ -160,5 +160,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150494 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

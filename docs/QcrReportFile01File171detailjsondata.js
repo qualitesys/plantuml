@@ -813,5 +813,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00116] In method gen.lib.pathplan.solvers__c.solve1@POLYN182625 the MagicNumber/String  'solve1' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/pathplan/solvers__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

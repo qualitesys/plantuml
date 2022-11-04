@@ -136,5 +136,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.ebnf.Token.toString@POLYN147418 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ebnf/Token.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

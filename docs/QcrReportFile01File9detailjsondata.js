@@ -184,5 +184,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00046] In method ext.plantuml.com.ctreber.acearth.gui.PixelCanvas.saveToImage@POLYN145413 the MagicNumber/String  'png' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

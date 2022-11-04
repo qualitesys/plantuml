@@ -238,5 +238,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorChange.executeAndGetRemaining@POLYN156249 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorChange.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -278,5 +278,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN171133 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

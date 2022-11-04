@@ -113,5 +113,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtendsLike.createUDrawable@POLYN150778 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

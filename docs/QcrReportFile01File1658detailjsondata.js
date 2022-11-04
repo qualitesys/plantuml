@@ -203,5 +203,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00048] For method getColor arguments DayOfWeek  dayOfWeek"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

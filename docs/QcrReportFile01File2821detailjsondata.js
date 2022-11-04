@@ -414,5 +414,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[00108] Public method setForceFontSize is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/core/RenderingOptions.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

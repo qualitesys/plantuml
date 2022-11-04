@@ -418,5 +418,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.version.Version.getJarPath@POLYN159001 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/version/Version.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

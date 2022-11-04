@@ -327,5 +327,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.utils.Cypher.addException@POLYN165545 the MagicNumber/String  'CypherWarning:' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/utils/Cypher.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -182,5 +182,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000004[00018] Void method actionPerformed is empty or contains only a return. Interface segregation"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

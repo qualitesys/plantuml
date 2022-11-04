@@ -355,5 +355,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00047] For method asTo arguments Direction  direction"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/Arrows.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

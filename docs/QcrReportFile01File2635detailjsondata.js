@@ -168,5 +168,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder.getBackcolor@POLYN154928 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

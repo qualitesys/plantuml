@@ -246,5 +246,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN159396 the MagicNumber/String  'stream' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

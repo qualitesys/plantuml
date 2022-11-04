@@ -509,5 +509,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.statediagram.command.CommandCreatePackageState.executeArg@POLYN173609 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandCreatePackageState.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

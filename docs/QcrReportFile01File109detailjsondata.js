@@ -244,5 +244,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00057] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  'dtsize_' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cdt/dtsize__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

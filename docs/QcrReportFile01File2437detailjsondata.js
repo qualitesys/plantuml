@@ -326,5 +326,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorIf.executeEndif@POLYN173370 the MagicNumber/String  'No if related to this endif' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorIf.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

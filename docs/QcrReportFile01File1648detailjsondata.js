@@ -295,5 +295,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.project.GanttConstraint.isHidden@POLYN164107 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -586,5 +586,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.descdiagram.command.CommandCreateElementMultilines.executeNow@POLYN179910 the MagicNumber/String  'topurl' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementMultilines.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

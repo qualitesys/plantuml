@@ -123,5 +123,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.telnet.TelnetServer.main@POLYN145774 the MagicNumber/String  true should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

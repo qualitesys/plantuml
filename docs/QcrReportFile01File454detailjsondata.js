@@ -313,5 +313,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.StdrptV1.finalMessage@POLYN154846 the MagicNumber/String  'No diagram found' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/StdrptV1.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

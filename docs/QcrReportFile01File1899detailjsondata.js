@@ -208,5 +208,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00057] For method setMessage arguments AbstractMessage  message"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

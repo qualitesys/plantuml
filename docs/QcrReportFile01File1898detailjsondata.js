@@ -556,5 +556,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00184] For method changeHack2 arguments double  hack2"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

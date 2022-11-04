@@ -255,5 +255,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sprite.ColorPalette.getColorFor@POLYN153253 the MagicNumber/String  85 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

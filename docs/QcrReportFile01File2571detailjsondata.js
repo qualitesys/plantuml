@@ -208,5 +208,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00051] For method setDeltaShadow arguments double  deltaShadow"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

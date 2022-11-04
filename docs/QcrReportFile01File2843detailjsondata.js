@@ -256,5 +256,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00069] In method smetana.core.CArrayOfStar._swap@POLYN157440 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/CArrayOfStar.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

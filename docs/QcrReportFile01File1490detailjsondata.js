@@ -181,5 +181,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.math.TeXIconBuilder.TeXIconBuilder@POLYN150774 the MagicNumber/String  'setForeground' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

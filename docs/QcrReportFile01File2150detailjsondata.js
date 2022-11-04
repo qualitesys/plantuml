@@ -106,5 +106,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00018] For method getValue arguments StatsColumn  column"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

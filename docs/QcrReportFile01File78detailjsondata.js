@@ -290,5 +290,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.google.zxing.datamatrix.decoder.DataBlock.getDataBlocks@POLYN156274 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

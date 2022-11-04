@@ -155,5 +155,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN150988 the MagicNumber/String  'No if for this endif' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

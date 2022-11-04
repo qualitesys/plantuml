@@ -130,5 +130,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00024] For method createWriter arguments Writer  writer"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

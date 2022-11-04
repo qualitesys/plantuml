@@ -192,5 +192,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d.manageStroke@POLYN155613 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverLineG2d.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

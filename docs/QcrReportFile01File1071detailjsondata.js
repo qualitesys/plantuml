@@ -561,5 +561,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00161] For method analyzeAndAddLine arguments String  line"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTable.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

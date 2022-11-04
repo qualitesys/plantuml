@@ -66,5 +66,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRenderer.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

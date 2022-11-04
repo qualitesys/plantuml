@@ -178,5 +178,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00061] For method setScanBits arguments ScanBit[]  pScanBits"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanBit.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

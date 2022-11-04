@@ -58,5 +58,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/preproc2/PreprocessorUtils.java near following tokens by : Nicolas Jouanin ` * ` * ` */ package net . sourceforge . plantuml . preproc2 ; import java "
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

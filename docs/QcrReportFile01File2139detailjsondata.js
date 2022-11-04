@@ -783,5 +783,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN183528 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

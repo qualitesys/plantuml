@@ -227,5 +227,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00052] For method setDotPath arguments DotPath  dotPath"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/Path.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

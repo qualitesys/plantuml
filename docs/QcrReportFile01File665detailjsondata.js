@@ -200,5 +200,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit.drawU@POLYN157233 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -982,5 +982,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00607] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWhile.getTranslateForSpecial@POLYN298152 the MagicNumber/String  4 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWhile.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

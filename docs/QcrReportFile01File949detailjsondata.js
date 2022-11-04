@@ -211,5 +211,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.command.CommandPage.executeArg@POLYN151768 the MagicNumber/String  'Argument must be positive' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandPage.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

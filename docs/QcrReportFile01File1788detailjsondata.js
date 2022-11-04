@@ -242,5 +242,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00059] For method ensureBiggerThan arguments Real  other"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

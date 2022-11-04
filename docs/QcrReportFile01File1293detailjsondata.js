@@ -88,5 +88,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00007] In method net.sourceforge.plantuml.flashcode.FlashCodeFactory.getFlashCodeUtils@POLYN146144 the MagicNumber/String  'net.sourceforge.plantuml.flashcode.FlashCodeUtilsZxing' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/flashcode/FlashCodeFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

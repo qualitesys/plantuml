@@ -146,5 +146,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.hcl.HclDiagramFactory.createSystem@POLYN152623 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/hcl/HclDiagramFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

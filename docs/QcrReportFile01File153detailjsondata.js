@@ -1502,5 +1502,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00459] In method gen.lib.dotgen.flat__c.flat_edges@POLYN273673 the MagicNumber/String  'flat_edges' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/flat__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

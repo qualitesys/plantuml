@@ -295,5 +295,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.toString@POLYN164668 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

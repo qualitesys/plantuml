@@ -203,5 +203,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.nwdiag.next.NBox.contains@POLYN153445 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

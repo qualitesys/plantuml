@@ -139,5 +139,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00032] For method create arguments int  curveIndex|int  numberOfCurves|ClippingShape  clippingShape|Legend  legend"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

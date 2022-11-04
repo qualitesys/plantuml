@@ -515,5 +515,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN162523 the MagicNumber/String  'ctx.closePath();' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

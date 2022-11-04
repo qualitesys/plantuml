@@ -130,5 +130,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.sudoku.PSystemSudokuFactory.executeLine@POLYN149161 the MagicNumber/String  36 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudokuFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

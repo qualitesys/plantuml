@@ -120,5 +120,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.execute@POLYN145944 the MagicNumber/String  'Not yet implemented' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

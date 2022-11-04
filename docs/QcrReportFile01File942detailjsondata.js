@@ -162,5 +162,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.CommandMultilinesTitle.execute@POLYN149393 the MagicNumber/String  'No title defined' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

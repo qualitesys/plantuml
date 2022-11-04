@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00018] In method jcckit.graphic.Oval.renderWith@POLYN146734 the MagicNumber/String  ' does not implements OvalRenderer.' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/Oval.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

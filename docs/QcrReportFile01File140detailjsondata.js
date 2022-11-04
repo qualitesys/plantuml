@@ -304,5 +304,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00031] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN157378 the MagicNumber/String 'textspan_size' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/textspan__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

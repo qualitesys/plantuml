@@ -184,5 +184,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00084] For method drawComment arguments UComment  shape"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

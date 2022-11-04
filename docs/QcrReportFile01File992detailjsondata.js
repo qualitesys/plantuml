@@ -106,5 +106,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00014] For method matcher arguments CharSequence  input"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

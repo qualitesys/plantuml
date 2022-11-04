@@ -343,5 +343,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.version.PSystemKeygen.drawFlash@POLYN170462 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeygen.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

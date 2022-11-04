@@ -197,5 +197,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.tim.stdlib.DateFunction.executeReturnFunction@POLYN152607 the MagicNumber/String  'Bad date pattern' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/DateFunction.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

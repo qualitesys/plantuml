@@ -238,5 +238,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00128] For method create arguments UmlSource  source"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

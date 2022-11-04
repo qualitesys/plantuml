@@ -115,5 +115,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.ctreber.aclib.gui.MOString.checkRange@POLYN138504 the MagicNumber/String  true should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOString.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

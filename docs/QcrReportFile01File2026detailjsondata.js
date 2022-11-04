@@ -276,5 +276,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000004[00088] Void method addConstraints is empty or contains only a return. Interface segregation"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DelayTile.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

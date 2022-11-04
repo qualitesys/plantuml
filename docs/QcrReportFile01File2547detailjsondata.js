@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00012] For method setDeltaShadow arguments double  deltaShadow"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

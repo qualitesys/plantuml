@@ -5565,5 +5565,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00465] In the recursive method smetana.core.Macro.GD_rankdir@POLYN395849 the MagicNumber/String 0x3 MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/Macro.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

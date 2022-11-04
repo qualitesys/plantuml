@@ -99,5 +99,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00046] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/DirectionalTextBlock.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

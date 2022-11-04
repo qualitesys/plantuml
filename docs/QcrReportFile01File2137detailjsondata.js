@@ -169,5 +169,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.statediagram.command.CommandHideEmptyDescription.executeArg@POLYN150862 the MagicNumber/String  'hide' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandHideEmptyDescription.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -106,5 +106,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.sequencediagram.teoz.TimeHook.toString@POLYN145665 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

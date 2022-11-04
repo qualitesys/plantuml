@@ -263,5 +263,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00085] For method setBordered arguments Bordered  bordered"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

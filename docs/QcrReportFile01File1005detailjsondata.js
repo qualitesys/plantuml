@@ -353,5 +353,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.compositediagram.command.CommandLinkBlock.getLinkDecor@POLYN162457 the MagicNumber/String  '[]' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/compositediagram/command/CommandLinkBlock.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

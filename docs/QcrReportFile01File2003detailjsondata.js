@@ -266,5 +266,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract.createNoteBox@POLYN157749 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

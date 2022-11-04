@@ -206,5 +206,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.salt.element.ElementMenuPopup.drawU@POLYN156658 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuPopup.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

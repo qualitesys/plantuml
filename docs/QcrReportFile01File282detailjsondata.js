@@ -129,5 +129,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00031] For method isValid arguments DataElement  element"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/data/DataPlot.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

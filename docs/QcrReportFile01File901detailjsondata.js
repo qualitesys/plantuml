@@ -1048,5 +1048,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.code.Tokens.add@POLYN177407 the MagicNumber/String  127 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/Tokens.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

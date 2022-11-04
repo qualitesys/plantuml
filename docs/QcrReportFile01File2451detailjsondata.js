@@ -162,5 +162,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.tim.stdlib.Chr.executeReturnFunction@POLYN150267 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Chr.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

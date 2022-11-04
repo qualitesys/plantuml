@@ -409,5 +409,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00183] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -189,5 +189,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00064] For method getPorts arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

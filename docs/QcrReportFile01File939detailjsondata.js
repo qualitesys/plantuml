@@ -190,5 +190,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.command.CommandMultilinesFooter.execute@POLYN152016 the MagicNumber/String  'Empty footer' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesFooter.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

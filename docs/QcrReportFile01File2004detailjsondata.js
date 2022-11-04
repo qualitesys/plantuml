@@ -492,5 +492,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00246] For method getArrowType arguments Message  m|double  x1|double  x2"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Message.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

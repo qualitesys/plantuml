@@ -146,5 +146,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN153971 the MagicNumber/String  'This function does not have any !return directive. Declare it as a procedure instead ?' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

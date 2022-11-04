@@ -224,5 +224,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.Reference.toString@POLYN161680 the MagicNumber/String  '-' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

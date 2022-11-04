@@ -155,5 +155,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00021] For method getColor arguments ISkinParam  skinParam|Stereotype  stereo|ColorParam  ...colorParam"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/SkinParamUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -507,5 +507,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00172] For method getLeaf arguments SvekNode  node"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

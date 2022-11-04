@@ -87,5 +87,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_blk_t.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

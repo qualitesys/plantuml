@@ -138,5 +138,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00052] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

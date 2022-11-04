@@ -2041,5 +2041,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00823] For method addVerticalSeparatorBefore arguments Day  day"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

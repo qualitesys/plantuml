@@ -560,5 +560,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.argon2.Util.intToLong@POLYN153526 the MagicNumber/String  4 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/argon2/Util.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

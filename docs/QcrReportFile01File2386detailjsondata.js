@@ -106,5 +106,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.tim.EaterIf.analyze@POLYN147050 the MagicNumber/String  '!if' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/EaterIf.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

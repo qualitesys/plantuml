@@ -260,5 +260,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutonumber.executeArg@POLYN155861 the MagicNumber/String  'Error in pattern : ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumber.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

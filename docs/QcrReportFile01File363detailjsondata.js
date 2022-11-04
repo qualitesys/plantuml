@@ -252,5 +252,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.BaseFile.getTraceFile@POLYN150892 the MagicNumber/String  '_' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/BaseFile.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

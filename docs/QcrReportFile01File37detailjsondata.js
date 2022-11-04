@@ -170,5 +170,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141538 the MagicNumber/String  ')' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

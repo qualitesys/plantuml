@@ -287,5 +287,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00068] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157360 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

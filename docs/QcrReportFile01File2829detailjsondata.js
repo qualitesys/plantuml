@@ -503,5 +503,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00143] For method setOutlineColor arguments Color  outlineColor"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

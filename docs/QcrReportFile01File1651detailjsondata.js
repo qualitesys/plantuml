@@ -245,5 +245,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00134] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -471,5 +471,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.salt.PSystemSalt.getDefaultMargins@POLYN197510 the MagicNumber/String  5 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

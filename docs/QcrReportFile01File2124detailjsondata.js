@@ -779,5 +779,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.sprite.SpriteMonochrome.exportSprite1@POLYN193997 the MagicNumber/String  16 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteMonochrome.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

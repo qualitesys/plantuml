@@ -152,5 +152,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00049] For method solveBackward arguments long  totalLoad|long  end"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/solver/Solver3.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

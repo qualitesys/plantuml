@@ -83,5 +83,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00018] For method addUrl arguments Ftile  ftile|Url  url"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddUrl.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -260,5 +260,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00097] For method getTranslateFor arguments Ftile  child|StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDecorate.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

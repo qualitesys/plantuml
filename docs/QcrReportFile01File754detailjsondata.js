@@ -262,5 +262,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.asciiart.ComponentTextActiveLine.getPreferredWidth@POLYN153440 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextActiveLine.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

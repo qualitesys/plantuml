@@ -225,5 +225,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.dedication.DedicationSimple.same@POLYN151061 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

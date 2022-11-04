@@ -88,5 +88,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00006] For method isBraille arguments char  c"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/braille/BrailleUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -83,5 +83,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00019] For method createParallel arguments List&lt;Ftile &gt;  all|ForkStyle  style|String  label|Swimlane  in|Swimlane  out"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

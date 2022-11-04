@@ -367,5 +367,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00090] For method getSouthLabelHeight arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamond.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

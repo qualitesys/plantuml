@@ -127,5 +127,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.svek.extremity.MiddleCircle.drawU@POLYN149343 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircle.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

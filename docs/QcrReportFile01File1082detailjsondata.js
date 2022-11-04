@@ -166,5 +166,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00041] For method create3 arguments Display  rawBody|ISkinSimple  skinParam|HorizontalAlignment  align|FontConfiguration  titleConfig|LineBreakStrategy  lineBreakStrategy|Style  style"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

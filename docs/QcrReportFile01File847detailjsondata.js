@@ -306,5 +306,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BrotliInputStream.read@POLYN159480 the MagicNumber/String  'Brotli stream decoding failed' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/brotli/BrotliInputStream.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

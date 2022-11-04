@@ -846,5 +846,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[00251] Public method delayOn is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

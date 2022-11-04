@@ -134,5 +134,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.tim.stdlib.Newline.executeReturnFunction@POLYN148599 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Newline.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

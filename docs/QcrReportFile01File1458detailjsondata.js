@@ -506,5 +506,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonWriter.getReplacementChars@POLYN167005 the MagicNumber/String  0x000f should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/json/JsonWriter.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

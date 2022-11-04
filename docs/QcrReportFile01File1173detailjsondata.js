@@ -152,5 +152,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00046] For method doCommandLine arguments String  line"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/definition/PSystemDefinition.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

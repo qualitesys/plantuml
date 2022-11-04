@@ -425,5 +425,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000004[00158] Void method closeGroup is empty or contains only a return. Interface segregation"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

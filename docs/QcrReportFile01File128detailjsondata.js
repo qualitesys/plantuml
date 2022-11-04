@@ -964,5 +964,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00118] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN181501 the MagicNumber/String 'update_bb_bz' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/emit__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

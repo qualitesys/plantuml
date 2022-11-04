@@ -224,5 +224,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00064] In method smetana.core.CArray.reallocWithStructure@POLYN157013 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/CArray.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

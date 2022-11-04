@@ -1196,5 +1196,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.graphic.USymbolCloud.asBig@POLYN214534 the MagicNumber/String  13 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

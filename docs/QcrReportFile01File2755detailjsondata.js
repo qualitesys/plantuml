@@ -1077,5 +1077,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.webp.IDCT.iwalsh4x4@POLYN172372 the MagicNumber/String  4 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/webp/IDCT.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -160,5 +160,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00035] For method isSameThan arguments __ptr__  other"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_textlabel_t.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

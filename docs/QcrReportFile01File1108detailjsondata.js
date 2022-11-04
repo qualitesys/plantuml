@@ -1472,5 +1472,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00500] For method setStereotype arguments Stereotype  stereotype"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Link.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

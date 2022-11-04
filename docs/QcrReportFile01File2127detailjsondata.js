@@ -340,5 +340,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN168311 the MagicNumber/String  1024 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

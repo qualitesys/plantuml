@@ -604,5 +604,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00114] In the recursive method gen.lib.cgraph.subg__c.agfstsubg@POLYN179018 the MagicNumber/String 'agfstsubg' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cgraph/subg__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

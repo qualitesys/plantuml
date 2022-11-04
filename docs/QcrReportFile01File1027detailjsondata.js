@@ -88,5 +88,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00011] For method splitInTwo arguments StringBounder  stringBounder|double  width"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/atom/AbstractAtom.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

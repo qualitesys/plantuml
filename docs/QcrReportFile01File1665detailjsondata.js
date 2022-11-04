@@ -288,5 +288,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN155415 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

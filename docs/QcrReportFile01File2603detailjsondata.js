@@ -510,5 +510,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00142] For method setCompressionMode arguments CompressionMode  compressionMode"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

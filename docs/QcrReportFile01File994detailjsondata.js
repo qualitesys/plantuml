@@ -335,5 +335,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00110] For method protectSize arguments int  size"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexConcat.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

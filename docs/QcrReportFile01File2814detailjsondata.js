@@ -600,5 +600,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.zopfli.Zopfli.compressGzip@POLYN164001 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

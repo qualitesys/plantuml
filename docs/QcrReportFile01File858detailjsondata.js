@@ -429,5 +429,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.classdiagram.ClassDiagram.checkFinalError@POLYN188480 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

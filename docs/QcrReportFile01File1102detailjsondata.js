@@ -398,5 +398,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00077] For method apply arguments boolean  hidden|ILeaf  leaf"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

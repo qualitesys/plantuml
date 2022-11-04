@@ -195,5 +195,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.graphic.Polygon.getPoint@POLYN148972"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/Polygon.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

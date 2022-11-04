@@ -146,5 +146,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyVisibility.getPositions@POLYN152432 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyVisibility.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

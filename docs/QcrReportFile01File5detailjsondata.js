@@ -1024,5 +1024,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.ctreber.acearth.ConfigurationACearth.setSunPosRel@POLYN174045 the MagicNumber/String  'sunPosRelLong' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/ConfigurationACearth.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

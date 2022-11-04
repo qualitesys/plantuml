@@ -141,5 +141,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00050] For method setScanDots arguments ScanDot[]  pScanDots"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

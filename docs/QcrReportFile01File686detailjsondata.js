@@ -367,5 +367,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileGroup.drawUInternal@POLYN174274 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGroup.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

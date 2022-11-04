@@ -168,5 +168,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.braille.Coords.toString@POLYN148153 the MagicNumber/String  ' )' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/braille/Coords.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

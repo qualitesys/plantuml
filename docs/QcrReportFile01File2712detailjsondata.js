@@ -153,5 +153,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152631 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -147,5 +147,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.real.RealMoveable.toString@POLYN149504 the MagicNumber/String  '_' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/real/RealMoveable.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

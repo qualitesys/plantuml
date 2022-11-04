@@ -781,5 +781,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByGender.getEntityPortion@POLYN198303 the MagicNumber/String  'ste' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByGender.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

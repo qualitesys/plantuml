@@ -405,5 +405,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00122] For method createStripe arguments CreoleContext  context"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

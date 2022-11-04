@@ -207,5 +207,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.setDimensions@POLYN143305 the MagicNumber/String  'setDimensions' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

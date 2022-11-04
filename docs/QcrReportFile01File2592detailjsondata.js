@@ -490,5 +490,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177428 the MagicNumber/String  '-' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

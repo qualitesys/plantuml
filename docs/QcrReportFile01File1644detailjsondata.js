@@ -136,5 +136,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00022] For method getLoadAt arguments Day  instant"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/ConstantPlan.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

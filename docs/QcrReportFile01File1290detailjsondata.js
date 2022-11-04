@@ -95,5 +95,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.error.PSystemErrorPreprocessor.PSystemErrorPreprocessor@POLYN147846 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorPreprocessor.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

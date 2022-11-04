@@ -325,5 +325,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00047] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN157752 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

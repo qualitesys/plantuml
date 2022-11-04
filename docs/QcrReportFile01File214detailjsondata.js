@@ -49,5 +49,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_Pedge_t.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -181,5 +181,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00036] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN184684 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

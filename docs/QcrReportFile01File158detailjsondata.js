@@ -265,5 +265,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00037] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN157291 the MagicNumber/String 'gvContext' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/gvc/gvc__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

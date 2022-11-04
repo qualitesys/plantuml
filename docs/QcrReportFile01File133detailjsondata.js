@@ -353,5 +353,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00050] In the recursive method gen.lib.common.memory__c.gmalloc@POLYN160982 the MagicNumber/String 'gmalloc' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/memory__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

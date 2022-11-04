@@ -590,5 +590,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN219821 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

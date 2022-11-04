@@ -171,5 +171,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00060] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/golem/Tile.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

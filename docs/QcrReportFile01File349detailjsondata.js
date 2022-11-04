@@ -113,5 +113,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00015] For method exp arguments double  x|boolean  logScale"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/util/Util.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

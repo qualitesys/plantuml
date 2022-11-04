@@ -66,5 +66,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000008[00004] The class TMode contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/TMode.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

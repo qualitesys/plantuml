@@ -598,5 +598,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderFork.ConnectionOut.drawTranslate@POLYN216140 the MagicNumber/String  14 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

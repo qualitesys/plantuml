@@ -239,5 +239,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.common.BitSource.available@POLYN153764 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

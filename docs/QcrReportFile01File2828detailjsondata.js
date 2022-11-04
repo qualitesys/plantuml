@@ -58,5 +58,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/org/stathissideris/ascii2image/graphics/DiagramShape.java near following tokens 02111 - 1307 , USA . ` * ` */ package org . stathissideris . ascii2image . graphics ; import java "
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

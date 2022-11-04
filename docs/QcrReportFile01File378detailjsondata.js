@@ -454,5 +454,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.EmptyImageBuilder.getUGraphicG2d@POLYN176501 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

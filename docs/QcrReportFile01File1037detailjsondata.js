@@ -862,5 +862,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00233] For method newLine arguments HColor  lineBackColor"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

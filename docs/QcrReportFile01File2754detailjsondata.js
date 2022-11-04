@@ -58,5 +58,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/webp/Globals.java near following tokens gnu . org / licenses / _ . ` */ package net . sourceforge . plantuml . webp ; public class "
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/webp/Globals.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

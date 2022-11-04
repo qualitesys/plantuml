@@ -2008,5 +2008,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00099] In the recursive method gen.lib.dotgen.dotinit__c.dot_init_subg@POLYN231537 the MagicNumber/String 'dot_init_subg' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/dotinit__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

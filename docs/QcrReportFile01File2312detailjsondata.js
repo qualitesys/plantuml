@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00019] For method createUDrawable arguments double  angle"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

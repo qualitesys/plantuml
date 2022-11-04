@@ -484,5 +484,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00177] For method setOutRendering arguments LinkRendering  outlinkRendering"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionList.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -300,5 +300,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00069] In method gen.lib.dotgen.aspect__c.setAspect@POLYN160587 the MagicNumber/String  'setAspect' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/aspect__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

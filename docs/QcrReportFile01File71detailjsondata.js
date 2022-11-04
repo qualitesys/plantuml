@@ -148,5 +148,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN143218 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/common/ECI.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -223,5 +223,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN155404 the MagicNumber/String  0xFFFFFF should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

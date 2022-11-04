@@ -182,5 +182,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.svek.MinFinder.toString@POLYN149262 the MagicNumber/String  ' minY=' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

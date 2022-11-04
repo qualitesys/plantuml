@@ -545,5 +545,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.project.draw.TaskDrawGroup.getShapeOld@POLYN194693 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

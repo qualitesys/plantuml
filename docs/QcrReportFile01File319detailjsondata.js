@@ -420,5 +420,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00141] For method createCurveTitle arguments int  curveIndex|int  numberOfCurves|String  title"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/Legend.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

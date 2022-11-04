@@ -440,5 +440,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00128] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation.hashCode@POLYN167479 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -195,5 +195,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.eps.DriverRectangleEps.draw@POLYN156713 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverRectangleEps.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

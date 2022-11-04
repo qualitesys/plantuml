@@ -379,5 +379,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondSquare.calculateDimensionInternal@POLYN171177 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

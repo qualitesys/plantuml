@@ -666,5 +666,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00223] For method setPart2Anchor arguments String  anchor"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

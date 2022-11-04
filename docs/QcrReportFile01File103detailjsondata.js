@@ -559,5 +559,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00116] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 'dtclose' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cdt/dtclose__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

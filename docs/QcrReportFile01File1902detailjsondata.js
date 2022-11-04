@@ -188,5 +188,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00053] For method setMulticast arguments List&lt;Participant &gt;  multicast"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

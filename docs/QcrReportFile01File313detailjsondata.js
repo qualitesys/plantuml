@@ -83,5 +83,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00018] For method createPlainSymbol arguments GraphPoint  centerPosition|double  size|GraphicAttributes  attributes"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/CircleSymbolFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

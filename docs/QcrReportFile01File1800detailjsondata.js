@@ -314,5 +314,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00087] For method transformStringForSizeHack arguments String  s"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

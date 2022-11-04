@@ -193,5 +193,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.gtile.GAbstractConnection.skinParam@POLYN155638 the MagicNumber/String  'wip' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

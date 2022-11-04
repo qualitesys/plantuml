@@ -218,5 +218,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00057] For method applyMatrix arguments double  v1|double  v2|double  v3|double  v4|double  v5|double  v6"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/emoji/UGraphicWithScale.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

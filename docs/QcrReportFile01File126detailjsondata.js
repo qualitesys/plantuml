@@ -504,5 +504,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00115] In the recursive method gen.lib.cgraph.utils__c.agdtdelete@POLYN172825 the MagicNumber/String 'agdtdelete' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cgraph/utils__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

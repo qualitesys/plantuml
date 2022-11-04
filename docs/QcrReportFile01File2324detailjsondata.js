@@ -504,5 +504,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00233] For method getEndingX arguments StringBounder  stringBounder|double  y"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

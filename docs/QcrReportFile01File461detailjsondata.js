@@ -599,5 +599,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

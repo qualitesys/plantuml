@@ -521,5 +521,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00097] In the recursive method gen.lib.dotgen.class1__c.interclust1@POLYN178151 the MagicNumber/String 'interclust1' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/class1__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

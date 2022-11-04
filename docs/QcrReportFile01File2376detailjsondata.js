@@ -118,5 +118,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.tim.EaterAffectationDefine.analyze@POLYN147714 the MagicNumber/String  '!define' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/EaterAffectationDefine.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

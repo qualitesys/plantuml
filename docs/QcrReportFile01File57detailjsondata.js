@@ -74,5 +74,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000008[00006] The class EncodeHintType contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

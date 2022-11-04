@@ -190,5 +190,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.executeArg@POLYN151493 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

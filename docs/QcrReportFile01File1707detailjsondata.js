@@ -262,5 +262,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

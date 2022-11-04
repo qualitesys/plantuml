@@ -1523,5 +1523,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00536] For method setCommentAndCodeLine arguments String  comment|String  codeLine"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

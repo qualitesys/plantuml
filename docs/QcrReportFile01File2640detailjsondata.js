@@ -223,5 +223,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00106] For method drawLine arguments double  x1|double  y1|double  x2|double  y2"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

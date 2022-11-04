@@ -214,5 +214,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  0x80 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

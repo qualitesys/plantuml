@@ -187,5 +187,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.real.RealMiddle2.move@POLYN149045 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

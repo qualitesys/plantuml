@@ -263,5 +263,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00069] For method putDisplay arguments Display  display|HorizontalAlignment  horizontalAlignment"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplaySection.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

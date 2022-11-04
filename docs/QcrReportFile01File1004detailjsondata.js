@@ -134,5 +134,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.compositediagram.command.CommandEndPackageBlock.executeArg@POLYN150545 the MagicNumber/String  'No inner block defined' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/compositediagram/command/CommandEndPackageBlock.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -511,5 +511,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00157] For method createGroup arguments Ftile  list|Display  name|HColor  backColor|PositionedNote  note|USymbol  type|Style  style"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

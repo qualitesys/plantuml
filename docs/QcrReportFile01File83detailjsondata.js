@@ -395,5 +395,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask111.isMasked@POLYN166724 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

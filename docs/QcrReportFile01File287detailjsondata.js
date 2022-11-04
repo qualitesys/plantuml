@@ -235,5 +235,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000004[00006] Valued method _minX is empty or contains only a return. Interface segregation"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/ClippingRectangle.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

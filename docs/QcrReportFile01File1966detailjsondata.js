@@ -113,5 +113,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00019] For method add arguments double  delta|ParticipantRange  range"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

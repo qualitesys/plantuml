@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00014] For method transform arguments double  v"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineComposition.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

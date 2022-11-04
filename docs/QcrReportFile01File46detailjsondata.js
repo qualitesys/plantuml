@@ -207,5 +207,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00059] For method checkRange arguments double  pDouble"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

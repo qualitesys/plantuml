@@ -543,5 +543,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000004[00061] Void method lineSimple is empty or contains only a return. Interface segregation"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

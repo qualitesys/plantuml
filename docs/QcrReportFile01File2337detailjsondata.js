@@ -543,5 +543,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00232] For method getInnerPosition arguments String  member|StringBounder  stringBounder|InnerStrategy  strategy"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageObject.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -204,5 +204,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN154900 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

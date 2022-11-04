@@ -385,5 +385,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00099] For method setComment arguments String  comment"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

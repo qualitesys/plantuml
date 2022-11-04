@@ -106,5 +106,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00012] For method getPreferredDimension arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

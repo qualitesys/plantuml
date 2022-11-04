@@ -138,5 +138,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00020] For method equals arguments Object  obj"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/Segment.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

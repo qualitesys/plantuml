@@ -271,5 +271,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00080] For method computeImage arguments IGroup  g"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

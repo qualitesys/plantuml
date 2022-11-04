@@ -1715,5 +1715,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00605] In method net.sourceforge.plantuml.ugraphic.g2d.ExtendedGeneralPath.makeRoom@POLYN292955 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedGeneralPath.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

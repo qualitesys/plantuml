@@ -150,5 +150,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00034] For method checkVersionSlow arguments String  pathExecutable"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersions.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

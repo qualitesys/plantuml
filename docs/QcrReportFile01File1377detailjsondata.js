@@ -134,5 +134,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.graphic.TextBlockMinWidth.drawU@POLYN152413 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMinWidth.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

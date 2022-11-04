@@ -846,5 +846,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187216 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

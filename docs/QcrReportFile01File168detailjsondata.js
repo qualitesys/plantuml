@@ -605,5 +605,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00135] In method gen.lib.pack.pack__c.getPackInfo@POLYN175317 the MagicNumber/String  'getPackInfo' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/pack/pack__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

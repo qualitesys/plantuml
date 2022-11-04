@@ -292,5 +292,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00066] For method getImageWritersBySuffix arguments String  string"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

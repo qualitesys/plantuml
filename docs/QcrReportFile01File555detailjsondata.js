@@ -289,5 +289,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00083] For method getMinMax arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractFtile.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

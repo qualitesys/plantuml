@@ -517,5 +517,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00156] For method getNetwork arguments int  i"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

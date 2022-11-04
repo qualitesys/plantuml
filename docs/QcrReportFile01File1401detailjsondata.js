@@ -236,5 +236,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00064] For method asBig arguments TextBlock  title|HorizontalAlignment  labelAlignment|TextBlock  stereotype|double  width|double  height|SymbolContext  symbolContext|HorizontalAlignment  stereoAlignment"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolComponent1.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

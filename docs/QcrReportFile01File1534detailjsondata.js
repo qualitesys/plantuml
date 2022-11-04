@@ -275,5 +275,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.nwdiag.next.NPlayField.fixServerInGroup@POLYN162506 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

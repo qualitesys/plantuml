@@ -438,5 +438,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00091] For method push arguments ETile  tile"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

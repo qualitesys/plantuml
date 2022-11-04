@@ -154,5 +154,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00031] For method getByteAt arguments int  i"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/ByteArray.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -180,5 +180,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.solver.AbstractSolver.getData@POLYN153801 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

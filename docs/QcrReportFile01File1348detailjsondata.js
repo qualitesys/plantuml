@@ -364,5 +364,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.graphic.Img.build@POLYN163893 the MagicNumber/String  'ERROR ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/Img.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -129,5 +129,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.ugraphic.color.HColorMiddle.toColor@POLYN149844 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

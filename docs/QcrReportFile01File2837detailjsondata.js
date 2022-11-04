@@ -1219,5 +1219,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00064] In the recursive method org.stathissideris.ascii2image.text.GridPattern.prepareRegExps@POLYN190591 the MagicNumber/String ' becomes ' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

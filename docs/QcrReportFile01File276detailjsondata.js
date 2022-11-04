@@ -413,5 +413,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00083] In the recursive method jcckit.data.DataContainer.removeElementAt@POLYN176348 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/data/DataContainer.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

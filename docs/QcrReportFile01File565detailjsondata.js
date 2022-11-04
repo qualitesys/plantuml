@@ -341,5 +341,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00130] For method getThickness arguments Style  style"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileAssemblySimple.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

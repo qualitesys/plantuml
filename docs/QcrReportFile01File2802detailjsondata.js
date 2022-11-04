@@ -442,5 +442,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

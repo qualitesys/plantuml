@@ -372,5 +372,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00157] For method setStyle arguments ForkStyle  style|String  label|Swimlane  swimlane"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionFork.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

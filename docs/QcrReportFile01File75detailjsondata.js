@@ -318,5 +318,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00026] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150113 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

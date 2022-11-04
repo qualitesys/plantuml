@@ -488,5 +488,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00241] For method getPoint2 arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

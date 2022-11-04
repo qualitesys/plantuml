@@ -183,5 +183,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberIncrement.executeArg@POLYN152626 the MagicNumber/String  'a' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberIncrement.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

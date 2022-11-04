@@ -771,5 +771,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[00205] Public method createYAxis is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/AxisParameters.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

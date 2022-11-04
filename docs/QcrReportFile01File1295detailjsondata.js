@@ -102,5 +102,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.flashcode.FlashCodeUtilsNone.exportFlashcode@POLYN145187 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtilsNone.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

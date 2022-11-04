@@ -310,5 +310,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00071] For method isLineConsistent arguments String  line|int  level"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesBracket.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

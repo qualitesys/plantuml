@@ -335,5 +335,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.descdiagram.EntityImageDesignedDomain.calculateDimension@POLYN174746 the MagicNumber/String  5 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDesignedDomain.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

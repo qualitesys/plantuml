@@ -275,5 +275,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00054] In the recursive method h.ST_dtlink_s.getTheField@POLYN158449 the MagicNumber/String 's' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_dtlink_s.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -5108,5 +5108,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[01042] In the recursive method gen.lib.dotgen.position__c.rec_bb@POLYN465846 the MagicNumber/String 'rec_bb' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/position__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

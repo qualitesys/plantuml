@@ -74,5 +74,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00012] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleLine.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

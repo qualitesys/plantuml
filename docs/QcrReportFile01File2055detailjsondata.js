@@ -280,5 +280,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.matchAnchor@POLYN167709 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

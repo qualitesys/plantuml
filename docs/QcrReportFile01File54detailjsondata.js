@@ -143,5 +143,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.BarcodeFormat.valueOf@POLYN149448 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

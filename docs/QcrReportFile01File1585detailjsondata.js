@@ -541,5 +541,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00142] For method getCenter arguments Positionable  p"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

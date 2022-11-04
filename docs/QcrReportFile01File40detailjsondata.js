@@ -161,5 +161,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.ctreber.acearth.util.Polygon.toString@POLYN140504 the MagicNumber/String  ' points' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Polygon.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

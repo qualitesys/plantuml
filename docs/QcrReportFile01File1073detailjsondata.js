@@ -120,5 +120,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Bodier.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

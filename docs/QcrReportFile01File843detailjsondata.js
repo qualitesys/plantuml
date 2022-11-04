@@ -139,5 +139,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.braille.DriverRectangleBraille.draw@POLYN150518 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -277,5 +277,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.preproc.EvalBoolean.eval@POLYN157672 the MagicNumber/String  'Unexpected: ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

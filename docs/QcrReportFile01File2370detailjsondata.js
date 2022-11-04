@@ -144,5 +144,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN145755 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

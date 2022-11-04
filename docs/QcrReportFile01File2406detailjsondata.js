@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00011] For method analyze arguments TContext  context|TMemory  memory"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/StringEater.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -168,5 +168,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142561 the MagicNumber/String  'Can't compare with ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

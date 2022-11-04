@@ -244,5 +244,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00046] For method blackBlueTrue arguments UFont  font"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

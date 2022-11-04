@@ -565,5 +565,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -111,5 +111,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorStars.generateScanDots@POLYN142363 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorStars.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

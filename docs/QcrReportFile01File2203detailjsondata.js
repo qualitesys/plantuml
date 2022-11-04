@@ -155,5 +155,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.svek.ClusterDecoration.drawU@POLYN153375 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

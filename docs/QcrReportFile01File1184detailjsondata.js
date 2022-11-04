@@ -299,5 +299,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN165972 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -183,5 +183,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00071] For method round arguments double  value"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

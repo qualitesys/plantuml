@@ -337,5 +337,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00114] For method setVertical arguments boolean  vertical"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTabBar.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

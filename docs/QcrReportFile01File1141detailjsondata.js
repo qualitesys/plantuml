@@ -169,5 +169,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00032] For method DEBUG arguments String  s|Throwable  t"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

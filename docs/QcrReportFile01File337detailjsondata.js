@@ -122,5 +122,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00025] For method createConfigData arguments String  path"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/util/AppletBasedConfigData.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

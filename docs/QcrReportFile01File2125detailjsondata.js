@@ -97,5 +97,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00020] For method asTextBlock arguments HColor  color|double  scale"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteSvg.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

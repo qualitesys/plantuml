@@ -58,5 +58,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/cucadiagram/LinkHat.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . cucadiagram ; public enum "
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkHat.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

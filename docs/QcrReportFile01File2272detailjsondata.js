@@ -229,5 +229,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.extremity.ExtremityDiamond.isTooSmallSoGiveThePointCloserToThisOne@POLYN156192 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

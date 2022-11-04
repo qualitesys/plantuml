@@ -109,5 +109,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00013] In method ext.plantuml.com.ctreber.acearth.shader.ShaderFlat.getShadedColors@POLYN139002 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

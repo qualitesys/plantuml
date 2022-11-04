@@ -212,5 +212,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00048] For method inverseProjectY arguments double  y"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionCyl.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

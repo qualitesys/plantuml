@@ -557,5 +557,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

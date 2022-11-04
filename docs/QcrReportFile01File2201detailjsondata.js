@@ -176,5 +176,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.svek.CircleInterface2.calculateDimension@POLYN152782 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/CircleInterface2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

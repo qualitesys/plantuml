@@ -124,5 +124,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00018] For method equals arguments Object  arg"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/core/TaskCode.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

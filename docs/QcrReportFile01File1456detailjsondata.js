@@ -210,5 +210,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.json.JsonString.equals@POLYN151616 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

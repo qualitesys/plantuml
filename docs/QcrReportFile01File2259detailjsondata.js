@@ -284,5 +284,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00120] For method apply arguments UChange  change"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

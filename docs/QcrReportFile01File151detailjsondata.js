@@ -9535,5 +9535,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.cl_bound@POLYN778562 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

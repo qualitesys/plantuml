@@ -220,5 +220,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.command.regex.FoxSignature.backToString@POLYN154914 the MagicNumber/String  0L should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

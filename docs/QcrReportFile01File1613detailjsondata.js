@@ -268,5 +268,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00081] For method apply1 arguments String  line"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc/Define.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

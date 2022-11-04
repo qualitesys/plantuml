@@ -88,5 +88,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00006] For method withMargin arguments Tile  tile|double  x1|double  x2|double  y1|double  y2"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

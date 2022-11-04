@@ -287,5 +287,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00108] For method getActualWidth arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

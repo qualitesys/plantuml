@@ -256,5 +256,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00023] In the recursive method jcckit.graphic.GraphicalComposite.addElement@POLYN154280 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/GraphicalComposite.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -241,5 +241,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN156654 the MagicNumber/String  'No legend defined' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

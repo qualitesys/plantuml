@@ -192,5 +192,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye1.drawU@POLYN162789 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye1.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

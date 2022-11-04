@@ -195,5 +195,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.AFileRegular.equals@POLYN150141 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/AFileRegular.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

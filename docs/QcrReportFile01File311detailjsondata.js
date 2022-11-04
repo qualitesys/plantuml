@@ -227,5 +227,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00067] In method jcckit.plot.BarFactory.createPlainSymbol@POLYN169587 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/BarFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

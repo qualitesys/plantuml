@@ -92,5 +92,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00039] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

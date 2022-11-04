@@ -217,5 +217,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00030] For method LEAVING arguments String  signature|String  methodName"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/debug/SmetanaDebug.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

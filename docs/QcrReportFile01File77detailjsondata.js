@@ -1828,5 +1828,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00342] In method ext.plantuml.com.google.zxing.datamatrix.decoder.BitMatrixParser.extractDataRegion@POLYN233129 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

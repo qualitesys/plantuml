@@ -49,5 +49,8 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorRuntimeException.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -513,5 +513,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00149] For method isIgnoreForCompressionOn arguments CompressionMode  mode"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/URectangle.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -181,5 +181,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.svg.DriverPolygonSvg.draw@POLYN151350 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPolygonSvg.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

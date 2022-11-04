@@ -266,5 +266,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00060] For method muteTransparentColor arguments Color  newColor"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

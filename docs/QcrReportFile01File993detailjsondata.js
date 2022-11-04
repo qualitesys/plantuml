@@ -257,5 +257,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.regex.RegexComposed.match@POLYN158912 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -265,5 +265,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00088] For method setHeight arguments int  height"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

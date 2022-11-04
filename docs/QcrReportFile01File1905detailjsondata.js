@@ -161,5 +161,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00029] For method subSequence arguments int  arg0|int  arg1"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

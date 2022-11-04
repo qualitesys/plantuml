@@ -106,5 +106,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00020] In method jcckit.graphic.BasicGraphicalElement.isClosed@POLYN147037 the MagicNumber/String  true should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/BasicGraphicalElement.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -349,5 +349,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.svg.DriverEllipseSvg.draw@POLYN159162 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverEllipseSvg.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

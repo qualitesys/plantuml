@@ -148,5 +148,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.activitydiagram.command.CommandElse.executeArg@POLYN151265 the MagicNumber/String  'No if for this else' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandElse.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

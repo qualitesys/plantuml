@@ -137,5 +137,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00018] In method h.ST_Rect_t.___@POLYN153595 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/h/ST_Rect_t.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

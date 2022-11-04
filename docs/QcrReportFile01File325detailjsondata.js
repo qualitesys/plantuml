@@ -143,5 +143,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00018] In method jcckit.plot.PositionHint.PositionHint@POLYN151847 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/PositionHint.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

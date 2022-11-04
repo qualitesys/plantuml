@@ -4440,5 +4440,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00001] In method gen.lib.common.arrows__c.arrow_gen@POLYN324021 the MagicNumber/String  'c24nfmv9i7o5eoqaymbibp7m7' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/arrows__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

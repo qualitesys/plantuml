@@ -771,5 +771,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00243] For method setNote arguments Display  note"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

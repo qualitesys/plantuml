@@ -131,5 +131,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00034] For method draw arguments UShape  shape"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

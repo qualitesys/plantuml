@@ -882,5 +882,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00216] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 'x^' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

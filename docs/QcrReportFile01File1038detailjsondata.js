@@ -224,5 +224,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00063] For method addCell arguments Atom  cell|int  level"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

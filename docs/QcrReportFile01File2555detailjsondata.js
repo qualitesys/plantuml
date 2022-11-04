@@ -111,5 +111,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00025] For method inflate arguments double  v"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

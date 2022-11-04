@@ -208,5 +208,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.image.EntityImageBranch.drawU@POLYN159066 the MagicNumber/String  'elem_' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -178,5 +178,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.zopfli.LzStore.copy@POLYN142958 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

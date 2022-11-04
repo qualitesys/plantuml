@@ -1649,5 +1649,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN259711 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cgraph/edge__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -83,5 +83,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000008[00008] The class ScanDotGenerator contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDotGenerator.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

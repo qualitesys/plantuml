@@ -134,5 +134,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00020] For method drawU arguments UGraphic  ug|int  zIndex|XDimension2D  dimToUse"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

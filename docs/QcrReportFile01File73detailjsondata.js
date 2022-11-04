@@ -363,5 +363,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00091] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160452 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

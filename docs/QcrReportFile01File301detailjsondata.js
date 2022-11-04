@@ -124,5 +124,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00040] In method jcckit.graphic.Rectangle.renderWith@POLYN148267 the MagicNumber/String  ' does not implements RectangleRenderer.' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/Rectangle.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

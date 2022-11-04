@@ -339,5 +339,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.createRenderer@POLYN181746"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/GraphicsPlotCanvas.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

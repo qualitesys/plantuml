@@ -66,5 +66,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000008[00004] The class gvlayout_dot_layout__c contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/plugin/dot_layout/gvlayout_dot_layout__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

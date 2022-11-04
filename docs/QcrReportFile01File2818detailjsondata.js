@@ -202,5 +202,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00048] For method main arguments String[]  args"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

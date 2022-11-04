@@ -1303,5 +1303,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[00473] Public method removeLink is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

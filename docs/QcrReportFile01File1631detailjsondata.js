@@ -171,5 +171,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00054] For method setPaused arguments boolean  paused"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc/UncommentReadLine.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -4414,5 +4414,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00469] In the recursive method gen.lib.common.utils__c.mapBool@POLYN355939 the MagicNumber/String 'mapBool' MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/utils__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

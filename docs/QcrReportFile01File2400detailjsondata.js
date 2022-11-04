@@ -106,5 +106,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.tim.EaterWhile.analyze@POLYN146660 the MagicNumber/String  '!while' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/EaterWhile.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

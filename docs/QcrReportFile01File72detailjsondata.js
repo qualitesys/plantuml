@@ -594,5 +594,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00156] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  20 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

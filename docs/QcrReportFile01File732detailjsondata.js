@@ -882,5 +882,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[00260] Public method setRawOnly is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/argon2/Argon2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

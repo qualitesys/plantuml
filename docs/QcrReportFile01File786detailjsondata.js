@@ -336,5 +336,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN155387 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

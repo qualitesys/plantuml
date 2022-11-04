@@ -754,5 +754,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R2 : smetana.core.debug.Purify.entering@POLYN173209.methodNameDeclared"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/smetana/core/debug/Purify.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

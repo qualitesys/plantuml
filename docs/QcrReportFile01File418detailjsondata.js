@@ -269,5 +269,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.Pragma.useKermor@POLYN151644 the MagicNumber/String  'kermor' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/Pragma.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -378,5 +378,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN168938 the MagicNumber/String  'fie' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

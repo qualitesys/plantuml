@@ -755,5 +755,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00521] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfWithLinks.addLinks@POLYN274069 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithLinks.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

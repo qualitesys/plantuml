@@ -125,5 +125,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.hcl.HclSource.add@POLYN147303 the MagicNumber/String  '#' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/hcl/HclSource.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

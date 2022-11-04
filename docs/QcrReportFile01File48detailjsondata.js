@@ -207,5 +207,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00059] For method checkRange arguments int  pInteger"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

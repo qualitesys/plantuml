@@ -166,5 +166,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00028] For method move arguments double  delta"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

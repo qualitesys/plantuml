@@ -418,5 +418,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00082] For method multiplyBy arguments double  v"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UTranslate.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

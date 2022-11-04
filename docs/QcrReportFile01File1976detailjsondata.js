@@ -122,5 +122,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00025] For method getStartingX arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElement.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

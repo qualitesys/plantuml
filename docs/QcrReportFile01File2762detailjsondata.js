@@ -555,5 +555,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.webp.VP8Decoder.writeYV12File@POLYN168074 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

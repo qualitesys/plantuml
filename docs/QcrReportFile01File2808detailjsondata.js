@@ -334,5 +334,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN160089 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

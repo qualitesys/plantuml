@@ -224,5 +224,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00056] For method match arguments StringLocated  full"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

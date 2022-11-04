@@ -684,4 +684,11 @@ function genererBloc13() {
    } else {
    }
 }
+function genererBloc15() {
+   console.log("genererBloc15() lireFichier start");
+
+   console.log("TODO");
+   console.log("genererBloc15() lireFichier end");
+
+}
 console.log('leInstrStr 99 main end');

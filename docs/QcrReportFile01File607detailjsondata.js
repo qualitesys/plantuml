@@ -214,5 +214,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00079] For method getEndingX arguments StringBounder  stringBounder|double  y"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

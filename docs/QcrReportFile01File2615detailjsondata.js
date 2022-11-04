@@ -682,5 +682,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.ugraphic.color.ColorUtils.to255@POLYN177864 the MagicNumber/String  255 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

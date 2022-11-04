@@ -154,5 +154,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00056] For method toColor arguments ColorMapper  mapper"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorGradient.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

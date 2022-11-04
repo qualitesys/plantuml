@@ -116,5 +116,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.utils.CharsetUtils.charsetOrDefault@POLYN137039 the MagicNumber/String  'Using charset ' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/utils/CharsetUtils.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

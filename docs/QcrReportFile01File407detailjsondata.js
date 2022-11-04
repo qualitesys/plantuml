@@ -106,5 +106,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00024] For method write arguments byte[]  b|int  off|int  len"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

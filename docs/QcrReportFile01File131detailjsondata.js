@@ -1923,5 +1923,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00442] In method gen.lib.common.input__c.do_graph_label@POLYN270734 the MagicNumber/String  'do_graph_label' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/common/input__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

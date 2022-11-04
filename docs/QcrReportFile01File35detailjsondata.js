@@ -139,5 +139,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.computeXValues@POLYN145287 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -6032,5 +6032,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[01004] Public method useBufferedImage is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/webp/VP8Frame.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

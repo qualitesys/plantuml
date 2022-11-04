@@ -194,5 +194,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.salt.element.ListWidth.getTotalWidthWithMargin@POLYN151528 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

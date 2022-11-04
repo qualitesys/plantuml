@@ -534,5 +534,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00143] For method getFlatnessSq arguments double  x1|double  y1|double  ctrlx1|double  ctrly1|double  ctrlx2|double  ctrly2|double  x2|double  y2"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

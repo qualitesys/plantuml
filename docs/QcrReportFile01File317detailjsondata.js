@@ -267,5 +267,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00067] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  null should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/ErrorBarFactory.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

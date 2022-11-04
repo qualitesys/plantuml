@@ -58,5 +58,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . math ; import static "
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

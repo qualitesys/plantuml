@@ -571,5 +571,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.argon2.algorithm.FillBlock.fillBlock@POLYN146844 the MagicNumber/String  113 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillBlock.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

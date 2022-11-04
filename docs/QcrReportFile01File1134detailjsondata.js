@@ -493,5 +493,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00167] For method setTotalWidth arguments double  totalWidth"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

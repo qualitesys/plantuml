@@ -110,5 +110,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00079] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

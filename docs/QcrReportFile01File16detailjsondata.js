@@ -226,5 +226,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.setScale@POLYN146026 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

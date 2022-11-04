@@ -168,5 +168,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.getY@POLYN139561 the MagicNumber/String  'getY' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

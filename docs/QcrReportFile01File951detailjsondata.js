@@ -169,5 +169,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.CommandRankDir.executeArg@POLYN151061 the MagicNumber/String  '_' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandRankDir.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

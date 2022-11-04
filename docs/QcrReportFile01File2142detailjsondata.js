@@ -296,5 +296,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00080] For method save arguments Preferences  prefs|FileFormat  fileFormat"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/stats/FormatCounter.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

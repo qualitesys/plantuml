@@ -381,5 +381,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV999993[00059] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.generateScanBits@POLYN155978 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

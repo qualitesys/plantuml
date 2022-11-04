@@ -270,5 +270,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000003[00049] Public method getDefaultStyleDefinitionArrow is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlColorAndStyle.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

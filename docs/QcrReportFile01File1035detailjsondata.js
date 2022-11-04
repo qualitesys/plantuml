@@ -180,5 +180,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000004[00028] Void method drawU is empty or contains only a return. Interface segregation"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

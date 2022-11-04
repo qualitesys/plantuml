@@ -254,5 +254,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAVCWE476[00079] The argument notes is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

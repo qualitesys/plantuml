@@ -420,5 +420,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00105] In method jcckit.util.Format.form@POLYN186133 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/util/Format.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

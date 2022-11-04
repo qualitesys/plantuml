@@ -251,5 +251,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00064] For method forkFromGlobal arguments Map&lt;String ,TValue &gt;  input"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryGlobal.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

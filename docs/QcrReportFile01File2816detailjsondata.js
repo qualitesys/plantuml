@@ -127,5 +127,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00020] For method setDropShadows arguments boolean  dropShadows"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

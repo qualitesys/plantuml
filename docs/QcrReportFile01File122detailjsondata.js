@@ -102,5 +102,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00025] In method gen.lib.cgraph.pend__c.agrecord_callback@POLYN152911 the MagicNumber/String  '8kh7tdu40e0f5hui0hcx3ojw' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cgraph/pend__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

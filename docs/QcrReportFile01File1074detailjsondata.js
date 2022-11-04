@@ -218,5 +218,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00064] For method setJson arguments JsonValue  json"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

@@ -162,5 +162,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis.drawU@POLYN150514 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

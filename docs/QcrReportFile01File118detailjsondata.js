@@ -437,5 +437,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00001] In method gen.lib.cgraph.imap__c.aginternalmapprint@POLYN168245 the MagicNumber/String  'aginternalmapprint' should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/gen/lib/cgraph/imap__c.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

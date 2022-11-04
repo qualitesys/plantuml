@@ -223,5 +223,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00041] For method createRemoveEvent arguments DataContainer  container|int  index|DataElement  removedElement"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/jcckit/data/DataEvent.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

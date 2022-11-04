@@ -217,5 +217,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00074] For method getMaxWidthFromLabelForEntryExit arguments StringBounder  stringBounder"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

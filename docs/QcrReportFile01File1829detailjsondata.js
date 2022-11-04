@@ -192,5 +192,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.element.Grid2.drawVertical@POLYN157968 the MagicNumber/String  false should be converted to const"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.svg" }
+
 };
 console.log('leListeStr 99 main end');

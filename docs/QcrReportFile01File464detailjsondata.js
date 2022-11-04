@@ -315,5 +315,8 @@ var maDataBlocs = {
  , "c3" : "QC-JAV000006[00078] For method ensureVisible arguments double  x|double  y"
 }} 
 ]
+"data15" : [
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/Url.java.svg" }
+
 };
 console.log('leListeStr 99 main end');
