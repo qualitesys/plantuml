@@ -1,61 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FtileEmptyWeldingPoint"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak"
+ , "c1" : "FtileDecorate"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileDecorateWelding"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileDecorateWelding" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#13"
- , "c1" : "FtileBreak"
- , "c2" : "FtileBreak(ISkinParam;Swimlane)"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.html#14"
+ , "c1" : "FtileDecorateWelding"
+ , "c2" : "FtileDecorateWelding(Ftile;List<WeldingPoint>)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#18"
- , "c1" : "Collection<Ftile>"
- , "c2" : "getMyChildren()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#23"
- , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#28"
- , "c1" : "FtileGeometry"
- , "c2" : "calculateDimensionFtile(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#33"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.html#20"
  , "c1" : "List<WeldingPoint>"
  , "c2" : "getWeldingPoints()"
  , "c3" : "1"
@@ -66,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.svg" }
 
 ] 
 , 
@@ -93,39 +66,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak.toString@POLYN148219 the MagicNumber/String  'FtileBreak' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#28"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method calculateDimensionFtile arguments StringBounder  stringBounder"
-}} 
-]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

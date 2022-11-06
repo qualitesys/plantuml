@@ -1,47 +1,92 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Shadowable"
- , "c2" : "net.sourceforge.plantuml.ugraphic.AbstractShadowable"
+ , "c1" : "AbstractCommonUGraphic"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.AbstractUGraphic"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.AbstractShadowable" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.AbstractUGraphic" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#8"
- , "c1" : "double"
- , "c2" : "getDeltaShadow()"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#23"
+ , "c1" : "AbstractUGraphic"
+ , "c2" : "AbstractUGraphic(HColor;ColorMapper;StringBounder;O)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#28"
+ , "c1" : "AbstractUGraphic"
+ , "c2" : "AbstractUGraphic(AbstractUGraphic<O>)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#34"
+ , "c1" : "O"
+ , "c2" : "getGraphicObject()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#12"
- , "c1" : "void"
- , "c2" : "setDeltaShadow(double)"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#38"
+ , "c1" : "boolean"
+ , "c2" : "manageHiddenAutomatically()"
  , "c3" : "1"
  , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#84"
+ , "c1" : "void"
+ , "c2" : "drawComment(UComment)"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#87"
+ , "c1" : "void"
+ , "c2" : "beforeDraw()"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#90"
+ , "c1" : "void"
+ , "c2" : "afterDraw()"
+ , "c3" : "1"
+ , "c4" : "0"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.svg" }
 
 ] 
 , 
@@ -68,10 +113,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
@@ -84,21 +136,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#4"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class AbstractShadowable contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#28"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00028] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#12"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.ugraphic.AbstractUGraphic.manageHiddenAutomatically@POLYN158130 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#57"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00057] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ugraphic.AbstractUGraphic the MagicNumber/String  'unchecked' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.AbstractUGraphic the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.AbstractUGraphic the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method setDeltaShadow arguments double  deltaShadow"
+ , "c3" : "QC-JAV000006[00084] For method drawComment arguments UComment  shape"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,234 +1,162 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/mindmap/FingerImpl.java 63 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/mindmap/Idea.java 16 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Finger"
- , "c2" : "net.sourceforge.plantuml.mindmap.FingerImpl"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.mindmap.Idea"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.mindmap.FingerImpl" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.mindmap.Idea" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#39"
- , "c1" : "FingerImpl"
- , "c2" : "build(Idea;ISkinParam;boolean)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#47"
- , "c1" : "boolean"
- , "c2" : "isTopToBottom()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#51"
- , "c1" : "void"
- , "c2" : "addInNail(FingerImpl)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#55"
- , "c1" : "FingerImpl"
- , "c2" : "FingerImpl(Idea;ISkinParam;boolean)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#61"
- , "c1" : "ClockwiseTopRightBottomLeft"
- , "c2" : "getMargin()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#65"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic)"
- , "c3" : "10"
- , "c4" : "23"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#104"
- , "c1" : "HColor"
- , "c2" : "getLinkColor()"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#109"
- , "c1" : "UStroke"
- , "c2" : "getUStroke()"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00114"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#114"
- , "c1" : "void"
- , "c2" : "drawLine(UGraphic;XPoint2D;XPoint2D)"
- , "c3" : "3"
- , "c4" : "12"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#132"
- , "c1" : "Tetris"
- , "c2" : "getTetris(StringBounder)"
- , "c3" : "3"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00143"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#143"
- , "c1" : "SymetricalTee"
- , "c2" : "asSymetricalTee(StringBounder)"
- , "c3" : "2"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#29"
+ , "c1" : "StyleSignatureBasic"
+ , "c2" : "getDefaultStyleDefinitionNode(int)"
+ , "c3" : "5"
  , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#154"
- , "c1" : "double"
- , "c2" : "getX1()"
- , "c3" : "3"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#161"
- , "c1" : "double"
- , "c2" : "getX2()"
- , "c3" : "3"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00168"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#168"
- , "c1" : "double"
- , "c2" : "getX12()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00172"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#172"
- , "c1" : "double"
- , "c2" : "getPhalanxThickness(StringBounder)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#178"
- , "c1" : "double"
- , "c2" : "getPhalanxElongation(StringBounder)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00184"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#184"
- , "c1" : "TextBlock"
- , "c2" : "getPhalanx()"
- , "c3" : "6"
- , "c4" : "11"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00211"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#211"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#54"
  , "c1" : "Style"
  , "c2" : "getStyle()"
  , "c3" : "2"
- , "c4" : "2"
+ , "c4" : "9"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00218"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#218"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#66"
  , "c1" : "Style"
  , "c2" : "getStyleArrow()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00222"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#222"
- , "c1" : "double"
- , "c2" : "getNailThickness(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00226"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#226"
- , "c1" : "double"
- , "c2" : "getNailElongation(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00230"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#230"
- , "c1" : "double"
- , "c2" : "getFullThickness(StringBounder)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00236"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#236"
- , "c1" : "double"
- , "c2" : "getFullElongation(StringBounder)"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#73"
+ , "c1" : "Idea"
+ , "c2" : "createIdeaSimple(StyleBuilder;HColor;Display;IdeaShape;String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00240"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#240"
- , "c1" : "void"
- , "c2" : "doNotDrawFirstPhalanx()"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#78"
+ , "c1" : "Idea"
+ , "c2" : "createIdea(StyleBuilder;HColor;int;Display;IdeaShape;String)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#85"
+ , "c1" : "Idea"
+ , "c2" : "Idea(StyleBuilder;HColor;int;Idea;Display;IdeaShape;String)"
+ , "c3" : "1"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#97"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#101"
+ , "c1" : "int"
+ , "c2" : "getLevel()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#105"
+ , "c1" : "Display"
+ , "c2" : "getLabel()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#109"
+ , "c1" : "Collection<Idea>"
+ , "c2" : "getChildren()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#113"
+ , "c1" : "boolean"
+ , "c2" : "hasChildren()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#117"
+ , "c1" : "Idea"
+ , "c2" : "getParent()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#121"
+ , "c1" : "IdeaShape"
+ , "c2" : "getShape()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#125"
+ , "c1" : "HColor"
+ , "c2" : "getBackColor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#129"
+ , "c1" : "StyleBuilder"
+ , "c2" : "getStyleBuilder()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#133"
+ , "c1" : "String"
+ , "c2" : "getStereotype()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -237,9 +165,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.svg" }
 
 ] 
 , 
@@ -266,17 +194,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "5"
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "4"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -290,461 +218,135 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "41"
+ , "c4" : "8"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "12"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00018] The class Idea contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#29"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#29"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00029] For method getDefaultStyleDefinitionNode arguments int  level"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00029] The class FingerImpl contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.mindmap.Idea.getDefaultStyleDefinitionNode@POLYN166794 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#39"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method build arguments Idea  idea|ISkinParam  skinParam|boolean  direction"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.mindmap.Idea.getDefaultStyleDefinitionNode@POLYN166794 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#39"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument idea is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method addInNail arguments FingerImpl  child"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.mindmap.Idea.getDefaultStyleDefinitionNode@POLYN166794 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#58"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.mindmap.FingerImpl.FingerImpl@POLYN190737 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00058] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#58"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.mindmap.FingerImpl.FingerImpl@POLYN190737 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00060] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#65"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00065] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#88"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00088] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.mindmap.Idea.getStyle@POLYN168844 the MagicNumber/String  1000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#89"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00089] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00090] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00097] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.mindmap.Idea.getStyle@POLYN168844 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  2 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#73"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00073] For method createIdeaSimple arguments StyleBuilder  styleBuilder|HColor  backColor|Display  label|IdeaShape  shape|String  stereotype"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#74"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mindmap.Idea.createIdeaSimple@POLYN170266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#74"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mindmap.Idea.createIdeaSimple@POLYN170266 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN191217 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#78"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00078] For method createIdea arguments StyleBuilder  styleBuilder|HColor  backColor|int  newLevel|Display  newDisplay|IdeaShape  newShape|String  stereotype"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#114"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00114] For method drawLine arguments UGraphic  ug|XPoint2D  p1|XPoint2D  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#114"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00114] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#114"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00114] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#114"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00114] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN194761 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.mindmap.Idea.hasChildren@POLYN172296 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN194761 the MagicNumber/String  10 should be converted to const"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#109"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00109] Public method getChildren is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN194761 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN194761 the MagicNumber/String  25 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#132"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method getTetris arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.mindmap.FingerImpl.getTetris@POLYN196637 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#143"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00143] For method asSymetricalTee arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.mindmap.FingerImpl.asSymetricalTee@POLYN197174 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.mindmap.FingerImpl.asSymetricalTee@POLYN197174 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.mindmap.FingerImpl.asSymetricalTee@POLYN197174 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#163"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.mindmap.FingerImpl.getX2@POLYN198267 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.mindmap.FingerImpl.getX2@POLYN198267 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#172"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00172] For method getPhalanxThickness arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#178"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00178] For method getPhalanxElongation arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#186"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#186"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#196"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#196"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#198"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#198"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#204"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#204"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#205"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#206"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#206"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#206"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#206"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN199335 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#222"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00222] For method getNailThickness arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#226"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00226] For method getNailElongation arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#230"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00230] For method getFullThickness arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#236"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00236] For method getFullElongation arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00241"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#241"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.mindmap.FingerImpl.doNotDrawFirstPhalanx@POLYN202709 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#113"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00113] Public method hasChildren is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

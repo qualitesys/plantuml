@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ScaleSimple.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ScaleWidth.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ScaleWidth.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ScaleWidth.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "ScaleProtectedScale"
- , "c2" : "net.sourceforge.plantuml.ScaleSimple"
+ , "c2" : "net.sourceforge.plantuml.ScaleWidth"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ScaleSimple" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ScaleWidth" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleSimple.java.html#8"
- , "c1" : "ScaleSimple"
- , "c2" : "ScaleSimple(double)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleWidth.java.html#8"
+ , "c1" : "ScaleWidth"
+ , "c2" : "ScaleWidth(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleSimple.java.html#12"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleWidth.java.html#12"
  , "c1" : "double"
  , "c2" : "getScaleInternal(double;double)"
  , "c3" : "1"
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ScaleWidth.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ScaleWidth.java.svg" }
 
 ] 
 , 
@@ -78,13 +78,16 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleWidth.java.html#12"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00012] For method getScaleInternal arguments double  width|double  height"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ScaleSimple.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ScaleWidth.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

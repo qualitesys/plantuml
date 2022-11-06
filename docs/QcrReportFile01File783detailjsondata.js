@@ -1,207 +1,153 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java 37 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/awt/geom/XDimension2D.java 34 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "XShape"
- , "c2" : "net.sourceforge.plantuml.awt.geom.XCubicCurve2D"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.awt.geom.XDimension2D"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.awt.geom.XCubicCurve2D" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.awt.geom.XDimension2D" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#16"
- , "c1" : "XCubicCurve2D"
- , "c2" : "XCubicCurve2D()"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#13"
+ , "c1" : "XDimension2D"
+ , "c2" : "XDimension2D()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#20"
- , "c1" : "XCubicCurve2D"
- , "c2" : "XCubicCurve2D(double;double;double;double;double;double;double;double)"
- , "c3" : "1"
- , "c4" : "8"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#17"
+ , "c1" : "XDimension2D"
+ , "c2" : "XDimension2D(double;double)"
+ , "c3" : "2"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#33"
- , "c1" : "XPoint2D"
- , "c2" : "getP1()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#37"
- , "c1" : "XPoint2D"
- , "c2" : "getP2()"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#26"
+ , "c1" : "String"
+ , "c2" : "toString()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#41"
- , "c1" : "void"
- , "c2" : "setCurve(double;double;double;double;double;double;double;double)"
- , "c3" : "1"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#54"
- , "c1" : "void"
- , "c2" : "setCurve(XCubicCurve2D)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#60"
- , "c1" : "void"
- , "c2" : "subdivide(XCubicCurve2D;XCubicCurve2D)"
- , "c3" : "3"
- , "c4" : "22"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#89"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#30"
  , "c1" : "double"
- , "c2" : "getX1()"
+ , "c2" : "getHeight()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#93"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#34"
  , "c1" : "double"
- , "c2" : "getY1()"
+ , "c2" : "getWidth()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#97"
- , "c1" : "double"
- , "c2" : "getCtrlX1()"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#38"
+ , "c1" : "XDimension2D"
+ , "c2" : "delta(XDimension2D;double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#101"
- , "c1" : "double"
- , "c2" : "getCtrlY1()"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#42"
+ , "c1" : "XDimension2D"
+ , "c2" : "withWidth(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#105"
- , "c1" : "double"
- , "c2" : "getCtrlX2()"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#46"
+ , "c1" : "XDimension2D"
+ , "c2" : "delta(XDimension2D;double;double)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#53"
+ , "c1" : "XDimension2D"
+ , "c2" : "mergeTB(XDimension2D;XDimension2D)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#59"
+ , "c1" : "XDimension2D"
+ , "c2" : "mergeTB(XDimension2D;XDimension2D;XDimension2D)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#65"
+ , "c1" : "XDimension2D"
+ , "c2" : "mergeLR(XDimension2D;XDimension2D)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#71"
+ , "c1" : "XDimension2D"
+ , "c2" : "mergeLayoutT12B3(XDimension2D;XDimension2D;XDimension2D)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#77"
+ , "c1" : "XDimension2D"
+ , "c2" : "max(XDimension2D;XDimension2D)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#109"
- , "c1" : "double"
- , "c2" : "getCtrlY2()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#81"
+ , "c1" : "XDimension2D"
+ , "c2" : "atLeast(XDimension2D;double;double)"
+ , "c3" : "4"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#113"
- , "c1" : "double"
- , "c2" : "getX2()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#117"
- , "c1" : "double"
- , "c2" : "getY2()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00121"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#121"
- , "c1" : "XPoint2D"
- , "c2" : "getCtrlP1()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#125"
- , "c1" : "XPoint2D"
- , "c2" : "getCtrlP2()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#129"
- , "c1" : "double"
- , "c2" : "getFlatnessSq()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#134"
- , "c1" : "double"
- , "c2" : "getFlatness()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#138"
- , "c1" : "double"
- , "c2" : "getFlatness(double;double;double;double;double;double;double;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00143"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#143"
- , "c1" : "double"
- , "c2" : "getFlatnessSq(double;double;double;double;double;double;double;double)"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#96"
+ , "c1" : "XDimension2D"
+ , "c2" : "fromDimension(Dimension)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -210,9 +156,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.svg" }
 
 ] 
 , 
@@ -239,17 +185,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAVCWE493"
- , "c3" : "Critical public variable without final modifier"
- , "c4" : "8"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "11"
 }}
 ,
 { "ligne" : { "" : ""
@@ -263,279 +209,261 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "22"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "5"
+ , "c4" : "10"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00005"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#5"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00005] The class XCubicCurve2D contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#7"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00007] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#8"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00008] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#10"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#13"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00013] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000008[00008] The class XDimension2D contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#14"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00014] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.awt.geom.XDimension2D.XDimension2D@POLYN159656 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN157982 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.awt.geom.XDimension2D.XDimension2D@POLYN159656 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN157982 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.awt.geom.XDimension2D.toString@POLYN160201 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN157982 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.awt.geom.XDimension2D.toString@POLYN160201 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN157982 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.awt.geom.XDimension2D.toString@POLYN160201 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN157982 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN157982 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN157982 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN157982 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#41"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#38"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method setCurve arguments double  x1|double  y1|double  ctrlx1|double  ctrly1|double  ctrlx2|double  ctrly2|double  x2|double  y2"
+ , "c3" : "QC-JAV000006[00038] For method delta arguments XDimension2D  dim|double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#54"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method setCurve arguments XCubicCurve2D  other"
+ , "c3" : "QC-JAV000006[00042] For method withWidth arguments double  newWidth"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#54"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#46"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00046] For method delta arguments XDimension2D  dim|double  deltaWidth|double  deltaHeight"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00054] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#60"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.awt.geom.XDimension2D.delta@POLYN160939 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.awt.geom.XDimension2D.delta@POLYN160939 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method subdivide arguments XCubicCurve2D  left|XCubicCurve2D  right"
+ , "c3" : "QC-JAV000006[00053] For method mergeTB arguments XDimension2D  top|XDimension2D  bottom"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#53"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00053] The argument top is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#53"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00053] The argument bottom is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#59"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00059] For method mergeTB arguments XDimension2D  a|XDimension2D  b|XDimension2D  c"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#65"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00065] For method mergeLR arguments XDimension2D  left|XDimension2D  right"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#65"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00065] The argument left is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#65"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00065] The argument right is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#71"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00071] For method mergeLayoutT12B3 arguments XDimension2D  top1|XDimension2D  top2|XDimension2D  bottom"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#71"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00071] The argument top1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#71"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00071] The argument top2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#71"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00071] The argument bottom is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#77"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00077] For method max arguments XDimension2D  dim1|XDimension2D  dim2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  2.0 should be converted to const"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#77"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00077] The argument dim2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN160383 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#81"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00138] For method getFlatness arguments double  x1|double  y1|double  ctrlx1|double  ctrly1|double  ctrlx2|double  ctrly2|double  x2|double  y2"
+ , "c3" : "QC-JAV000006[00081] For method atLeast arguments XDimension2D  dim|double  minWidth|double  minHeight"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#143"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#81"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00081] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00143] For method getFlatnessSq arguments double  x1|double  y1|double  ctrlx1|double  ctrly1|double  ctrlx2|double  ctrly2|double  x2|double  y2"
+ , "c3" : "QC-JAV000006[00096] For method fromDimension arguments Dimension  dimension"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#96"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00096] The argument dimension is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#38"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00038] Public method delta is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#46"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00046] Public method delta is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#77"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00077] Public method max is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#81"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00081] Public method atLeast is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.html#96"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00096] Public method fromDimension is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/awt/geom/XDimension2D.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

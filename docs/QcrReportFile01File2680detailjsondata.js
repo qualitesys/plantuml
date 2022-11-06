@@ -1,65 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractUGraphic<Html5Drawer>ClipContainer"
- , "c2" : "net.sourceforge.plantuml.ugraphic.html5.UGraphicHtml5"
+ , "c1" : "UDriver<UCenteredCharacter,SvgGraphics>"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.html5.UGraphicHtml5" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#21"
- , "c1" : "AbstractCommonUGraphic"
- , "c2" : "copyUGraphic()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#25"
- , "c1" : "UGraphicHtml5"
- , "c2" : "UGraphicHtml5(HColor;ColorMapper;StringBounder)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#43"
- , "c1" : "String"
- , "c2" : "generateHtmlCode()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#48"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#19"
  , "c1" : "void"
- , "c2" : "writeToStream(OutputStream;String;int)"
+ , "c2" : "draw(UCenteredCharacter;double;double;ColorMapper;UParam;SvgGraphics)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "9"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.svg" }
 
 ] 
 , 
@@ -89,7 +62,21 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -102,21 +89,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#48"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00017] The class DriverCenteredCharacterSvg contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#48"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#19"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00019] For method draw arguments UCenteredCharacter  characterCircled|double  x|double  y|ColorMapper  mapper|UParam  param|SvgGraphics  svg"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#19"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00019] The argument characterCircled is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#19"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00019] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#20"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00020] The argument svg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN151171 the MagicNumber/String  null should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

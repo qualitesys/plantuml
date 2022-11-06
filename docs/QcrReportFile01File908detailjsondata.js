@@ -1,56 +1,92 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/code/Upf9Decoder.java 21 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/code/Upf9Encoder.java 32 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.code.Upf9Decoder"
+ , "c2" : "net.sourceforge.plantuml.code.Upf9Encoder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.code.Upf9Decoder" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.code.Upf9Encoder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#10"
- , "c1" : "Upf9Decoder"
- , "c2" : "Upf9Decoder()"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#12"
+ , "c1" : "Upf9Encoder"
+ , "c2" : "Upf9Encoder()"
  , "c3" : "1"
  , "c4" : "0"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#13"
- , "c1" : "int"
- , "c2" : "decodeChar(InputStream)"
- , "c3" : "7"
- , "c4" : "13"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#16"
+ , "c1" : "byte[]"
+ , "c2" : "encodeChar(char)"
+ , "c3" : "1"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#40"
- , "c1" : "String"
- , "c2" : "decodeString(byte[];int)"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#22"
+ , "c1" : "boolean"
+ , "c2" : "checkBack(char;byte[])"
  , "c3" : "2"
- , "c4" : "6"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#32"
+ , "c1" : "byte[]"
+ , "c2" : "encodeCharInternal(char)"
+ , "c3" : "8"
+ , "c4" : "8"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#64"
+ , "c1" : "byte"
+ , "c2" : "lowByte(char)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#68"
+ , "c1" : "byte"
+ , "c2" : "highByte(char)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#72"
+ , "c1" : "byte[]"
+ , "c2" : "getBytes(String)"
+ , "c3" : "2"
+ , "c4" : "8"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.svg" }
 
 ] 
 , 
@@ -77,20 +113,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAVCWE481"
- , "c3" : "Assigning instead of comparing"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -101,167 +123,247 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "16"
+ , "c4" : "25"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "6"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#8"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class Upf9Decoder contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#13"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method decodeChar arguments InputStream  is"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#13"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00013] The argument is is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000008[00010] The class Upf9Encoder contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  0x0B should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  0x80 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#16"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00016] For method encodeChar arguments char  c"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  0xE0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#22"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00022] For method checkBack arguments char  c|byte[]  result"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#22"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  0x0C should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.code.Upf9Encoder.checkBack@POLYN156786 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#29"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  0x01 should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.code.Upf9Encoder.checkBack@POLYN156786 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  0x08 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  8 should be converted to const"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#32"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00032] For method encodeCharInternal arguments char  c"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#33"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  0x80 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#35"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  0x60 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#35"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeChar@POLYN151952 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u000E' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u0012' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#40"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u0020' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u007E' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u0080' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u00FF' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#46"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  0x0B should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u0100' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u08FF' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u2000' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\u9FFF' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  0x60 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\uE000' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  '\uE07F' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  0x0B should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#61"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.code.Upf9Encoder.encodeCharInternal@POLYN157245 the MagicNumber/String  0x0C should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method decodeString arguments byte[]  data|int  length"
+ , "c3" : "QC-JAV000006[00064] For method lowByte arguments char  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#44"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00044] Assigning instead of comparing on read=decodeChar(bais) (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.code.Upf9Encoder.lowByte@POLYN159393 the MagicNumber/String  0x00FF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeString@POLYN153781 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#68"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00068] For method highByte arguments char  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#44"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.code.Upf9Decoder.decodeString@POLYN153781 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.Upf9Encoder.highByte@POLYN159571 the MagicNumber/String  0xFF00 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.Upf9Encoder.highByte@POLYN159571 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#72"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00072] For method getBytes arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.code.Upf9Encoder.getBytes@POLYN159801 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/Upf9Encoder.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

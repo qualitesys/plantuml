@@ -1,45 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "CommandMultilines<TitledDiagram>"
- , "c2" : "net.sourceforge.plantuml.command.CommandAffineTransformMultiline"
+ , "c1" : "SingleLineCommand2<TitledDiagram>"
+ , "c2" : "net.sourceforge.plantuml.command.CommandAssumeTransparent"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.command.CommandAffineTransformMultiline" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#8"
- , "c1" : "CommandAffineTransformMultiline"
- , "c2" : "CommandAffineTransformMultiline()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
+ { "nomclasse" : "net.sourceforge.plantuml.command.CommandAssumeTransparent" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#13"
- , "c1" : "String"
- , "c2" : "getPatternEnd()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#13"
+ , "c1" : "CommandAssumeTransparent"
+ , "c2" : "CommandAssumeTransparent()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#17"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#17"
+ , "c1" : "IRegex"
+ , "c2" : "getRegexConcat()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#28"
  , "c1" : "CommandExecutionResult"
- , "c2" : "execute(TitledDiagram;BlocLines)"
+ , "c2" : "executeArg(TitledDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.svg" }
 
 ] 
 , 
@@ -80,7 +80,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
@@ -93,35 +93,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#9"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00009] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.CommandAffineTransformMultiline@POLYN145730 the MagicNumber/String  '^!transformation[%s]+\\{[%s]*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN149029 the MagicNumber/String  '!assume' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#14"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.getPatternEnd@POLYN145856 the MagicNumber/String  '^[%s]*!\\}[%s]*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN149029 the MagicNumber/String  'transparent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#17"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN149029 the MagicNumber/String  'TYPE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN149029 the MagicNumber/String  '(dark|light)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method execute arguments TitledDiagram  diagram|BlocLines  lines"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.execute@POLYN145944 the MagicNumber/String  'Not yet implemented' should be converted to const"
+ , "c3" : "QC-JAV000006[00028] For method executeArg arguments TitledDiagram  system|LineLocation  location|RegexResult  arg"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

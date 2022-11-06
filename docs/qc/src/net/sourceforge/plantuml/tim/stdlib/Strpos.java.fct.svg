@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="538px" preserveAspectRatio="none" style="width:609px;height:538px;background:#FFFFFF;" version="1.1" viewBox="0 0 609 538" width="609px" zoomAndPan="magnify"><defs/><g><path d="M193,10 L193,18.5664 L173,22.5664 L193,26.5664 L193,35.1328 A0,0 0 0 0 193,35.1328 L430,35.1328 A0,0 0 0 0 430,35.1328 L430,20 L420,10 L193,10 A0,0 0 0 0 193,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M420,10 L420,20 L430,20 L420,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="216" x="199" y="27.0669">TFunctionSignaturegetSignature()</text><ellipse cx="163" cy="22.5664" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="47.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="284" x="21" y="55.1328"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="264" x="31" y="76.2715">return new TFunctionSignature("%strpos",</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="17" x="31" y="90.2402">2);</text><ellipse cx="163" cy="134.0703" fill="none" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="163" cy="134.0703" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><ellipse cx="163" cy="165.0703" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="156.8128" x2="169.1872" y1="158.8831" y2="171.2575"/><line style="stroke:#222222;stroke-width:2.5;" x1="169.1872" x2="156.8128" y1="158.8831" y2="171.2575"/><path d="M193,185.0703 L193,193.6367 L173,197.6367 L193,201.6367 L193,210.2031 A0,0 0 0 0 193,210.2031 L584,210.2031 A0,0 0 0 0 584,210.2031 L584,195.0703 L574,185.0703 L193,185.0703 A0,0 0 0 0 193,185.0703 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M574,185.0703 L574,195.0703 L584,195.0703 L574,185.0703 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="370" x="199" y="202.1372">booleancanCover(intnbArg,Set&lt;String&gt;namedArgument)</text><ellipse cx="163" cy="197.6367" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="132" x="97" y="230.2031"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="112" x="107" y="251.3418">return nbArg==2;</text><ellipse cx="163" cy="295.1719" fill="none" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="163" cy="295.1719" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><ellipse cx="163" cy="326.1719" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="156.8128" x2="169.1872" y1="319.9847" y2="332.3591"/><line style="stroke:#222222;stroke-width:2.5;" x1="169.1872" x2="156.8128" y1="319.9847" y2="332.3591"/><path d="M193,346.1719 L193,369.8711 L173,373.8711 L193,377.8711 L193,401.5703 A0,0 0 0 0 193,401.5703 L597,401.5703 A0,0 0 0 0 597,401.5703 L597,356.1719 L587,346.1719 L193,346.1719 A0,0 0 0 0 193,346.1719 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M587,346.1719 L587,356.1719 L597,356.1719 L587,346.1719 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="304" x="199" y="363.2388">TValueexecuteReturnFunction(TContextcontext,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="383" x="199" y="378.3716">TMemorymemory,LineLocationlocation,List&lt;TValue&gt;values,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="184" x="199" y="393.5044">Map&lt;String,TValue&gt;named)</text><ellipse cx="163" cy="373.8711" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="304" x="11" y="421.5703"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="284" x="21" y="442.709">return TValue.fromInt(full.indexOf(searched));</text><ellipse cx="163" cy="486.5391" fill="none" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="163" cy="486.5391" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><ellipse cx="163" cy="517.5391" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="156.8128" x2="169.1872" y1="511.3519" y2="523.7262"/><line style="stroke:#222222;stroke-width:2.5;" x1="169.1872" x2="156.8128" y1="511.3519" y2="523.7262"/><line style="stroke:#181818;stroke-width:1.0;" x1="163" x2="163" y1="32.5664" y2="55.1328"/><polygon fill="#181818" points="159,45.1328,163,55.1328,167,45.1328,163,49.1328" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="163" x2="163" y1="103.0703" y2="123.0703"/><polygon fill="#181818" points="159,113.0703,163,123.0703,167,113.0703,163,117.0703" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="163" x2="163" y1="207.6367" y2="230.2031"/><polygon fill="#181818" points="159,220.2031,163,230.2031,167,220.2031,163,224.2031" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="163" x2="163" y1="264.1719" y2="284.1719"/><polygon fill="#181818" points="159,274.1719,163,284.1719,167,274.1719,163,278.1719" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="163" x2="163" y1="383.8711" y2="421.5703"/><polygon fill="#181818" points="159,411.5703,163,421.5703,167,411.5703,163,415.5703" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="163" x2="163" y1="455.5391" y2="475.5391"/><polygon fill="#181818" points="159,465.5391,163,475.5391,167,465.5391,163,469.5391" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[2dcc2f63014727da641e6cf9c631f158]
+@startuml
+!pragma layout smetana
+start
+note right
+TFunctionSignaturegetSignature()
+end note
+:return new TFunctionSignature("%strpos",
+2);;
+stop
+end
+start
+note right
+booleancanCover(intnbArg,Set<String>namedArgument)
+end note
+:return nbArg==2;;
+stop
+end
+start
+note right
+TValueexecuteReturnFunction(TContextcontext,
+TMemorymemory,LineLocationlocation,List<TValue>values,
+Map<String,TValue>named)
+end note
+:return TValue.fromInt(full.indexOf(searched));;
+stop
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

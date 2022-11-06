@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1375px" preserveAspectRatio="none" style="width:826px;height:1375px;background:#FFFFFF;" version="1.1" viewBox="0 0 826 1375" width="826px" zoomAndPan="magnify"><defs/><g><path d="M391.5,10 L391.5,26.1328 L371.5,30.1328 L391.5,34.1328 L391.5,50.2656 A0,0 0 0 0 391.5,50.2656 L814.5,50.2656 A0,0 0 0 0 814.5,50.2656 L814.5,20 L804.5,10 L391.5,10 A0,0 0 0 0 391.5,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M804.5,10 L804.5,20 L814.5,20 L804.5,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="402" x="397.5" y="27.0669">constructor ComponentTextReference(DisplaystringsToDisplay,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="136" x="397.5" y="42.1997">FileFormatfileFormat)</text><ellipse cx="361.5" cy="30.1328" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="261" x="231" y="70.2656"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="241" x="241" y="91.4043">this.stringsToDisplay=stringsToDisplay</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="181" x="271" y="124.2344"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="161" x="281" y="145.373">this.fileFormat=fileFormat</text><ellipse cx="361.5" cy="188.2031" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="355.3128" x2="367.6872" y1="182.0159" y2="194.3903"/><line style="stroke:#222222;stroke-width:2.5;" x1="367.6872" x2="355.3128" y1="182.0159" y2="194.3903"/><path d="M391.5,208.2031 L391.5,216.7695 L371.5,220.7695 L391.5,224.7695 L391.5,233.3359 A0,0 0 0 0 391.5,233.3359 L750.5,233.3359 A0,0 0 0 0 750.5,233.3359 L750.5,218.2031 L740.5,208.2031 L391.5,208.2031 A0,0 0 0 0 391.5,208.2031 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M740.5,208.2031 L740.5,218.2031 L750.5,218.2031 L740.5,208.2031 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="338" x="397.5" y="225.27">void drawU(UGraphicug,Areaarea,Context2Dcontext)</text><ellipse cx="361.5" cy="220.7695" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><polygon fill="#F1F1F1" points="278,253.3359,445,253.3359,457,265.3359,445,277.3359,278,277.3359,266,265.3359,278,253.3359" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="167" x="278" y="269.144">fileFormat==FileFormat.UTXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="20" x="246" y="262.7417">yes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="14" x="457" y="262.7417">no</text><rect fill="#F1F1F1" height="47.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="277" x="47.5" y="287.3359"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="257" x="57.5" y="308.4746">charArea.drawHLine('\u2550',0,1,width-1,</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="257" x="57.5" y="322.4434">:charArea.drawStringLR(header+"  /",2,1)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="350" x="11" y="369.2422"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="330" x="21" y="390.3809">charArea.drawHLine('\u2500',2,1,header.length()+4)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="284" x="44" y="437.1797"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="264" x="54" y="458.3184">charArea.drawVLine('\u2551',0,1,height-1)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="321" x="25.5" y="505.1172"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="301" x="35.5" y="526.2559">charArea.drawVLine('\u2551',width-1,1,height-1)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="220" x="76" y="559.0859"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="200" x="86" y="580.2246">charArea.drawChar('\u255f',0,2)</text><rect fill="#F1F1F1" height="47.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="314" x="29" y="613.0547"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="294" x="39" y="634.1934">charArea.drawStringTB("\u2564\u2502\u2518",</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="134" x="39" y="648.1621">header.length()+4,0)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="224" x="74" y="694.9609"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="204" x="84" y="716.0996">charArea.drawChar('\u2554',0,0)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="261" x="55.5" y="748.9297"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="241" x="65.5" y="770.0684">charArea.drawChar('\u2557',width-1,0)</text><rect fill="#F1F1F1" height="47.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="321" x="25.5" y="802.8984"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="301" x="35.5" y="824.0371">charArea.drawHLine('\u2550',height-1,1,width-1,</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="252" x="35.5" y="838.0059">:charArea.drawChar('\u255a',0,height-1)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="305" x="33.5" y="870.8359"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="285" x="43.5" y="891.9746">charArea.drawChar('\u255d',width-1,height-1)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="240" x="417" y="287.3359"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="220" x="427" y="308.4746">charArea.drawHLine('_',0,0,width-1)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="273" x="400.5" y="355.2734"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="253" x="410.5" y="376.4121">charArea.drawStringLR(header+"  /",2,1)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="312" x="381" y="423.2109"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="292" x="391" y="444.3496">charArea.drawHLine('_',2,1,header.length()+3)</text><rect fill="#F1F1F1" height="47.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="280" x="397" y="491.1484"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="260" x="407" y="512.2871">charArea.drawChar('/',header.length()+3,</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="407" y="526.2559">2)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="233" x="420.5" y="559.0859"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="213" x="430.5" y="580.2246">charArea.drawVLine('!',0,1,height)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="270" x="402" y="613.0547"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="250" x="412" y="634.1934">charArea.drawVLine('!',width-1,1,height)</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="288" x="393" y="680.9922"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="268" x="403" y="702.1309">charArea.drawHLine('~',height-1,1,width-1)</text><polygon fill="#F1F1F1" points="361.5,910.8047,373.5,922.8047,361.5,934.8047,349.5,922.8047,361.5,910.8047" style="stroke:#181818;stroke-width:0.5;"/><rect fill="#F1F1F1" height="47.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="303" x="210" y="954.8047"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="283" x="220" y="975.9434">charArea.drawStringsLRUnicode(text.asList(),</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="25" x="220" y="989.9121">2,3)</text><ellipse cx="361.5" cy="1032.7422" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="355.3128" x2="367.6872" y1="1026.555" y2="1038.9294"/><line style="stroke:#222222;stroke-width:2.5;" x1="367.6872" x2="355.3128" y1="1026.555" y2="1038.9294"/><path d="M391.5,1052.7422 L391.5,1061.3086 L371.5,1065.3086 L391.5,1069.3086 L391.5,1077.875 A0,0 0 0 0 391.5,1077.875 L769.5,1077.875 A0,0 0 0 0 769.5,1077.875 L769.5,1062.7422 L759.5,1052.7422 L391.5,1052.7422 A0,0 0 0 0 391.5,1052.7422 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M759.5,1052.7422 L759.5,1062.7422 L769.5,1062.7422 L759.5,1052.7422 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="357" x="397.5" y="1069.8091">doublegetPreferredHeight(StringBounderstringBounder)</text><ellipse cx="361.5" cy="1065.3086" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="327" x="198" y="1097.875"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="307" x="208" y="1119.0137">return StringUtils.getHeight(stringsToDisplay)+3;</text><ellipse cx="361.5" cy="1162.8438" fill="none" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="361.5" cy="1162.8438" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><ellipse cx="361.5" cy="1193.8438" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="355.3128" x2="367.6872" y1="1187.6566" y2="1200.0309"/><line style="stroke:#222222;stroke-width:2.5;" x1="367.6872" x2="355.3128" y1="1187.6566" y2="1200.0309"/><path d="M391.5,1213.8438 L391.5,1222.4102 L371.5,1226.4102 L391.5,1230.4102 L391.5,1238.9766 A0,0 0 0 0 391.5,1238.9766 L762.5,1238.9766 A0,0 0 0 0 762.5,1238.9766 L762.5,1223.8438 L752.5,1213.8438 L391.5,1213.8438 A0,0 0 0 0 391.5,1213.8438 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M752.5,1213.8438 L752.5,1223.8438 L762.5,1223.8438 L752.5,1213.8438 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="350" x="397.5" y="1230.9106">doublegetPreferredWidth(StringBounderstringBounder)</text><ellipse cx="361.5" cy="1226.4102" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="339" x="192" y="1258.9766"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="319" x="202" y="1280.1152">return StringUtils.getWcWidth(stringsToDisplay)+4;</text><ellipse cx="361.5" cy="1323.9453" fill="none" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="361.5" cy="1323.9453" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><ellipse cx="361.5" cy="1354.9453" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="355.3128" x2="367.6872" y1="1348.7581" y2="1361.1325"/><line style="stroke:#222222;stroke-width:2.5;" x1="367.6872" x2="355.3128" y1="1348.7581" y2="1361.1325"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="40.1328" y2="70.2656"/><polygon fill="#181818" points="357.5,60.2656,361.5,70.2656,365.5,60.2656,361.5,64.2656" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="104.2344" y2="124.2344"/><polygon fill="#181818" points="357.5,114.2344,361.5,124.2344,365.5,114.2344,361.5,118.2344" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="158.2031" y2="178.2031"/><polygon fill="#181818" points="357.5,168.2031,361.5,178.2031,365.5,168.2031,361.5,172.2031" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="335.2734" y2="369.2422"/><polygon fill="#181818" points="182,359.2422,186,369.2422,190,359.2422,186,363.2422" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="403.2109" y2="437.1797"/><polygon fill="#181818" points="182,427.1797,186,437.1797,190,427.1797,186,431.1797" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="471.1484" y2="505.1172"/><polygon fill="#181818" points="182,495.1172,186,505.1172,190,495.1172,186,499.1172" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="539.0859" y2="559.0859"/><polygon fill="#181818" points="182,549.0859,186,559.0859,190,549.0859,186,553.0859" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="593.0547" y2="613.0547"/><polygon fill="#181818" points="182,603.0547,186,613.0547,190,603.0547,186,607.0547" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="660.9922" y2="694.9609"/><polygon fill="#181818" points="182,684.9609,186,694.9609,190,684.9609,186,688.9609" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="728.9297" y2="748.9297"/><polygon fill="#181818" points="182,738.9297,186,748.9297,190,738.9297,186,742.9297" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="782.8984" y2="802.8984"/><polygon fill="#181818" points="182,792.8984,186,802.8984,190,792.8984,186,796.8984" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="850.8359" y2="870.8359"/><polygon fill="#181818" points="182,860.8359,186,870.8359,190,860.8359,186,864.8359" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="537" x2="537" y1="321.3047" y2="355.2734"/><polygon fill="#181818" points="533,345.2734,537,355.2734,541,345.2734,537,349.2734" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="537" x2="537" y1="389.2422" y2="423.2109"/><polygon fill="#181818" points="533,413.2109,537,423.2109,541,413.2109,537,417.2109" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="537" x2="537" y1="457.1797" y2="491.1484"/><polygon fill="#181818" points="533,481.1484,537,491.1484,541,481.1484,537,485.1484" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="537" x2="537" y1="539.0859" y2="559.0859"/><polygon fill="#181818" points="533,549.0859,537,559.0859,541,549.0859,537,553.0859" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="537" x2="537" y1="593.0547" y2="613.0547"/><polygon fill="#181818" points="533,603.0547,537,613.0547,541,603.0547,537,607.0547" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="537" x2="537" y1="647.0234" y2="680.9922"/><polygon fill="#181818" points="533,670.9922,537,680.9922,541,670.9922,537,674.9922" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="186" y1="265.3359" y2="265.3359"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="265.3359" y2="287.3359"/><polygon fill="#181818" points="182,277.3359,186,287.3359,190,277.3359,186,281.3359" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="457" x2="537" y1="265.3359" y2="265.3359"/><line style="stroke:#181818;stroke-width:1.0;" x1="537" x2="537" y1="265.3359" y2="287.3359"/><polygon fill="#181818" points="533,277.3359,537,287.3359,541,277.3359,537,281.3359" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="186" y1="904.8047" y2="922.8047"/><line style="stroke:#181818;stroke-width:1.0;" x1="186" x2="349.5" y1="922.8047" y2="922.8047"/><polygon fill="#181818" points="339.5,918.8047,349.5,922.8047,339.5,926.8047,343.5,922.8047" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="537" x2="537" y1="714.9609" y2="922.8047"/><line style="stroke:#181818;stroke-width:1.0;" x1="537" x2="373.5" y1="922.8047" y2="922.8047"/><polygon fill="#181818" points="383.5,918.8047,373.5,922.8047,383.5,926.8047,379.5,922.8047" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="230.7695" y2="253.3359"/><polygon fill="#181818" points="357.5,243.3359,361.5,253.3359,365.5,243.3359,361.5,247.3359" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="934.8047" y2="954.8047"/><polygon fill="#181818" points="357.5,944.8047,361.5,954.8047,365.5,944.8047,361.5,948.8047" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="1002.7422" y2="1022.7422"/><polygon fill="#181818" points="357.5,1012.7422,361.5,1022.7422,365.5,1012.7422,361.5,1016.7422" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="1075.3086" y2="1097.875"/><polygon fill="#181818" points="357.5,1087.875,361.5,1097.875,365.5,1087.875,361.5,1091.875" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="1131.8438" y2="1151.8438"/><polygon fill="#181818" points="357.5,1141.8438,361.5,1151.8438,365.5,1141.8438,361.5,1145.8438" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="1236.4102" y2="1258.9766"/><polygon fill="#181818" points="357.5,1248.9766,361.5,1258.9766,365.5,1248.9766,361.5,1252.9766" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="361.5" x2="361.5" y1="1292.9453" y2="1312.9453"/><polygon fill="#181818" points="357.5,1302.9453,361.5,1312.9453,365.5,1302.9453,361.5,1306.9453" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[a26c64630983a961bd87b169e2c205cb]
+@startuml
+!pragma layout smetana
+start
+note right
+constructor ComponentTextReference(DisplaystringsToDisplay,
+FileFormatfileFormat)
+end note
+:this.stringsToDisplay=stringsToDisplay;
+:this.fileFormat=fileFormat;
+end
+start
+note right
+void drawU(UGraphicug,Areaarea,Context2Dcontext)
+end note
+if (fileFormat==FileFormat.UTXT) then (yes) 
+:charArea.drawHLine('\u2550',0,1,width-1,
+'\u2502','\u256a');
+:charArea.drawStringLR(header+"  /",2,1);
+:charArea.drawHLine('\u2500',2,1,header.length()+4);
+:charArea.drawVLine('\u2551',0,1,height-1);
+:charArea.drawVLine('\u2551',width-1,1,height-1);
+:charArea.drawChar('\u255f',0,2);
+:charArea.drawStringTB("\u2564\u2502\u2518",
+header.length()+4,0);
+:charArea.drawChar('\u2554',0,0);
+:charArea.drawChar('\u2557',width-1,0);
+:charArea.drawHLine('\u2550',height-1,1,width-1,
+'\u2502','\u256a');
+:charArea.drawChar('\u255a',0,height-1);
+:charArea.drawChar('\u255d',width-1,height-1);
+else (no)
+:charArea.drawHLine('_',0,0,width-1);
+:charArea.drawStringLR(header+"  /",2,1);
+:charArea.drawHLine('_',2,1,header.length()+3);
+:charArea.drawChar('/',header.length()+3,
+2);
+:charArea.drawVLine('!',0,1,height);
+:charArea.drawVLine('!',width-1,1,height);
+:charArea.drawHLine('~',height-1,1,width-1);
+endif 
+:charArea.drawStringsLRUnicode(text.asList(),
+2,3);
+end
+start
+note right
+doublegetPreferredHeight(StringBounderstringBounder)
+end note
+:return StringUtils.getHeight(stringsToDisplay)+3;;
+stop
+end
+start
+note right
+doublegetPreferredWidth(StringBounderstringBounder)
+end note
+:return StringUtils.getWcWidth(stringsToDisplay)+4;;
+stop
+end
+@enduml
+
+@startuml
+!pragma layout smetana
+start
+note right
+constructor ComponentTextReference(DisplaystringsToDisplay,
+FileFormatfileFormat)
+end note
+:this.stringsToDisplay=stringsToDisplay;
+:this.fileFormat=fileFormat;
+end
+start
+note right
+void drawU(UGraphicug,Areaarea,Context2Dcontext)
+end note
+if (fileFormat==FileFormat.UTXT) then (yes) 
+:charArea.drawHLine('\u2550',0,1,width-1,
+:charArea.drawStringLR(header+"  /",2,1);
+:charArea.drawHLine('\u2500',2,1,header.length()+4);
+:charArea.drawVLine('\u2551',0,1,height-1);
+:charArea.drawVLine('\u2551',width-1,1,height-1);
+:charArea.drawChar('\u255f',0,2);
+:charArea.drawStringTB("\u2564\u2502\u2518",
+header.length()+4,0);
+:charArea.drawChar('\u2554',0,0);
+:charArea.drawChar('\u2557',width-1,0);
+:charArea.drawHLine('\u2550',height-1,1,width-1,
+:charArea.drawChar('\u255a',0,height-1);
+:charArea.drawChar('\u255d',width-1,height-1);
+else (no)
+:charArea.drawHLine('_',0,0,width-1);
+:charArea.drawStringLR(header+"  /",2,1);
+:charArea.drawHLine('_',2,1,header.length()+3);
+:charArea.drawChar('/',header.length()+3,
+2);
+:charArea.drawVLine('!',0,1,height);
+:charArea.drawVLine('!',width-1,1,height);
+:charArea.drawHLine('~',height-1,1,width-1);
+endif 
+:charArea.drawStringsLRUnicode(text.asList(),
+2,3);
+end
+start
+note right
+doublegetPreferredHeight(StringBounderstringBounder)
+end note
+:return StringUtils.getHeight(stringsToDisplay)+3;;
+stop
+end
+start
+note right
+doublegetPreferredWidth(StringBounderstringBounder)
+end note
+:return StringUtils.getWcWidth(stringsToDisplay)+4;;
+stop
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

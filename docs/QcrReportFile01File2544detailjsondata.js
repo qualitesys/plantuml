@@ -1,119 +1,200 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java 21 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java 23 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDrawable"
- , "c2" : "net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow"
+ , "c1" : "UGraphic"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#28"
- , "c1" : "TimeArrow"
- , "c2" : "create(IntricatedPoint;IntricatedPoint;Display;ISkinSimple;WithLinkType)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#37"
- , "c1" : "TimeArrow"
- , "c2" : "TimeArrow(XPoint2D;XPoint2D;Display;ISkinSimple;WithLinkType)"
- , "c3" : "1"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#45"
- , "c1" : "double"
- , "c2" : "getAngle()"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#31"
+ , "c1" : "HColor"
+ , "c2" : "getDefaultBackground()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#49"
- , "c1" : "TimeArrow"
- , "c2" : "shorter(TimeArrow;TimeArrow)"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#35"
+ , "c1" : "double"
+ , "c2" : "dpiFactor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#39"
+ , "c1" : "UGraphic"
+ , "c2" : "apply(UChange)"
+ , "c3" : "16"
+ , "c4" : "12"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#63"
+ , "c1" : "UClip"
+ , "c2" : "getClip()"
  , "c3" : "2"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#56"
- , "c1" : "TimeArrow"
- , "c2" : "shorter(TimeArrow;TimeArrow;TimeArrow;TimeArrow)"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#70"
+ , "c1" : "void"
+ , "c2" : "enlargeClip()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#60"
- , "c1" : "double"
- , "c2" : "len()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#64"
- , "c1" : "TimeArrow"
- , "c2" : "translate(UTranslate)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#69"
- , "c1" : "XPoint2D"
- , "c2" : "onCircle(XPoint2D;double)"
- , "c3" : "1"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#74"
+ , "c1" : "AbstractCommonUGraphic"
+ , "c2" : "AbstractCommonUGraphic(HColor;ColorMapper;StringBounder)"
+ , "c3" : "2"
  , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#76"
- , "c1" : "FontConfiguration"
- , "c2" : "getFontConfiguration()"
- , "c3" : "1"
- , "c4" : "3"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#83"
+ , "c1" : "AbstractCommonUGraphic"
+ , "c2" : "AbstractCommonUGraphic(AbstractCommonUGraphic)"
+ , "c3" : "2"
+ , "c4" : "12"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#83"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#100"
+ , "c1" : "AbstractCommonUGraphic"
+ , "c2" : "copyUGraphic()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#102"
+ , "c1" : "UParam"
+ , "c2" : "getParam()"
+ , "c3" : "1"
+ , "c4" : "6"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#128"
+ , "c1" : "StringBounder"
+ , "c2" : "getStringBounder()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#132"
+ , "c1" : "double"
+ , "c2" : "getTranslateX()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#136"
+ , "c1" : "double"
+ , "c2" : "getTranslateY()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00140"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#140"
+ , "c1" : "ColorMapper"
+ , "c2" : "getColorMapper()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#144"
  , "c1" : "void"
- , "c2" : "drawU(UGraphic)"
- , "c3" : "2"
- , "c4" : "19"
+ , "c2" : "flushUg()"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#148"
+ , "c1" : "void"
+ , "c2" : "startUrl(Url)"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00152"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#152"
+ , "c1" : "void"
+ , "c2" : "closeUrl()"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00155"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#155"
+ , "c1" : "void"
+ , "c2" : "startGroup(Map<UGroupType,String>)"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#158"
+ , "c1" : "void"
+ , "c2" : "closeGroup()"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00161"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#161"
+ , "c1" : "boolean"
+ , "c2" : "matchesProperty(String)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.svg" }
 
 ] 
 , 
@@ -140,10 +221,24 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "5"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "5"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "7"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -164,160 +259,177 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#20"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00020] The class TimeArrow contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00013] The class AbstractCommonUGraphic contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#28"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#36"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.dpiFactor@POLYN164330 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#39"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method create arguments IntricatedPoint  pt1|IntricatedPoint  pt2|Display  label|ISkinSimple  spriteContainer|WithLinkType  type"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument pt1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument pt2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#49"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method shorter arguments TimeArrow  arrow1|TimeArrow  arrow2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#49"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument arrow1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#49"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument arrow2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method shorter arguments TimeArrow  arrow1|TimeArrow  arrow2|TimeArrow  arrow3|TimeArrow  arrow4"
+ , "c3" : "QC-JAV000006[00039] For method apply arguments UChange  change"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#64"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method translate arguments UTranslate  translate"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#64"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00064] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#69"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method onCircle arguments XPoint2D  pt|double  alpha"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#69"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00069] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#70"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.onCircle@POLYN172064 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.getClip@POLYN166113 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#77"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.getFontConfiguration@POLYN172645 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.getClip@POLYN166113 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#80"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.getFontConfiguration@POLYN172645 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.enlargeClip@POLYN166350 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.AbstractCommonUGraphic@POLYN166454 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#83"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#83"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00083] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00083] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#90"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173011 the MagicNumber/String  20.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.AbstractCommonUGraphic@POLYN166866 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173011 the MagicNumber/String  180.0 should be converted to const"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#148"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00148] For method startUrl arguments Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173011 the MagicNumber/String  2 should be converted to const"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#155"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00155] For method startGroup arguments Map&lt;UGroupType ,String &gt;  typeIdents"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#104"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#161"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00161] For method matchesProperty arguments String  propertyName"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173011 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.matchesProperty@POLYN169170 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#144"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00144] Void method flushUg is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#144"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00144] Void method flushUg is empty or contains only a return. Interface segregation"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#148"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00148] Void method startUrl is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#148"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00148] Void method startUrl is empty or contains only a return. Interface segregation"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#152"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00152] Void method closeUrl is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#152"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00152] Void method closeUrl is empty or contains only a return. Interface segregation"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#155"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00155] Void method startGroup is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#155"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00155] Void method startGroup is empty or contains only a return. Interface segregation"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#158"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00158] Void method closeGroup is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#158"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00158] Void method closeGroup is empty or contains only a return. Interface segregation"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<CucaDiagram>"
- , "c2" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass"
+ , "c1" : "SingleLineCommand2<ClassDiagram>"
+ , "c2" : "net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#15"
- , "c1" : "CommandHideShowSpecificClass"
- , "c2" : "CommandHideShowSpecificClass()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#15"
+ , "c1" : "CommandLayoutNewLine"
+ , "c2" : "CommandLayoutNewLine()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#19"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#19"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -37,20 +37,20 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#27"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#27"
  , "c1" : "CommandExecutionResult"
- , "c2" : "executeArg(CucaDiagram;LineLocation;RegexResult)"
+ , "c2" : "executeArg(ClassDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "2"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.svg" }
 
 ] 
 , 
@@ -77,10 +77,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -93,49 +100,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#21"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  'COMMAND' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  '(hide|show)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  'CODE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  '(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine.getRegexConcat@POLYN149296 the MagicNumber/String  'layout_new_line' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method executeArg arguments CucaDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00027] For method executeArg arguments ClassDiagram  diagram|LineLocation  location|RegexResult  arg"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#27"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00027] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,110 +1,308 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java 34 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/IEntity.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.cucadiagram.HideOrShow2"
+ , "c1" : "SpecificBackcolorable"
+ , "c2" : "net.sourceforge.plantuml.cucadiagram.IEntity"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.HideOrShow2" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.IEntity" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#10"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#20"
+ , "c1" : "Code"
+ , "c2" : "getCode()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#22"
  , "c1" : "String"
- , "c2" : "toString()"
+ , "c2" : "getCodeGetName()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#14"
- , "c1" : "boolean"
- , "c2" : "isApplyable(ILeaf)"
- , "c3" : "4"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#29"
- , "c1" : "boolean"
- , "c2" : "isAboutUnlinked()"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#24"
+ , "c1" : "Ident"
+ , "c2" : "getIdent()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#33"
- , "c1" : "boolean"
- , "c2" : "isApplyableUnlinked(ILeaf)"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#26"
+ , "c1" : "USymbol"
+ , "c2" : "getUSymbol()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#28"
+ , "c1" : "void"
+ , "c2" : "setUSymbol(USymbol)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#30"
+ , "c1" : "LeafType"
+ , "c2" : "getLeafType()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#32"
+ , "c1" : "Display"
+ , "c2" : "getDisplay()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#34"
+ , "c1" : "IGroup"
+ , "c2" : "getParentContainer()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#36"
+ , "c1" : "void"
+ , "c2" : "setDisplay(Display)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#38"
+ , "c1" : "String"
+ , "c2" : "getUid()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#40"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#40"
+ , "c1" : "Url"
+ , "c2" : "getUrl99()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#42"
+ , "c1" : "Stereotype"
+ , "c2" : "getStereotype()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#44"
+ , "c1" : "void"
+ , "c2" : "setStereotype(Stereotype)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#46"
+ , "c1" : "Bodier"
+ , "c2" : "getBodier()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#48"
+ , "c1" : "void"
+ , "c2" : "addUrl(Url)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#50"
  , "c1" : "boolean"
- , "c2" : "isApplyableStereotype(ILeaf;String)"
- , "c3" : "4"
- , "c4" : "4"
+ , "c2" : "isGroup()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#52"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#52"
  , "c1" : "boolean"
- , "c2" : "isApplyableTag(ILeaf;String)"
- , "c3" : "3"
- , "c4" : "2"
+ , "c2" : "hasUrl()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#54"
+ , "c1" : "int"
+ , "c2" : "getRawLayout()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#56"
+ , "c1" : "void"
+ , "c2" : "putTip(String;Display)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#58"
+ , "c1" : "Map<String,Display>"
+ , "c2" : "getTips()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#60"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#60"
+ , "c1" : "void"
+ , "c2" : "addStereotag(Stereotag)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#62"
+ , "c1" : "Set<Stereotag>"
+ , "c2" : "stereotags()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#64"
  , "c1" : "boolean"
- , "c2" : "match(String;String)"
- , "c3" : "2"
- , "c4" : "3"
+ , "c2" : "isAloneAndUnlinked()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#66"
+ , "c1" : "void"
+ , "c2" : "setThisIsTogether()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#68"
+ , "c1" : "String"
+ , "c2" : "getCodeLine()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#70"
+ , "c1" : "void"
+ , "c2" : "setCodeLine(LineLocation)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#72"
- , "c1" : "HideOrShow2"
- , "c2" : "HideOrShow2(String;boolean)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#72"
+ , "c1" : "void"
+ , "c2" : "setStereostyle(String)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#77"
- , "c1" : "boolean"
- , "c2" : "apply(boolean;ILeaf)"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#74"
+ , "c1" : "Stereostyles"
+ , "c2" : "getStereostyles()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#76"
+ , "c1" : "void"
+ , "c2" : "addNote(Display;Position;Colors)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#78"
+ , "c1" : "EntityPosition"
+ , "c2" : "getEntityPosition()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.html#80"
+ , "c1" : "List<CucaNote>"
+ , "c2" : "getNotes(Position)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.svg" }
 
 ] 
 , 
@@ -129,277 +327,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "5"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "22"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "6"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#4"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class HideOrShow2 contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.toString@POLYN153551 the MagicNumber/String  ' (' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.toString@POLYN153551 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#14"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method isApplyable arguments ILeaf  leaf"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#14"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument leaf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyable@POLYN153707 the MagicNumber/String  '$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyable@POLYN153707 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyable@POLYN153707 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyable@POLYN153707 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyable@POLYN153707 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyable@POLYN153707 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isAboutUnlinked@POLYN154611 the MagicNumber/String  '@unlinked' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method isApplyableUnlinked arguments ILeaf  leaf"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument leaf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyableUnlinked@POLYN154738 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyableUnlinked@POLYN154738 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method isApplyableStereotype arguments ILeaf  leaf|String  pattern"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#40"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument leaf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyableStereotype@POLYN154937 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyableStereotype@POLYN154937 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyableStereotype@POLYN154937 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyableStereotype@POLYN154937 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method isApplyableTag arguments ILeaf  leaf|String  pattern"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#52"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument leaf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyableTag@POLYN155446 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.isApplyableTag@POLYN155446 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#60"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method match arguments String  s|String  pattern"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#60"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00060] The argument pattern is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.match@POLYN155802 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.match@POLYN155802 the MagicNumber/String  '^' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.match@POLYN155802 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.match@POLYN155802 the MagicNumber/String  '.*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.cucadiagram.HideOrShow2.match@POLYN155802 the MagicNumber/String  '$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.html#77"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method apply arguments boolean  hidden|ILeaf  leaf"
-}} 
-]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/HideOrShow2.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/cucadiagram/IEntity.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

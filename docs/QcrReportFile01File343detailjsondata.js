@@ -1,92 +1,83 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/util/FlatConfigData.java.html" 
- , "texte" : "File src/jcckit/util/FlatConfigData.java 25 rule violations " 
- , "fic2"  : "./qc/src/jcckit/util/FlatConfigData.java.xml" 
+   "fic1"  : "./qc/src/jcckit/util/Format.java.html" 
+ , "texte" : "File src/jcckit/util/Format.java 39 rule violations " 
+ , "fic2"  : "./qc/src/jcckit/util/Format.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ConfigData"
- , "c2" : "jcckit.util.FlatConfigData"
+ , "c1" : "TicLabelFormat"
+ , "c2" : "jcckit.util.Format"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.util.FlatConfigData" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.util.Format" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/util/FlatConfigData.java.html#9"
- , "c1" : "FlatConfigData"
- , "c2" : "FlatConfigData(String)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5link" : "././qc/src/jcckit/util/Format.java.html#9"
+ , "c1" : "Format"
+ , "c2" : "create(ConfigParameters;String)"
+ , "c3" : "2"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/jcckit/util/FlatConfigData.java.html#14"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/jcckit/util/Format.java.html#26"
+ , "c1" : "Format"
+ , "c2" : "Format(String)"
+ , "c3" : "14"
+ , "c4" : "28"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/jcckit/util/Format.java.html#76"
  , "c1" : "String"
- , "c2" : "getFullKey(String)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "form(long)"
+ , "c3" : "2"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/jcckit/util/FlatConfigData.java.html#19"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/jcckit/util/Format.java.html#86"
  , "c1" : "String"
- , "c2" : "get(String)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "form(double)"
+ , "c3" : "2"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/jcckit/util/FlatConfigData.java.html#24"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/jcckit/util/Format.java.html#95"
  , "c1" : "String"
- , "c2" : "get(String;String;int)"
- , "c3" : "5"
- , "c4" : "10"
+ , "c2" : "appendRest(StringBuffer)"
+ , "c3" : "2"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/jcckit/util/FlatConfigData.java.html#52"
- , "c1" : "ConfigData"
- , "c2" : "getNode(String)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/jcckit/util/FlatConfigData.java.html#58"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/jcckit/util/Format.java.html#103"
  , "c1" : "String"
- , "c2" : "getValue(String)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/jcckit/util/FlatConfigData.java.html#61"
- , "c1" : "ConfigData"
- , "c2" : "createConfigData(String)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "form(double[])"
+ , "c3" : "3"
+ , "c4" : "6"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/util/FlatConfigData.java.png" 
+   {"ligne" : "./qc/src/jcckit/util/Format.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/util/FlatConfigData.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/util/Format.java.svg" }
 
 ] 
 , 
@@ -113,6 +104,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -123,14 +128,14 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "17"
+ , "c4" : "28"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -143,182 +148,283 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00005"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#5"
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#7"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00005] The class FlatConfigData contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00007] The class Format contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#14"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#9"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method getFullKey arguments String  key"
+ , "c3" : "QC-JAV000006[00009] For method create arguments ConfigParameters  config|String  key"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#15"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#9"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00009] For method create list of called methods Object monObjet|String config_getN178796"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#9"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00009] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method jcckit.util.FlatConfigData.getFullKey@POLYN184774 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00010] In method jcckit.util.Format.create@POLYN178617 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#19"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method get arguments String  key"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#20"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method jcckit.util.FlatConfigData.get@POLYN185181 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00011] In method jcckit.util.Format.create@POLYN178617 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#24"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method get arguments String  path|String  key|int  numberOfLevels"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#24"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00024] For method get list of called methods Object monObjet|String getN186529"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#25"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00012] In method jcckit.util.Format.create@POLYN178617 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#12"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00012] In method jcckit.util.Format.create@POLYN178617 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  20 should be converted to const"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#26"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00026] The argument formatString is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#27"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#29"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#31"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#33"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00036"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#36"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00039"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#39"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#44"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#44"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#44"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method jcckit.util.FlatConfigData.get@POLYN185473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#46"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00046] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method getNode arguments String  key"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#53"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method jcckit.util.FlatConfigData.getNode@POLYN187149 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method jcckit.util.FlatConfigData.getNode@POLYN187149 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method getValue arguments String  fullKey"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#61"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method jcckit.util.Format.Format@POLYN180887 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method createConfigData arguments String  path"
+ , "c3" : "QC-JAV000006[00076] For method form arguments long  number"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.util.Format.form@POLYN184147 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method jcckit.util.Format.form@POLYN184147 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#80"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00080] In method jcckit.util.Format.form@POLYN184147 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#86"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00086] For method form arguments double  number"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method jcckit.util.Format.form@POLYN184892 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.util.Format.form@POLYN184892 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method jcckit.util.Format.form@POLYN184892 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#95"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00095] For method appendRest arguments StringBuffer  buffer"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#95"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00095] The argument buffer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method jcckit.util.Format.appendRest@POLYN185425 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#103"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00103] For method form arguments double[]  numbers"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/jcckit/util/Format.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method jcckit.util.Format.form@POLYN186133 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/jcckit/util/FlatConfigData.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/jcckit/util/Format.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

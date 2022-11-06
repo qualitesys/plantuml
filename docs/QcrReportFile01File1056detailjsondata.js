@@ -1,25 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java 12 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java 17 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Command"
- , "c2" : "net.sourceforge.plantuml.creole.command.CommandCreoleSpace"
+ , "c2" : "net.sourceforge.plantuml.creole.command.CommandCreoleSprite"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.creole.command.CommandCreoleSpace" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.creole.command.CommandCreoleSprite" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#12"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#16"
  , "c1" : "String"
  , "c2" : "startingChars()"
  , "c3" : "1"
@@ -27,17 +27,17 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#18"
- , "c1" : "CommandCreoleSpace"
- , "c2" : "CommandCreoleSpace()"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#22"
+ , "c1" : "CommandCreoleSprite"
+ , "c2" : "CommandCreoleSprite()"
  , "c3" : "1"
  , "c4" : "0"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#21"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#25"
  , "c1" : "Command"
  , "c2" : "create()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#25"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#29"
  , "c1" : "int"
  , "c2" : "matchingSize(String)"
  , "c3" : "2"
@@ -54,21 +54,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#33"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#37"
  , "c1" : "String"
  , "c2" : "executeAndGetRemaining(String;StripeSimple)"
- , "c3" : "2"
- , "c4" : "5"
+ , "c3" : "3"
+ , "c4" : "10"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.svg" }
 
 ] 
 , 
@@ -112,7 +112,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "7"
+ , "c4" : "12"
 }}
 ,
 { "ligne" : { "" : ""
@@ -125,91 +125,129 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class CommandCreoleSpace contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#13"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.creole.command.CommandCreoleSpace.startingChars@POLYN150149 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000008[00013] The class CommandCreoleSprite contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#25"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.startingChars@POLYN153131 the MagicNumber/String  '&amp;lt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method matchingSize arguments String  line"
+ , "c3" : "QC-JAV000006[00029] For method matchingSize arguments String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#27"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.creole.command.CommandCreoleSpace.matchingSize@POLYN150502 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.matchingSize@POLYN153538 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#28"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.creole.command.CommandCreoleSpace.matchingSize@POLYN150502 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.matchingSize@POLYN153538 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#30"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.creole.command.CommandCreoleSpace.matchingSize@POLYN150502 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.matchingSize@POLYN153538 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#33"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method executeAndGetRemaining arguments String  line|StripeSimple  stripe"
+ , "c3" : "QC-JAV000006[00037] For method executeAndGetRemaining arguments String  line|StripeSimple  stripe"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#33"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#37"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00037] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#33"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#37"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument stripe is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00037] The argument stripe is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#35"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.creole.command.CommandCreoleSpace.executeAndGetRemaining@POLYN150901 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.executeAndGetRemaining@POLYN153919 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#38"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.creole.command.CommandCreoleSpace.executeAndGetRemaining@POLYN150901 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.executeAndGetRemaining@POLYN153919 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.executeAndGetRemaining@POLYN153919 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.executeAndGetRemaining@POLYN153919 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.executeAndGetRemaining@POLYN153919 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.executeAndGetRemaining@POLYN153919 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#46"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.creole.command.CommandCreoleSpace.executeAndGetRemaining@POLYN150901 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.executeAndGetRemaining@POLYN153919 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.creole.command.CommandCreoleSprite.executeAndGetRemaining@POLYN153919 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSprite.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,25 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UStroke.java 18 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UText.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UChange"
- , "c2" : "net.sourceforge.plantuml.ugraphic.UStroke"
+ , "c1" : "UShape"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.UText"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UStroke" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UText" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#11"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#14"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,102 +27,75 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#15"
- , "c1" : "UStroke"
- , "c2" : "UStroke(double;double;double)"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#18"
+ , "c1" : "UText"
+ , "c2" : "UText(String;FontConfiguration;int)"
  , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#21"
- , "c1" : "UStroke"
- , "c2" : "UStroke(double)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#25"
- , "c1" : "UStroke"
- , "c2" : "UStroke()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#25"
+ , "c1" : "UText"
+ , "c2" : "UText(String;FontConfiguration)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#29"
- , "c1" : "UStroke"
- , "c2" : "onlyThickness()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#29"
+ , "c1" : "UText"
+ , "c2" : "withOrientation(int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#33"
- , "c1" : "UStroke"
- , "c2" : "applyThickness(UStroke)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#40"
- , "c1" : "double"
- , "c2" : "getDashVisible()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#44"
- , "c1" : "double"
- , "c2" : "getDashSpace()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#48"
- , "c1" : "double"
- , "c2" : "getThickness()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#52"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#33"
  , "c1" : "String"
- , "c2" : "getDasharraySvg()"
- , "c3" : "2"
- , "c4" : "2"
+ , "c2" : "getText()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#59"
- , "c1" : "String"
- , "c2" : "getDashTikz()"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#37"
+ , "c1" : "FontConfiguration"
+ , "c2" : "getFontConfiguration()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#41"
+ , "c1" : "double"
+ , "c2" : "getDescent(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#45"
+ , "c1" : "int"
+ , "c2" : "getOrientation()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.svg" }
 
 ] 
 , 
@@ -149,6 +122,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -159,146 +139,93 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "16"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#4"
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#7"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class UStroke contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00007] The class UText contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#12"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.ugraphic.UStroke.toString@POLYN150124 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.ugraphic.UText.toString@POLYN149272 the MagicNumber/String  'UText[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#12"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.ugraphic.UStroke.toString@POLYN150124 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.ugraphic.UText.toString@POLYN149272 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.ugraphic.UStroke.toString@POLYN150124 the MagicNumber/String  '-' should be converted to const"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#18"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00018] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#22"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ugraphic.UStroke.UStroke@POLYN150617 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.ugraphic.UText.UText@POLYN149395 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#22"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ugraphic.UStroke.UStroke@POLYN150617 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.ugraphic.UText.UText@POLYN149395 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#26"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.UStroke.UStroke@POLYN150782 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.UText.UText@POLYN149804 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#33"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method applyThickness arguments UStroke  thickness"
+ , "c3" : "QC-JAV000006[00029] For method withOrientation arguments int  orientation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.UStroke.applyThickness@POLYN151014 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#41"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00041] For method getDescent arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN151559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN151559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN151559 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN151559 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN151808 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN151808 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN151808 the MagicNumber/String  'on ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN151808 the MagicNumber/String  'pt off ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN151808 the MagicNumber/String  'pt' should be converted to const"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.html#41"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00041] The argument stringBounder is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UText.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

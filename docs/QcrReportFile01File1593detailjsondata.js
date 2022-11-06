@@ -1,108 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/posimo/Label.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/posimo/LabelImage.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Positionable"
- , "c2" : "net.sourceforge.plantuml.posimo.Label"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.posimo.LabelImage"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.posimo.Label" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.posimo.LabelImage" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#14"
- , "c1" : "Label"
- , "c2" : "Label(double;double)"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#22"
+ , "c1" : "LabelImage"
+ , "c2" : "LabelImage(Link;Rose;ISkinParam)"
+ , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#34"
+ , "c1" : "XDimension2D"
+ , "c2" : "getDimension(StringBounder)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#19"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40"
  , "c1" : "void"
- , "c2" : "setCenterX(double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#23"
- , "c1" : "void"
- , "c2" : "setCenterY(double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#27"
- , "c1" : "XPoint2D"
- , "c2" : "getPosition()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#31"
- , "c1" : "XDimension2D"
- , "c2" : "getSize()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#35"
- , "c1" : "void"
- , "c2" : "setWidth(double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#39"
- , "c1" : "void"
- , "c2" : "setHeight(double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#43"
- , "c1" : "void"
- , "c2" : "setX(double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#47"
- , "c1" : "void"
- , "c2" : "setY(double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#51"
- , "c1" : "void"
- , "c2" : "moveSvek(double;double)"
+ , "c2" : "drawU(UGraphic;double;double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -111,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.svg" }
 
 ] 
 , 
@@ -140,6 +77,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -147,93 +91,47 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "7"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#7"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00007] The class Label contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00015] The class LabelImage contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#19"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method setCenterX arguments double  center"
+ , "c3" : "QC-JAV000006[00034] For method getDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.posimo.Label.setCenterX@POLYN150229 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#23"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method setCenterY arguments double  center"
+ , "c3" : "QC-JAV000006[00040] For method drawU arguments UGraphic  ug|double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.posimo.Label.setCenterY@POLYN150407 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#35"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method setWidth arguments double  width"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#39"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method setHeight arguments double  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#43"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method setX arguments double  x"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#47"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method setY arguments double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method moveSvek arguments double  deltaX|double  deltaY"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00040] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/Label.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

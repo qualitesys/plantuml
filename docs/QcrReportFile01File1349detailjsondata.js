@@ -1,9 +1,9 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/ImgValign.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/graphic/ImgValign.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/ImgValign.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/InnerStrategy.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/graphic/InnerStrategy.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/InnerStrategy.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -41,8 +41,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/ImgValign.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/InnerStrategy.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

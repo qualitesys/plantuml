@@ -1,72 +1,54 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java 6 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.xml" 
+   "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html" 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java 4 rule violations " 
+ , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable"
- , "c2" : "ext.plantuml.com.ctreber.acearth.scanbit.ScanBit"
+ , "c1" : "java.lang.Object"
+ , "c2" : "ext.plantuml.com.ctreber.acearth.scanbit.ScanBitGenerator"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "ext.plantuml.com.ctreber.acearth.scanbit.ScanBit" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "ext.plantuml.com.ctreber.acearth.scanbit.ScanBitGenerator" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#11"
- , "c1" : "ScanBit"
- , "c2" : "ScanBit(int;int;int;int)"
- , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#19"
- , "c1" : "int"
- , "c2" : "compareTo(Object)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#30"
- , "c1" : "int"
- , "c2" : "getY()"
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#10"
+ , "c1" : "void"
+ , "c2" : "generateScanBits()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#35"
- , "c1" : "int"
- , "c2" : "getlXFrom()"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#12"
+ , "c1" : "void"
+ , "c2" : "setImageHeight(int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#40"
- , "c1" : "int"
- , "c2" : "getXTo()"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#17"
+ , "c1" : "void"
+ , "c2" : "setImageWidth(int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#46"
- , "c1" : "int"
- , "c2" : "getType()"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#22"
+ , "c1" : "ScanBit[]"
+ , "c2" : "getScanBits()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.png" 
+   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.png" 
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.svg" }
+ , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.svg" }
 
 ] 
 , 
@@ -104,6 +86,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -111,65 +100,47 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00004"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#4"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class ScanBit contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class ScanBitGenerator contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#19"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#12"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method compareTo arguments Object  o"
+ , "c3" : "QC-JAV000006[00012] For method setImageHeight arguments int  pImageHeight"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142561 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#17"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00017] For method setImageWidth arguments int  pImageWidth"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142561 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142561 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142561 the MagicNumber/String  'Can't compare with ' should be converted to const"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#10"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00010] Public method generateScanBits is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,182 +1,137 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/ShapePoint.java 36 rule violations " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.xml" 
+   "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html" 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractCell.java 85 rule violations " 
+ , "fic2"  : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.awt.geom.Point2D.Float"
- , "c2" : "org.stathissideris.ascii2image.graphics.ShapePoint"
+ , "c1" : "java.lang.Object"
+ , "c2" : "org.stathissideris.ascii2image.text.AbstractCell"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "org.stathissideris.ascii2image.graphics.ShapePoint" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "org.stathissideris.ascii2image.text.AbstractCell" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#15"
- , "c1" : "ShapePoint"
- , "c2" : "ShapePoint()"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#14"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeHorizontalLine()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#19"
- , "c1" : "ShapePoint"
- , "c2" : "ShapePoint(float;float)"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#22"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeVerticalLine()"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#24"
- , "c1" : "ShapePoint"
- , "c2" : "ShapePoint(float;float;int)"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#30"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeCorner1()"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#29"
- , "c1" : "ShapePoint"
- , "c2" : "ShapePoint(ShapePoint)"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#38"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeCorner2()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#34"
- , "c1" : "int"
- , "c2" : "getType()"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#46"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeCorner3()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#39"
- , "c1" : "void"
- , "c2" : "setType(int)"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#54"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeCorner4()"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#43"
- , "c1" : "boolean"
- , "c2" : "isInLineWith(ShapePoint)"
- , "c3" : "3"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#49"
- , "c1" : "boolean"
- , "c2" : "isWithinEdge(ShapeEdge)"
- , "c3" : "8"
- , "c4" : "7"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00062"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#62"
- , "c1" : "boolean"
- , "c2" : "isNorthOf(ShapePoint)"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#62"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeT()"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#66"
- , "c1" : "boolean"
- , "c2" : "isSouthOf(ShapePoint)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#70"
- , "c1" : "boolean"
- , "c2" : "isWestOf(ShapePoint)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#74"
- , "c1" : "boolean"
- , "c2" : "isEastOf(ShapePoint)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#78"
- , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#82"
- , "c1" : "void"
- , "c2" : "assign(ShapePoint)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#88"
- , "c1" : "void"
- , "c2" : "moveTo(ShapePoint)"
- , "c3" : "2"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#96"
- , "c1" : "boolean"
- , "c2" : "isLocked()"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#68"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeInverseT()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#101"
- , "c1" : "void"
- , "c2" : "setLocked(boolean)"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#74"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeK()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#80"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeInverseK()"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#86"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeCross()"
+ , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#93"
+ , "c1" : "AbstractCell"
+ , "c2" : "makeStar()"
+ , "c3" : "3"
+ , "c4" : "7"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.png" 
+   {"ligne" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.png" 
 
- , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.svg" }
+ , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.svg" }
 
 ] 
 , 
@@ -201,300 +156,637 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-,
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "9"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAVCWE493"
+ , "c3" : "Critical public variable without final modifier"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "4"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "13"
+ , "c4" : "77"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "10"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "6"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#29"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#39"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method setType arguments int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#43"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method isInLineWith arguments ShapePoint  point"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#43"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00043] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#44"
+ , "c1" : "00005"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#5"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method org.stathissideris.ascii2image.graphics.ShapePoint.isInLineWith@POLYN155973 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000008[00005] The class AbstractCell contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#45"
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#7"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.ShapePoint.isInLineWith@POLYN155973 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAVCWE493[00007] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#46"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.graphics.ShapePoint.isInLineWith@POLYN155973 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00016] In method org.stathissideris.ascii2image.text.AbstractCell.makeHorizontalLine@POLYN156272 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#16"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00016] In method org.stathissideris.ascii2image.text.AbstractCell.makeHorizontalLine@POLYN156272 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#16"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00016] In method org.stathissideris.ascii2image.text.AbstractCell.makeHorizontalLine@POLYN156272 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method org.stathissideris.ascii2image.text.AbstractCell.makeHorizontalLine@POLYN156272 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method org.stathissideris.ascii2image.text.AbstractCell.makeHorizontalLine@POLYN156272 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method org.stathissideris.ascii2image.text.AbstractCell.makeHorizontalLine@POLYN156272 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00018] In method org.stathissideris.ascii2image.text.AbstractCell.makeHorizontalLine@POLYN156272 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00018] In method org.stathissideris.ascii2image.text.AbstractCell.makeHorizontalLine@POLYN156272 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00018] In method org.stathissideris.ascii2image.text.AbstractCell.makeHorizontalLine@POLYN156272 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method org.stathissideris.ascii2image.text.AbstractCell.makeVerticalLine@POLYN156798 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method org.stathissideris.ascii2image.text.AbstractCell.makeVerticalLine@POLYN156798 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method org.stathissideris.ascii2image.text.AbstractCell.makeVerticalLine@POLYN156798 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method org.stathissideris.ascii2image.text.AbstractCell.makeVerticalLine@POLYN156798 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method org.stathissideris.ascii2image.text.AbstractCell.makeVerticalLine@POLYN156798 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method org.stathissideris.ascii2image.text.AbstractCell.makeVerticalLine@POLYN156798 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method org.stathissideris.ascii2image.text.AbstractCell.makeVerticalLine@POLYN156798 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method org.stathissideris.ascii2image.text.AbstractCell.makeVerticalLine@POLYN156798 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method org.stathissideris.ascii2image.text.AbstractCell.makeVerticalLine@POLYN156798 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner1@POLYN157324 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner1@POLYN157324 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner1@POLYN157324 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner1@POLYN157324 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner1@POLYN157324 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner1@POLYN157324 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner1@POLYN157324 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner1@POLYN157324 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner1@POLYN157324 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner2@POLYN157850 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner2@POLYN157850 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner2@POLYN157850 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner2@POLYN157850 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner2@POLYN157850 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner2@POLYN157850 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner2@POLYN157850 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner2@POLYN157850 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner2@POLYN157850 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner3@POLYN158376 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner3@POLYN158376 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner3@POLYN158376 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#49"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method isWithinEdge arguments ShapeEdge  edge"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner3@POLYN158376 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#49"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument edge is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner3@POLYN158376 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#51"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN156301 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner3@POLYN158376 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#52"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN156301 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner3@POLYN158376 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#53"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN156301 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner3@POLYN158376 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#55"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN156301 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner3@POLYN158376 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#56"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN156301 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner4@POLYN158902 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner4@POLYN158902 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner4@POLYN158902 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#57"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN156301 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner4@POLYN158902 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#59"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN156301 the MagicNumber/String  'Cannot calculate is ShapePoint is within sloped edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner4@POLYN158902 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner4@POLYN158902 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner4@POLYN158902 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner4@POLYN158902 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method org.stathissideris.ascii2image.text.AbstractCell.makeCorner4@POLYN158902 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#62"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method isNorthOf arguments ShapePoint  point"
+ , "c3" : "QC-JAV000007[00062] For method makeT list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeHorizontalLineN159503"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#62"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method org.stathissideris.ascii2image.text.AbstractCell.makeT@POLYN159428 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#66"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method org.stathissideris.ascii2image.text.AbstractCell.makeT@POLYN159428 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method org.stathissideris.ascii2image.text.AbstractCell.makeT@POLYN159428 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method isSouthOf arguments ShapePoint  point"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#66"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00066] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000007[00068] For method makeInverseT list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeHorizontalLineN159786"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#70"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method isWestOf arguments ShapePoint  point"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method org.stathissideris.ascii2image.text.AbstractCell.makeInverseT@POLYN159711 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#70"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00070] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method org.stathissideris.ascii2image.text.AbstractCell.makeInverseT@POLYN159711 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method org.stathissideris.ascii2image.text.AbstractCell.makeInverseT@POLYN159711 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#74"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method isEastOf arguments ShapePoint  point"
+ , "c3" : "QC-JAV000007[00074] For method makeK list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeVerticalLineN160069"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#74"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00074] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#79"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method org.stathissideris.ascii2image.graphics.ShapePoint.toString@POLYN158136 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method org.stathissideris.ascii2image.text.AbstractCell.makeK@POLYN159994 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#79"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method org.stathissideris.ascii2image.graphics.ShapePoint.toString@POLYN158136 the MagicNumber/String  ', ' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method org.stathissideris.ascii2image.text.AbstractCell.makeK@POLYN159994 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#79"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method org.stathissideris.ascii2image.graphics.ShapePoint.toString@POLYN158136 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method org.stathissideris.ascii2image.text.AbstractCell.makeK@POLYN159994 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#80"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00080] For method makeInverseK list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeVerticalLineN160352"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#82"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method assign arguments ShapePoint  point"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method org.stathissideris.ascii2image.text.AbstractCell.makeInverseK@POLYN160277 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#82"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00082] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method org.stathissideris.ascii2image.text.AbstractCell.makeInverseK@POLYN160277 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method org.stathissideris.ascii2image.text.AbstractCell.makeInverseK@POLYN160277 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#86"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00086] For method makeCross list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeVerticalLineN160635"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#88"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method moveTo arguments ShapePoint  point"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method org.stathissideris.ascii2image.text.AbstractCell.makeCross@POLYN160560 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#88"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00088] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method org.stathissideris.ascii2image.text.AbstractCell.makeCross@POLYN160560 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#101"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method org.stathissideris.ascii2image.text.AbstractCell.makeCross@POLYN160560 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method org.stathissideris.ascii2image.text.AbstractCell.makeCross@POLYN160560 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method org.stathissideris.ascii2image.text.AbstractCell.makeCross@POLYN160560 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method org.stathissideris.ascii2image.text.AbstractCell.makeCross@POLYN160560 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method setLocked arguments boolean  b"
+ , "c3" : "QC-JAV000007[00093] For method makeStar list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeVerticalLineN161040"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isEastOf@POLYN157966"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method org.stathissideris.ascii2image.text.AbstractCell.makeStar@POLYN160965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isNorthOf@POLYN157456"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method org.stathissideris.ascii2image.text.AbstractCell.makeStar@POLYN160965 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isSouthOf@POLYN157626"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method org.stathissideris.ascii2image.text.AbstractCell.makeStar@POLYN160965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isWestOf@POLYN157796"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method org.stathissideris.ascii2image.text.AbstractCell.makeStar@POLYN160965 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method org.stathissideris.ascii2image.text.AbstractCell.makeStar@POLYN160965 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

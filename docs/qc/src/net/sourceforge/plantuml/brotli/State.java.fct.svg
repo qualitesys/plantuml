@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="409px" preserveAspectRatio="none" style="width:292px;height:409px;background:#FFFFFF;" version="1.1" viewBox="0 0 292 409" width="292px" zoomAndPan="magnify"><defs/><g><path d="M137,10 L137,18.5664 L117,22.5664 L137,26.5664 L137,35.1328 A0,0 0 0 0 137,35.1328 L280,35.1328 A0,0 0 0 0 280,35.1328 L280,20 L270,10 L137,10 A0,0 0 0 0 137,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M270,10 L270,20 L280,20 L270,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="122" x="143" y="27.0669">constructor State()</text><ellipse cx="107" cy="22.5664" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="192" x="11" y="55.1328"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="21" y="76.2715">this.ringBuffer=new byte[0]</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="159" x="27.5" y="109.1016"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="139" x="37.5" y="130.2402">this.rings=new int[10]</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="122" x="46" y="163.0703"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="56" y="184.209">this.rings[0]=16</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="122" x="46" y="217.0391"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="56" y="238.1777">this.rings[1]=15</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="122" x="46" y="271.0078"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="56" y="292.1465">this.rings[2]=11</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="114" x="50" y="324.9766"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="94" x="60" y="346.1152">this.rings[3]=4</text><ellipse cx="107" cy="388.9453" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="100.8128" x2="113.1872" y1="382.7581" y2="395.1325"/><line style="stroke:#222222;stroke-width:2.5;" x1="113.1872" x2="100.8128" y1="382.7581" y2="395.1325"/><line style="stroke:#181818;stroke-width:1.0;" x1="107" x2="107" y1="32.5664" y2="55.1328"/><polygon fill="#181818" points="103,45.1328,107,55.1328,111,45.1328,107,49.1328" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="107" x2="107" y1="89.1016" y2="109.1016"/><polygon fill="#181818" points="103,99.1016,107,109.1016,111,99.1016,107,103.1016" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="107" x2="107" y1="143.0703" y2="163.0703"/><polygon fill="#181818" points="103,153.0703,107,163.0703,111,153.0703,107,157.0703" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="107" x2="107" y1="197.0391" y2="217.0391"/><polygon fill="#181818" points="103,207.0391,107,217.0391,111,207.0391,107,211.0391" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="107" x2="107" y1="251.0078" y2="271.0078"/><polygon fill="#181818" points="103,261.0078,107,271.0078,111,261.0078,107,265.0078" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="107" x2="107" y1="304.9766" y2="324.9766"/><polygon fill="#181818" points="103,314.9766,107,324.9766,111,314.9766,107,318.9766" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="107" x2="107" y1="358.9453" y2="378.9453"/><polygon fill="#181818" points="103,368.9453,107,378.9453,111,368.9453,107,372.9453" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[2c6a2b930dfe49189311c0f48df5cd70]
+@startuml
+!pragma layout smetana
+start
+note right
+constructor State()
+end note
+:this.ringBuffer=new byte[0];
+:this.rings=new int[10];
+:this.rings[0]=16;
+:this.rings[1]=15;
+:this.rings[2]=11;
+:this.rings[3]=4;
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java 20 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java 18 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextualComponentStencil"
- , "c2" : "net.sourceforge.plantuml.skin.rose.ComponentRoseNote"
+ , "c1" : "AbstractTextualComponent"
+ , "c2" : "net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.skin.rose.ComponentRoseNote" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#30"
- , "c1" : "ComponentRoseNote"
- , "c2" : "ComponentRoseNote(Style;Display;double;double;ISkinSimple;HorizontalAlignment;HorizontalAlignment;Colors)"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#23"
+ , "c1" : "ComponentRoseNoteBox"
+ , "c2" : "ComponentRoseNoteBox(Style;Display;ISkinSimple;Colors)"
  , "c3" : "1"
- , "c4" : "6"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#44"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#31"
  , "c1" : "double"
  , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#50"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#37"
  , "c1" : "double"
  , "c2" : "getPreferredHeight(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#55"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#42"
  , "c1" : "double"
  , "c2" : "getPaddingX()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#60"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#47"
  , "c1" : "double"
  , "c2" : "getPaddingY()"
  , "c3" : "1"
@@ -63,39 +63,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#65"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#52"
  , "c1" : "void"
  , "c2" : "drawInternalU(UGraphic;Area)"
- , "c3" : "7"
- , "c4" : "16"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#101"
- , "c1" : "double"
- , "c2" : "getStartingX(StringBounder;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#105"
- , "c1" : "double"
- , "c2" : "getEndingX(StringBounder;double)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c3" : "3"
+ , "c4" : "12"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.svg" }
 
 ] 
 , 
@@ -139,153 +121,142 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "5"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#30"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#23"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00030] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00023] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#23"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument spriteContainer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.ComponentRoseNoteBox@POLYN157466 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.ComponentRoseNoteBox@POLYN157466 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.ComponentRoseNoteBox@POLYN157466 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#24"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.ComponentRoseNoteBox@POLYN157466 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#31"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#31"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00031] For method getPreferredWidth arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.getPreferredWidth@POLYN158142 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#37"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00037] For method getPreferredHeight arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.getPreferredHeight@POLYN158418 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.getPaddingX@POLYN158629 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.getPaddingY@POLYN158731 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#52"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00052] For method drawInternalU arguments UGraphic  ug|Area  area"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#52"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00031] The argument spriteContainer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00052] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.ComponentRoseNote@POLYN163839 the MagicNumber/String  15 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.ComponentRoseNote@POLYN163839 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.ComponentRoseNote@POLYN163839 the MagicNumber/String  15 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.ComponentRoseNote@POLYN163839 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.ComponentRoseNote@POLYN163839 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#44"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method getPreferredWidth arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.getPreferredWidth@POLYN164883 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#50"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method getPreferredHeight arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.getPreferredHeight@POLYN165201 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method drawInternalU arguments UGraphic  ug|Area  area"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#65"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#52"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00065] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00052] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#65"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00065] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#72"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.drawInternalU@POLYN165646 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.drawInternalU@POLYN158825 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#76"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.drawInternalU@POLYN165646 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.drawInternalU@POLYN158825 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#94"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.drawInternalU@POLYN165646 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#101"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method getStartingX arguments StringBounder  stringBounder|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNote.getStartingX@POLYN168262 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.html#105"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00105] For method getEndingX arguments StringBounder  stringBounder|double  y"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox.drawInternalU@POLYN158825 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNote.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteBox.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

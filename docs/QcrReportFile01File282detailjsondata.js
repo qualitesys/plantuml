@@ -1,65 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/data/DataPlot.java.html" 
- , "texte" : "File src/jcckit/data/DataPlot.java 4 rule violations " 
- , "fic2"  : "./qc/src/jcckit/data/DataPlot.java.xml" 
+   "fic1"  : "./qc/src/jcckit/data/DataPoint.java.html" 
+ , "texte" : "File src/jcckit/data/DataPoint.java 4 rule violations " 
+ , "fic2"  : "./qc/src/jcckit/data/DataPoint.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "DataContainer"
- , "c2" : "jcckit.data.DataPlot"
+ , "c1" : "PointDataElement"
+ , "c2" : "jcckit.data.DataPoint"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.data.DataPlot" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.data.DataPoint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#15"
- , "c1" : "DataPlot"
- , "c2" : "DataPlot()"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#8"
+ , "c1" : "DataPoint"
+ , "c2" : "DataPoint(double;double)"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#13"
+ , "c1" : "DataContainer"
+ , "c2" : "getContainer()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#18"
- , "c1" : "DataPlot"
- , "c2" : "DataPlot(ConfigParameters)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#26"
- , "c1" : "DataPlot"
- , "c2" : "create(ConfigParameters)"
+ , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#18"
+ , "c1" : "void"
+ , "c2" : "setContainer(DataContainer)"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#31"
- , "c1" : "boolean"
- , "c2" : "isValid(DataElement)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "0"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/data/DataPlot.java.png" 
+   {"ligne" : "./qc/src/jcckit/data/DataPoint.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/data/DataPlot.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/data/DataPoint.java.svg" }
 
 ] 
 , 
@@ -86,51 +77,68 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#14"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00014] In method jcckit.data.DataPoint.getContainer@POLYN142697 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#18"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00018] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#26"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method create arguments ConfigParameters  config"
+ , "c3" : "QC-JAV000006[00018] For method setContainer arguments DataContainer  container"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#26"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#18"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00018] Void method setContainer is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#31"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method isValid arguments DataElement  element"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#18"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00018] Void method setContainer is empty or contains only a return. Interface segregation"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/jcckit/data/DataPlot.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/jcckit/data/DataPoint.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

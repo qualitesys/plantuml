@@ -1,45 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/posimo/LabelImage.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/posimo/LineRectIntersection.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.posimo.LabelImage"
+ , "c2" : "net.sourceforge.plantuml.posimo.LineRectIntersection"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.posimo.LabelImage" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.posimo.LineRectIntersection" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#22"
- , "c1" : "LabelImage"
- , "c2" : "LabelImage(Link;Rose;ISkinParam)"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#12"
+ , "c1" : "LineRectIntersection"
+ , "c2" : "LineRectIntersection(XLine2D;XRectangle2D)"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "10"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#34"
- , "c1" : "XDimension2D"
- , "c2" : "getDimension(StringBounder)"
- , "c3" : "1"
- , "c4" : "2"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#28"
+ , "c1" : "XPoint2D"
+ , "c2" : "getCloser(XPoint2D;XPoint2D...)"
+ , "c3" : "4"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic;double;double)"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#44"
+ , "c1" : "XPoint2D"
+ , "c2" : "getIntersection()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.svg" }
 
 ] 
 , 
@@ -77,10 +77,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -91,44 +98,75 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#15"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00015] The class LabelImage contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00008] The class LineRectIntersection contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#34"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method getDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method drawU arguments UGraphic  ug|double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#12"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00012] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#12"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00012] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#28"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00028] For method getCloser arguments XPoint2D  o|XPoint2D  ...other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.posimo.LineRectIntersection.getCloser@POLYN154360 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.posimo.LineRectIntersection.getCloser@POLYN154360 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#28"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00028] Public method getCloser is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

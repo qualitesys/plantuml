@@ -1,43 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java 18 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java 14 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "ETile"
- , "c2" : "net.sourceforge.plantuml.ebnf.ETileWithCircles"
+ , "c2" : "net.sourceforge.plantuml.ebnf.ETileZeroOrMore"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ebnf.ETileWithCircles" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ebnf.ETileZeroOrMore" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#21"
- , "c1" : "ETileWithCircles"
- , "c2" : "ETileWithCircles(ETile;HColor)"
- , "c3" : "1"
- , "c4" : "2"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#18"
+ , "c1" : "ETileZeroOrMore"
+ , "c2" : "ETileZeroOrMore(ETile)"
+ , "c3" : "2"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#27"
- , "c1" : "double"
- , "c2" : "getWidth(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#32"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#27"
  , "c1" : "double"
  , "c2" : "getH1(StringBounder)"
  , "c3" : "1"
@@ -45,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#37"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#32"
  , "c1" : "double"
  , "c2" : "getH2(StringBounder)"
  , "c3" : "1"
@@ -54,17 +45,26 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#42"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic)"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#37"
+ , "c1" : "double"
+ , "c2" : "getWidth(StringBounder)"
  , "c3" : "1"
- , "c4" : "10"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#60"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#42"
+ , "c1" : "void"
+ , "c2" : "drawU(UGraphic)"
+ , "c3" : "6"
+ , "c4" : "22"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#84"
  , "c1" : "void"
  , "c2" : "push(ETile)"
  , "c3" : "1"
@@ -75,9 +75,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.svg" }
 
 ] 
 , 
@@ -114,7 +114,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "12"
+ , "c4" : "8"
 }}
 ,
 { "ligne" : { "" : ""
@@ -127,133 +127,108 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.ETileZeroOrMore@POLYN161520 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.ETileZeroOrMore@POLYN161520 the MagicNumber/String  20 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.ETileZeroOrMore@POLYN161520 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#27"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method getWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00027] For method getH1 arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#28"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.getWidth@POLYN155785 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.getH1@POLYN162029 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#32"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#32"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method getH1 arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00032] For method getH2 arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.getH2@POLYN162153 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#37"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method getH2 arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00037] For method getWidth arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.getWidth@POLYN162399 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#42"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#42"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00042] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#42"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#42"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00042] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  1.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#54"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.drawU@POLYN162598 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#55"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.drawU@POLYN162598 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ebnf.ETileWithCircles.drawU@POLYN156306 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.html#60"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method push arguments ETile  tile"
+ , "c3" : "QC-JAV000006[00084] For method push arguments ETile  tile"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileWithCircles.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

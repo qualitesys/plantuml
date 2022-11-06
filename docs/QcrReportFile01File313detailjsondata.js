@@ -1,36 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/plot/CircleSymbolFactory.java.html" 
- , "texte" : "File src/jcckit/plot/CircleSymbolFactory.java 1 rule violations " 
- , "fic2"  : "./qc/src/jcckit/plot/CircleSymbolFactory.java.xml" 
+   "fic1"  : "./qc/src/jcckit/plot/CoordinateSystem.java.html" 
+ , "texte" : "File src/jcckit/plot/CoordinateSystem.java 0 rule violation " 
+ , "fic2"  : "./qc/src/jcckit/plot/CoordinateSystem.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractSymbolFactory"
- , "c2" : "jcckit.plot.CircleSymbolFactory"
+ , "c1" : "java.lang.Object"
+ , "c2" : "jcckit.plot.CoordinateSystem"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.plot.CircleSymbolFactory" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.plot.CoordinateSystem" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/jcckit/plot/CircleSymbolFactory.java.html#13"
- , "c1" : "CircleSymbolFactory"
- , "c2" : "CircleSymbolFactory(ConfigParameters)"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#11"
+ , "c1" : "GraphicalElement"
+ , "c2" : "getView()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/jcckit/plot/CircleSymbolFactory.java.html#18"
- , "c1" : "GraphicalElement"
- , "c2" : "createPlainSymbol(GraphPoint;double;GraphicAttributes)"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#14"
+ , "c1" : "ClippingShape"
+ , "c2" : "getClippingShape()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#17"
+ , "c1" : "Transformation"
+ , "c2" : "getTransformation()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/plot/CircleSymbolFactory.java.png" 
+   {"ligne" : "./qc/src/jcckit/plot/CoordinateSystem.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/plot/CircleSymbolFactory.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/plot/CoordinateSystem.java.svg" }
 
 ] 
 , 
@@ -66,25 +75,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/plot/CircleSymbolFactory.java.html#18"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method createPlainSymbol arguments GraphPoint  centerPosition|double  size|GraphicAttributes  attributes"
-}} 
-]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/jcckit/plot/CircleSymbolFactory.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/CoordinateSystem.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

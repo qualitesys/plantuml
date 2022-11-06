@@ -1,66 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/Component.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/skin/Component.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/Component.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/ComponentType.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/skin/ComponentType.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/ComponentType.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "WithStyle"
- , "c2" : "net.sourceforge.plantuml.skin.Component"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.skin.Component" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/Component.java.html#11"
- , "c1" : "XDimension2D"
- , "c2" : "getPreferredDimension(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/Component.java.html#13"
- , "c1" : "double"
- , "c2" : "getPreferredWidth(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/Component.java.html#15"
- , "c1" : "double"
- , "c2" : "getPreferredHeight(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/Component.java.html#17"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic;Area;Context2D)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
+ { "nomclasse" : "net.sourceforge.plantuml.skin." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/skin/Component.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/skin/Component.java.svg" }
-
 ] 
 , 
 "data04" : [
@@ -84,8 +41,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/Component.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/ComponentType.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

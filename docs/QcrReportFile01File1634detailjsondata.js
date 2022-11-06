@@ -1,23 +1,48 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorIncludeStrategy.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/preproc2/PreprocessorIncludeStrategy.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorIncludeStrategy.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.preproc2.PreprocessorModeSet"
+}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.preproc2." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.preproc2.PreprocessorModeSet" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java.html#8"
+ , "c1" : "ImportedFiles"
+ , "c2" : "getImportedFiles()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java.html#10"
+ , "c1" : "String"
+ , "c2" : "getCharset()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
 ] 
 }} 
 ]
 , 
 "data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java.svg" }
+
 ] 
 , 
 "data04" : [
@@ -41,8 +66,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorIncludeStrategy.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

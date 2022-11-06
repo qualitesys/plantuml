@@ -1,128 +1,74 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/Kal.java 41 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/LineOfSegments.java 27 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDrawable"
- , "c2" : "net.sourceforge.plantuml.svek.Kal"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.svek.LineOfSegments"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.Kal" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.LineOfSegments" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#33"
- , "c1" : "Kal"
- , "c2" : "Kal(SvekLine;String;FontConfiguration;ISkinParam;EntityImpl;Link;StringBounder)"
- , "c3" : "9"
- , "c4" : "15"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#66"
- , "c1" : "XDimension2D"
- , "c2" : "getDimension()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#71"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#43"
  , "c1" : "void"
- , "c2" : "drawU(UGraphic)"
- , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#78"
- , "c1" : "UTranslate"
- , "c2" : "getTranslate()"
+ , "c2" : "addSegment(double;double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#83"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#47"
  , "c1" : "double"
- , "c2" : "getX1()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#87"
- , "c1" : "double"
- , "c2" : "getX2()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#91"
- , "c1" : "UTranslate"
- , "c2" : "getTextDelta()"
- , "c3" : "5"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#107"
- , "c1" : "Direction"
- , "c2" : "getPosition()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#111"
- , "c1" : "void"
- , "c2" : "setTranslate(UTranslate;UDrawable)"
+ , "c2" : "getMean()"
  , "c3" : "2"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#120"
- , "c1" : "double"
- , "c2" : "overlapx(Kal)"
- , "c3" : "6"
- , "c4" : "6"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#55"
+ , "c1" : "void"
+ , "c2" : "solveOverlapsInternal()"
+ , "c3" : "4"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#136"
- , "c1" : "void"
- , "c2" : "moveX(double)"
- , "c3" : "3"
- , "c4" : "3"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#64"
+ , "c1" : "boolean"
+ , "c2" : "oneLoop()"
+ , "c3" : "4"
+ , "c4" : "10"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#79"
+ , "c1" : "double[]"
+ , "c2" : "solveOverlaps()"
+ , "c3" : "4"
+ , "c4" : "8"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.svg" }
 
 ] 
 , 
@@ -152,28 +98,28 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "4"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "30"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000021"
- , "c3" : "The same method is called several times, might be optimized"
- , "c4" : "2"
+ , "c4" : "17"
 }}
 ,
 { "ligne" : { "" : ""
@@ -186,294 +132,199 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#23"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00023] The class Kal contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00008] The class LineOfSegments contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#34"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00034] The argument link is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#40"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000008[00010] The class Segment contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#40"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.svek.LineOfSegments.Segment.Segment@POLYN157625 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#42"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.svek.LineOfSegments.Segment.Segment@POLYN157625 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.Kal.Kal@POLYN171945 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#71"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#22"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00022] For method compareTo arguments Segment  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#71"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#22"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00022] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#74"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#26"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00026] For method overlap arguments Segment  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#26"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00026] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.svek.Kal.drawU@POLYN174605 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.svek.LineOfSegments.Segment.overlap@POLYN158275 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.svek.LineOfSegments.Segment.overlap@POLYN158275 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.svek.LineOfSegments.Segment.overlap@POLYN158275 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#36"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00036] For method push arguments double  delta"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#43"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00043] For method addSegment arguments double  x1|double  x2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.LineOfSegments.getMean@POLYN159319 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.LineOfSegments.solveOverlapsInternal@POLYN159612 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#59"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.LineOfSegments.solveOverlapsInternal@POLYN159612 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.LineOfSegments.solveOverlapsInternal@POLYN159612 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#66"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00066] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00067] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.LineOfSegments.oneLoop@POLYN160074 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.LineOfSegments.oneLoop@POLYN160074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.LineOfSegments.oneLoop@POLYN160074 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.LineOfSegments.oneLoop@POLYN160074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.LineOfSegments.oneLoop@POLYN160074 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.LineOfSegments.oneLoop@POLYN160074 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#75"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.Kal.drawU@POLYN174605 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.Kal.drawU@POLYN174605 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.LineOfSegments.oneLoop@POLYN160074 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#84"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.svek.Kal.getX1@POLYN175454 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.svek.Kal.getX2@POLYN175596 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.svek.Kal.getTextDelta@POLYN175760 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#111"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00111] For method setTranslate arguments UTranslate  translate|UDrawable  decoration"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#120"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00120] For method overlapx arguments Kal  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#120"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00120] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00123] The same method call other.getX1() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00125] The same method call other.getX2() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.svek.Kal.overlapx@POLYN177183 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#136"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method moveX arguments double  dx"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.Kal.moveX@POLYN178487 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.svek.Kal.moveX@POLYN178487 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.svek.LineOfSegments.solveOverlaps@POLYN161106 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/Kal.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/LineOfSegments.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

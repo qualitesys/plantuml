@@ -1,56 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/command/Command.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/creole/command/Command.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/command/Command.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.creole.command.Command"
+ , "c1" : "Command"
+ , "c2" : "net.sourceforge.plantuml.creole.command.CommandCreoleCache"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.creole.command.Command" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.creole.command.CommandCreoleCache" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/Command.java.html#8"
- , "c1" : "String"
- , "c2" : "startingChars()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/Command.java.html#10"
- , "c1" : "int"
- , "c2" : "matchingSize(String)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/Command.java.html#12"
- , "c1" : "String"
- , "c2" : "executeAndGetRemaining(String;StripeSimple)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.html#16"
+ , "c1" : "CommandCreoleCache"
+ , "c2" : "CommandCreoleCache(String)"
+ , "c3" : "2"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/command/Command.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/command/Command.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.svg" }
 
 ] 
 , 
@@ -75,8 +57,42 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/command/Command.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.html#10"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00010] The class CommandCreoleCache contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.creole.command.CommandCreoleCache.CommandCreoleCache@POLYN147523 the MagicNumber/String  null should be converted to const"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

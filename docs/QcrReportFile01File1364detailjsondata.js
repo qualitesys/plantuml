@@ -1,83 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/graphic/SvgAttributes.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.graphic.SvgAttributes"
+ , "c1" : "FontChange"
+ , "c2" : "net.sourceforge.plantuml.graphic.SvgAttributesChange"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.graphic.SvgAttributes" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.graphic.SvgAttributesChange" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#17"
- , "c1" : "SvgAttributes"
- , "c2" : "SvgAttributes()"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#20"
- , "c1" : "SvgAttributes"
- , "c2" : "SvgAttributes(SvgAttributes)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#24"
- , "c1" : "SvgAttributes"
- , "c2" : "SvgAttributes(String)"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html#13"
+ , "c1" : "SvgAttributesChange"
+ , "c2" : "SvgAttributesChange(String)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#32"
- , "c1" : "Map<String,String>"
- , "c2" : "attributes()"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html#21"
+ , "c1" : "FontConfiguration"
+ , "c2" : "apply(FontConfiguration)"
  , "c3" : "1"
  , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#36"
- , "c1" : "SvgAttributes"
- , "c2" : "add(String;String)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#42"
- , "c1" : "SvgAttributes"
- , "c2" : "add(SvgAttributes)"
- , "c3" : "1"
- , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.svg" }
 
 ] 
 , 
@@ -107,7 +71,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -121,76 +85,58 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#13"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00013] The class SvgAttributes contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00008] The class SvgAttributesChange contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#20"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#25"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN151436 the MagicNumber/String  '(\\w+)\\s*=\\s*([%g][^%g]*[%g]|(?:\\w+))' should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.graphic.SvgAttributesChange.SvgAttributesChange@POLYN147618 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#28"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN151436 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.graphic.SvgAttributesChange.SvgAttributesChange@POLYN147618 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN151436 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#36"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html#21"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method add arguments String  key|String  value"
+ , "c3" : "QC-JAV000006[00021] For method apply arguments FontConfiguration  initial"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#42"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method add arguments SvgAttributes  toBeAdded"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#42"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.html#21"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument toBeAdded is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00021] The argument initial is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributesChange.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

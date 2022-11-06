@@ -1,43 +1,52 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java 12 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractAtomAtom"
- , "c2" : "net.sourceforge.plantuml.creole.atom.AtomVerticalTexts"
+ , "c2" : "net.sourceforge.plantuml.creole.atom.AtomWithMargin"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomVerticalTexts" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomWithMargin" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#14"
- , "c1" : "AtomVerticalTexts"
- , "c2" : "AtomVerticalTexts(List<Atom>)"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#19"
+ , "c1" : "AtomWithMargin"
+ , "c2" : "AtomWithMargin(Atom;double;double)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#26"
+ , "c1" : "List<Atom>"
+ , "c2" : "splitInTwo(StringBounder;double)"
+ , "c3" : "4"
+ , "c4" : "8"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#43"
+ , "c1" : "XDimension2D"
+ , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#18"
- , "c1" : "XDimension2D"
- , "c2" : "calculateDimension(StringBounder)"
- , "c3" : "2"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#29"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#47"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "1"
@@ -45,21 +54,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#33"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#51"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
- , "c3" : "2"
- , "c4" : "4"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.svg" }
 
 ] 
 , 
@@ -94,99 +103,109 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#18"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#26"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00026] For method splitInTwo arguments StringBounder  stringBounder|double  width"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#22"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00022] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.creole.atom.AtomWithMargin.splitInTwo@POLYN153112 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#19"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.calculateDimension@POLYN150615 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.calculateDimension@POLYN150615 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#29"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getStartingAltitude arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.getStartingAltitude@POLYN151282 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.creole.atom.AtomWithMargin.splitInTwo@POLYN153112 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method drawU arguments UGraphic  ug"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.creole.atom.AtomWithMargin.splitInTwo@POLYN153112 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.creole.atom.AtomWithMargin.splitInTwo@POLYN153112 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.creole.atom.AtomWithMargin.splitInTwo@POLYN153112 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#36"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00036] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.creole.atom.AtomWithMargin.splitInTwo@POLYN153112 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#34"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#43"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00043] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.drawU@POLYN151462 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.creole.atom.AtomWithMargin.calculateDimension@POLYN154312 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#47"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00047] For method getStartingAltitude arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#51"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00051] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#51"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00051] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,9 +1,9 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/Side.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/Side.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/Side.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/SingleStrategy.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/SingleStrategy.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/SingleStrategy.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -41,8 +41,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/Side.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/SingleStrategy.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,38 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java 9 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<UCenteredCharacter,EpsGraphics>"
- , "c2" : "net.sourceforge.plantuml.ugraphic.eps.DriverCenteredCharacterEps"
+ , "c1" : "UDriver<DotPath,EpsGraphics>"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.eps.DriverDotPathEps"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.eps.DriverCenteredCharacterEps" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.eps.DriverDotPathEps" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#18"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.html#12"
  , "c1" : "void"
- , "c2" : "draw(UCenteredCharacter;double;double;ColorMapper;UParam;EpsGraphics)"
- , "c3" : "1"
- , "c4" : "8"
+ , "c2" : "draw(DotPath;double;double;ColorMapper;UParam;EpsGraphics)"
+ , "c3" : "2"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.svg" }
 
 ] 
 , 
@@ -76,7 +76,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -89,70 +89,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#16"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00016] The class DriverCenteredCharacterEps contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00010] The class DriverDotPathEps contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#18"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.html#12"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method draw arguments UCenteredCharacter  centeredCharacter|double  x|double  y|ColorMapper  mapper|UParam  param|EpsGraphics  eps"
+ , "c3" : "QC-JAV000006[00012] For method draw arguments DotPath  shape|double  x|double  y|ColorMapper  mapper|UParam  param|EpsGraphics  eps"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#18"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.html#12"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00018] The argument centeredCharacter is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00012] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#18"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.html#12"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00018] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00012] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#18"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.html#12"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00018] The argument eps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00012] The argument eps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#23"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.ugraphic.eps.DriverCenteredCharacterEps.draw@POLYN150572 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.ugraphic.eps.DriverCenteredCharacterEps.draw@POLYN150572 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.eps.DriverCenteredCharacterEps.draw@POLYN150572 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.eps.DriverCenteredCharacterEps.draw@POLYN150572 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.ugraphic.eps.DriverDotPathEps.draw@POLYN148607 the MagicNumber/String  false should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverCenteredCharacterEps.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverDotPathEps.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

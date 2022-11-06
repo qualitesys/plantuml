@@ -1,27 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.teoz.TileUtils"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.teoz.TimeHook"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.TileUtils" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.TimeHook" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java.html#6"
- , "c1" : "Tile"
- , "c2" : "withMargin(Tile;double;double;double;double)"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html#8"
+ , "c1" : "TimeHook"
+ , "c2" : "TimeHook(double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html#12"
+ , "c1" : "double"
+ , "c2" : "getValue()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html#17"
+ , "c1" : "String"
+ , "c2" : "toString()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.svg" }
 
 ] 
 , 
@@ -66,9 +84,9 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "1"
 }}
  ] 
@@ -76,20 +94,23 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java.html#4"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class TileUtils contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class TimeHook contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java.html#6"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00006] For method withMargin arguments Tile  tile|double  x1|double  x2|double  y1|double  y2"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.sequencediagram.teoz.TimeHook.toString@POLYN145665 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileUtils.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

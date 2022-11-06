@@ -1,63 +1,36 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactory.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/salt/factory/ElementFactory.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ElementFactory"
- , "c2" : "net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.salt.factory.ElementFactory"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.salt.factory.ElementFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#19"
- , "c1" : "AbstractElementFactoryComplex"
- , "c2" : "AbstractElementFactoryComplex(DataSource;Dictionary)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#24"
- , "c1" : "void"
- , "c2" : "addFactory(ElementFactory)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#28"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactory.java.html#9"
  , "c1" : "Terminated<Element>"
- , "c2" : "getNextElement()"
- , "c3" : "3"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#37"
- , "c1" : "DataSource"
- , "c2" : "getDataSource()"
+ , "c2" : "create()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#41"
- , "c1" : "Dictionary"
- , "c2" : "getDictionary()"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactory.java.html#11"
+ , "c1" : "boolean"
+ , "c2" : "ready()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -66,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactory.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactory.java.svg" }
 
 ] 
 , 
@@ -93,53 +66,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00012] The class AbstractElementFactoryComplex contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#24"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method addFactory arguments ElementFactory  factory"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex.getNextElement@POLYN150146 the MagicNumber/String  0 should be converted to const"
-}} 
-]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactory.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

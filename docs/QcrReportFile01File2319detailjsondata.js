@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractEntityImage"
- , "c2" : "net.sourceforge.plantuml.svek.image.EntityImageAssociation"
+ , "c2" : "net.sourceforge.plantuml.svek.image.EntityImageAssociationPoint"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.image.EntityImageAssociation" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.image.EntityImageAssociationPoint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#24"
- , "c1" : "EntityImageAssociation"
- , "c2" : "EntityImageAssociation(ILeaf;ISkinParam;SName)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#24"
+ , "c1" : "EntityImageAssociationPoint"
+ , "c2" : "EntityImageAssociationPoint(ILeaf;ISkinParam)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#29"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#28"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#33"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#32"
  , "c1" : "Style"
  , "c2" : "getStyle()"
  , "c3" : "1"
@@ -46,25 +46,16 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#37"
- , "c1" : "StyleSignatureBasic"
- , "c2" : "getStyleSignature()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#41"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#37"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
- , "c4" : "13"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#60"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#44"
  , "c1" : "ShapeType"
  , "c2" : "getShapeType()"
  , "c3" : "1"
@@ -75,9 +66,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.svg" }
 
 ] 
 , 
@@ -111,13 +102,6 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "7"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -127,77 +111,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#29"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00028] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.svek.image.EntityImageAssociation.calculateDimension@POLYN156765 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.svek.image.EntityImageAssociation.calculateDimension@POLYN156765 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#41"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00037] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#41"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.html#37"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.image.EntityImageAssociation.drawU@POLYN157362 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.svek.image.EntityImageAssociation.drawU@POLYN157362 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.svek.image.EntityImageAssociation.drawU@POLYN157362 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.image.EntityImageAssociation.drawU@POLYN157362 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.image.EntityImageAssociation.drawU@POLYN157362 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAVCWE476[00037] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociationPoint.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

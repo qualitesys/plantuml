@@ -1,74 +1,101 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ElkWithProperty"
- , "c2" : "net.sourceforge.plantuml.elk.proxy.graph.ElkEdge"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.graph.ElkEdge" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.html#11"
- , "c1" : "ElkEdge"
- , "c2" : "ElkEdge(Object)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.html#15"
- , "c1" : "ElkNode"
- , "c2" : "getContainingNode()"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#14"
+ , "c1" : "ElkEdgeSection"
+ , "c2" : "ElkEdgeSection(Object)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.html#19"
- , "c1" : "Collection<ElkLabel>"
- , "c2" : "getLabels()"
- , "c3" : "2"
- , "c4" : "4"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#19"
+ , "c1" : "int"
+ , "c2" : "hashCode()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#24"
+ , "c1" : "boolean"
+ , "c2" : "equals(Object)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.html#28"
- , "c1" : "List<ElkEdgeSection>"
- , "c2" : "getSections()"
- , "c3" : "2"
- , "c4" : "4"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#28"
+ , "c1" : "double"
+ , "c2" : "getStartX()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.html#37"
- , "c1" : "boolean"
- , "c2" : "isHierarchical()"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#32"
+ , "c1" : "double"
+ , "c2" : "getStartY()"
  , "c3" : "1"
  , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#36"
+ , "c1" : "double"
+ , "c2" : "getEndX()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#40"
+ , "c1" : "double"
+ , "c2" : "getEndY()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#44"
+ , "c1" : "Collection<ElkBendPoint>"
+ , "c2" : "getBendPoints()"
+ , "c3" : "2"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.svg" }
 
 ] 
 , 
@@ -96,36 +123,81 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "5"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.html#16"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdge.getContainingNode@POLYN140741 the MagicNumber/String  'getContainingNode' should be converted to const"
+ , "c3" : "QC-JAV000008[00010] The class ElkEdgeSection contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdge.getLabels@POLYN140949 the MagicNumber/String  'getLabels' should be converted to const"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#24"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00024] For method equals arguments Object  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.html#30"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdge.getSections@POLYN141489 the MagicNumber/String  'getSections' should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getStartX@POLYN142351 the MagicNumber/String  'getStartX' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getStartY@POLYN142519 the MagicNumber/String  'getStartY' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getEndX@POLYN142687 the MagicNumber/String  'getEndX' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getEndY@POLYN142855 the MagicNumber/String  'getEndY' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#46"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getBendPoints@POLYN143044 the MagicNumber/String  'getBendPoints' should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdge.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

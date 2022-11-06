@@ -1,36 +1,36 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/bpm/BpmEventAdd.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/bpm/BpmEventGoto.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "BpmEvent"
- , "c2" : "net.sourceforge.plantuml.bpm.BpmEventAdd"
+ , "c2" : "net.sourceforge.plantuml.bpm.BpmEventGoto"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.bpm.BpmEventAdd" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.bpm.BpmEventGoto" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#8"
- , "c1" : "BpmEventAdd"
- , "c2" : "BpmEventAdd(BpmElement)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.html#8"
+ , "c1" : "BpmEventGoto"
+ , "c2" : "BpmEventGoto(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#12"
- , "c1" : "BpmElement"
- , "c2" : "getElement()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.html#12"
+ , "c1" : "String"
+ , "c2" : "getId()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.svg" }
 
 ] 
 , 
@@ -78,13 +78,16 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#4"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class BpmEventAdd contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class BpmEventGoto contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

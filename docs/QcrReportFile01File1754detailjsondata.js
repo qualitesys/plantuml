@@ -1,36 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/lang/Something.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/lang/Subject.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/Subject.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.project.lang.Something"
+ , "c2" : "net.sourceforge.plantuml.project.lang.Subject"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.lang.Something" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.lang.Subject" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Something.java.html#11"
- , "c1" : "IRegex"
- , "c2" : "toRegex(String)"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html#13"
+ , "c1" : "Collection<?extendsSentenceSimple>"
+ , "c2" : "getSentences()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Something.java.html#13"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html#15"
+ , "c1" : "IRegex"
+ , "c2" : "toRegex()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/Subject.java.html#17"
  , "c1" : "Failable<?extendsObject>"
- , "c2" : "getMe(GanttDiagram;RegexResult;String)"
+ , "c2" : "getMe(GanttDiagram;RegexResult)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/Subject.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/Subject.java.svg" }
 
 ] 
 , 
@@ -66,8 +75,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/lang/Something.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/lang/Subject.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

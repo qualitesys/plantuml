@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ScaleMaxHeight.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ScaleMaxWidth.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "ScaleProtectedScale"
- , "c2" : "net.sourceforge.plantuml.ScaleMaxHeight"
+ , "c2" : "net.sourceforge.plantuml.ScaleMaxWidth"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ScaleMaxHeight" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ScaleMaxWidth" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#8"
- , "c1" : "ScaleMaxHeight"
- , "c2" : "ScaleMaxHeight(double)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.html#8"
+ , "c1" : "ScaleMaxWidth"
+ , "c2" : "ScaleMaxWidth(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#12"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.html#12"
  , "c1" : "double"
  , "c2" : "getScaleInternal(double;double)"
  , "c3" : "2"
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.svg" }
 
 ] 
 , 
@@ -85,27 +85,30 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.html#12"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00012] For method getScaleInternal arguments double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#14"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.ScaleMaxHeight.getScaleInternal@POLYN145786 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.ScaleMaxWidth.getScaleInternal@POLYN145786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#15"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.ScaleMaxHeight.getScaleInternal@POLYN145786 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.ScaleMaxWidth.getScaleInternal@POLYN145786 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidth.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

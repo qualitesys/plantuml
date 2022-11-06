@@ -1,23 +1,31 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/EdgeLabelPlacement.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/core/options/EdgeLabelPlacement.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/EdgeLabelPlacement.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/HierarchyHandling.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/core/options/HierarchyHandling.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/HierarchyHandling.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.elk.proxy.core.options.HierarchyHandling"
+}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.core.options." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.core.options.HierarchyHandling" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/HierarchyHandling.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/HierarchyHandling.java.svg" }
+
 ] 
 , 
 "data04" : [
@@ -41,8 +49,28 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/EdgeLabelPlacement.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00005"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/HierarchyHandling.java.html#5"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00005] The class HierarchyHandling contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/options/HierarchyHandling.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

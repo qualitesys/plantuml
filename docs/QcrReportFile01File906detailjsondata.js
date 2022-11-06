@@ -1,45 +1,36 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/code/TranscoderUtil.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/code/URLEncoder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/code/URLEncoder.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/code/URLEncoder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.code.TranscoderUtil"
+ , "c2" : "net.sourceforge.plantuml.code.URLEncoder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.code.TranscoderUtil" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.code.URLEncoder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.html#6"
- , "c1" : "Transcoder"
- , "c2" : "getDefaultTranscoder()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/URLEncoder.java.html#6"
+ , "c1" : "String"
+ , "c2" : "encode(byte[])"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.html#10"
- , "c1" : "Transcoder"
- , "c2" : "getDefaultTranscoderProtected()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.html#15"
- , "c1" : "Transcoder"
- , "c2" : "getDefaultTranscoderProtectedPure()"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/URLEncoder.java.html#8"
+ , "c1" : "byte[]"
+ , "c2" : "decode(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/code/URLEncoder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/URLEncoder.java.svg" }
 
 ] 
 , 
@@ -75,25 +66,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.html#4"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class TranscoderUtil contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/TranscoderUtil.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/URLEncoder.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

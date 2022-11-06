@@ -1,38 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentialsContainer.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/security/authentication/SecurityCredentialsContainer.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentialsContainer.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.security.authentication.SecurityCredentialsContainer"
+ , "c1" : "SecurityAccessInterceptor"
+ , "c2" : "net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAccessInterceptor"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.security.authentication.SecurityCredentialsContainer" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAccessInterceptor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentialsContainer.java.html#7"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.html#9"
  , "c1" : "void"
- , "c2" : "eraseCredentials()"
+ , "c2" : "apply(SecurityAuthentication;URLConnection)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "0"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentialsContainer.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentialsContainer.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.svg" }
 
 ] 
 , 
@@ -57,8 +57,70 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentialsContainer.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.html#7"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00007] The class SecurityDefaultNoopAccessInterceptor contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.html#9"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00009] For method apply arguments SecurityAuthentication  authentication|URLConnection  connection"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.html#9"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00009] Void method apply is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.html#9"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00009] Void method apply is empty or contains only a return. Interface segregation"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAccessInterceptor.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

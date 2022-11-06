@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java 11 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java 9 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<SequenceDiagram>"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.command.CommandDelay"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.command.CommandDivider"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.command.CommandDelay" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.command.CommandDivider" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#17"
- , "c1" : "CommandDelay"
- , "c2" : "CommandDelay()"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#16"
+ , "c1" : "CommandDivider"
+ , "c2" : "CommandDivider()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#21"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#20"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#28"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#30"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(SequenceDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.svg" }
 
 ] 
 , 
@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "8"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,84 +100,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#23"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.getRegexConcat@POLYN151117 the MagicNumber/String  '(?:\\.{3}|\u2026)' should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN150686 the MagicNumber/String  '==' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#24"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.getRegexConcat@POLYN151117 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN150686 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#24"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.getRegexConcat@POLYN151117 the MagicNumber/String  '(.*)(?:\\.{3}|\u2026)' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN150686 the MagicNumber/String  '(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#28"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN150686 the MagicNumber/String  '==' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#30"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method executeArg arguments SequenceDiagram  diagram|LineLocation  location|RegexResult  arg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN151556 the MagicNumber/String  'LABEL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN151556 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN151556 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000006[00030] For method executeArg arguments SequenceDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN151556 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#30"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00030] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#30"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#30"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00030] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN151556 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.executeArg@POLYN151233 the MagicNumber/String  'LABEL' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.executeArg@POLYN151233 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

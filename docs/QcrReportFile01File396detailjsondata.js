@@ -1,99 +1,63 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ISkinSimple.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ISkinSimple.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ISkinSimple.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ISourceFileReader.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ISourceFileReader.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SpriteContainer"
- , "c2" : "net.sourceforge.plantuml.ISkinSimple"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.ISourceFileReader"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ISkinSimple" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ISourceFileReader" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#10"
- , "c1" : "String"
- , "c2" : "getValue(String)"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#9"
+ , "c1" : "List<GeneratedImage>"
+ , "c2" : "getGeneratedImages()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#12"
- , "c1" : "Map<String,String>"
- , "c2" : "values()"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#11"
+ , "c1" : "List<BlockUml>"
+ , "c2" : "getBlocks()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#14"
- , "c1" : "double"
- , "c2" : "getPadding()"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#13"
+ , "c1" : "boolean"
+ , "c2" : "hasError()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#16"
- , "c1" : "String"
- , "c2" : "getMonospacedFamily()"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#15"
+ , "c1" : "ISourceFileReader"
+ , "c2" : "setFileFormatOption(FileFormatOption)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#18"
- , "c1" : "int"
- , "c2" : "getTabSize()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#20"
- , "c1" : "HColorSet"
- , "c2" : "getIHtmlColorSet()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#22"
- , "c1" : "int"
- , "c2" : "getDpi()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#24"
- , "c1" : "LineBreakStrategy"
- , "c2" : "wrapWidth()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#26"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ISourceFileReader.java.html#17"
  , "c1" : "void"
- , "c2" : "copyAllFrom(Map<String,String>)"
+ , "c2" : "setCheckMetadata(boolean)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -102,9 +66,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ISkinSimple.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ISourceFileReader.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ISkinSimple.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ISourceFileReader.java.svg" }
 
 ] 
 , 
@@ -129,8 +93,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ISkinSimple.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ISourceFileReader.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

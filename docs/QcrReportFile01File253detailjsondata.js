@@ -1,30 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/h/ST_pathend_t.java.html" 
- , "texte" : "File src/h/ST_pathend_t.java 2 rule violations " 
- , "fic2"  : "./qc/src/h/ST_pathend_t.java.xml" 
+   "fic1"  : "./qc/src/h/ST_point.java.html" 
+ , "texte" : "File src/h/ST_point.java 2 rule violations " 
+ , "fic2"  : "./qc/src/h/ST_point.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "UnsupportedStarStruct"
- , "c2" : "h.ST_pathend_t"
+ , "c2" : "h.ST_point"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "h.ST_pathend_t" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "h.ST_point" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/h/ST_point.java.html#15"
+ , "c1" : "__struct__"
+ , "c2" : "copy()"
+ , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/h/ST_point.java.html#23"
+ , "c1" : "void"
+ , "c2" : "___(__struct__)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_pathend_t.java.png" 
+   {"ligne" : "./qc/src/h/ST_point.java.png" 
 
- , "ligneplantuml" : "./qc/src/h/ST_pathend_t.java.svg" }
+ , "ligneplantuml" : "./qc/src/h/ST_point.java.svg" }
 
 ] 
 , 
@@ -54,27 +71,37 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
- , "c4" : "2"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/h/ST_pathend_t.java.html#11"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/h/ST_point.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/h/ST_pathend_t.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/h/ST_point.java.html#23"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00023] For method ___ arguments __struct__  other"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/h/ST_pathend_t.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/h/ST_point.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

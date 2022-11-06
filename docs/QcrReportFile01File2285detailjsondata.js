@@ -1,43 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractExtremityFactoryExtremityFactory"
- , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDiamond"
+ , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDoubleLine"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDiamond" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDoubleLine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.html#14"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.html#12"
  , "c1" : "UDrawable"
  , "c2" : "createUDrawable(XPoint2D;double;Side)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.html#18"
- , "c1" : "ExtremityFactoryDiamond"
- , "c2" : "ExtremityFactoryDiamond(boolean)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.html#23"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.html#18"
  , "c1" : "UDrawable"
  , "c2" : "createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side)"
  , "c3" : "1"
@@ -48,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.svg" }
 
 ] 
 , 
@@ -93,28 +84,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.html#14"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.html#12"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method createUDrawable arguments XPoint2D  p0|double  angle|Side  side"
+ , "c3" : "QC-JAV000006[00012] For method createUDrawable arguments XPoint2D  p0|double  angle|Side  side"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.html#15"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDiamond.createUDrawable@POLYN148124 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDoubleLine.createUDrawable@POLYN147557 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.html#23"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
+ , "c3" : "QC-JAV000006[00018] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDiamond.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryDoubleLine.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

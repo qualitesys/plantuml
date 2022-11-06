@@ -1,90 +1,54 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractFtile"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedRight"
+ , "c1" : "FtileDecorate"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedVertically"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedRight" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedVertically" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#15"
- , "c1" : "FtileMargedRight"
- , "c2" : "FtileMargedRight(Ftile;double)"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#14"
+ , "c1" : "FtileMargedVertically"
+ , "c2" : "FtileMargedVertically(Ftile;double;double)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#22"
- , "c1" : "LinkRendering"
- , "c2" : "getInLinkRendering()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#27"
- , "c1" : "LinkRendering"
- , "c2" : "getOutLinkRendering()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#31"
- , "c1" : "Set<Swimlane>"
- , "c2" : "getSwimlanes()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#35"
- , "c1" : "Swimlane"
- , "c2" : "getSwimlaneIn()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#39"
- , "c1" : "Swimlane"
- , "c2" : "getSwimlaneOut()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#44"
- , "c1" : "FtileGeometry"
- , "c2" : "calculateDimensionFtile(StringBounder)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#52"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#20"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#29"
+ , "c1" : "FtileGeometry"
+ , "c2" : "calculateDimension(StringBounder)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#36"
+ , "c1" : "FtileGeometry"
+ , "c2" : "calculateDimensionSlow(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -93,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.svg" }
 
 ] 
 , 
@@ -125,6 +89,13 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "2"
 }}
 ,
@@ -132,41 +103,58 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#15"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument tile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#44"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#20"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method calculateDimensionFtile arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00020] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#52"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#20"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00020] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedVertically.drawU@POLYN149580 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#29"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00029] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedVertically.calculateDimension@POLYN149982 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.html#36"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00036] For method calculateDimensionSlow arguments StringBounder  stringBounder"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedVertically.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

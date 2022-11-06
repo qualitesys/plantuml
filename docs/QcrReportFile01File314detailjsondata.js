@@ -1,25 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/plot/CoordinateSystem.java.html" 
- , "texte" : "File src/jcckit/plot/CoordinateSystem.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/plot/CoordinateSystem.java.xml" 
+   "fic1"  : "./qc/src/jcckit/plot/Curve.java.html" 
+ , "texte" : "File src/jcckit/plot/Curve.java 0 rule violation " 
+ , "fic2"  : "./qc/src/jcckit/plot/Curve.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "jcckit.plot.CoordinateSystem"
+ , "c2" : "jcckit.plot.Curve"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.plot.CoordinateSystem" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.plot.Curve" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#11"
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#10"
  , "c1" : "GraphicalElement"
  , "c2" : "getView()"
  , "c3" : "1"
@@ -27,19 +27,28 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#14"
- , "c1" : "ClippingShape"
- , "c2" : "getClippingShape()"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#13"
+ , "c1" : "GraphicalElement"
+ , "c2" : "getLegendSymbol()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#17"
- , "c1" : "Transformation"
- , "c2" : "getTransformation()"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#16"
+ , "c1" : "Hint"
+ , "c2" : "addPoint(GraphPoint;Hint)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#19"
+ , "c1" : "void"
+ , "c2" : "removeAllPoints()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/plot/CoordinateSystem.java.png" 
+   {"ligne" : "./qc/src/jcckit/plot/Curve.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/plot/CoordinateSystem.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/plot/Curve.java.svg" }
 
 ] 
 , 
@@ -75,8 +84,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/jcckit/plot/CoordinateSystem.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/Curve.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

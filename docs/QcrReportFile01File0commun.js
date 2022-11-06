@@ -687,7 +687,20 @@ function genererBloc13() {
 function genererBloc15() {
    console.log("genererBloc15() lireFichier start");
 
-   console.log("TODO");
+   var lsStr='';
+   lsStr+='<h3><a name="functions_algorithms">Functions algorithms</a></h3><br />';
+   leEntry.push('Functions algorithms')
+   if (typeof(maDataBlocs)!='undefined'&& typeof(maDataBlocs.data15)!='undefined' ) {
+         lsStr+='<img src="'+maDataBlocs.data15.fichierplantumlsvg+'" alt = "Hardcopy image">';
+
+      var theDivBloc15 = document.getElementById("theDivBloc15");  
+
+      theDivBloc15.innerHTML = lsStr;
+
+   } else {
+
+   }
+
    console.log("genererBloc15() lireFichier end");
 
 }

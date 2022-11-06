@@ -1,36 +1,36 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/NotFoundException.java 0 rule violation " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.xml" 
+   "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/ReaderException.java.html" 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/ReaderException.java 1 rule violations " 
+ , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/ReaderException.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ReaderException"
- , "c2" : "ext.plantuml.com.google.zxing.NotFoundException"
+ , "c1" : "Exception"
+ , "c2" : "ext.plantuml.com.google.zxing.ReaderException"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "ext.plantuml.com.google.zxing.NotFoundException" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "ext.plantuml.com.google.zxing.ReaderException" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.html#10"
- , "c1" : "NotFoundException"
- , "c2" : "NotFoundException()"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/ReaderException.java.html#17"
+ , "c1" : "ReaderException"
+ , "c2" : "ReaderException()"
  , "c3" : "1"
  , "c4" : "0"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.html#14"
- , "c1" : "NotFoundException"
- , "c2" : "getNotFoundInstance()"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/ReaderException.java.html#74"
+ , "c1" : "Throwable"
+ , "c2" : "fillInStackTrace()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.png" 
+   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/ReaderException.java.png" 
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.svg" }
+ , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/ReaderException.java.svg" }
 
 ] 
 , 
@@ -66,8 +66,28 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ReaderException.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.ReaderException.fillInStackTrace@POLYN141122 the MagicNumber/String  null should be converted to const"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/ext/plantuml/com/google/zxing/ReaderException.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

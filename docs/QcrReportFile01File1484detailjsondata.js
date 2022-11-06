@@ -1,23 +1,57 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/math/PSystemLatex.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/math/PSystemLatexFactory.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
+{ "ligne" : { "" : ""
+ , "c1" : "PSystemBasicFactory<PSystemLatex>"
+ , "c2" : "net.sourceforge.plantuml.math.PSystemLatexFactory"
+}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.math.PSystemLatexFactory" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#10"
+ , "c1" : "PSystemLatexFactory"
+ , "c2" : "PSystemLatexFactory(DiagramType)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#15"
+ , "c1" : "PSystemLatex"
+ , "c2" : "initDiagram(UmlSource;String)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#23"
+ , "c1" : "PSystemLatex"
+ , "c2" : "executeLine(UmlSource;PSystemLatex;String)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
 ] 
 }} 
 ]
 , 
 "data03" : [
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.png" 
+
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.svg" }
+
 ] 
 , 
 "data04" : [
@@ -43,23 +77,61 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999999"
- , "c3" : "Syntax analysis failure on the source code"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
  , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00002"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#2"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/math/PSystemLatex.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . math ; import java "
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#15"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00015] For method initDiagram arguments UmlSource  source|String  startLine"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#19"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.math.PSystemLatexFactory.initDiagram@POLYN147306 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#23"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00023] For method executeLine arguments UmlSource  source|PSystemLatex  system|String  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#23"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument system is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

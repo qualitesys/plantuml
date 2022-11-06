@@ -1,9 +1,9 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/annotation/HaxeIgnored.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/annotation/HaxeIgnored.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/annotation/HaxeIgnored.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ant/CheckZipTask.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -12,7 +12,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.annotation." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
@@ -41,8 +41,28 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/annotation/HaxeIgnored.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999999"
+ , "c3" : "Syntax analysis failure on the source code"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00002"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#2"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/ant/CheckZipTask.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . ant ; import java "
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

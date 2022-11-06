@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="238px" preserveAspectRatio="none" style="width:597px;height:238px;background:#FFFFFF;" version="1.1" viewBox="0 0 597 238" width="597px" zoomAndPan="magnify"><defs/><g><path d="M223,10 L223,33.6992 L203,37.6992 L223,41.6992 L223,65.3984 A0,0 0 0 0 223,65.3984 L585,65.3984 A0,0 0 0 0 585,65.3984 L585,20 L575,10 L223,10 A0,0 0 0 0 223,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M575,10 L575,20 L585,20 L575,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="321" x="229" y="27.0669">void draw(UCenteredCharactercenteredCharacter,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="341" x="229" y="42.1997">doublex,doubley,ColorMappermapper,UParamparam,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="229" y="57.3325">EpsGraphicseps)</text><ellipse cx="193" cy="37.6992" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="364" x="11" y="85.3984"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="344" x="21" y="106.5371">eps.setStrokeColor(param.getColor().toColor(mapper))</text><rect fill="#F1F1F1" height="47.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="280" x="53" y="139.3672"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="260" x="63" y="160.5059">DriverTextEps.drawPathIterator(eps,xpos,</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="148" x="63" y="174.4746">ypos,t.getOutline(null ))</text><ellipse cx="193" cy="217.3047" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="186.8128" x2="199.1872" y1="211.1175" y2="223.4919"/><line style="stroke:#222222;stroke-width:2.5;" x1="199.1872" x2="186.8128" y1="211.1175" y2="223.4919"/><line style="stroke:#181818;stroke-width:1.0;" x1="193" x2="193" y1="47.6992" y2="85.3984"/><polygon fill="#181818" points="189,75.3984,193,85.3984,197,75.3984,193,79.3984" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="193" x2="193" y1="119.3672" y2="139.3672"/><polygon fill="#181818" points="189,129.3672,193,139.3672,197,129.3672,193,133.3672" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="193" x2="193" y1="187.3047" y2="207.3047"/><polygon fill="#181818" points="189,197.3047,193,207.3047,197,197.3047,193,201.3047" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[77e25a8ebd7de822809921fa7f01f078]
+@startuml
+!pragma layout smetana
+start
+note right
+void draw(UCenteredCharactercenteredCharacter,
+doublex,doubley,ColorMappermapper,UParamparam,
+EpsGraphicseps)
+end note
+:eps.setStrokeColor(param.getColor().toColor(mapper));
+:DriverTextEps.drawPathIterator(eps,xpos,
+ypos,t.getOutline(null ));
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

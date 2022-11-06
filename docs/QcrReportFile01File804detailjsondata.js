@@ -1,30 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEvent.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/bpm/BpmEvent.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEvent.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/bpm/BpmEventAdd.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.bpm.BpmEvent"
+ , "c1" : "BpmEvent"
+ , "c2" : "net.sourceforge.plantuml.bpm.BpmEventAdd"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.bpm.BpmEvent" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.bpm.BpmEventAdd" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#8"
+ , "c1" : "BpmEventAdd"
+ , "c2" : "BpmEventAdd(BpmElement)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#12"
+ , "c1" : "BpmElement"
+ , "c2" : "getElement()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEvent.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEvent.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.svg" }
 
 ] 
 , 
@@ -49,8 +66,28 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEvent.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#4"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00004] The class BpmEventAdd contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

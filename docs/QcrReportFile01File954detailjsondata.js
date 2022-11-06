@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<AbstractPSystem>"
- , "c2" : "net.sourceforge.plantuml.command.CommandScaleMaxHeight"
+ , "c2" : "net.sourceforge.plantuml.command.CommandScaleMaxWidth"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.command.CommandScaleMaxHeight" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.command.CommandScaleMaxWidth" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#14"
- , "c1" : "CommandScaleMaxHeight"
- , "c2" : "CommandScaleMaxHeight()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#14"
+ , "c1" : "CommandScaleMaxWidth"
+ , "c2" : "CommandScaleMaxWidth()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#18"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#18"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -37,7 +37,7 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#30"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#30"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(AbstractPSystem;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.svg" }
 
 ] 
 , 
@@ -101,76 +101,79 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#20"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandScaleMaxHeight.getRegexConcat@POLYN150284 the MagicNumber/String  'scale' should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandScaleMaxWidth.getRegexConcat@POLYN150284 the MagicNumber/String  'scale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#22"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.command.CommandScaleMaxHeight.getRegexConcat@POLYN150284 the MagicNumber/String  'max' should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.command.CommandScaleMaxWidth.getRegexConcat@POLYN150284 the MagicNumber/String  'max' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#24"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.command.CommandScaleMaxHeight.getRegexConcat@POLYN150284 the MagicNumber/String  'HEIGHT' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.command.CommandScaleMaxWidth.getRegexConcat@POLYN150284 the MagicNumber/String  'WIDTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#24"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.command.CommandScaleMaxHeight.getRegexConcat@POLYN150284 the MagicNumber/String  '([0-9.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.command.CommandScaleMaxWidth.getRegexConcat@POLYN150284 the MagicNumber/String  '([0-9.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#26"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.command.CommandScaleMaxHeight.getRegexConcat@POLYN150284 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.command.CommandScaleMaxWidth.getRegexConcat@POLYN150284 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#30"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#30"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00030] For method executeArg arguments AbstractPSystem  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#30"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#30"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00030] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#30"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#30"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00030] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#31"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.command.CommandScaleMaxHeight.executeArg@POLYN150935 the MagicNumber/String  'HEIGHT' should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.command.CommandScaleMaxWidth.executeArg@POLYN150935 the MagicNumber/String  'WIDTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#31"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.command.CommandScaleMaxHeight.executeArg@POLYN150935 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.command.CommandScaleMaxWidth.executeArg@POLYN150935 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidth.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

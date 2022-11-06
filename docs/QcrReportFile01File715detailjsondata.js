@@ -1,72 +1,63 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/api/ImageDataAbstract.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/api/ImageDataComplex.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ImageData"
- , "c2" : "net.sourceforge.plantuml.api.ImageDataAbstract"
+ , "c1" : "ImageDataAbstract"
+ , "c2" : "net.sourceforge.plantuml.api.ImageDataComplex"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.api.ImageDataAbstract" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.api.ImageDataComplex" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#14"
- , "c1" : "ImageDataAbstract"
- , "c2" : "ImageDataAbstract(int;int)"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#15"
+ , "c1" : "ImageDataComplex"
+ , "c2" : "ImageDataComplex(XDimension2D;CMapData;String)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#20"
- , "c1" : "ImageDataAbstract"
- , "c2" : "ImageDataAbstract(XDimension2D)"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#21"
+ , "c1" : "ImageDataComplex"
+ , "c2" : "ImageDataComplex(XDimension2D;CMapData;String;int)"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#24"
- , "c1" : "int"
- , "c2" : "getWidth()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#28"
- , "c1" : "int"
- , "c2" : "getHeight()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#28"
+ , "c1" : "boolean"
+ , "c2" : "containsCMapData()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#32"
- , "c1" : "int"
- , "c2" : "getStatus()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#32"
+ , "c1" : "String"
+ , "c2" : "getCMapData(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#36"
- , "c1" : "void"
- , "c2" : "setStatus(int)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#36"
+ , "c1" : "String"
+ , "c2" : "getWarningOrError()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,9 +66,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.svg" }
 
 ] 
 , 
@@ -104,16 +95,9 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "1"
 }}
 ,
@@ -127,28 +111,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#8"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class ImageDataAbstract contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.api.ImageDataComplex.containsCMapData@POLYN149365 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#20"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#36"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#32"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method setStatus arguments int  status"
+ , "c3" : "QC-JAV000006[00032] For method getCMapData arguments String  nameId"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

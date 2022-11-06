@@ -1,83 +1,128 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/SvekUtils.java 24 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/SvgResult.java 28 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.svek.SvekUtils"
+ , "c2" : "net.sourceforge.plantuml.svek.SvgResult"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.SvekUtils" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.SvgResult" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#15"
- , "c1" : "void"
- , "c2" : "traceString(SFile;String)"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#20"
+ , "c1" : "SvgResult"
+ , "c2" : "SvgResult(String;Point2DFunction)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#22"
- , "c1" : "double"
- , "c2" : "getValue(String;int;String)"
- , "c3" : "2"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#34"
- , "c1" : "XPoint2D"
- , "c2" : "getMinXY(List<XPoint2D>)"
- , "c3" : "4"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#46"
- , "c1" : "XPoint2D"
- , "c2" : "getMaxXY(List<XPoint2D>)"
- , "c3" : "4"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#59"
- , "c1" : "void"
- , "c2" : "println(StringBuilder)"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#25"
+ , "c1" : "PointListIterator"
+ , "c2" : "getPointsWithThisColor(int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#29"
+ , "c1" : "List<XPoint2D>"
+ , "c2" : "extractList(String)"
+ , "c3" : "3"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#41"
+ , "c1" : "int"
+ , "c2" : "getIndexFromColor(int)"
+ , "c3" : "4"
+ , "c4" : "10"
+}} 
+,
+{ "ligne" : { "" : ""
  , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#63"
- , "c1" : "String"
- , "c2" : "pixelToInches(double)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#63"
+ , "c1" : "List<XPoint2D>"
+ , "c2" : "getPoints(String)"
+ , "c3" : "2"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#76"
+ , "c1" : "XPoint2D"
+ , "c2" : "getNextPoint()"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#80"
+ , "c1" : "XPoint2D"
+ , "c2" : "getFirstPoint(String)"
+ , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#87"
+ , "c1" : "int"
+ , "c2" : "indexOf(String;int)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#91"
+ , "c1" : "SvgResult"
+ , "c2" : "substring(int)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#95"
+ , "c1" : "SvgResult"
+ , "c2" : "substring(int;int)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#99"
+ , "c1" : "String"
+ , "c2" : "getSvg()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.svg" }
 
 ] 
 , 
@@ -104,10 +149,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "4"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -121,188 +173,219 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "13"
+ , "c4" : "16"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "8"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#13"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00013] The class SvekUtils contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#15"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method traceString arguments SFile  f|String  text"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.svek.SvekUtils.traceString@POLYN156149 the MagicNumber/String  'Creating intermediate file ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method getValue arguments String  svg|int  starting|String  varName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#22"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument svg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.svek.SvekUtils.getValue@POLYN156548 the MagicNumber/String  '=\'' should be converted to const"
+ , "c3" : "QC-JAV000008[00012] The class SvgResult contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.svek.SvekUtils.getValue@POLYN156548 the MagicNumber/String  1 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#25"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00025] For method getPointsWithThisColor arguments int  lineColor"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.svek.SvekUtils.getValue@POLYN156548 the MagicNumber/String  '\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#34"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method getMinXY arguments List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00029] For method extractList arguments String  searched"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#29"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00029] The argument searched is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159472 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159472 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#34"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00034] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159472 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#35"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.svek.SvekUtils.getMinXY@POLYN157345 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159472 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#36"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.svek.SvekUtils.getMinXY@POLYN157345 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159472 the MagicNumber/String  ' MC' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.svek.SvekUtils.getMinXY@POLYN157345 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#46"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#41"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method getMaxXY arguments List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00041] For method getIndexFromColor arguments int  color"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#46"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00046] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  'stroke=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  '\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#47"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.SvekUtils.getMaxXY@POLYN158363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  ';stroke:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#48"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.SvekUtils.getMaxXY@POLYN158363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#49"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.svek.SvekUtils.getMaxXY@POLYN158363 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  'fill=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  '\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method println arguments StringBuilder  sb"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#59"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#60"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.SvekUtils.println@POLYN159373 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160249 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#63"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method pixelToInches arguments double  pixel"
+ , "c3" : "QC-JAV000006[00063] For method getPoints arguments String  separator"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.svek.SvekUtils.pixelToInches@POLYN159522 the MagicNumber/String  72.0 should be converted to const"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#80"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00080] For method getFirstPoint arguments String  tmp"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#65"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.SvekUtils.pixelToInches@POLYN159522 the MagicNumber/String  '%6.6f' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.SvgResult.getFirstPoint@POLYN162271 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#87"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00087] For method indexOf arguments String  s|int  pos"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#91"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00091] For method substring arguments int  pos"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#95"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00095] For method substring arguments int  start|int  end"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#25"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00025] Public method getPointsWithThisColor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#29"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00029] Public method extractList is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,63 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/PointAndAngle.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/PointDirected.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/PointDirected.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/PointDirected.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.svek.PointAndAngle"
+ , "c2" : "net.sourceforge.plantuml.svek.PointDirected"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.PointAndAngle" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.PointDirected" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#11"
- , "c1" : "PointAndAngle"
- , "c2" : "PointAndAngle(XPoint2D;double)"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PointDirected.java.html#12"
+ , "c1" : "PointDirected"
+ , "c2" : "PointDirected(XPoint2D;double)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#16"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PointDirected.java.html#18"
  , "c1" : "XPoint2D"
- , "c2" : "getPt()"
+ , "c2" : "getPoint2D()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#20"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PointDirected.java.html#22"
  , "c1" : "double"
  , "c2" : "getAngle()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#24"
- , "c1" : "double"
- , "c2" : "getX()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#28"
- , "c1" : "double"
- , "c2" : "getY()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -66,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/PointDirected.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/PointDirected.java.svg" }
 
 ] 
 , 
@@ -105,13 +87,16 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.html#6"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/PointDirected.java.html#6"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00006] The class PointAndAngle contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00006] The class PointDirected contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/PointAndAngle.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/PointDirected.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

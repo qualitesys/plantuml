@@ -1,56 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java 12 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "DriverShadowedG2dUDriver<UEllipse,Graphics2D>"
- , "c2" : "net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d"
+ , "c1" : "UDriver<UImage,Graphics2D>"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#24"
- , "c1" : "DriverEllipseG2d"
- , "c2" : "DriverEllipseG2d(double;EnsureVisible)"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#19"
+ , "c1" : "DriverImageG2d"
+ , "c2" : "DriverImageG2d(double;EnsureVisible)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#24"
  , "c1" : "void"
- , "c2" : "draw(UEllipse;double;double;ColorMapper;UParam;Graphics2D)"
- , "c3" : "9"
- , "c4" : "18"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#71"
- , "c1" : "double"
- , "c2" : "round(double)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "draw(UImage;double;double;ColorMapper;UParam;Graphics2D)"
+ , "c3" : "3"
+ , "c4" : "7"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.svg" }
 
 ] 
 , 
@@ -80,111 +71,107 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "3"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "7"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#13"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00013] The class DriverImageG2d contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#24"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method draw arguments UEllipse  ellipse|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
+ , "c3" : "QC-JAV000006[00024] For method draw arguments UImage  shape|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#24"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument ellipse is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00024] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#24"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00024] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#34"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d.draw@POLYN151440 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#34"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d.draw@POLYN151440 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#38"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d.draw@POLYN151440 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#50"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d.draw@POLYN151440 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#55"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d.draw@POLYN151440 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#55"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#71"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method round arguments double  value"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d.draw@POLYN151440 the MagicNumber/String  null should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="209px" preserveAspectRatio="none" style="width:616px;height:209px;background:#FFFFFF;" version="1.1" viewBox="0 0 616 209" width="616px" zoomAndPan="magnify"><defs/><g><path d="M203,10 L203,26.1328 L183,30.1328 L203,34.1328 L203,50.2656 A0,0 0 0 0 203,50.2656 L604,50.2656 A0,0 0 0 0 604,50.2656 L604,20 L594,10 L203,10 A0,0 0 0 0 203,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M594,10 L594,20 L604,20 L594,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="380" x="209" y="27.0669">void draw(UPixelpixel,doublex,doubley,ColorMappermapper,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="201" x="209" y="42.1997">UParamparam,Graphics2Dg2d)</text><ellipse cx="173" cy="30.1328" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="324" x="11" y="70.2656"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="304" x="21" y="91.4043">g2d.setColor(param.getColor().toColor(mapper))</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="191" x="77.5" y="124.2344"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="171" x="87.5" y="145.373">g2d.fillRect((int)x,(int)y,1,1)</text><ellipse cx="173" cy="188.2031" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="166.8128" x2="179.1872" y1="182.0159" y2="194.3903"/><line style="stroke:#222222;stroke-width:2.5;" x1="179.1872" x2="166.8128" y1="182.0159" y2="194.3903"/><line style="stroke:#181818;stroke-width:1.0;" x1="173" x2="173" y1="40.1328" y2="70.2656"/><polygon fill="#181818" points="169,60.2656,173,70.2656,177,60.2656,173,64.2656" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="173" x2="173" y1="104.2344" y2="124.2344"/><polygon fill="#181818" points="169,114.2344,173,124.2344,177,114.2344,173,118.2344" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="173" x2="173" y1="158.2031" y2="178.2031"/><polygon fill="#181818" points="169,168.2031,173,178.2031,177,168.2031,173,172.2031" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[c46e51fb306af7cac78f46a261ba99c6]
+@startuml
+!pragma layout smetana
+start
+note right
+void draw(UPixelpixel,doublex,doubley,ColorMappermapper,
+UParamparam,Graphics2Dg2d)
+end note
+:g2d.setColor(param.getColor().toColor(mapper));
+:g2d.fillRect((int)x,(int)y,1,1);
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

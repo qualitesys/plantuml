@@ -1,39 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java 15 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2Tokens.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2Tokens.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2Tokens.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "AbstractOAuth2AccessAuthorizeManager"
- , "c2" : "net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#19"
- , "c1" : "SecurityAuthentication"
- , "c2" : "create(SecurityCredentials)"
- , "c3" : "3"
- , "c4" : "13"
-}} 
+ { "nomclasse" : "net.sourceforge.plantuml.security.authentication.oauth." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.svg" }
-
 ] 
 , 
 "data04" : [
@@ -57,137 +41,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "13"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#19"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method create arguments SecurityCredentials  credentials"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#19"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument credentials is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  'grantType' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  'scope' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  'accessTokenUri' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  'tokenType' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  'resourceOwner.identifier' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  'resourceOwner.secret' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  'grant_type=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  '&amp;scope=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  '&amp;username=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  '&amp;password=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager.create@POLYN155595 the MagicNumber/String  '*' should be converted to const"
-}} 
-]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2ResourceOwnerAccessAuthorizeManager.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2Tokens.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

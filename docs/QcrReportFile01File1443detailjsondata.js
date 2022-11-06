@@ -1,48 +1,23 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/help/HelpFactory.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/help/HelpFactory.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/help/HelpFactory.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/html/CucaDiagramHtmlMaker.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/html/CucaDiagramHtmlMaker.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/html/CucaDiagramHtmlMaker.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
-{ "ligne" : { "" : ""
- , "c1" : "PSystemCommandFactory"
- , "c2" : "net.sourceforge.plantuml.help.HelpFactory"
-}} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.help.HelpFactory" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/help/HelpFactory.java.html#15"
- , "c1" : "Help"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/help/HelpFactory.java.html#20"
- , "c1" : "List<Command>"
- , "c2" : "createCommands()"
- , "c3" : "1"
- , "c4" : "9"
-}} 
+ { "nomclasse" : "" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/help/HelpFactory.java.png" 
-
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/help/HelpFactory.java.svg" }
-
 ] 
 , 
 "data04" : [
@@ -68,23 +43,26 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999999"
+ , "c3" : "Syntax analysis failure on the source code"
  , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/help/HelpFactory.java.html#15"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
+ , "c1" : "00002"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/html/CucaDiagramHtmlMaker.java.html#2"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/html/CucaDiagramHtmlMaker.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . html ; import java "
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/help/HelpFactory.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/html/CucaDiagramHtmlMaker.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

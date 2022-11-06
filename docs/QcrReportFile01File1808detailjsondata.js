@@ -1,99 +1,81 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/salt/element/AbstractElement.java 13 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/salt/element/AbstractElementText.java 12 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Element"
- , "c2" : "net.sourceforge.plantuml.salt.element.AbstractElement"
+ , "c1" : "AbstractElement"
+ , "c2" : "net.sourceforge.plantuml.salt.element.AbstractElementText"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.salt.element.AbstractElement" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.salt.element.AbstractElementText" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#12"
- , "c1" : "HColor"
- , "c2" : "getBlack()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#23"
+ , "c1" : "AbstractElementText"
+ , "c2" : "AbstractElementText(String;UFont;boolean;ISkinSimple)"
+ , "c3" : "3"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#16"
- , "c1" : "HColor"
- , "c2" : "getColor88()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#20"
- , "c1" : "HColor"
- , "c2" : "getColorAA()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#24"
- , "c1" : "HColor"
- , "c2" : "getColorBB()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#28"
- , "c1" : "HColor"
- , "c2" : "getColorDD()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#32"
- , "c1" : "HColor"
- , "c2" : "getColorEE()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#36"
- , "c1" : "HColor"
- , "c2" : "getWhite()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#40"
- , "c1" : "HColor"
- , "c2" : "buildColor(String;String)"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#34"
+ , "c1" : "int"
+ , "c2" : "getCharNumber(String)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#46"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#40"
+ , "c1" : "void"
+ , "c2" : "drawText(UGraphic;double;double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#44"
+ , "c1" : "XDimension2D"
+ , "c2" : "getPureTextDimension(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#48"
+ , "c1" : "XDimension2D"
+ , "c2" : "getTextDimensionAt(StringBounder;double)"
+ , "c3" : "2"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#61"
+ , "c1" : "double"
+ , "c2" : "getSingleSpace(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#77"
  , "c1" : "FontConfiguration"
- , "c2" : "blackBlueTrue(UFont)"
+ , "c2" : "getConfig()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -102,9 +84,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.svg" }
 
 ] 
 , 
@@ -131,121 +113,117 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "10"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "5"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#10"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class AbstractElement contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColor88@POLYN150940 the MagicNumber/String  '#8' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColor88@POLYN150940 the MagicNumber/String  '#8' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorAA@POLYN151088 the MagicNumber/String  '#A' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorAA@POLYN151088 the MagicNumber/String  '#6' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorBB@POLYN151236 the MagicNumber/String  '#B' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorBB@POLYN151236 the MagicNumber/String  '#5' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#29"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorDD@POLYN151384 the MagicNumber/String  '#D' should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.salt.element.AbstractElementText.AbstractElementText@POLYN154945 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorDD@POLYN151384 the MagicNumber/String  '#3' should be converted to const"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#34"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00034] For method getCharNumber arguments String  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorEE@POLYN151532 the MagicNumber/String  '#E' should be converted to const"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#34"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00034] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#33"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorEE@POLYN151532 the MagicNumber/String  '#2' should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getCharNumber@POLYN155695 the MagicNumber/String  '&amp;lt;&amp;[-\\w]+&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getCharNumber@POLYN155695 the MagicNumber/String  '00' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#40"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#40"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method buildColor arguments String  color1|String  color2"
+ , "c3" : "QC-JAV000006[00040] For method drawText arguments UGraphic  ug|double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#46"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#40"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00040] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method blackBlueTrue arguments UFont  font"
+ , "c3" : "QC-JAV000006[00044] For method getPureTextDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#48"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00048] For method getTextDimensionAt arguments StringBounder  stringBounder|double  x"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getTextDimensionAt@POLYN156465 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#61"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00061] For method getSingleSpace arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getSingleSpace@POLYN157080 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

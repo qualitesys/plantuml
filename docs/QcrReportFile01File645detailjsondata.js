@@ -1,47 +1,119 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java 11 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FtileSwitchWithDiamonds"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithOneLink"
+ , "c1" : "AbstractFtile"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithOneLink" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#25"
- , "c1" : "FtileSwitchWithOneLink"
- , "c2" : "FtileSwitchWithOneLink(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder;Rainbow)"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#37"
+ , "c1" : "FtileBlackBlock"
+ , "c2" : "FtileBlackBlock(ISkinParam;Swimlane)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#103"
- , "c1" : "Ftile"
- , "c2" : "addLinks(StringBounder)"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#42"
+ , "c1" : "void"
+ , "c2" : "setBlackBlockDimension(double;double)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#47"
+ , "c1" : "void"
+ , "c2" : "setLabel(TextBlock)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#52"
+ , "c1" : "FtileGeometry"
+ , "c2" : "calculateDimensionFtile(StringBounder)"
  , "c3" : "2"
- , "c4" : "5"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#60"
+ , "c1" : "StyleSignatureBasic"
+ , "c2" : "getSignature()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#64"
+ , "c1" : "void"
+ , "c2" : "drawU(UGraphic)"
+ , "c3" : "1"
+ , "c4" : "8"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#77"
+ , "c1" : "Set<Swimlane>"
+ , "c2" : "getSwimlanes()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#81"
+ , "c1" : "Swimlane"
+ , "c2" : "getSwimlaneIn()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#85"
+ , "c1" : "Swimlane"
+ , "c2" : "getSwimlaneOut()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#90"
+ , "c1" : "Collection<Ftile>"
+ , "c2" : "getMyChildren()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.svg" }
 
 ] 
 , 
@@ -71,104 +143,100 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "7"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#40"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00042] For method setBlackBlockDimension arguments double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#40"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#58"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#47"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method getP1 arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00047] For method setLabel arguments TextBlock  label"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#63"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method getP2 arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00052] For method calculateDimensionFtile arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#75"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#75"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00075] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method getP1 arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#97"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method getP2 arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#103"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method addLinks arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#105"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithOneLink.addLinks@POLYN168718 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock.calculateDimensionFtile@POLYN161541 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#106"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithOneLink.addLinks@POLYN168718 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock.calculateDimensionFtile@POLYN161541 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock.calculateDimensionFtile@POLYN161541 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#64"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00064] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#64"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00064] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock.drawU@POLYN162264 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock.drawU@POLYN162264 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBlackBlock.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,137 +1,164 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/skin/AbstractComponent.java 13 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java 13 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Component"
- , "c2" : "net.sourceforge.plantuml.skin.AbstractComponent"
+ , "c1" : "AbstractComponent"
+ , "c2" : "net.sourceforge.plantuml.skin.AbstractTextualComponent"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.skin.AbstractComponent" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.skin.AbstractTextualComponent" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#13"
- , "c1" : "Style[]"
- , "c2" : "getUsedStyles()"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#35"
+ , "c1" : "AbstractTextualComponent"
+ , "c2" : "AbstractTextualComponent(Style;LineBreakStrategy;int;int;int;ISkinSimple;CharSequence)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#17"
- , "c1" : "StyleSignatureBasic"
- , "c2" : "getStyleSignature()"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#41"
+ , "c1" : "AbstractTextualComponent"
+ , "c2" : "AbstractTextualComponent(Style;LineBreakStrategy;int;int;int;ISkinSimple;Display;boolean)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#23"
- , "c1" : "AbstractComponent"
- , "c2" : "AbstractComponent(Style)"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#46"
+ , "c1" : "AbstractTextualComponent"
+ , "c2" : "AbstractTextualComponent(Style;Style;LineBreakStrategy;int;int;int;ISkinSimple;Display;boolean)"
+ , "c3" : "5"
+ , "c4" : "16"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#74"
+ , "c1" : "HColorSet"
+ , "c2" : "getIHtmlColorSet()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#27"
- , "c1" : "Style"
- , "c2" : "getStyle()"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#78"
+ , "c1" : "TextBlock"
+ , "c2" : "getTextBlock()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#31"
- , "c1" : "void"
- , "c2" : "drawInternalU(UGraphic;Area)"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#82"
+ , "c1" : "double"
+ , "c2" : "getPureTextWidth(StringBounder)"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#33"
- , "c1" : "void"
- , "c2" : "drawBackgroundInternalU(UGraphic;Area)"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#36"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic;Area;Context2D)"
- , "c3" : "3"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#45"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#88"
  , "c1" : "double"
- , "c2" : "getPaddingX()"
+ , "c2" : "getTextWidth(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#49"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#92"
  , "c1" : "double"
- , "c2" : "getPaddingY()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#53"
- , "c1" : "double"
- , "c2" : "getPreferredWidth(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#55"
- , "c1" : "double"
- , "c2" : "getPreferredHeight(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#57"
- , "c1" : "XDimension2D"
- , "c2" : "getPreferredDimension(StringBounder)"
+ , "c2" : "getTextHeight(StringBounder)"
  , "c3" : "1"
  , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#98"
+ , "c1" : "int"
+ , "c2" : "getMarginX1()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#102"
+ , "c1" : "int"
+ , "c2" : "getMarginX2()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#106"
+ , "c1" : "int"
+ , "c2" : "getMarginY()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#110"
+ , "c1" : "UFont"
+ , "c2" : "getFont()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#114"
+ , "c1" : "HColor"
+ , "c2" : "getFontColor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#118"
+ , "c1" : "ISkinSimple"
+ , "c2" : "getISkinSimple()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#122"
+ , "c1" : "HorizontalAlignment"
+ , "c2" : "getHorizontalAlignment()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.svg" }
 
 ] 
 , 
@@ -158,142 +185,124 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000004"
- , "c3" : "You must segregate your interface"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#11"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class AbstractComponent contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN164862 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#31"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method drawInternalU arguments UGraphic  ug|Area  area"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN164862 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method drawBackgroundInternalU arguments UGraphic  ug|Area  area"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method drawU arguments UGraphic  ug|Area  area|Context2D  context"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#36"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#36"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN164862 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#46"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#46"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00046] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#46"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00046] The argument stereo is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#47"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00047] The argument display is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.skin.AbstractComponent.getPaddingX@POLYN152823 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN165943 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#50"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.skin.AbstractComponent.getPaddingY@POLYN152911 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN165943 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#53"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN165943 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method getPreferredWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00082] For method getPureTextWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#55"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method getPreferredHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00088] For method getTextWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#57"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method getPreferredDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00092] For method getTextHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#33"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00033] Void method drawBackgroundInternalU is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#33"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00033] Void method drawBackgroundInternalU is empty or contains only a return. Interface segregation"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.getTextHeight@POLYN168858 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

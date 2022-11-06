@@ -1,30 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UShape.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UShape.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UShape.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.ugraphic.UShape"
+ , "c1" : "UShape"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.UShapeIgnorableForCompression"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UShape" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UShapeIgnorableForCompression" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#8"
+ , "c1" : "boolean"
+ , "c2" : "isIgnoreForCompressionOn(CompressionMode)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#10"
+ , "c1" : "void"
+ , "c2" : "drawWhenCompressed(UGraphic;CompressionMode)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/UShape.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UShape.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.svg" }
 
 ] 
 , 
@@ -49,8 +66,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UShape.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

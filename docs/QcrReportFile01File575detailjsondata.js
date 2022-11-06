@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java 5 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractFtile"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileHeightFixedMarged"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileKilled"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileHeightFixedMarged" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileKilled" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#19"
- , "c1" : "FtileHeightFixedMarged"
- , "c2" : "FtileHeightFixedMarged(double;Ftile;double)"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#14"
+ , "c1" : "FtileKilled"
+ , "c2" : "FtileKilled(Ftile)"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#27"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#20"
  , "c1" : "Collection<Ftile>"
  , "c2" : "getMyChildren()"
  , "c3" : "1"
@@ -36,26 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#34"
- , "c1" : "LinkRendering"
- , "c2" : "getInLinkRendering()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#39"
- , "c1" : "LinkRendering"
- , "c2" : "getOutLinkRendering()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#43"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#24"
  , "c1" : "Set<Swimlane>"
  , "c2" : "getSwimlanes()"
  , "c3" : "1"
@@ -63,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#47"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#28"
  , "c1" : "Swimlane"
  , "c2" : "getSwimlaneIn()"
  , "c3" : "1"
@@ -72,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#51"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#32"
  , "c1" : "Swimlane"
  , "c2" : "getSwimlaneOut()"
  , "c3" : "1"
@@ -81,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#56"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#37"
  , "c1" : "FtileGeometry"
  , "c2" : "calculateDimensionFtile(StringBounder)"
  , "c3" : "1"
@@ -90,17 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#61"
- , "c1" : "UTranslate"
- , "c2" : "getTranslate(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#65"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#42"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -111,9 +84,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.svg" }
 
 ] 
 , 
@@ -150,48 +123,44 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#19"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#14"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument tile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00014] The argument tileToKill is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#56"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method calculateDimensionFtile arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00037] For method calculateDimensionFtile arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#61"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method getTranslate arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00042] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.html#65"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.html#42"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00065] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00042] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileHeightFixedMarged.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileKilled.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

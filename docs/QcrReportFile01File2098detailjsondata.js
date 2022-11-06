@@ -1,61 +1,43 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java 8 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java 9 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Component"
- , "c2" : "net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace"
+ , "c1" : "AbstractComponent"
+ , "c2" : "net.sourceforge.plantuml.skin.rose.ComponentRoseLine"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.skin.rose.ComponentRoseLine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#15"
- , "c1" : "Style[]"
- , "c2" : "getUsedStyles()"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#23"
+ , "c1" : "ComponentRoseLine"
+ , "c2" : "ComponentRoseLine(Style;boolean;HColorSet)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#19"
- , "c1" : "StyleSignatureBasic"
- , "c2" : "getStyleSignature()"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#31"
+ , "c1" : "void"
+ , "c2" : "drawInternalU(UGraphic;Area)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#25"
- , "c1" : "ComponentRoseGroupingSpace"
- , "c2" : "ComponentRoseGroupingSpace(double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#29"
- , "c1" : "double"
- , "c2" : "getPreferredWidth(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#33"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#43"
  , "c1" : "double"
  , "c2" : "getPreferredHeight(StringBounder)"
  , "c3" : "1"
@@ -63,30 +45,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#37"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic;Area;Context2D)"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#48"
+ , "c1" : "double"
+ , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#40"
- , "c1" : "XDimension2D"
- , "c2" : "getPreferredDimension(StringBounder)"
- , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.svg" }
 
 ] 
 , 
@@ -113,100 +86,96 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000004"
- , "c3" : "You must segregate your interface"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "1"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#13"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#23"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#31"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00031] For method drawInternalU arguments UGraphic  ug|Area  area"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#31"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00031] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#31"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00031] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00013] The class ComponentRoseGroupingSpace contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.skin.rose.ComponentRoseLine.drawInternalU@POLYN153387 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#29"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#43"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getPreferredWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00043] For method getPreferredHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#30"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace.getPreferredWidth@POLYN150382 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.skin.rose.ComponentRoseLine.getPreferredHeight@POLYN154116 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#33"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method getPreferredHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00048] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#37"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method drawU arguments UGraphic  ug|Area  area|Context2D  context"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method getPreferredDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#37"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00037] Void method drawU is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#37"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00037] Void method drawU is empty or contains only a return. Interface segregation"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.skin.rose.ComponentRoseLine.getPreferredWidth@POLYN154240 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

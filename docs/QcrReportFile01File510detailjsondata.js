@@ -1,34 +1,52 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java 13 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<ActivityDiagram3>"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1"
+ , "c1" : "CommandMultilines2<ActivityDiagram3>"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#18"
- , "c1" : "CommandActivityLegacy1"
- , "c2" : "CommandActivityLegacy1()"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#22"
+ , "c1" : "CommandActivityLong3"
+ , "c2" : "CommandActivityLong3()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#22"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#27"
+ , "c1" : "String"
+ , "c2" : "getPatternEnd()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#31"
+ , "c1" : "ColorParser"
+ , "c2" : "color()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#35"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,21 +54,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#30"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#44"
  , "c1" : "CommandExecutionResult"
- , "c2" : "executeArg(ActivityDiagram3;LineLocation;RegexResult)"
+ , "c2" : "executeNow(ActivityDiagram3;BlocLines)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "6"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.svg" }
 
 ] 
 , 
@@ -87,7 +105,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "7"
+ , "c4" : "10"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,77 +118,101 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#24"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1.getRegexConcat@POLYN151020 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.getPatternEnd@POLYN155728 the MagicNumber/String  '^(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#25"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1.getRegexConcat@POLYN151020 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.getPatternEnd@POLYN155728 the MagicNumber/String  '$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#25"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1.getRegexConcat@POLYN151020 the MagicNumber/String  '(.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.getRegexConcat@POLYN156020 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#30"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.getRegexConcat@POLYN156020 the MagicNumber/String  'DATA' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.getRegexConcat@POLYN156020 the MagicNumber/String  '(.*)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method executeArg arguments ActivityDiagram3  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00044] For method executeNow arguments ActivityDiagram3  diagram|BlocLines  lines"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#30"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#44"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00030] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00044] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#30"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#44"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00030] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00044] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#31"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1.executeArg@POLYN151421 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.executeNow@POLYN156475 the MagicNumber/String  'DATA' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#31"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1.executeArg@POLYN151421 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.executeNow@POLYN156475 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#31"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1.executeArg@POLYN151421 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.executeNow@POLYN156475 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.html#31"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1.executeArg@POLYN151421 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.executeNow@POLYN156475 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3.executeNow@POLYN156475 the MagicNumber/String  null should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLegacy1.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandActivityLong3.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

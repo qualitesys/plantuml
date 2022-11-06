@@ -1,65 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/acearth/PSystemXearth.java 18 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java 22 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractPSystem"
- , "c2" : "net.sourceforge.plantuml.acearth.PSystemXearth"
+ , "c1" : "PSystemBasicFactory<PSystemXearth>"
+ , "c2" : "net.sourceforge.plantuml.acearth.PSystemXearthFactory"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.acearth.PSystemXearth" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.acearth.PSystemXearthFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#40"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#25"
  , "c1" : "PSystemXearth"
- , "c2" : "PSystemXearth(UmlSource;int;int;Map<String,String>;List<Marker>)"
+ , "c2" : "initDiagram(UmlSource;String)"
  , "c3" : "1"
  , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#49"
- , "c1" : "ImageData"
- , "c2" : "exportDiagramNow(OutputStream;int;FileFormatOption)"
- , "c3" : "12"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#33"
+ , "c1" : "void"
+ , "c2" : "extractDimension(String)"
+ , "c3" : "2"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#44"
+ , "c1" : "PSystemXearth"
+ , "c2" : "executeLine(UmlSource;PSystemXearth;String)"
+ , "c3" : "6"
  , "c4" : "15"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#80"
- , "c1" : "Date"
- , "c2" : "extractGmt(String)"
- , "c3" : "5"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#98"
- , "c1" : "DiagramDescription"
- , "c2" : "getDescription()"
- , "c3" : "1"
- , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.svg" }
 
 ] 
 , 
@@ -86,163 +77,187 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "3"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "12"
+ , "c4" : "18"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "INFO"
- , "c2" : "QC-JAV000019"
- , "c3" : "Lock statement"
- , "c4" : "1"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#49"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#25"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method exportDiagramNow arguments OutputStream  os|int  num|FileFormatOption  fileFormat"
+ , "c3" : "QC-JAV000006[00025] For method initDiagram arguments UmlSource  source|String  startLine"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.initDiagram@POLYN156771 the MagicNumber/String  512 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.initDiagram@POLYN156771 the MagicNumber/String  512 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#30"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.initDiagram@POLYN156771 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#33"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00033] For method extractDimension arguments String  startLine"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.extractDimension@POLYN157154 the MagicNumber/String  '\\((\\d+),(\\d+)\\)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.extractDimension@POLYN157154 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.extractDimension@POLYN157154 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#44"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00044] For method executeLine arguments UmlSource  source|PSystemXearth  system|String  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#44"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00044] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  'xearth' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#51"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00051] Lock statement on synchronized resource"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#58"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00058] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  '#' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  ''' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  '(\\w+)[%s]*=[%s]*(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#59"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#61"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00061] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#54"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.acearth.PSystemXearth.exportDiagramNow@POLYN165197 the MagicNumber/String  'imageWidth' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.acearth.PSystemXearth.exportDiagramNow@POLYN165197 the MagicNumber/String  'imageHeight' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.acearth.PSystemXearth.exportDiagramNow@POLYN165197 the MagicNumber/String  'GMT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.acearth.PSystemXearth.exportDiagramNow@POLYN165197 the MagicNumber/String  'fixedTime' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.acearth.PSystemXearth.exportDiagramNow@POLYN165197 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#70"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.acearth.PSystemXearth.exportDiagramNow@POLYN165197 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#80"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method extractGmt arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#82"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.acearth.PSystemXearth.extractGmt@POLYN167540 the MagicNumber/String  '\\d{4}/\\d{2}/\\d{2} \\d{2}:\\d{2}:\\d{2}' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.acearth.PSystemXearth.extractGmt@POLYN167540 the MagicNumber/String  'yyyy/MM/dd HH:mm:ss' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.acearth.PSystemXearth.extractGmt@POLYN167540 the MagicNumber/String  '\\d{4}/\\d{2}/\\d{2} \\d{2}:\\d{2}' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.acearth.PSystemXearth.extractGmt@POLYN167540 the MagicNumber/String  'yyyy/MM/dd HH:mm' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.acearth.PSystemXearth.extractGmt@POLYN167540 the MagicNumber/String  'GMT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.acearth.PSystemXearth.getDescription@POLYN168493 the MagicNumber/String  '(XEarth)' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.acearth.PSystemXearthFactory.executeLine@POLYN157839 the MagicNumber/String  null should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/acearth/PSystemXearthFactory.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

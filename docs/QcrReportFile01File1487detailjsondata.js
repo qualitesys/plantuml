@@ -1,56 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/math/PSystemMathFactory.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/math/ScientificEquation.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PSystemBasicFactory<PSystemMath>"
- , "c2" : "net.sourceforge.plantuml.math.PSystemMathFactory"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.math.ScientificEquation"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.math.PSystemMathFactory" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.math.ScientificEquation" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#10"
- , "c1" : "PSystemMathFactory"
- , "c2" : "PSystemMathFactory(DiagramType)"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#14"
+ , "c1" : "XDimension2D"
+ , "c2" : "getDimension()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#15"
- , "c1" : "PSystemMath"
- , "c2" : "initDiagram(UmlSource;String)"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#16"
+ , "c1" : "UImageSvg"
+ , "c2" : "getSvg(double;Color;Color)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#23"
- , "c1" : "PSystemMath"
- , "c2" : "executeLine(UmlSource;PSystemMath;String)"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#20"
+ , "c1" : "MutableImage"
+ , "c2" : "getImage(Color;Color)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#24"
+ , "c1" : "String"
+ , "c2" : "getSource()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.svg" }
 
 ] 
 , 
@@ -75,60 +84,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "2"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#15"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method initDiagram arguments UmlSource  source|String  startLine"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.math.PSystemMathFactory.initDiagram@POLYN147306 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#23"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method executeLine arguments UmlSource  source|PSystemMath  system|String  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#23"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument system is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,56 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java 19 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<AbstractEntityDiagram>"
- , "c2" : "net.sourceforge.plantuml.classdiagram.command.CommandUrl"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.classdiagram.command.CommandUrl" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#22"
- , "c1" : "CommandUrl"
- , "c2" : "CommandUrl()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#26"
- , "c1" : "IRegex"
- , "c2" : "getRegexConcat()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#41"
- , "c1" : "CommandExecutionResult"
- , "c2" : "executeArg(AbstractEntityDiagram;LineLocation;RegexResult)"
- , "c3" : "5"
- , "c4" : "13"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#12"
+ , "c1" : "String"
+ , "c2" : "getGenericRegex(int)"
+ , "c3" : "3"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.svg" }
 
 ] 
 , 
@@ -77,17 +59,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "16"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,140 +82,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#29"
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN157936 the MagicNumber/String  'url' should be converted to const"
+ , "c3" : "QC-JAV000008[00004] The class GenericRegexProducer contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN157936 the MagicNumber/String  'of|for' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN157936 the MagicNumber/String  'CODE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN157936 the MagicNumber/String  '([%pLN_.]+|[%g][^%g]+[%g])' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN157936 the MagicNumber/String  'is' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN157936 the MagicNumber/String  'URL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN157936 the MagicNumber/String  '(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN157936 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#41"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#12"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method executeArg arguments AbstractEntityDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00012] For method getGenericRegex arguments int  level"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#41"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#41"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#42"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN158857 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer.getGenericRegex@POLYN146478 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#42"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN158857 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer.getGenericRegex@POLYN146478 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#45"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN158857 the MagicNumber/String  'URL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN158857 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN158857 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN158857 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN158857 the MagicNumber/String  ' does not exist' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN158857 the MagicNumber/String  'topurl' should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer.getGenericRegex@POLYN146478 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

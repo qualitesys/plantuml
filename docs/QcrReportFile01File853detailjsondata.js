@@ -1,65 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/brotli/Huffman.java 43 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/brotli/State.java 11 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/brotli/State.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.brotli.Huffman"
+ , "c2" : "net.sourceforge.plantuml.brotli.State"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.brotli.Huffman" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.brotli.State" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c1" : "int"
- , "c2" : "getNextKey(int;int)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c1" : "void"
- , "c2" : "replicateValue(int[];int;int;int;int)"
- , "c3" : "3"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c1" : "int"
- , "c2" : "nextTableBitSize(int[];int;int)"
- , "c3" : "3"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
+ , "c1" : "State"
+ , "c2" : "State()"
+ , "c3" : "1"
  , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c1" : "void"
- , "c2" : "buildHuffmanTable(int[];int;int;int[];int)"
- , "c3" : "12"
- , "c4" : "45"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.svg" }
 
 ] 
 , 
@@ -96,321 +69,93 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "38"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000006"
- , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "10"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00113] The class Huffman contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00084] The class State contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method getNextKey arguments int  key|int  len"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.getNextKey@POLYN157041 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.getNextKey@POLYN157041 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.getNextKey@POLYN157041 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.getNextKey@POLYN157041 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.getNextKey@POLYN157041 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method replicateValue arguments int[]  table|int  offset|int  step|int  end|int  item"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.replicateValue@POLYN157760 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method nextTableBitSize arguments int[]  count|int  len|int  rootBits"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.nextTableBitSize@POLYN158317 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.nextTableBitSize@POLYN158317 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.nextTableBitSize@POLYN158317 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method buildHuffmanTable arguments int[]  rootTable|int  tableOffset|int  rootBits|int[]  codeLengths|int  codeLengthsSize"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.Huffman.buildHuffmanTable@POLYN159014 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.brotli.State.State@POLYN145596 the MagicNumber/String  4 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/brotli/State.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

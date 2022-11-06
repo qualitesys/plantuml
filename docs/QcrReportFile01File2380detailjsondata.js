@@ -1,47 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/EaterDumpMemory.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/EaterElseIf.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Eater"
- , "c2" : "net.sourceforge.plantuml.tim.EaterDumpMemory"
+ , "c2" : "net.sourceforge.plantuml.tim.EaterElseIf"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.tim.EaterDumpMemory" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.tim.EaterElseIf" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.html#8"
- , "c1" : "EaterDumpMemory"
- , "c2" : "EaterDumpMemory(StringLocated)"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#11"
+ , "c1" : "EaterElseIf"
+ , "c2" : "EaterElseIf(StringLocated)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.html#13"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#16"
  , "c1" : "void"
  , "c2" : "analyze(TContext;TMemory)"
  , "c3" : "1"
  , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#24"
+ , "c1" : "boolean"
+ , "c2" : "isTrue()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.svg" }
 
 ] 
 , 
@@ -68,13 +77,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -91,28 +93,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.html#13"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method analyze arguments TContext  context|TMemory  memory"
+ , "c3" : "QC-JAV000006[00016] For method analyze arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.html#13"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00013] The argument memory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.html#15"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.tim.EaterDumpMemory.analyze@POLYN146087 the MagicNumber/String  '!dump_memory' should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.tim.EaterElseIf.analyze@POLYN147050 the MagicNumber/String  '!elseif' should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

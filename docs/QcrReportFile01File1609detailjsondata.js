@@ -1,38 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "RacorderAbstractRacorder"
- , "c2" : "net.sourceforge.plantuml.posimo.RacorderInToCenter"
+ , "c2" : "net.sourceforge.plantuml.posimo.RacorderOrthogonal"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.posimo.RacorderInToCenter" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.posimo.RacorderOrthogonal" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.html#12"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#12"
  , "c1" : "DotPath"
  , "c2" : "getRacordIn(XRectangle2D;XLine2D)"
- , "c3" : "1"
- , "c4" : "6"
+ , "c3" : "13"
+ , "c4" : "16"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.svg" }
 
 ] 
 , 
@@ -66,6 +66,20 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000021"
+ , "c3" : "The same method is called several times, might be optimized"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -76,27 +90,51 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#12"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00012] For method getRacordIn arguments XRectangle2D  rect|XLine2D  tangeante"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#12"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00012] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.html#12"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#12"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00012] The argument tangeante is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#19"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00019] The same method call rect.getMinX()in.getX()rect.getMaxX() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00027] The same method call rect.getMinY()in.getY()rect.getMaxY() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.posimo.RacorderOrthogonal.getRacordIn@POLYN155781 the MagicNumber/String  null should be converted to const"
+}} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

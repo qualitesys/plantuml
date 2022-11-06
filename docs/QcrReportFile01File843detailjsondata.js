@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/braille/DriverTextBraille.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<URectangle,BrailleGrid>"
- , "c2" : "net.sourceforge.plantuml.braille.DriverRectangleBraille"
+ , "c1" : "UDriver<UText,BrailleGrid>"
+ , "c2" : "net.sourceforge.plantuml.braille.DriverTextBraille"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.braille.DriverRectangleBraille" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.braille.DriverTextBraille" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#17"
- , "c1" : "DriverRectangleBraille"
- , "c2" : "DriverRectangleBraille(ClipContainer)"
+ , "c5" : "00011"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#11"
+ , "c1" : "DriverTextBraille"
+ , "c2" : "DriverTextBraille()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "0"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#21"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
  , "c1" : "void"
- , "c2" : "draw(URectangle;double;double;ColorMapper;UParam;BrailleGrid)"
- , "c3" : "3"
- , "c4" : "10"
+ , "c2" : "draw(UText;double;double;ColorMapper;UParam;BrailleGrid)"
+ , "c3" : "2"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.svg" }
 
 ] 
 , 
@@ -98,49 +98,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#13"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00013] The class DriverRectangleBraille contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00009] The class DriverTextBraille contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#21"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method draw arguments URectangle  rect|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
+ , "c3" : "QC-JAV000006[00014] For method draw arguments UText  text|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#21"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00014] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#21"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00014] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#44"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.braille.DriverRectangleBraille.draw@POLYN150518 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.braille.DriverTextBraille.draw@POLYN147872 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#50"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.braille.DriverRectangleBraille.draw@POLYN150518 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.braille.DriverTextBraille.draw@POLYN147872 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,47 +1,30 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/graphic/GraphPoint.java.html" 
- , "texte" : "File src/jcckit/graphic/GraphPoint.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/graphic/GraphPoint.java.xml" 
+   "fic1"  : "./qc/src/jcckit/graphic/GraphicAttributes.java.html" 
+ , "texte" : "File src/jcckit/graphic/GraphicAttributes.java 0 rule violation " 
+ , "fic2"  : "./qc/src/jcckit/graphic/GraphicAttributes.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Point"
- , "c2" : "jcckit.graphic.GraphPoint"
+ , "c1" : "java.lang.Object"
+ , "c2" : "jcckit.graphic.GraphicAttributes"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.graphic.GraphPoint" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/graphic/GraphPoint.java.html#9"
- , "c1" : "GraphPoint"
- , "c2" : "GraphPoint(double[])"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/jcckit/graphic/GraphPoint.java.html#14"
- , "c1" : "GraphPoint"
- , "c2" : "GraphPoint(double;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
+ { "nomclasse" : "jcckit.graphic.GraphicAttributes" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/GraphPoint.java.png" 
+   {"ligne" : "./qc/src/jcckit/graphic/GraphicAttributes.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/GraphPoint.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/graphic/GraphicAttributes.java.svg" }
 
 ] 
 , 
@@ -66,8 +49,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/GraphPoint.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/GraphicAttributes.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

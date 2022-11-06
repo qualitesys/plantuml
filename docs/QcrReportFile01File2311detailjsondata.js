@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "MiddleFactory"
- , "c2" : "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircle"
+ , "c2" : "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircleCircled"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircle" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircleCircled" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.html#11"
- , "c1" : "MiddleFactoryCircle"
- , "c2" : "MiddleFactoryCircle(HColor)"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#13"
+ , "c1" : "MiddleFactoryCircleCircled"
+ , "c2" : "MiddleFactoryCircleCircled(MiddleCircleCircledMode;HColor;HColor)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.html#15"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#19"
  , "c1" : "UDrawable"
  , "c2" : "createUDrawable(double)"
  , "c3" : "1"
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.svg" }
 
 ] 
 , 
@@ -85,20 +85,23 @@ var maDataBlocs = {
 "data13b" : [
 { "ligne" : {"" : ""
  , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.html#7"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#7"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00007] The class MiddleFactoryCircle contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00007] The class MiddleFactoryCircleCircled contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.html#15"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#19"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method createUDrawable arguments double  angle"
+ , "c3" : "QC-JAV000006[00019] For method createUDrawable arguments double  angle"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

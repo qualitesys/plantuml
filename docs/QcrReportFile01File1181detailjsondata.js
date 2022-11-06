@@ -1,34 +1,43 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java 27 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java 28 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractEntityImage"
- , "c2" : "net.sourceforge.plantuml.descdiagram.EntityImageMachine"
+ , "c2" : "net.sourceforge.plantuml.descdiagram.EntityImageRequirement"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.descdiagram.EntityImageMachine" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.descdiagram.EntityImageRequirement" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#36"
- , "c1" : "EntityImageMachine"
- , "c2" : "EntityImageMachine(ILeaf;ISkinParam)"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#43"
+ , "c1" : "EntityImageRequirement"
+ , "c2" : "EntityImageRequirement(ILeaf;ISkinParam)"
  , "c3" : "3"
- , "c4" : "6"
+ , "c4" : "7"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#52"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#62"
+ , "c1" : "Style"
+ , "c2" : "getStyle()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#68"
  , "c1" : "UStroke"
  , "c2" : "getStroke()"
  , "c3" : "2"
@@ -36,75 +45,39 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#61"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#76"
  , "c1" : "XDimension2D"
- , "c2" : "getTitleDimension(StringBounder)"
+ , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#65"
- , "c1" : "XDimension2D"
- , "c2" : "getNameAndSteretypeDimension(StringBounder)"
- , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#74"
- , "c1" : "double"
- , "c2" : "getStartingX(StringBounder;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#78"
- , "c1" : "double"
- , "c2" : "getEndingX(StringBounder;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#82"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#80"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
- , "c3" : "4"
- , "c4" : "19"
+ , "c3" : "5"
+ , "c4" : "13"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#115"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#107"
  , "c1" : "ShapeType"
  , "c2" : "getShapeType()"
  , "c3" : "1"
  , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00119"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#119"
- , "c1" : "XDimension2D"
- , "c2" : "calculateDimension(StringBounder)"
- , "c3" : "1"
- , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.svg" }
 
 ] 
 , 
@@ -134,216 +107,226 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "3"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "18"
+ , "c4" : "14"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "8"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#36"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#43"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#36"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.EntityImageMachine@POLYN169535 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.EntityImageMachine@POLYN169535 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.EntityImageMachine@POLYN169535 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.EntityImageMachine@POLYN169535 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE476[00043] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.EntityImageMachine@POLYN169535 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.getStroke@POLYN170853 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.getStroke@POLYN170853 the MagicNumber/String  1.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#61"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method getTitleDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method getNameAndSteretypeDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.getNameAndSteretypeDimension@POLYN171396 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.getNameAndSteretypeDimension@POLYN171396 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.getNameAndSteretypeDimension@POLYN171396 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#74"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method getStartingX arguments StringBounder  stringBounder|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.getStartingX@POLYN172117 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method getEndingX arguments StringBounder  stringBounder|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#82"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#82"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#43"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00082] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00043] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#90"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.drawU@POLYN172433 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.EntityImageRequirement@POLYN173942 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.EntityImageRequirement@POLYN173942 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.getStroke@POLYN175709 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.getStroke@POLYN175709 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.getStroke@POLYN175709 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.getStroke@POLYN175709 the MagicNumber/String  1.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#76"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00076] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#80"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00080] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#80"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00080] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.drawU@POLYN176347 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.drawU@POLYN176347 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#94"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.drawU@POLYN172433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.drawU@POLYN176347 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#98"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.drawU@POLYN172433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.drawU@POLYN176347 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#104"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.drawU@POLYN172433 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.drawU@POLYN176347 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#108"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.drawU@POLYN172433 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.drawU@POLYN176347 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.drawU@POLYN172433 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#119"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00119] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00118] For method copy arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.html#123"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#129"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00129] For method getNormalized arguments double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#140"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00140] For method getStartingXInternal arguments double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#144"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00144] For method getEndingXInternal arguments double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#148"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00148] For method getStencil2 arguments UTranslate  translate"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#148"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00148] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#163"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00163] For method drawHline arguments UGraphic  ug|UHorizontalLine  line|UTranslate  translate"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#163"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00163] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#163"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00163] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.descdiagram.EntityImageMachine.calculateDimension@POLYN175066 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.MyUGraphicEllipse.drawHline@POLYN180446 the MagicNumber/String  1.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.descdiagram.EntityImageRequirement.MyUGraphicEllipse.drawHline@POLYN180446 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageMachine.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageRequirement.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

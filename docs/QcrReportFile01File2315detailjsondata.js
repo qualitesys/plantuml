@@ -1,56 +1,110 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java 16 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java 11 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDrawable"
- , "c2" : "net.sourceforge.plantuml.svek.image.ConnectedCircle"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.svek.image.ContainingEllipse"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.image.ConnectedCircle" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.image.ContainingEllipse" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#20"
- , "c1" : "ConnectedCircle"
- , "c2" : "ConnectedCircle(double)"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#13"
+ , "c1" : "String"
+ , "c2" : "toString()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#24"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic)"
- , "c3" : "3"
- , "c4" : "6"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#17"
+ , "c1" : "ContainingEllipse"
+ , "c2" : "ContainingEllipse(double)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#40"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#21"
  , "c1" : "void"
- , "c2" : "addSecondaryConnection(XPoint2D)"
+ , "c2" : "append(XPoint2D)"
  , "c3" : "1"
- , "c4" : "5"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#26"
+ , "c1" : "void"
+ , "c2" : "append(double;double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#30"
+ , "c1" : "double"
+ , "c2" : "getWidth()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#34"
+ , "c1" : "double"
+ , "c2" : "getHeight()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#38"
+ , "c1" : "XPoint2D"
+ , "c2" : "getCenter()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#42"
+ , "c1" : "UEllipse"
+ , "c2" : "asUEllipse()"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#50"
+ , "c1" : "void"
+ , "c2" : "setDeltaShadow(double)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.svg" }
 
 ] 
 , 
@@ -77,17 +131,10 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "2"
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -101,132 +148,100 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "9"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
+ , "c1" : "00007"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#7"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00007] The class ContainingEllipse contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#14"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00014] The class ConnectedCircle contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.svek.image.ContainingEllipse.toString@POLYN150636 the MagicNumber/String  'ContainingEllipse ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#24"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#14"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.svek.image.ContainingEllipse.toString@POLYN150636 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#21"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00021] For method append arguments XPoint2D  pt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#24"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00029] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00034] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN152896 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN152896 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN152896 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN152896 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN152896 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN152896 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#40"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#26"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method addSecondaryConnection arguments XPoint2D  pt"
+ , "c3" : "QC-JAV000006[00026] For method append arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#40"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#45"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.addSecondaryConnection@POLYN153938 the MagicNumber/String  180.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.svek.image.ContainingEllipse.getWidth@POLYN151406 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#46"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.addSecondaryConnection@POLYN153938 the MagicNumber/String  'pt1=' should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.svek.image.ContainingEllipse.getHeight@POLYN151556 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.addSecondaryConnection@POLYN153938 the MagicNumber/String  ' ' should be converted to const"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#50"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00050] For method setDeltaShadow arguments double  deltaShadow"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#13"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00013] Public method toString is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#30"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00030] Public method getWidth is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.html#26"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00026] Public method append is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/ContainingEllipse.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,54 +1,99 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java 28 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.ugraphic.hand.UEllipseHand"
+ , "c1" : "UGraphicDelegatorUGraphic"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.hand.UGraphicHandwritten"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.hand.UEllipseHand" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.hand.UGraphicHandwritten" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#16"
- , "c1" : "double"
- , "c2" : "randomMe()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#22"
+ , "c1" : "UGraphicHandwritten"
+ , "c2" : "UGraphicHandwritten(UGraphic)"
+ , "c3" : "2"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#20"
- , "c1" : "UEllipseHand"
- , "c2" : "UEllipseHand(UEllipse;Random)"
- , "c3" : "6"
- , "c4" : "16"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#29"
+ , "c1" : "void"
+ , "c2" : "draw(UShape)"
+ , "c3" : "13"
+ , "c4" : "7"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#51"
- , "c1" : "XPoint2D"
- , "c2" : "getPoint(double;double;double)"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#49"
+ , "c1" : "void"
+ , "c2" : "drawHand(UPath)"
  , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#54"
+ , "c1" : "void"
+ , "c2" : "drawHand(DotPath)"
+ , "c3" : "1"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#59"
- , "c1" : "Shadowable"
- , "c2" : "getHanddrawn()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#59"
+ , "c1" : "void"
+ , "c2" : "drawHand(UPolygon)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#64"
+ , "c1" : "void"
+ , "c2" : "drawHand(URectangle)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#69"
+ , "c1" : "void"
+ , "c2" : "drawHand(ULine)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#74"
+ , "c1" : "void"
+ , "c2" : "drawHand(UEllipse)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#79"
+ , "c1" : "UGraphic"
+ , "c2" : "apply(UChange)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -57,9 +102,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.svg" }
 
 ] 
 , 
@@ -86,240 +131,75 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "22"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "8"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class UEllipseHand contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#20"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00037] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00042] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  20 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#51"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method getPoint arguments double  width|double  height|double  angle"
+ , "c3" : "QC-JAV000006[00029] For method draw arguments UShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  2 should be converted to const"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#49"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00049] For method drawHand arguments UPath  shape"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  0.5 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#54"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00054] For method drawHand arguments DotPath  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  50 should be converted to const"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#59"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00059] For method drawHand arguments UPolygon  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#64"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00064] For method drawHand arguments URectangle  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#69"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00069] For method drawHand arguments ULine  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#74"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00074] For method drawHand arguments UEllipse  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#79"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00079] For method apply arguments UChange  change"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

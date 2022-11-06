@@ -1,83 +1,119 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/mindmap/MindMap.java 24 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java 30 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDrawable"
- , "c2" : "net.sourceforge.plantuml.mindmap.MindMap"
+ , "c1" : "UmlDiagram"
+ , "c2" : "net.sourceforge.plantuml.mindmap.MindMapDiagram"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.mindmap.MindMap" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.mindmap.MindMapDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#23"
- , "c1" : "MindMap"
- , "c2" : "MindMap(ISkinParam)"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#36"
+ , "c1" : "void"
+ , "c2" : "setDefaultDirection(Direction)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#27"
- , "c1" : "void"
- , "c2" : "computeFinger()"
- , "c3" : "5"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#40"
+ , "c1" : "DiagramDescription"
+ , "c2" : "getDescription()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#44"
+ , "c1" : "MindMapDiagram"
+ , "c2" : "MindMapDiagram(UmlSource)"
+ , "c3" : "1"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#41"
- , "c1" : "XDimension2D"
- , "c2" : "calculateDimension(StringBounder)"
- , "c3" : "3"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#58"
- , "c1" : "void"
- , "c2" : "drawU(UGraphic)"
- , "c3" : "4"
- , "c4" : "11"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#80"
- , "c1" : "CommandExecutionResult"
- , "c2" : "addIdeaInternal(String;HColor;int;Display;IdeaShape;boolean)"
- , "c3" : "6"
- , "c4" : "11"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#110"
- , "c1" : "boolean"
- , "c2" : "isFull(int)"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#51"
+ , "c1" : "ImageData"
+ , "c2" : "exportDiagramInternal(OutputStream;int;FileFormatOption)"
  , "c3" : "1"
  , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#57"
+ , "c1" : "TextBlockBackcolored"
+ , "c2" : "getTextBlock()"
+ , "c3" : "3"
+ , "c4" : "13"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#93"
+ , "c1" : "CommandExecutionResult"
+ , "c2" : "addIdea(HColor;int;Display;IdeaShape)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#97"
+ , "c1" : "MindMap"
+ , "c2" : "last()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#101"
+ , "c1" : "CommandExecutionResult"
+ , "c2" : "addIdea(HColor;int;Display;IdeaShape;boolean)"
+ , "c3" : "3"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#113"
+ , "c1" : "CommandExecutionResult"
+ , "c2" : "addIdea(String;HColor;int;Display;IdeaShape)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#123"
+ , "c1" : "int"
+ , "c2" : "getSmartLevel(String)"
+ , "c3" : "7"
+ , "c4" : "8"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.svg" }
 
 ] 
 , 
@@ -107,202 +143,240 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "18"
+ , "c4" : "22"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "6"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00016] The class MindMap contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN164967 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN164967 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN164967 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN164967 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN164967 the MagicNumber/String  true should be converted to const"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#36"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00036] For method setDefaultDirection arguments Direction  direction"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#41"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getDescription@POLYN169112 the MagicNumber/String  'MindMap' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method drawU arguments UGraphic  ug"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.MindMapDiagram@POLYN169227 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#58"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#51"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00051] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormatOption"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getTextBlock@POLYN169981 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getTextBlock@POLYN169981 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getTextBlock@POLYN169981 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getTextBlock@POLYN169981 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#93"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00093] For method addIdea arguments HColor  backColor|int  level|Display  label|IdeaShape  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.last@POLYN171922 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#101"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00101] For method addIdea arguments HColor  backColor|int  level|Display  label|IdeaShape  shape|boolean  direction"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#101"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00101] The argument label is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#59"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.mindmap.MindMap.drawU@POLYN166927 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.addIdea@POLYN172091 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.mindmap.MindMap.drawU@POLYN166927 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#80"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#113"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method addIdeaInternal arguments String  stereotype|HColor  backColor|int  level|Display  label|IdeaShape  shape|boolean  direction"
+ , "c3" : "QC-JAV000006[00113] For method addIdea arguments String  stereotype|HColor  backColor|int  level|Display  label|IdeaShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  'Bad indentation' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN168370 the MagicNumber/String  'General failure: no style available.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#110"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method isFull arguments int  level"
+ , "c3" : "QC-JAV000006[00123] For method getSmartLevel arguments String  type"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#111"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#123"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00123] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.mindmap.MindMap.isFull@POLYN170293 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  '**' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  'type=&amp;lt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  '&amp;gt;[' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.mindmap.MindMapDiagram.getSmartLevel@POLYN173508 the MagicNumber/String  ']' should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagram.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

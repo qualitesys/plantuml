@@ -1,92 +1,83 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/board/Activity.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/board/Activity.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/board/BArray.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/board/BArray.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.board.Activity"
+ , "c1" : "Iterable<BNode>"
+ , "c2" : "net.sourceforge.plantuml.board.BArray"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.board.Activity" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.board.BArray" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/Activity.java.html#20"
- , "c1" : "Activity"
- , "c2" : "Activity(BoardDiagram;String;ISkinParam)"
- , "c3" : "1"
- , "c4" : "4"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#15"
+ , "c1" : "void"
+ , "c2" : "put(BNode)"
+ , "c3" : "2"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/Activity.java.html#27"
- , "c1" : "TextBlock"
- , "c2" : "getBox()"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#25"
+ , "c1" : "BNode"
+ , "c2" : "getCell(int;int)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#30"
+ , "c1" : "String"
+ , "c2" : "getKey(int;int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/Activity.java.html#31"
- , "c1" : "void"
- , "c2" : "addRelease(int;String)"
- , "c3" : "4"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/Activity.java.html#48"
- , "c1" : "BArray"
- , "c2" : "getArray()"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/Activity.java.html#57"
- , "c1" : "double"
- , "c2" : "getFullWidth()"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#34"
+ , "c1" : "Iterator<BNode>"
+ , "c2" : "iterator()"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/Activity.java.html#62"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#38"
  , "c1" : "int"
- , "c2" : "getMaxStage()"
+ , "c2" : "getMaxX()"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/Activity.java.html#67"
- , "c1" : "void"
- , "c2" : "drawMe(UGraphic)"
- , "c3" : "2"
- , "c4" : "7"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#42"
+ , "c1" : "int"
+ , "c2" : "getMaxY()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.svg" }
 
 ] 
 , 
@@ -121,13 +112,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
@@ -137,90 +121,72 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "5"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#12"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00012] The class Activity contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00009] The class BArray contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.board.Activity.Activity@POLYN155781 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#15"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00015] For method put arguments BNode  node"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#15"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00015] The argument node is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#25"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00025] For method getCell arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#30"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00030] For method getKey arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#31"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method addRelease arguments int  stage|String  label"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#32"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.board.Activity.addRelease@POLYN156427 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.board.BArray.getKey@POLYN151820 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#36"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.board.Activity.addRelease@POLYN156427 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.board.Activity.getArray@POLYN157172 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.board.Activity.getFullWidth@POLYN157568 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#67"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method drawMe arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#67"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00067] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00078] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.board.BArray.getKey@POLYN151820 the MagicNumber/String  ';' should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/board/Activity.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

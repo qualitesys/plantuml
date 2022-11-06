@@ -1,101 +1,146 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java 23 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java 10 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.Stairs"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.Stairs" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#17"
- , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "2"
- , "c4" : "6"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#31"
+ , "c1" : "Step1Abstract"
+ , "c2" : "Step1Abstract(ParticipantRange;StringBounder;AbstractMessage;DrawableSet;Frontier)"
+ , "c3" : "1"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#28"
- , "c1" : "void"
- , "c2" : "addStep(double;int)"
- , "c3" : "4"
- , "c4" : "9"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#46"
- , "c1" : "int"
- , "c2" : "getMaxValue()"
- , "c3" : "3"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#56"
- , "c1" : "List<Double>"
- , "c2" : "getYs()"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#40"
+ , "c1" : "ParticipantRange"
+ , "c2" : "getParticipantRange()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#60"
- , "c1" : "double"
- , "c2" : "getLastY()"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#44"
+ , "c1" : "Frontier"
+ , "c2" : "prepareMessage(ConstraintSet;InGroupablesStack)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#67"
- , "c1" : "int"
- , "c2" : "getValue(double)"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#46"
+ , "c1" : "ArrowConfiguration"
+ , "c2" : "getConfig()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#50"
+ , "c1" : "void"
+ , "c2" : "setConfig(ArrowConfiguration)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#54"
+ , "c1" : "List<Component>"
+ , "c2" : "getNotes()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#58"
+ , "c1" : "void"
+ , "c2" : "addNote(Component)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#62"
+ , "c1" : "StringBounder"
+ , "c2" : "getStringBounder()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#66"
+ , "c1" : "AbstractMessage"
+ , "c2" : "getMessage()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#70"
+ , "c1" : "DrawableSet"
+ , "c2" : "getDrawingSet()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#74"
+ , "c1" : "Frontier"
+ , "c2" : "getFreeY()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#78"
+ , "c1" : "void"
+ , "c2" : "incFreeY(double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#82"
+ , "c1" : "NoteBox"
+ , "c2" : "createNoteBox(StringBounder;Arrow;Component;Note)"
  , "c3" : "2"
  , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#76"
- , "c1" : "int"
- , "c2" : "getValueSlow(double)"
- , "c3" : "3"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#88"
- , "c1" : "int"
- , "c2" : "getLastValue()"
- , "c3" : "2"
- , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.svg" }
 
 ] 
 , 
@@ -122,6 +167,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -132,181 +184,93 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "19"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "5"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#10"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class Stairs contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00015] The class Step1Abstract contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.toString@POLYN157980 the MagicNumber/String  '[' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.toString@POLYN157980 the MagicNumber/String  '=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.toString@POLYN157980 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.toString@POLYN157980 the MagicNumber/String  ']' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#28"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method addStep arguments double  y|int  value"
+ , "c3" : "QC-JAV000006[00044] For method prepareMessage arguments ConstraintSet  constraintSet|InGroupablesStack  groupingStructures"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.addStep@POLYN158700 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.addStep@POLYN158700 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.addStep@POLYN158700 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getLastY@POLYN160227 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getLastY@POLYN160227 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getLastY@POLYN160227 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#67"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method getValue arguments double  y"
+ , "c3" : "QC-JAV000006[00050] For method setConfig arguments ArrowConfiguration  config"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getValue@POLYN160527 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#50"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00050] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#76"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method getValueSlow arguments double  y"
+ , "c3" : "QC-JAV000006[00058] For method addNote arguments Component  note"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getValueSlow@POLYN160983 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getValueSlow@POLYN160983 the MagicNumber/String  1 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#78"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00078] For method incFreeY arguments double  v"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getValueSlow@POLYN160983 the MagicNumber/String  0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#82"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00082] For method createNoteBox arguments StringBounder  stringBounder|Arrow  arrow|Component  noteComp|Note  noteOnMessage"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#82"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00082] The argument arrow is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getValueSlow@POLYN160983 the MagicNumber/String  0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#83"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00083] The argument noteOnMessage is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#85"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getValueSlow@POLYN160983 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getLastValue@POLYN161627 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getLastValue@POLYN161627 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.graphic.Stairs.getLastValue@POLYN161627 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract.createNoteBox@POLYN157749 the MagicNumber/String  null should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

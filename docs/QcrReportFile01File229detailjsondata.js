@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/h/ST_cinfo_t.java.html" 
- , "texte" : "File src/h/ST_cinfo_t.java 2 rule violations " 
- , "fic2"  : "./qc/src/h/ST_cinfo_t.java.xml" 
+   "fic1"  : "./qc/src/h/ST_deque_t.java.html" 
+ , "texte" : "File src/h/ST_deque_t.java 8 rule violations " 
+ , "fic2"  : "./qc/src/h/ST_deque_t.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "UnsupportedStarStruct"
- , "c2" : "h.ST_cinfo_t"
+ , "c2" : "h.ST_deque_t"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "h.ST_cinfo_t" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "h.ST_deque_t" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/h/ST_cinfo_t.java.html#17"
- , "c1" : "void"
- , "c2" : "___(__struct__)"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/h/ST_deque_t.java.html#12"
+ , "c1" : "boolean"
+ , "c2" : "malloc(int)"
  , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/h/ST_cinfo_t.java.html#25"
- , "c1" : "ST_cinfo_t"
- , "c2" : "copy()"
- , "c3" : "1"
- , "c4" : "4"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/h/ST_deque_t.java.html#17"
+ , "c1" : "boolean"
+ , "c2" : "realloc(int)"
+ , "c3" : "3"
+ , "c4" : "7"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_cinfo_t.java.png" 
+   {"ligne" : "./qc/src/h/ST_deque_t.java.png" 
 
- , "ligneplantuml" : "./qc/src/h/ST_cinfo_t.java.svg" }
+ , "ligneplantuml" : "./qc/src/h/ST_deque_t.java.svg" }
 
 ] 
 , 
@@ -71,34 +71,86 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
- , "c4" : "1"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/h/ST_cinfo_t.java.html#11"
+ , "c1" : "00009"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#9"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#10"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#12"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00012] For method malloc arguments int  newdqn"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#14"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00014] In method h.ST_deque_t.malloc@POLYN153861 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
- , "c1link" : "./qc/src/h/ST_cinfo_t.java.html#17"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#17"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method ___ arguments __struct__  value"
+ , "c3" : "QC-JAV000006[00017] For method realloc arguments int  newdqn"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#19"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00019] In method h.ST_deque_t.realloc@POLYN154071 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#22"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00022] In method h.ST_deque_t.realloc@POLYN154071 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method h.ST_deque_t.realloc@POLYN154071 the MagicNumber/String  true should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/h/ST_cinfo_t.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/h/ST_deque_t.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

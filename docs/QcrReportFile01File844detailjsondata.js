@@ -1,47 +1,74 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/braille/DriverTextBraille.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/braille/UGraphicBraille.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<UText,BrailleGrid>"
- , "c2" : "net.sourceforge.plantuml.braille.DriverTextBraille"
+ , "c1" : "AbstractUGraphic<BrailleGrid>ClipContainer"
+ , "c2" : "net.sourceforge.plantuml.braille.UGraphicBraille"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.braille.DriverTextBraille" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.braille.UGraphicBraille" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#11"
- , "c1" : "DriverTextBraille"
- , "c2" : "DriverTextBraille()"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#31"
+ , "c1" : "AbstractCommonUGraphic"
+ , "c2" : "copyUGraphic()"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#35"
+ , "c1" : "UGraphicBraille"
+ , "c2" : "UGraphicBraille(HColor;ColorMapper;StringBounder)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#40"
+ , "c1" : "UGraphicBraille"
+ , "c2" : "UGraphicBraille(UGraphicBraille)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#61"
  , "c1" : "void"
- , "c2" : "draw(UText;double;double;ColorMapper;UParam;BrailleGrid)"
- , "c3" : "2"
- , "c4" : "4"
+ , "c2" : "register()"
+ , "c3" : "1"
+ , "c4" : "10"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#79"
+ , "c1" : "void"
+ , "c2" : "writeToStream(OutputStream;String;int)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.svg" }
 
 ] 
 , 
@@ -68,27 +95,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -98,49 +104,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class DriverTextBraille contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method draw arguments UText  text|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.braille.DriverTextBraille.draw@POLYN147872 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.braille.DriverTextBraille.draw@POLYN147872 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000006[00079] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

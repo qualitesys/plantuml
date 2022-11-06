@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDrawable"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.Connection"
+ , "c1" : "AbstractConnection"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionCross"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.Connection" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionCross" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java.html#10"
- , "c1" : "Ftile"
- , "c2" : "getFtile1()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#10"
+ , "c1" : "ConnectionCross"
+ , "c2" : "ConnectionCross(Connection)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java.html#12"
- , "c1" : "Ftile"
- , "c2" : "getFtile2()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#15"
+ , "c1" : "void"
+ , "c2" : "drawU(UGraphic)"
+ , "c3" : "4"
+ , "c4" : "6"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.svg" }
 
 ] 
 , 
@@ -66,8 +66,63 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#10"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00010] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#15"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00015] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionCross.drawU@POLYN147994 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#25"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionCross.drawU@POLYN147994 the MagicNumber/String  null should be converted to const"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

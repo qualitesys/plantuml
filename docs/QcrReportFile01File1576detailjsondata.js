@@ -1,83 +1,74 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/png/MetadataTag.java 23 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/png/PngFlashcoder.java 16 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.png.MetadataTag"
+ , "c2" : "net.sourceforge.plantuml.png.PngFlashcoder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.png.MetadataTag" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.png.PngFlashcoder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#24"
- , "c1" : "MetadataTag"
- , "c2" : "MetadataTag(SFile;String)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#29"
- , "c1" : "MetadataTag"
- , "c2" : "MetadataTag(java.io.File;String)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#34"
- , "c1" : "MetadataTag"
- , "c2" : "MetadataTag(InputStream;String)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#39"
- , "c1" : "String"
- , "c2" : "getData()"
- , "c3" : "4"
- , "c4" : "12"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#66"
- , "c1" : "String"
- , "c2" : "displayMetadata(Node)"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#15"
+ , "c1" : "PngFlashcoder"
+ , "c2" : "PngFlashcoder(List<BufferedImage>)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#70"
- , "c1" : "String"
- , "c2" : "displayMetadata(Node;int)"
- , "c3" : "6"
- , "c4" : "9"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#19"
+ , "c1" : "BufferedImage"
+ , "c2" : "processImage(BufferedImage;Color)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#27"
+ , "c1" : "BufferedImage"
+ , "c2" : "addImage(BufferedImage;Color)"
+ , "c3" : "2"
+ , "c4" : "13"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#49"
+ , "c1" : "int"
+ , "c2" : "getHeight(List<BufferedImage>)"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#57"
+ , "c1" : "int"
+ , "c2" : "getWidth(List<BufferedImage>)"
+ , "c3" : "2"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.svg" }
 
 ] 
 , 
@@ -107,14 +98,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -128,181 +112,135 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "15"
+ , "c4" : "10"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#11"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00011] The class PngFlashcoder contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00019] The class MetadataTag contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#19"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00019] For method processImage arguments BufferedImage  im|Color  background"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#24"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#20"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.png.PngFlashcoder.processImage@POLYN153533 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#27"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00027] For method addImage arguments BufferedImage  im|Color  background"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#27"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00027] The argument im is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#34"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00034] The argument is is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#56"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00056] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.png.PngFlashcoder.addImage@POLYN153849 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#48"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.png.MetadataTag.getData@POLYN157253 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.png.PngFlashcoder.addImage@POLYN153849 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#51"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.png.MetadataTag.getData@POLYN157253 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.png.PngFlashcoder.addImage@POLYN153849 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#55"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.png.MetadataTag.getData@POLYN157253 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.png.PngFlashcoder.addImage@POLYN153849 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.png.PngFlashcoder.addImage@POLYN153849 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.png.PngFlashcoder.addImage@POLYN153849 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.png.PngFlashcoder.addImage@POLYN153849 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#49"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00049] For method getHeight arguments List&lt;BufferedImage &gt;  flashcodes"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.png.PngFlashcoder.getHeight@POLYN155472 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.png.MetadataTag.getData@POLYN157253 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.png.MetadataTag.getData@POLYN157253 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#66"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method displayMetadata arguments Node  root"
+ , "c3" : "QC-JAV000006[00057] For method getWidth arguments List&lt;BufferedImage &gt;  flashcodes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#67"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158506 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#70"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method displayMetadata arguments Node  node|int  level"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#70"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00070] The argument node is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00087] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158669 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158669 the MagicNumber/String  'keyword' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158669 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158669 the MagicNumber/String  'value' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158669 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158669 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158669 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158669 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.png.MetadataTag.displayMetadata@POLYN158669 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.png.PngFlashcoder.getWidth@POLYN155875 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/png/MetadataTag.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

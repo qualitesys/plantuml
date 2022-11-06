@@ -1,37 +1,37 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/lang/SentenceEnds.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SentenceSimple"
- , "c2" : "net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs"
+ , "c2" : "net.sourceforge.plantuml.project.lang.SentenceEnds"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.lang.SentenceEnds" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#10"
- , "c1" : "SentenceDisplayOnSameRowAs"
- , "c2" : "SentenceDisplayOnSameRowAs()"
+ , "c5" : "00013"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.html#13"
+ , "c1" : "SentenceEnds"
+ , "c2" : "SentenceEnds()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#15"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.html#18"
  , "c1" : "CommandExecutionResult"
  , "c2" : "execute(GanttDiagram;Object;Object)"
- , "c3" : "2"
+ , "c3" : "1"
  , "c4" : "5"
 }} 
 ] 
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.svg" }
 
 ] 
 , 
@@ -75,13 +75,6 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -91,35 +84,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#15"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#15"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00018] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs.execute@POLYN147897 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs.execute@POLYN147897 the MagicNumber/String  'No such task ' should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.html#18"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00018] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceEnds.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

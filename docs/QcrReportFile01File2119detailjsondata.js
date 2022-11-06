@@ -1,92 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sprite/SpriteColor.java 24 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java 17 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Sprite"
- , "c2" : "net.sourceforge.plantuml.sprite.SpriteColor"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.sprite.SpriteColorBuilder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sprite.SpriteColor" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sprite.SpriteColorBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#27"
- , "c1" : "SpriteColor"
- , "c2" : "SpriteColor(int;int)"
- , "c3" : "1"
- , "c4" : "4"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#14"
+ , "c1" : "Sprite"
+ , "c2" : "buildSprite(List<CharSequence>)"
+ , "c3" : "6"
+ , "c4" : "12"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#34"
- , "c1" : "void"
- , "c2" : "setGray(int;int;int)"
- , "c3" : "4"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#48"
- , "c1" : "void"
- , "c2" : "setColor(int;int;int)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#34"
+ , "c1" : "List<String>"
+ , "c2" : "encodeColor(BufferedImage)"
  , "c3" : "3"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#59"
- , "c1" : "int"
- , "c2" : "getHeight()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#63"
- , "c1" : "int"
- , "c2" : "getWidth()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#67"
- , "c1" : "UImage"
- , "c2" : "toUImage(ColorMapper;HColor;HColor)"
- , "c3" : "7"
- , "c4" : "14"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#92"
- , "c1" : "TextBlock"
- , "c2" : "asTextBlock(HColor;double)"
- , "c3" : "1"
- , "c4" : "4"
+ , "c4" : "13"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.svg" }
 
 ] 
 , 
@@ -113,10 +68,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "2"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -130,188 +92,142 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "17"
+ , "c4" : "9"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#20"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00020] The class SpriteColor contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00010] The class SpriteColorBuilder contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#14"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00014] For method buildSprite arguments List&lt;CharSequence &gt;  strings"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#14"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00014] The argument strings is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00026] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00026] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#15"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN153778 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#16"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN153778 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN153778 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#22"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN153778 the MagicNumber/String  '0123456789ABCDEF' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN153778 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#27"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN153778 the MagicNumber/String  0xFFFFFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#34"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method setGray arguments int  x|int  y|int  level"
+ , "c3" : "QC-JAV000006[00034] For method encodeColor arguments BufferedImage  img"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.sprite.SpriteColor.setGray@POLYN162902 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.sprite.SpriteColor.setGray@POLYN162902 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#34"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00034] The argument img is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#41"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.sprite.SpriteColor.setGray@POLYN162902 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00041] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#41"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.sprite.SpriteColor.setGray@POLYN162902 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN155404 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#45"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.sprite.SpriteColor.setGray@POLYN162902 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN155404 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#48"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method setColor arguments int  x|int  y|int  col"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#49"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.sprite.SpriteColor.setColor@POLYN163684 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sprite.SpriteColor.setColor@POLYN163684 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sprite.SpriteColor.setColor@POLYN163684 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#67"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method toUImage arguments ColorMapper  colorMapper|HColor  backcolor|HColor  forecolor"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00082] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00082] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sprite.SpriteColor.toUImage@POLYN164472 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sprite.SpriteColor.toUImage@POLYN164472 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sprite.SpriteColor.toUImage@POLYN164472 the MagicNumber/String  '\0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sprite.SpriteColor.toUImage@POLYN164472 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sprite.SpriteColor.toUImage@POLYN164472 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sprite.SpriteColor.toUImage@POLYN164472 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sprite.SpriteColor.toUImage@POLYN164472 the MagicNumber/String  1.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sprite.SpriteColor.toUImage@POLYN164472 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sprite.SpriteColor.toUImage@POLYN164472 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method asTextBlock arguments HColor  color|double  scale"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN155404 the MagicNumber/String  0xFFFFFF should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColor.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

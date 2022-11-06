@@ -1,27 +1,63 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Lazy.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/Lazy.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Lazy.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.Lazy"
+ , "c1" : "GraphicalElement"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.Lazy" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Lazy.java.html#6"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#16"
+ , "c1" : "LifeDestroy"
+ , "c2" : "LifeDestroy(double;ParticipantBox;Component)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#23"
+ , "c1" : "void"
+ , "c2" : "drawInternalU(UGraphic;double;Context2D)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#30"
  , "c1" : "double"
- , "c2" : "getNow()"
+ , "c2" : "getPreferredHeight(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#35"
+ , "c1" : "double"
+ , "c2" : "getPreferredWidth(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#40"
+ , "c1" : "double"
+ , "c2" : "getStartingX(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +66,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Lazy.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Lazy.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.svg" }
 
 ] 
 , 
@@ -57,8 +93,84 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Lazy.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "4"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#23"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00023] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#23"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#26"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy.drawInternalU@POLYN150361 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#30"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00030] For method getPreferredHeight arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#35"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00035] For method getPreferredWidth arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#40"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00040] For method getStartingX arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy.getStartingX@POLYN151211 the MagicNumber/String  2.0 should be converted to const"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

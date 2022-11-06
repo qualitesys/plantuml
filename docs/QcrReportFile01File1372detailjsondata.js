@@ -1,65 +1,56 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java 6 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlock"
- , "c2" : "net.sourceforge.plantuml.graphic.TextBlockEmpty"
+ , "c1" : "AbstractTextBlockTextBlock"
+ , "c2" : "net.sourceforge.plantuml.graphic.TextBlockGeneric"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.graphic.TextBlockEmpty" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.graphic.TextBlockGeneric" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#12"
- , "c1" : "TextBlockEmpty"
- , "c2" : "TextBlockEmpty(double;double)"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#16"
+ , "c1" : "TextBlockGeneric"
+ , "c2" : "TextBlockGeneric(TextBlock;HColor;HColor)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#22"
+ , "c1" : "XDimension2D"
+ , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#17"
- , "c1" : "TextBlockEmpty"
- , "c2" : "TextBlockEmpty()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#21"
- , "c1" : "XDimension2D"
- , "c2" : "calculateDimension(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#25"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#27"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "5"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.svg" }
 
 ] 
 , 
@@ -86,10 +77,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -102,35 +100,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.graphic.TextBlockEmpty.TextBlockEmpty@POLYN147087 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.graphic.TextBlockEmpty.TextBlockEmpty@POLYN147087 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#21"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#22"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00022] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#25"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00027] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#27"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00027] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.graphic.TextBlockGeneric.drawU@POLYN150492 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.graphic.TextBlockGeneric.drawU@POLYN150492 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.graphic.TextBlockGeneric.drawU@POLYN150492 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockGeneric.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

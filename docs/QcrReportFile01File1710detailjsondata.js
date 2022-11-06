@@ -1,25 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java 59 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java 53 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TimeHeaderCalendar"
- , "c2" : "net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly"
+ , "c1" : "TimeHeader"
+ , "c2" : "net.sourceforge.plantuml.project.draw.TimeHeaderSimple"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.draw.TimeHeaderSimple" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#14"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#27"
+ , "c1" : "double"
+ , "c2" : "getFullHeaderHeight()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#31"
  , "c1" : "double"
  , "c2" : "getTimeHeaderHeight()"
  , "c3" : "1"
@@ -27,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#18"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#35"
  , "c1" : "double"
  , "c2" : "getTimeFooterHeight()"
  , "c3" : "1"
@@ -36,26 +45,71 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#22"
- , "c1" : "TimeHeaderQuarterly"
- , "c2" : "TimeHeaderQuarterly(TimeHeaderParameters)"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#39"
+ , "c1" : "double"
+ , "c2" : "getHeaderNameDayHeight()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#27"
- , "c1" : "void"
- , "c2" : "drawTimeHeader(UGraphic;double)"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#43"
+ , "c1" : "TimeHeaderSimple"
+ , "c2" : "TimeHeaderSimple(TimeHeaderParameters;PrintScale)"
  , "c3" : "1"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#51"
+ , "c1" : "boolean"
+ , "c2" : "isBold(Day)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#55"
+ , "c1" : "void"
+ , "c2" : "drawSeparatorsDay(UGraphic;TimeScale;double)"
+ , "c3" : "3"
  , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#37"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#65"
+ , "c1" : "void"
+ , "c2" : "drawSmallVlinesDay(UGraphic;TimeScale;double)"
+ , "c3" : "2"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#73"
+ , "c1" : "void"
+ , "c2" : "drawSimpleDayCounter(UGraphic;TimeScale)"
+ , "c3" : "7"
+ , "c4" : "13"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#98"
+ , "c1" : "void"
+ , "c2" : "drawTimeHeader(UGraphic;double)"
+ , "c3" : "1"
+ , "c4" : "8"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#111"
  , "c1" : "void"
  , "c2" : "drawTimeFooter(UGraphic)"
  , "c3" : "1"
@@ -63,75 +117,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#46"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#137"
  , "c1" : "void"
- , "c2" : "drawYears(UGraphic)"
- , "c3" : "5"
- , "c4" : "12"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#67"
- , "c1" : "void"
- , "c2" : "drawQuarters(UGraphic)"
- , "c3" : "5"
- , "c4" : "12"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#88"
- , "c1" : "String"
- , "c2" : "quarter(Day)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#92"
- , "c1" : "void"
- , "c2" : "printYear(UGraphic;MonthYear;double;double)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#97"
- , "c1" : "void"
- , "c2" : "printQuarter(UGraphic;String;double;double)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#102"
- , "c1" : "void"
- , "c2" : "printLeft(UGraphic;TextBlock;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#107"
- , "c1" : "double"
- , "c2" : "getFullHeaderHeight()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "drawTextsBackground(UGraphic;double)"
+ , "c3" : "8"
+ , "c4" : "13"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.svg" }
 
 ] 
 , 
@@ -161,14 +161,28 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "7"
+ , "c4" : "10"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "44"
+ , "c4" : "32"
 }}
 ,
 { "ligne" : { "" : ""
@@ -181,420 +195,381 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.getTimeHeaderHeight@POLYN164588 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.getTimeHeaderHeight@POLYN164588 the MagicNumber/String  13 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.getTimeFooterHeight@POLYN164700 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.getTimeFooterHeight@POLYN164700 the MagicNumber/String  13 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.getTimeFooterHeight@POLYN164700 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#22"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument thParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#27"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method drawTimeHeader arguments UGraphic  ug|double  totalHeightWithoutFooter"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#27"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawTimeHeader@POLYN165085 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawTimeHeader@POLYN165085 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#32"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawTimeHeader@POLYN165085 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.getTimeHeaderHeight@POLYN176309 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#37"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method drawTimeFooter arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#37"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00037] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#38"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawTimeFooter@POLYN165752 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.getTimeFooterHeight@POLYN176397 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#40"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawTimeFooter@POLYN165752 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.getHeaderNameDayHeight@POLYN176485 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawTimeFooter@POLYN165752 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawTimeFooter@POLYN165752 the MagicNumber/String  13 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#46"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method drawYears arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#43"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00043] The argument thParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  null should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#51"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00051] For method isBold arguments Day  wink"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#55"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00055] For method drawSeparatorsDay arguments UGraphic  ug|TimeScale  timeScale|double  totalHeightWithoutFooter"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  15 should be converted to const"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#55"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00055] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#55"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00055] The argument timeScale is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#53"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSeparatorsDay@POLYN177360 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#64"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSeparatorsDay@POLYN177360 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#64"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSeparatorsDay@POLYN177360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawYears@POLYN166426 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#65"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00065] For method drawSmallVlinesDay arguments UGraphic  ug|TimeScale  timeScale|double  totalHeightWithoutFooter"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#65"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00065] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#65"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00065] The argument timeScale is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#67"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSmallVlinesDay@POLYN178421 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method drawQuarters arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000006[00073] For method drawSimpleDayCounter arguments UGraphic  ug|TimeScale  timeScale"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#73"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00073] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  12 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#73"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00073] The argument timeScale is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#73"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#74"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#85"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#85"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#85"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.drawQuarters@POLYN168178 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#88"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method quarter arguments Day  day"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#88"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00088] The argument day is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#89"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.quarter@POLYN169912 the MagicNumber/String  'Q' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#89"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.quarter@POLYN169912 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#89"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.quarter@POLYN169912 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  6 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method printYear arguments UGraphic  ug|MonthYear  monthYear|double  start|double  end"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawSimpleDayCounter@POLYN179211 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#92"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#98"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00098] For method drawTimeHeader arguments UGraphic  ug|double  totalHeightWithoutFooter"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#98"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00092] The argument monthYear is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.printYear@POLYN170168 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.printYear@POLYN170168 the MagicNumber/String  12 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.printYear@POLYN170168 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.printYear@POLYN170168 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#97"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method printQuarter arguments UGraphic  ug|String  quarter|double  start|double  end"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.printQuarter@POLYN170676 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.printQuarter@POLYN170676 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAVCWE476[00098] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#99"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly.printQuarter@POLYN170676 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTimeHeader@POLYN181237 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTimeHeader@POLYN181237 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTimeHeader@POLYN181237 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTimeHeader@POLYN181237 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00102] For method printLeft arguments UGraphic  ug|TextBlock  text|double  start"
+ , "c3" : "QC-JAV000006[00111] For method drawTimeFooter arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#102"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#111"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00102] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00111] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#102"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTimeFooter@POLYN182601 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTimeFooter@POLYN182601 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00121] The class Pending contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#132"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00132] For method draw arguments UGraphic  ug|double  height"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#132"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00102] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00132] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#137"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00137] For method drawTextsBackground arguments UGraphic  ug|double  totalHeightWithoutFooter"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00145] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#140"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#161"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTextsBackground@POLYN184178 the MagicNumber/String  null should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

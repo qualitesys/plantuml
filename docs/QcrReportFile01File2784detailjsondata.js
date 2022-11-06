@@ -1,56 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java 5 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java 9 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker"
+ , "c1" : "FileMaker"
+ , "c2" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#24"
- , "c1" : "CucaDiagramXmiMaker"
- , "c2" : "CucaDiagramXmiMaker(CucaDiagram;FileFormat)"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#33"
+ , "c1" : "SequenceDiagramXmiMaker"
+ , "c2" : "SequenceDiagramXmiMaker(SequenceDiagram;FileFormat)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#29"
- , "c1" : "String"
- , "c2" : "getModel(UmlDiagram)"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#39"
+ , "c1" : "ImageData"
+ , "c2" : "createOne(OutputStream;int;boolean)"
+ , "c3" : "3"
+ , "c4" : "15"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#70"
+ , "c1" : "int"
+ , "c2" : "getNbPages()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#33"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#74"
  , "c1" : "void"
- , "c2" : "createFiles(OutputStream)"
- , "c3" : "11"
- , "c4" : "14"
+ , "c2" : "writeDocument(Document;OutputStream)"
+ , "c3" : "1"
+ , "c4" : "6"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.svg" }
 
 ] 
 , 
@@ -77,13 +86,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -94,7 +96,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "1"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -107,42 +109,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#19"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00019] The class CucaDiagramXmiMaker contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00028] The class SequenceDiagramXmiMaker contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#29"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#39"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getModel arguments UmlDiagram  classDiagram"
+ , "c3" : "QC-JAV000006[00039] For method createOne arguments OutputStream  os|int  index|boolean  isWithMetadata"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#30"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker.getModel@POLYN153976 the MagicNumber/String  'model1' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN148195 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#33"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN148195 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN148195 the MagicNumber/String  '1.0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN148195 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.getNbPages@POLYN149604 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method createFiles arguments OutputStream  fos"
+ , "c3" : "QC-JAV000006[00074] For method writeDocument arguments Document  document|OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#29"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00029] Public method getModel is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.writeDocument@POLYN149684 the MagicNumber/String  'yes' should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

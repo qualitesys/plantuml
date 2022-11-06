@@ -1,56 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java 18 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/image/YTransformer.java 5 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle"
+ , "c2" : "net.sourceforge.plantuml.svek.image.YTransformer"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.image.YTransformer" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#10"
+ , "c1" : "YTransformer"
+ , "c2" : "YTransformer(double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
 { "ligne" : { "" : ""
  , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#14"
- , "c1" : "void"
- , "c2" : "append(XPoint2D)"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#14"
+ , "c1" : "XPoint2D"
+ , "c2" : "getPoint2D(XPoint2D)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#21"
- , "c1" : "Circle"
- , "c2" : "getCircle()"
- , "c3" : "2"
- , "c4" : "2"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#18"
+ , "c1" : "XPoint2D"
+ , "c2" : "getReversePoint2D(XPoint2D)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#28"
- , "c1" : "Circle"
- , "c2" : "findSec(int;List<XPoint2D>;int;List<XPoint2D>)"
- , "c3" : "8"
- , "c4" : "9"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#22"
+ , "c1" : "double"
+ , "c2" : "getAlpha()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.svg" }
 
 ] 
 , 
@@ -77,17 +86,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "15"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,133 +109,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#9"
+ , "c1" : "00006"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#6"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class SmallestEnclosingCircle contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00006] The class YTransformer contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#14"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#14"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method append arguments XPoint2D  pt"
+ , "c3" : "QC-JAV000006[00014] For method getPoint2D arguments XPoint2D  pt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.append@POLYN151733 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#14"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00014] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.append@POLYN151733 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.getCircle@POLYN152038 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.getCircle@POLYN152038 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#28"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method findSec arguments int  n|List&lt;XPoint2D &gt;  p|int  m|List&lt;XPoint2D &gt;  b"
+ , "c3" : "QC-JAV000006[00018] For method getReversePoint2D arguments XPoint2D  pt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN152403 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#18"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00018] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

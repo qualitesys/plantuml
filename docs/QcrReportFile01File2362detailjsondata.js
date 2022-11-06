@@ -1,108 +1,99 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/swing/ScrollablePicture.java 24 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/swing/SimpleLine.java 11 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "JLabelScrollable"
- , "c2" : "net.sourceforge.plantuml.swing.ScrollablePicture"
+ , "c1" : "Comparable<SimpleLine>"
+ , "c2" : "net.sourceforge.plantuml.swing.SimpleLine"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.swing.ScrollablePicture" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.swing.SimpleLine" , "link" : "" , "methodes" : [ 
+{ "ligne" : { "" : ""
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#16"
+ , "c1" : "SimpleLine"
+ , "c2" : "fromFuture(File;Future<List<GeneratedImage>>)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
 { "ligne" : { "" : ""
  , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#20"
- , "c1" : "ScrollablePicture"
- , "c2" : "ScrollablePicture(ImageIcon;int)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#20"
+ , "c1" : "SimpleLine"
+ , "c2" : "fromGeneratedImage(File;GeneratedImage)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#24"
+ , "c1" : "SimpleLine"
+ , "c2" : "SimpleLine(File;GeneratedImage;Future<List<GeneratedImage>>)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#30"
+ , "c1" : "File"
+ , "c2" : "getFile()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#34"
+ , "c1" : "boolean"
+ , "c2" : "pendingAndFinished()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#39"
+ , "c1" : "String"
+ , "c2" : "toString()"
  , "c3" : "2"
- , "c4" : "9"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#37"
- , "c1" : "void"
- , "c2" : "mouseMoved(MouseEvent)"
- , "c3" : "1"
- , "c4" : "0"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#40"
- , "c1" : "void"
- , "c2" : "mouseDragged(MouseEvent)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#47"
- , "c1" : "Dimension"
- , "c2" : "getPreferredSize()"
- , "c3" : "3"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#55"
- , "c1" : "Dimension"
- , "c2" : "getPreferredScrollableViewportSize()"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#49"
+ , "c1" : "Future<List<GeneratedImage>>"
+ , "c2" : "getFuture()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#59"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#53"
  , "c1" : "int"
- , "c2" : "getScrollableUnitIncrement(Rectangle;int;int)"
- , "c3" : "5"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#78"
- , "c1" : "int"
- , "c2" : "getScrollableBlockIncrement(Rectangle;int;int)"
- , "c3" : "3"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#86"
- , "c1" : "boolean"
- , "c2" : "getScrollableTracksViewportWidth()"
+ , "c2" : "compareTo(SimpleLine)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#90"
- , "c1" : "boolean"
- , "c2" : "getScrollableTracksViewportHeight()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#94"
- , "c1" : "void"
- , "c2" : "setMaxUnitIncrement(int)"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#57"
+ , "c1" : "GeneratedImage"
+ , "c2" : "getGeneratedImage()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -111,9 +102,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.svg" }
 
 ] 
 , 
@@ -140,212 +131,117 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000004"
- , "c3" : "You must segregate your interface"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "15"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "5"
+ , "c4" : "3"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#22"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000008[00010] The class SimpleLine contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  'No picture found.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#37"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method mouseMoved arguments MouseEvent  e"
+ , "c3" : "QC-JAV000006[00016] For method fromFuture arguments File  file|Future&lt;List&lt;GeneratedImage &gt; &gt;  future"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.swing.SimpleLine.fromFuture@POLYN151895 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#20"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00020] For method fromGeneratedImage arguments File  file|GeneratedImage  generatedImage"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#21"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.swing.SimpleLine.fromGeneratedImage@POLYN152159 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.swing.SimpleLine.pendingAndFinished@POLYN152806 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#40"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.swing.SimpleLine.toString@POLYN152972 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.swing.SimpleLine.toString@POLYN152972 the MagicNumber/String  ' (...pending...)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.swing.SimpleLine.toString@POLYN152972 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method mouseDragged arguments MouseEvent  e"
+ , "c3" : "QC-JAV000006[00053] For method compareTo arguments SimpleLine  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.swing.ScrollablePicture.mouseDragged@POLYN155702 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.swing.ScrollablePicture.mouseDragged@POLYN155702 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.swing.ScrollablePicture.getPreferredSize@POLYN156053 the MagicNumber/String  320 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.swing.ScrollablePicture.getPreferredSize@POLYN156053 the MagicNumber/String  480 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method getScrollableUnitIncrement arguments Rectangle  visibleRect|int  orientation|int  direction"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#59"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument visibleRect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156423 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156423 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156423 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156423 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method getScrollableBlockIncrement arguments Rectangle  visibleRect|int  orientation|int  direction"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#78"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument visibleRect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableTracksViewportWidth@POLYN157710 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableTracksViewportHeight@POLYN157798 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#94"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00094] For method setMaxUnitIncrement arguments int  pixels"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#37"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00037] Void method mouseMoved is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#37"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00037] Void method mouseMoved is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVCWE476[00053] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

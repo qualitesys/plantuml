@@ -1,47 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/eggs/PSystemEgg.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java 4 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PlainStringsDiagram"
- , "c2" : "net.sourceforge.plantuml.eggs.PSystemEgg"
+ , "c1" : "PSystemSingleLineFactory"
+ , "c2" : "net.sourceforge.plantuml.eggs.PSystemEggFactory"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.eggs.PSystemEgg" , "link" : "" , "methodes" : [ 
-{ "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.html#12"
- , "c1" : "PSystemEgg"
- , "c2" : "PSystemEgg(UmlSource;String)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
+ { "nomclasse" : "net.sourceforge.plantuml.eggs.PSystemEggFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.html#20"
- , "c1" : "DiagramDescription"
- , "c2" : "getDescription()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.html#20"
+ , "c1" : "AbstractPSystem"
+ , "c2" : "executeLine(UmlSource;String)"
+ , "c3" : "3"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.svg" }
 
 ] 
 , 
@@ -69,29 +60,60 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.html#14"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.eggs.PSystemEgg.PSystemEgg@POLYN146897 the MagicNumber/String  '|' should be converted to const"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.html#20"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00020] For method executeLine arguments UmlSource  source|String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.html#21"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.eggs.PSystemEgg.getDescription@POLYN147339 the MagicNumber/String  '(Easter Eggs)' should be converted to const"
+ , "c3" : "QC-JAV000001[00023] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.eggs.PSystemEggFactory.executeLine@POLYN148683 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.eggs.PSystemEggFactory.executeLine@POLYN148683 the MagicNumber/String  null should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEggFactory.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/SourceFileReaderHardFile.java 2 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SourceFileReaderAbstractISourceFileReader"
- , "c2" : "net.sourceforge.plantuml.SourceFileReaderCopyCat"
+ , "c2" : "net.sourceforge.plantuml.SourceFileReaderHardFile"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.SourceFileReaderCopyCat" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.SourceFileReaderHardFile" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#14"
- , "c1" : "SourceFileReaderCopyCat"
- , "c2" : "SourceFileReaderCopyCat(Defines;File;File;List<String>;String;FileFormatOption)"
- , "c3" : "2"
- , "c4" : "4"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.html#15"
+ , "c1" : "SourceFileReaderHardFile"
+ , "c2" : "SourceFileReaderHardFile(Defines;File;File;List<String>;String;FileFormatOption)"
+ , "c3" : "1"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#24"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.html#23"
  , "c1" : "SuggestedFile"
  , "c2" : "getSuggestedFile(BlockUml)"
- , "c3" : "2"
- , "c4" : "5"
+ , "c3" : "1"
+ , "c4" : "2"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.svg" }
 
 ] 
 , 
@@ -71,14 +71,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -91,49 +84,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#14"
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.html#15"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00015] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#14"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument outputDirectory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.SourceFileReaderCopyCat@POLYN148921 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#24"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.html#23"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method getSuggestedFile arguments BlockUml  blockUml"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#24"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument blockUml is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.getSuggestedFile@POLYN149690 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000006[00023] For method getSuggestedFile arguments BlockUml  blockUml"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

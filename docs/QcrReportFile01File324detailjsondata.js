@@ -1,27 +1,54 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/plot/PlotListener.java.html" 
- , "texte" : "File src/jcckit/plot/PlotListener.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/plot/PlotListener.java.xml" 
+   "fic1"  : "./qc/src/jcckit/plot/PositionHint.java.html" 
+ , "texte" : "File src/jcckit/plot/PositionHint.java 5 rule violations " 
+ , "fic2"  : "./qc/src/jcckit/plot/PositionHint.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "jcckit.plot.PlotListener"
+ , "c1" : "Hint"
+ , "c2" : "jcckit.plot.PositionHint"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.plot.PlotListener" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.plot.PositionHint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/jcckit/plot/PlotListener.java.html#7"
- , "c1" : "void"
- , "c2" : "plotChanged(PlotEvent)"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#16"
+ , "c1" : "PositionHint"
+ , "c2" : "PositionHint(ConfigParameters)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#23"
+ , "c1" : "PositionHint"
+ , "c2" : "PositionHint(GraphPoint;GraphPoint)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#29"
+ , "c1" : "GraphPoint"
+ , "c2" : "getPosition()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#34"
+ , "c1" : "GraphPoint"
+ , "c2" : "getOrigin()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +57,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/plot/PlotListener.java.png" 
+   {"ligne" : "./qc/src/jcckit/plot/PositionHint.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/plot/PlotListener.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/plot/PositionHint.java.svg" }
 
 ] 
 , 
@@ -57,8 +84,70 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/jcckit/plot/PlotListener.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "3"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#8"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00008] The class PositionHint contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#16"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00016] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method jcckit.plot.PositionHint.PositionHint@POLYN151847 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00018] In method jcckit.plot.PositionHint.PositionHint@POLYN151847 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#18"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00018] In method jcckit.plot.PositionHint.PositionHint@POLYN151847 the MagicNumber/String  null should be converted to const"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/jcckit/plot/PositionHint.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

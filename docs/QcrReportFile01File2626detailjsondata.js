@@ -1,30 +1,30 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorException.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorException.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorException.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorRuntimeException.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorRuntimeException.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorRuntimeException.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Exception"
- , "c2" : "net.sourceforge.plantuml.ugraphic.color.NoSuchColorException"
+ , "c1" : "RuntimeException"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.color.NoSuchColorRuntimeException"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.color.NoSuchColorException" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.color.NoSuchColorRuntimeException" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorException.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorRuntimeException.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorException.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorRuntimeException.java.svg" }
 
 ] 
 , 
@@ -49,8 +49,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorException.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/NoSuchColorRuntimeException.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,9 +1,9 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/gen/annotation/Doc.java.html" 
- , "texte" : "File src/gen/annotation/Doc.java 0 rule violation " 
- , "fic2"  : "./qc/src/gen/annotation/Doc.java.xml" 
+   "fic1"  : "./qc/src/gen/annotation/HasND_Rank.java.html" 
+ , "texte" : "File src/gen/annotation/HasND_Rank.java 0 rule violation " 
+ , "fic2"  : "./qc/src/gen/annotation/HasND_Rank.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -41,8 +41,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/gen/annotation/Doc.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/gen/annotation/HasND_Rank.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

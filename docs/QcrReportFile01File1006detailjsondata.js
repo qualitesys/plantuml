@@ -1,108 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/core/Diagram.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/core/Diagram.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/core/Diagram.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/core/DiagramDescription.java 1 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.core.Diagram"
+ , "c2" : "net.sourceforge.plantuml.core.DiagramDescription"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.core.Diagram" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.core.DiagramDescription" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#16"
- , "c1" : "ImageData"
- , "c2" : "exportDiagram(OutputStream;int;FileFormatOption)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#19"
- , "c1" : "int"
- , "c2" : "getNbImages()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#21"
- , "c1" : "int"
- , "c2" : "getSplitPagesHorizontal()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#23"
- , "c1" : "int"
- , "c2" : "getSplitPagesVertical()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#25"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.html#8"
  , "c1" : "DiagramDescription"
+ , "c2" : "DiagramDescription(String)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.html#12"
+ , "c1" : "String"
  , "c2" : "getDescription()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#27"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.html#17"
  , "c1" : "String"
- , "c2" : "getMetadata()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#29"
- , "c1" : "String"
- , "c2" : "getWarningOrError()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#32"
- , "c1" : "UmlSource"
- , "c2" : "getSource()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#35"
- , "c1" : "boolean"
- , "c2" : "hasUrl()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#37"
- , "c1" : "Display"
- , "c2" : "getTitleDisplay()"
+ , "c2" : "toString()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -111,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/core/Diagram.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/core/Diagram.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.svg" }
 
 ] 
 , 
@@ -138,8 +75,28 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/core/Diagram.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.html#4"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00004] The class DiagramDescription contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,155 +1,101 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/openiconic/Movement.java 75 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/openiconic/OpenIcon.java 39 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.openiconic.Movement"
+ , "c2" : "net.sourceforge.plantuml.openiconic.OpenIcon"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.openiconic.Movement" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.openiconic.OpenIcon" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#15"
- , "c1" : "Movement"
- , "c2" : "Movement(Iterator<SvgCommand>)"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#28"
+ , "c1" : "OpenIcon"
+ , "c2" : "retrieve(String)"
  , "c3" : "2"
- , "c4" : "7"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#26"
- , "c1" : "String"
- , "c2" : "toString()"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#41"
+ , "c1" : "OpenIcon"
+ , "c2" : "OpenIcon(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#30"
- , "c1" : "Movement"
- , "c2" : "Movement(SvgCommandLetter;SvgCommandNumber...)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#35"
- , "c1" : "Movement"
- , "c2" : "Movement(SvgCommandLetter)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#40"
- , "c1" : "char"
- , "c2" : "getLetter()"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#45"
+ , "c1" : "InputStream"
+ , "c2" : "getResource(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#44"
- , "c1" : "Movement"
- , "c2" : "Movement(SvgCommandLetter;SvgPosition...)"
- , "c3" : "2"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#50"
+ , "c1" : "OpenIcon"
+ , "c2" : "OpenIcon(InputStream;String)"
+ , "c3" : "4"
  , "c4" : "7"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#54"
- , "c1" : "Movement"
- , "c2" : "mutoToC(SvgPosition)"
- , "c3" : "3"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#68"
+ , "c1" : "void"
+ , "c2" : "saveCopy(SFile)"
+ , "c3" : "1"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#65"
- , "c1" : "String"
- , "c2" : "toSvg()"
- , "c3" : "2"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
  , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#76"
- , "c1" : "SvgPosition"
- , "c2" : "getSvgPosition(int)"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#76"
+ , "c1" : "XDimension2D"
+ , "c2" : "getDimension(double)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#80"
- , "c1" : "double"
- , "c2" : "getArgument(int)"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#82"
+ , "c1" : "String"
+ , "c2" : "getNumber(String;String)"
+ , "c3" : "4"
+ , "c4" : "7"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#98"
+ , "c1" : "TextBlock"
+ , "c2" : "asTextBlock(HColor;double)"
  , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#84"
- , "c1" : "SvgPosition"
- , "c2" : "lastPosition()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#91"
- , "c1" : "Movement"
- , "c2" : "toAbsoluteUpperCase(SvgPosition)"
- , "c3" : "12"
- , "c4" : "18"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#138"
- , "c1" : "SvgPosition"
- , "c2" : "getMirrorControlPoint()"
- , "c3" : "5"
- , "c4" : "9"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#158"
- , "c1" : "boolean"
- , "c2" : "is(char)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.svg" }
 
 ] 
 , 
@@ -186,13 +132,13 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000001"
- , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c2" : "QC-JAVCWE481"
+ , "c3" : "Assigning instead of comparing"
  , "c4" : "1"
 }}
 ,
@@ -207,545 +153,303 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "65"
+ , "c4" : "26"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000021"
+ , "c3" : "The same method is called several times, might be optimized"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "5"
+ , "c4" : "6"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#10"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class Movement contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00022] The class OpenIcon contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#15"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#28"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00028] For method retrieve arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#20"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00020] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.openiconic.OpenIcon.retrieve@POLYN162901 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#19"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.openiconic.Movement.Movement@POLYN173522 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.openiconic.OpenIcon.retrieve@POLYN162901 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#27"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.openiconic.Movement.toString@POLYN174302 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.openiconic.OpenIcon.retrieve@POLYN162901 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.openiconic.Movement.Movement@POLYN175012 the MagicNumber/String  2 should be converted to const"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#45"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00045] For method getResource arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#47"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.openiconic.Movement.Movement@POLYN175012 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.openiconic.OpenIcon.getResource@POLYN163609 the MagicNumber/String  '.svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.openiconic.Movement.Movement@POLYN175012 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.openiconic.Movement.Movement@POLYN175012 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.openiconic.Movement.Movement@POLYN175012 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#50"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00050] The argument is is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#54"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method mutoToC arguments SvgPosition  mirrorControlPoint"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[00054] Assigning instead of comparing on s=br.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#55"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.openiconic.Movement.mutoToC@POLYN175920 the MagicNumber/String  'S' should be converted to const"
+ , "c3" : "QC-JAV000021[00063] The same method call rawData.size() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#55"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.openiconic.Movement.mutoToC@POLYN175920 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.openiconic.OpenIcon.OpenIcon@POLYN163779 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.openiconic.OpenIcon.OpenIcon@POLYN163779 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.openiconic.OpenIcon.OpenIcon@POLYN163779 the MagicNumber/String  '&amp;lt;path' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.openiconic.OpenIcon.OpenIcon@POLYN163779 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#58"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.openiconic.Movement.mutoToC@POLYN175920 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.openiconic.OpenIcon.OpenIcon@POLYN163779 the MagicNumber/String  ''' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.openiconic.OpenIcon.OpenIcon@POLYN163779 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#59"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.openiconic.Movement.mutoToC@POLYN175920 the MagicNumber/String  'C' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.openiconic.OpenIcon.OpenIcon@POLYN163779 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#59"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.openiconic.Movement.mutoToC@POLYN175920 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.openiconic.OpenIcon.OpenIcon@POLYN163779 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#59"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.openiconic.Movement.mutoToC@POLYN175920 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.openiconic.Movement.mutoToC@POLYN175920 the MagicNumber/String  'C' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.openiconic.Movement.mutoToC@POLYN175920 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.openiconic.OpenIcon.OpenIcon@POLYN163779 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.openiconic.Movement.toSvg@POLYN176727 the MagicNumber/String  ' ' should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#68"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00068] For method saveCopy arguments SFile  fnew"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#71"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#68"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00068] The argument fnew is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.openiconic.Movement.toSvg@POLYN176727 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.openiconic.OpenIcon.saveCopy@POLYN165073 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.openiconic.OpenIcon.saveCopy@POLYN165073 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#76"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method getSvgPosition arguments int  index"
+ , "c3" : "QC-JAV000006[00076] For method getDimension arguments double  factor"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#77"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.openiconic.Movement.getSvgPosition@POLYN177317 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.openiconic.OpenIcon.getDimension@POLYN165610 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#80"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.openiconic.OpenIcon.getDimension@POLYN165610 the MagicNumber/String  'width' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.openiconic.OpenIcon.getDimension@POLYN165610 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.openiconic.OpenIcon.getDimension@POLYN165610 the MagicNumber/String  'height' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method getArgument arguments int  index"
+ , "c3" : "QC-JAV000006[00082] For method getNumber arguments String  s|String  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#85"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.openiconic.Movement.lastPosition@POLYN177754 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.openiconic.OpenIcon.getNumber@POLYN166212 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#86"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.openiconic.Movement.lastPosition@POLYN177754 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.openiconic.OpenIcon.getNumber@POLYN166212 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#88"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.openiconic.Movement.lastPosition@POLYN177754 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.openiconic.OpenIcon.getNumber@POLYN166212 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#91"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method toAbsoluteUpperCase arguments SvgPosition  delta"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.openiconic.OpenIcon.getNumber@POLYN166212 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#91"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00091] The argument delta is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.openiconic.OpenIcon.getNumber@POLYN166212 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#93"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'H' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.openiconic.OpenIcon.getNumber@POLYN166212 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#95"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'L' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'V' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.openiconic.OpenIcon.getNumber@POLYN166212 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'L' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'h' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'L' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'v' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'L' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'm' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'M' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'l' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'L' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'z' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'Z' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'c' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'C' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  's' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'S' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'a' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'A' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.openiconic.Movement.toAbsoluteUpperCase@POLYN178046 the MagicNumber/String  'Movement::goUpperCase ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.openiconic.Movement.getMirrorControlPoint@POLYN182420 the MagicNumber/String  'c' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.openiconic.Movement.getMirrorControlPoint@POLYN182420 the MagicNumber/String  's' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#145"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.openiconic.Movement.getMirrorControlPoint@POLYN182420 the MagicNumber/String  'C' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.openiconic.Movement.getMirrorControlPoint@POLYN182420 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.openiconic.Movement.getMirrorControlPoint@POLYN182420 the MagicNumber/String  'S' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.openiconic.Movement.getMirrorControlPoint@POLYN182420 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.openiconic.Movement.getMirrorControlPoint@POLYN182420 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00158] For method is arguments char  c"
+ , "c3" : "QC-JAV000006[00098] For method asTextBlock arguments HColor  color|double  factor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#54"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#98"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00098] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html#28"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00054] Public method mutoToC is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00028] Public method retrieve is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/openiconic/Movement.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

@@ -1,63 +1,63 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/salt/element/ListWidth.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/salt/element/Segment.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/element/Segment.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.salt.element.ListWidth"
+ , "c2" : "net.sourceforge.plantuml.salt.element.Segment"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.salt.element.ListWidth" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.salt.element.Segment" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#12"
- , "c1" : "void"
- , "c2" : "add(double)"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#9"
+ , "c1" : "Segment"
+ , "c2" : "Segment(int;int)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#15"
+ , "c1" : "int"
+ , "c2" : "hashCode()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#16"
- , "c1" : "ListWidth"
- , "c2" : "mergeMax(ListWidth)"
- , "c3" : "2"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#26"
- , "c1" : "double"
- , "c2" : "getWidthSafe(int)"
- , "c3" : "2"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#20"
+ , "c1" : "boolean"
+ , "c2" : "equals(Object)"
+ , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#33"
- , "c1" : "double"
- , "c2" : "getTotalWidthWithMargin(double)"
- , "c3" : "3"
- , "c4" : "4"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#25"
+ , "c1" : "int"
+ , "c2" : "getRow()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#44"
- , "c1" : "Iterator<Double>"
- , "c2" : "iterator()"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#29"
+ , "c1" : "int"
+ , "c2" : "getCol()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -66,9 +66,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/element/Segment.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/element/Segment.java.svg" }
 
 ] 
 , 
@@ -95,13 +95,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAVCWE476"
- , "c3" : "Null pointer reference"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
@@ -112,90 +105,44 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "4"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "1"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#8"
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class ListWidth contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#12"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method add arguments double  width"
+ , "c3" : "QC-JAV000008[00004] The class Segment contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#16"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#16"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.salt.element.Segment.hashCode@POLYN147208 the MagicNumber/String  47 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/Segment.java.html#20"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method mergeMax arguments ListWidth  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#16"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.salt.element.ListWidth.mergeMax@POLYN150471 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#26"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method getWidthSafe arguments int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.salt.element.ListWidth.getWidthSafe@POLYN151252 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method getTotalWidthWithMargin arguments double  margin"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.salt.element.ListWidth.getTotalWidthWithMargin@POLYN151528 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.salt.element.ListWidth.getTotalWidthWithMargin@POLYN151528 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00020] For method equals arguments Object  obj"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/salt/element/Segment.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

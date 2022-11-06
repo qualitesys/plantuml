@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/command/CommandColorTask.java 19 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/project/command/CommandFootbox.java 9 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "SingleLineCommand2<GanttDiagram>"
- , "c2" : "net.sourceforge.plantuml.project.command.CommandColorTask"
+ , "c2" : "net.sourceforge.plantuml.project.command.CommandFootbox"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.project.command.CommandColorTask" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.project.command.CommandFootbox" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#19"
- , "c1" : "CommandColorTask"
- , "c2" : "CommandColorTask()"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#15"
+ , "c1" : "CommandFootbox"
+ , "c2" : "CommandFootbox()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#23"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#19"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,21 +36,21 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#32"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#27"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(GanttDiagram;LineLocation;RegexResult)"
- , "c3" : "2"
- , "c4" : "9"
+ , "c3" : "1"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.svg" }
 
 ] 
 , 
@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "16"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -100,140 +100,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#25"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.project.command.CommandColorTask.getRegexConcat@POLYN154219 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.project.command.CommandFootbox.getRegexConcat@POLYN150071 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#25"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.project.command.CommandColorTask.getRegexConcat@POLYN154219 the MagicNumber/String  '\\[([%pLN_.]+)\\]' should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.project.command.CommandFootbox.getRegexConcat@POLYN150071 the MagicNumber/String  '(hide|show)?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#23"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.project.command.CommandFootbox.getRegexConcat@POLYN150071 the MagicNumber/String  'footbox' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.project.command.CommandColorTask.getRegexConcat@POLYN154219 the MagicNumber/String  'COLORS' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.project.command.CommandColorTask.getRegexConcat@POLYN154219 the MagicNumber/String  '#(\\w+)(?:/(#?\\w+))?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#32"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method executeArg arguments GanttDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00027] For method executeArg arguments GanttDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#32"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#27"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00027] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#32"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#27"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00027] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#35"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.command.CommandFootbox.executeArg@POLYN150514 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#35"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.command.CommandFootbox.executeArg@POLYN150514 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#37"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  'No such task ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  'COLORS' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  'COLORS' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.project.command.CommandColorTask.executeArg@POLYN154728 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.command.CommandFootbox.executeArg@POLYN150514 the MagicNumber/String  'show' should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

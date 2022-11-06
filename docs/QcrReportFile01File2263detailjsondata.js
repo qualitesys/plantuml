@@ -1,43 +1,25 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/Extremity.java 22 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java 24 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDrawable"
- , "c2" : "net.sourceforge.plantuml.svek.extremity.Extremity"
+ , "c1" : "Extremity"
+ , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityArrow"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.Extremity" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityArrow" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#10"
- , "c1" : "double"
- , "c2" : "manageround(double)"
- , "c3" : "6"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#30"
- , "c1" : "boolean"
- , "c2" : "isCloseTo(double;double)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#37"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#20"
  , "c1" : "XPoint2D"
  , "c2" : "somePoint()"
  , "c3" : "1"
@@ -45,30 +27,57 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#39"
- , "c1" : "XPoint2D"
- , "c2" : "isTooSmallSoGiveThePointCloserToThisOne(XPoint2D)"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#24"
+ , "c1" : "ExtremityArrow"
+ , "c2" : "ExtremityArrow(XPoint2D;double;XPoint2D)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "6"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#34"
+ , "c1" : "ExtremityArrow"
+ , "c2" : "ExtremityArrow(XPoint2D;double)"
+ , "c3" : "1"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#43"
- , "c1" : "UTranslate"
- , "c2" : "getDeltaForKal()"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#43"
+ , "c1" : "int"
+ , "c2" : "buildPolygon()"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "9"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#55"
+ , "c1" : "void"
+ , "c2" : "drawU(UGraphic)"
+ , "c3" : "4"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#68"
+ , "c1" : "void"
+ , "c2" : "drawLineIfTransparent(UGraphic)"
+ , "c3" : "1"
+ , "c4" : "4"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.svg" }
 
 ] 
 , 
@@ -95,184 +104,201 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "18"
+ , "c4" : "17"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "3"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#8"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class Extremity contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#10"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00010] For method manageround arguments double  angle"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  180.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#13"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  90 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  90.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  180.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  180.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  180.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  270 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  270.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  180.0 should be converted to const"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#24"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00024] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  360 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#24"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00024] The argument center is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#25"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.svek.extremity.Extremity.manageround@POLYN149801 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.ExtremityArrow@POLYN158699 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.ExtremityArrow@POLYN158699 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#30"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method isCloseTo arguments double  value|double  variable"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#31"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.svek.extremity.Extremity.isCloseTo@POLYN150895 the MagicNumber/String  0.05 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.svek.extremity.Extremity.isCloseTo@POLYN150895 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.ExtremityArrow@POLYN158699 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.svek.extremity.Extremity.isCloseTo@POLYN150895 the MagicNumber/String  false should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#34"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00034] The argument p0 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#39"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#35"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.ExtremityArrow@POLYN159922 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.buildPolygon@POLYN160493 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.buildPolygon@POLYN160493 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.buildPolygon@POLYN160493 the MagicNumber/String  9 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#46"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.buildPolygon@POLYN160493 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#48"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.buildPolygon@POLYN160493 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.buildPolygon@POLYN160493 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.buildPolygon@POLYN160493 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.buildPolygon@POLYN160493 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method isTooSmallSoGiveThePointCloserToThisOne arguments XPoint2D  pt"
+ , "c3" : "QC-JAV000006[00055] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.html#40"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#55"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00055] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.svek.extremity.Extremity.isTooSmallSoGiveThePointCloserToThisOne@POLYN151251 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.drawU@POLYN161268 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.drawU@POLYN161268 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.drawU@POLYN161268 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#68"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00068] For method drawLineIfTransparent arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#68"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00068] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.drawLineIfTransparent@POLYN162079 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrow.drawLineIfTransparent@POLYN162079 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/Extremity.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrow.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

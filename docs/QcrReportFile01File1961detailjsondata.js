@@ -1,36 +1,36 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java 0 rule violation " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.FileMaker"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategy"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.FileMaker" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java.html#11"
- , "c1" : "ImageData"
- , "c2" : "createOne(OutputStream;int;boolean)"
+ , "c5" : "00008"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java.html#8"
+ , "c1" : "double"
+ , "c2" : "peekPosition(Event;ParticipantRange)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java.html#13"
- , "c1" : "int"
- , "c2" : "getNbPages()"
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java.html#10"
+ , "c1" : "void"
+ , "c2" : "addElement(Event;ParticipantRange;double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,9 +39,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java.svg" }
 
 ] 
 , 
@@ -66,8 +66,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FileMaker.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

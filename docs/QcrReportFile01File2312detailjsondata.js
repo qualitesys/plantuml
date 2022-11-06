@@ -1,36 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "MiddleFactory"
- , "c2" : "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircleCircled"
+ , "c1" : "AbstractEntityImage"
+ , "c2" : "net.sourceforge.plantuml.svek.image.AbstractEntityImageBorder"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircleCircled" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.image.AbstractEntityImageBorder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#13"
- , "c1" : "MiddleFactoryCircleCircled"
- , "c2" : "MiddleFactoryCircleCircled(MiddleCircleCircledMode;HColor;HColor)"
- , "c3" : "1"
- , "c4" : "3"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html#29"
+ , "c1" : "AbstractEntityImageBorder"
+ , "c2" : "AbstractEntityImageBorder(ILeaf;ISkinParam;Cluster;Bibliotekon;FontParam)"
+ , "c3" : "2"
+ , "c4" : "9"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#19"
- , "c1" : "UDrawable"
- , "c2" : "createUDrawable(double)"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html#47"
+ , "c1" : "XDimension2D"
+ , "c2" : "calculateDimension(StringBounder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html#51"
+ , "c1" : "ShapeType"
+ , "c2" : "getShapeType()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.svg" }
 
 ] 
 , 
@@ -68,10 +77,10 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -84,21 +93,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#7"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00007] The class MiddleFactoryCircleCircled contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html#29"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00029] The argument leaf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#19"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html#29"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00029] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.html#47"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method createUDrawable arguments double  angle"
+ , "c3" : "QC-JAV000006[00047] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/image/AbstractEntityImageBorder.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

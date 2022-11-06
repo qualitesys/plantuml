@@ -1,101 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/AbstractEntityImage.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java 7 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlockIEntityImage"
- , "c2" : "net.sourceforge.plantuml.svek.AbstractEntityImage"
+ , "c1" : "ExtremityFactory"
+ , "c2" : "net.sourceforge.plantuml.svek.AbstractExtremityFactory"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.AbstractEntityImage" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.AbstractExtremityFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#18"
- , "c1" : "AbstractEntityImage"
- , "c2" : "AbstractEntityImage(IEntity;ISkinParam)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#24"
- , "c1" : "boolean"
- , "c2" : "isHidden()"
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html#10"
+ , "c1" : "UDrawable"
+ , "c2" : "createUDrawable(XPoint2D;double;Side)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#28"
- , "c1" : "IEntity"
- , "c2" : "getEntity()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#32"
- , "c1" : "ISkinParam"
- , "c2" : "getSkinParam()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#37"
- , "c1" : "HColor"
- , "c2" : "getBackcolor()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#41"
- , "c1" : "Stereotype"
- , "c2" : "getStereo()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#46"
- , "c1" : "Margins"
- , "c2" : "getShield(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#51"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html#14"
  , "c1" : "double"
- , "c2" : "getOverscanX(StringBounder)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "atan2(XPoint2D;XPoint2D)"
+ , "c3" : "2"
+ , "c4" : "3"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.svg" }
 
 ] 
 , 
@@ -122,10 +68,24 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE476"
+ , "c3" : "Null pointer reference"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -138,28 +98,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#46"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method getShield arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method getOverscanX arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#52"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.AbstractEntityImage.getOverscanX@POLYN151138 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000008[00008] The class AbstractExtremityFactory contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html#10"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00010] For method createUDrawable arguments XPoint2D  p0|double  angle|Side  side"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html#14"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00014] For method atan2 arguments XPoint2D  p1|XPoint2D  p0"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html#14"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00014] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html#14"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00014] The argument p0 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html#16"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.svek.AbstractExtremityFactory.atan2@POLYN147779 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.html#17"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.svek.AbstractExtremityFactory.atan2@POLYN147779 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/AbstractExtremityFactory.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

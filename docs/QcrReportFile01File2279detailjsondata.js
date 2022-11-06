@@ -1,34 +1,34 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "AbstractExtremityFactoryExtremityFactory"
- , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircle"
+ , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleConnect"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircle" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleConnect" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.html#15"
- , "c1" : "ExtremityFactoryCircle"
- , "c2" : "ExtremityFactoryCircle(boolean;HColor)"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#14"
+ , "c1" : "ExtremityFactoryCircleConnect"
+ , "c2" : "ExtremityFactoryCircleConnect(HColor)"
  , "c3" : "1"
- , "c4" : "2"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.html#21"
+ , "c5" : "00019"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#19"
  , "c1" : "UDrawable"
  , "c2" : "createUDrawable(XPoint2D;double;Side)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.html#27"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#25"
  , "c1" : "UDrawable"
  , "c2" : "createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side)"
  , "c3" : "1"
@@ -48,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.svg" }
 
 ] 
 , 
@@ -93,28 +93,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.html#21"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#19"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method createUDrawable arguments XPoint2D  center|double  angle|Side  side"
+ , "c3" : "QC-JAV000006[00019] For method createUDrawable arguments XPoint2D  p0|double  angle|Side  side"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.html#22"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircle.createUDrawable@POLYN149299 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleConnect.createUDrawable@POLYN148673 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.html#27"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#25"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
+ , "c3" : "QC-JAV000006[00025] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

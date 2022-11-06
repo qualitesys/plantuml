@@ -1,108 +1,90 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/real/RealLine.java 31 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/real/RealMax.java 13 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.real.RealLine"
+ , "c1" : "AbstractRealReal"
+ , "c2" : "net.sourceforge.plantuml.real.RealMax"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.real.RealLine" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.real.RealMax" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#19"
- , "c1" : "void"
- , "c2" : "register(double)"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#15"
+ , "c1" : "RealMax"
+ , "c2" : "RealMax(Collection<Real>)"
  , "c3" : "1"
- , "c4" : "0"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#25"
- , "c1" : "void"
- , "c2" : "register2(AbstractReal)"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#22"
+ , "c1" : "RealLine"
+ , "c2" : "line(Collection<Real>)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#29"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#26"
+ , "c1" : "String"
+ , "c2" : "getName()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#31"
  , "c1" : "double"
- , "c2" : "getAbsoluteMin()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "getCurrentValueInternal()"
+ , "c3" : "4"
+ , "c4" : "13"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#33"
- , "c1" : "double"
- , "c2" : "getAbsoluteMax()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#37"
- , "c1" : "void"
- , "c2" : "addForce(PositiveForce)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#43"
- , "c1" : "void"
- , "c2" : "compile()"
- , "c3" : "10"
- , "c4" : "17"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#85"
- , "c1" : "void"
- , "c2" : "printCounter(Map<PositiveForce,Integer>)"
- , "c3" : "3"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#94"
- , "c1" : "void"
- , "c2" : "incCounter(Map<PositiveForce,Integer>;PositiveForce)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#99"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#51"
  , "c1" : "Real"
- , "c2" : "asMaxAbsolute()"
+ , "c2" : "addFixed(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#103"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#55"
  , "c1" : "Real"
- , "c2" : "asMinAbsolute()"
+ , "c2" : "addAtLeast(double)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#59"
+ , "c1" : "void"
+ , "c2" : "ensureBiggerThan(Real)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#63"
+ , "c1" : "void"
+ , "c2" : "printCreationStackTrace()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -111,9 +93,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.svg" }
 
 ] 
 , 
@@ -140,282 +122,131 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000004"
- , "c3" : "You must segregate your interface"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "14"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "8"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#11"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#22"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00022] For method line arguments Collection&lt;Real &gt;  reals"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#22"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00022] The argument reals is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class RealLine contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.real.RealMax.getName@POLYN153712 the MagicNumber/String  'max ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#19"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method register arguments double  v"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00034] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#25"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method register2 arguments AbstractReal  abstractReal"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#32"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN153831 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#33"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN153831 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#37"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN153831 the MagicNumber/String  1000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN153831 the MagicNumber/String  'The faulty RealMax ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN153831 the MagicNumber/String  'has been created here:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#41"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN153831 the MagicNumber/String  'Infinite recursion?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method addForce arguments PositiveForce  force"
+ , "c3" : "QC-JAV000006[00051] For method addFixed arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00048] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00063] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  99999 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  'Inifinite Loop?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#85"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method printCounter arguments Map&lt;PositiveForce ,Integer &gt;  counter"
+ , "c3" : "QC-JAV000006[00055] For method addAtLeast arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#85"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00085] The argument counter is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161365 the MagicNumber/String  'force=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161365 the MagicNumber/String  'count=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161365 the MagicNumber/String  ' for ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#94"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00094] For method incCounter arguments Map&lt;PositiveForce ,Integer &gt;  counter|PositiveForce  f"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#94"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00094] The argument counter is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN161945 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN161945 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN161945 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00119] The class AbstractAbsolute contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#128"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00128] For method addFixed arguments double  delta"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#132"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method addAtLeast arguments double  delta"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#136"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method ensureBiggerThan arguments Real  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#121"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00121] Void method printCreationStackTrace is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#121"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00121] Void method printCreationStackTrace is empty or contains only a return. Interface segregation"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#37"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00037] Public method addForce is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000006[00059] For method ensureBiggerThan arguments Real  other"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

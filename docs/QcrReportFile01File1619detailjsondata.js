@@ -1,173 +1,137 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/preproc/FileWithSuffix.java 53 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/preproc/ImportedFiles.java 29 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.preproc.FileWithSuffix"
+ , "c2" : "net.sourceforge.plantuml.preproc.ImportedFiles"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.preproc.FileWithSuffix" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.preproc.ImportedFiles" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#30"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#22"
+ , "c1" : "ImportedFiles"
+ , "c2" : "ImportedFiles(List<SFile>;AParentFolder)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#27"
+ , "c1" : "ImportedFiles"
+ , "c2" : "withCurrentDir(AParentFolder)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#34"
+ , "c1" : "ImportedFiles"
+ , "c2" : "createImportedFiles(AParentFolder)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#39"
  , "c1" : "String"
  , "c2" : "toString()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#37"
- , "c1" : "Reader"
- , "c2" : "getReader(Charset)"
- , "c3" : "5"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#55"
- , "c1" : "InputStream"
- , "c2" : "getDataFromZip(InputStream;String)"
- , "c3" : "5"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#72"
- , "c1" : "boolean"
- , "c2" : "fileOk()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#76"
- , "c1" : "FileWithSuffix"
- , "c2" : "FileWithSuffix(SFile;String)"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#43"
+ , "c1" : "AFile"
+ , "c2" : "getAFile(String)"
+ , "c3" : "9"
+ , "c4" : "10"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#73"
+ , "c1" : "List<SFile>"
+ , "c2" : "getPath()"
  , "c3" : "1"
  , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#83"
- , "c1" : "FileWithSuffix"
- , "c2" : "FileWithSuffix(String;String;AFile;String)"
- , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#90"
- , "c1" : "FileWithSuffix"
- , "c2" : "none()"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#80"
+ , "c1" : "List<SFile>"
+ , "c2" : "includePath()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#95"
- , "c1" : "int"
- , "c2" : "hashCode()"
- , "c3" : "4"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#110"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#84"
  , "c1" : "boolean"
- , "c2" : "equals(Object)"
+ , "c2" : "isAbsolute(String)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#115"
- , "c1" : "boolean"
- , "c2" : "same(String;String)"
- , "c3" : "3"
- , "c4" : "3"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#89"
+ , "c1" : "void"
+ , "c2" : "add(SFile)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#125"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#93"
  , "c1" : "AParentFolder"
- , "c2" : "getParentFile()"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#134"
- , "c1" : "String"
- , "c2" : "getDescription()"
+ , "c2" : "getCurrentDir()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#138"
- , "c1" : "String"
- , "c2" : "getSuffix()"
- , "c3" : "1"
- , "c4" : "1"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#97"
+ , "c1" : "FileWithSuffix"
+ , "c2" : "getFile(String;String)"
+ , "c3" : "4"
+ , "c4" : "9"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#142"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#114"
  , "c1" : "boolean"
- , "c2" : "equals(String;String)"
- , "c3" : "3"
+ , "c2" : "isAllowed(AFile)"
+ , "c3" : "4"
  , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00153"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#153"
- , "c1" : "Set<File>"
- , "c2" : "convert(Set<FileWithSuffix>)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#161"
- , "c1" : "String"
- , "c2" : "getFileName(File)"
- , "c3" : "1"
- , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.svg" }
 
 ] 
 , 
@@ -194,17 +158,24 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "3"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -218,7 +189,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "41"
+ , "c4" : "16"
 }}
 ,
 { "ligne" : { "" : ""
@@ -231,378 +202,213 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#22"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00022] The class FileWithSuffix contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00017] The class ImportedFiles contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.preproc.FileWithSuffix.toString@POLYN167014 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#37"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method getReader arguments Charset  charset"
+ , "c3" : "QC-JAV000006[00027] For method withCurrentDir arguments AParentFolder  newCurrentDir"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#38"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN167247 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.preproc.ImportedFiles.withCurrentDir@POLYN162048 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN167247 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#34"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00034] For method createImportedFiles arguments AParentFolder  newCurrentDir"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#42"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN167247 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN162548 the MagicNumber/String  'ImportedFiles=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#40"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN162548 the MagicNumber/String  ' currentDir=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN167247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN167247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN167247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN167247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#55"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#43"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method getDataFromZip arguments InputStream  is|String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#55"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00055] The argument is is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00060] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000006[00043] For method getAFile arguments String  nameOrPath"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#59"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getDataFromZip@POLYN168122 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#69"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getDataFromZip@POLYN168122 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00064] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#73"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.preproc.FileWithSuffix.fileOk@POLYN168969 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162704 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#76"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00076] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162704 the MagicNumber/String  'ImportedFiles::getAFile filecurrent = ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#79"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.preproc.FileWithSuffix.FileWithSuffix@POLYN169105 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162704 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN169903 the MagicNumber/String  'NONE' should be converted to const"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#84"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00084] For method isAbsolute arguments String  nameOrPath"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN169903 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN169903 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN169903 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN170115 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#89"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00089] For method add arguments SFile  file"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN170115 the MagicNumber/String  null should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#97"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00097] For method getFile arguments String  filename|String  suffix"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#100"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#97"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00097] The argument filename is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN170115 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  '~' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN170115 the MagicNumber/String  43 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN170115 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method equals arguments Object  arg"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#115"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method same arguments String  s1|String  s2"
+ , "c3" : "QC-JAV000006[00114] For method isAllowed arguments AFile  file"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN171161 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166339 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#116"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN171161 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166339 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#117"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN171161 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN171161 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN171161 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN171161 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166339 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN171647 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166339 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN171647 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#34"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00034] Public method createImportedFiles is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN171647 the MagicNumber/String  'Getting parent of ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN171647 the MagicNumber/String  '--&amp;gt;The parent is ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#142"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00142] For method equals arguments String  s1|String  s2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#144"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN172256 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#153"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00153] For method convert arguments Set&lt;FileWithSuffix &gt;  all"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#161"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00161] For method getFileName arguments File  file"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#161"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00161] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#97"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00097] Public method getFile is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

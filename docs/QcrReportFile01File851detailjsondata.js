@@ -1,47 +1,38 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/brotli/Dictionary.java 7 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/brotli/DictionaryData.java 18 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.brotli.Dictionary"
+ , "c2" : "net.sourceforge.plantuml.brotli.DictionaryData"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.brotli.Dictionary" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.brotli.DictionaryData" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43"
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
  , "c1" : "void"
- , "c2" : "setData(ByteBuffer)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43"
- , "c1" : "ByteBuffer"
- , "c2" : "getData()"
- , "c3" : "3"
- , "c4" : "3"
+ , "c2" : "unpackDictionaryData(ByteBuffer;String;String;String)"
+ , "c3" : "6"
+ , "c4" : "23"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.svg" }
 
 ] 
 , 
@@ -71,21 +62,21 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "1"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "3"
+ , "c4" : "12"
 }}
 ,
 { "ligne" : { "" : ""
@@ -98,56 +89,136 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00043] The class Dictionary contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00048] The class DictionaryData contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00043] The class DataLoader contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method setData arguments ByteBuffer  data"
+ , "c3" : "QC-JAV000006[00001] For method unpackDictionaryData arguments ByteBuffer  dictionary|String  data0|String  data1|String  skipFlip"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00043] The argument data is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00001] The argument dictionary is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.brotli.Dictionary.setData@POLYN143723 the MagicNumber/String  'data must be a direct read-only byte buffer' should be converted to const"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00001] The argument data0 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.brotli.Dictionary.getData@POLYN144066 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00001] The argument data1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00001] The argument skipFlip is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.brotli.Dictionary.getData@POLYN144066 the MagicNumber/String  'brotli dictionary is not set' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  'Corrupted brotli dictionary' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.DictionaryData.unpackDictionaryData@POLYN145255 the MagicNumber/String  0x80 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

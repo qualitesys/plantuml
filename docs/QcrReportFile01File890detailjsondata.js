@@ -1,47 +1,47 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/code/CompressionHuffman.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/code/CompressionNone.java 3 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "Compression"
- , "c2" : "net.sourceforge.plantuml.code.CompressionHuffman"
+ , "c2" : "net.sourceforge.plantuml.code.CompressionNone"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.code.CompressionHuffman" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.code.CompressionNone" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#13"
+ , "c5" : "00006"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#6"
  , "c1" : "byte[]"
  , "c2" : "compress(byte[])"
  , "c3" : "1"
- , "c4" : "9"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#28"
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#10"
  , "c1" : "ByteArray"
  , "c2" : "decompress(byte[])"
- , "c3" : "2"
- , "c4" : "10"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.svg" }
 
 ] 
 , 
@@ -69,23 +69,9 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAVCWE481"
- , "c3" : "Assigning instead of comparing"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000008"
  , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000010"
- , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -98,49 +84,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#11"
+ , "c1" : "00004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#4"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class CompressionHuffman contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00004] The class CompressionNone contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#13"
+ , "c1" : "00006"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#6"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method compress arguments byte[]  in"
+ , "c3" : "QC-JAV000006[00006] For method compress arguments byte[]  in"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.code.CompressionHuffman.compress@POLYN151037 the MagicNumber/String  9 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#28"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#10"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method decompress arguments byte[]  in"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00035] Assigning instead of comparing on read=gz.read() (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.code.CompressionHuffman.decompress@POLYN151883 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000006[00010] For method decompress arguments byte[]  in"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

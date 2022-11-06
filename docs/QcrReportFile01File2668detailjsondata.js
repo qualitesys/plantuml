@@ -1,181 +1,118 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java 24 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java 31 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractUGraphic<Graphics2D>EnsureVisible"
- , "c2" : "net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.ugraphic.hand.HandJiggle"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.hand.HandJiggle" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#57"
- , "c1" : "Set<Url>"
- , "c2" : "getAllUrlsEncountered()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#62"
- , "c1" : "UGraphic"
- , "c2" : "apply(UChange)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#71"
- , "c1" : "AbstractCommonUGraphic"
- , "c2" : "copyUGraphic()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#75"
- , "c1" : "UGraphicG2d"
- , "c2" : "UGraphicG2d(UGraphicG2d)"
- , "c3" : "1"
- , "c4" : "8"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#86"
- , "c1" : "UGraphicG2d"
- , "c2" : "UGraphicG2d(HColor;ColorMapper;StringBounder;Graphics2D;double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#91"
- , "c1" : "UGraphicG2d"
- , "c2" : "UGraphicG2d(HColor;ColorMapper;StringBounder;Graphics2D;double;AffineTransformation;double;double)"
- , "c3" : "4"
- , "c4" : "7"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#107"
- , "c1" : "void"
- , "c2" : "register(double)"
- , "c3" : "3"
- , "c4" : "12"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#126"
- , "c1" : "void"
- , "c2" : "beforeDraw()"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#132"
- , "c1" : "void"
- , "c2" : "applyClip()"
- , "c3" : "3"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#142"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#21"
  , "c1" : "double"
- , "c2" : "getDpiFactor()"
+ , "c2" : "randomMe()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#147"
- , "c1" : "void"
- , "c2" : "startUrl(Url)"
- , "c3" : "3"
- , "c4" : "4"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#25"
+ , "c1" : "HandJiggle"
+ , "c2" : "HandJiggle(double;double;double;Random)"
+ , "c3" : "1"
+ , "c4" : "5"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#159"
- , "c1" : "void"
- , "c2" : "closeUrl()"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#33"
+ , "c1" : "HandJiggle"
+ , "c2" : "create(XPoint2D;double;Random)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#163"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#37"
  , "c1" : "void"
- , "c2" : "ensureVisible(double;double)"
- , "c3" : "3"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00170"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#170"
- , "c1" : "BufferedImage"
- , "c2" : "getBufferedImage()"
+ , "c2" : "lineTo(XPoint2D)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00174"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#174"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#41"
  , "c1" : "void"
- , "c2" : "setBufferedImage(BufferedImage)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#178"
- , "c1" : "Graphics2D"
- , "c2" : "getGraphics2D()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00183"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#183"
- , "c1" : "void"
- , "c2" : "writeToStream(OutputStream;String;int)"
+ , "c2" : "arcTo(double;double;double;double;double;double)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00189"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#189"
- , "c1" : "double"
- , "c2" : "dpiFactor()"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#46"
+ , "c1" : "XPoint2D"
+ , "c2" : "pointOnCircle(double;double;double;double;double)"
  , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#53"
+ , "c1" : "void"
+ , "c2" : "lineTo(double;double)"
+ , "c3" : "4"
+ , "c4" : "21"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#87"
+ , "c1" : "void"
+ , "c2" : "curveTo(XCubicCurve2D)"
+ , "c3" : "2"
+ , "c4" : "9"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#101"
+ , "c1" : "UPolygon"
+ , "c2" : "toUPolygon()"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#109"
+ , "c1" : "UPath"
+ , "c2" : "toUPath()"
+ , "c3" : "5"
+ , "c4" : "6"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#125"
+ , "c1" : "void"
+ , "c2" : "appendTo(UPath)"
+ , "c3" : "2"
  , "c4" : "1"
 }} 
 ] 
@@ -183,9 +120,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.svg" }
 
 ] 
 , 
@@ -212,205 +149,264 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "6"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "3"
+ , "c4" : "4"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "14"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000021"
- , "c3" : "The same method is called several times, might be optimized"
- , "c4" : "1"
+ , "c4" : "13"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "6"
+ , "c4" : "7"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#62"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#13"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00013] The class HandJiggle contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#33"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method apply arguments UChange  change"
+ , "c3" : "QC-JAV000006[00033] For method create arguments XPoint2D  start|double  defaultVariation|Random  rnd"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#75"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#33"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00075] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00033] The argument start is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178601 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178601 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178601 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#91"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00091] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178978 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178978 the MagicNumber/String  1.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178978 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178978 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#107"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method register arguments double  dpiFactor"
+ , "c3" : "QC-JAV000006[00037] For method lineTo arguments XPoint2D  end"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#37"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00037] The argument end is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#41"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00041] For method arcTo arguments double  angle0|double  angle1|double  centerX|double  centerY|double  rx|double  ry"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.arcTo@POLYN166448 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#46"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00046] For method pointOnCircle arguments double  centerX|double  centerY|double  angle|double  rx|double  ry"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method lineTo arguments double  endX|double  endY"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.lineTo@POLYN167627 the MagicNumber/String  0.001 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#61"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.lineTo@POLYN167627 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.lineTo@POLYN167627 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.lineTo@POLYN167627 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.lineTo@POLYN167627 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.lineTo@POLYN167627 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.lineTo@POLYN167627 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#87"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00087] For method curveTo arguments XCubicCurve2D  curve"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#87"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00087] The argument curve is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.curveTo@POLYN170054 the MagicNumber/String  0.1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.curveTo@POLYN170054 the MagicNumber/String  20 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.toUPath@POLYN171297 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.toUPath@POLYN171297 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.hand.HandJiggle.toUPath@POLYN171297 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#125"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00125] For method appendTo arguments UPath  result"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#125"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00125] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#101"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00101] Public method toUPolygon is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.register@POLYN180122 the MagicNumber/String  1.0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#109"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00109] Public method toUPath is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.applyClip@POLYN182148 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#37"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00037] Public method lineTo is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.applyClip@POLYN182148 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#41"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00041] Public method arcTo is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#147"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method startUrl arguments Url  url"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#87"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00087] Public method curveTo is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#147"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00147] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.startUrl@POLYN182881 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#160"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.closeUrl@POLYN183374 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#163"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method ensureVisible arguments double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00165] The same method call getClip() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.ensureVisible@POLYN183530 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.ensureVisible@POLYN183530 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#174"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00174] For method setBufferedImage arguments BufferedImage  bufferedImage"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#183"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00183] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#125"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00125] Public method appendTo is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

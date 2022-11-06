@@ -1,27 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/util/TicLabelFormat.java.html" 
- , "texte" : "File src/jcckit/util/TicLabelFormat.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/util/TicLabelFormat.java.xml" 
+   "fic1"  : "./qc/src/jcckit/util/Util.java.html" 
+ , "texte" : "File src/jcckit/util/Util.java 3 rule violations " 
+ , "fic2"  : "./qc/src/jcckit/util/Util.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
  , "c1" : "java.lang.Object"
- , "c2" : "jcckit.util.TicLabelFormat"
+ , "c2" : "jcckit.util.Util"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.util.TicLabelFormat" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.util.Util" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/jcckit/util/TicLabelFormat.java.html#8"
- , "c1" : "String"
- , "c2" : "form(double)"
+ , "c5" : "00007"
+ , "c5link" : "././qc/src/jcckit/util/Util.java.html#7"
+ , "c1" : "Util"
+ , "c2" : "Util()"
+ , "c3" : "1"
+ , "c4" : "0"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/jcckit/util/Util.java.html#10"
+ , "c1" : "double"
+ , "c2" : "log(double;boolean)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/jcckit/util/Util.java.html#15"
+ , "c1" : "double"
+ , "c2" : "exp(double;boolean)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/util/TicLabelFormat.java.png" 
+   {"ligne" : "./qc/src/jcckit/util/Util.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/util/TicLabelFormat.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/util/Util.java.svg" }
 
 ] 
 , 
@@ -57,8 +75,49 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/jcckit/util/TicLabelFormat.java.svg" }
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000006"
+ , "c3" : "Argument list of the method"
+ , "c4" : "2"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00005"
+ , "c1link" : "./qc/src/jcckit/util/Util.java.html#5"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00005] The class Util contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/jcckit/util/Util.java.html#10"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00010] For method log arguments double  x|boolean  logScale"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00015"
+ , "c1link" : "./qc/src/jcckit/util/Util.java.html#15"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00015] For method exp arguments double  x|boolean  logScale"
+}} 
+]
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/jcckit/util/Util.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

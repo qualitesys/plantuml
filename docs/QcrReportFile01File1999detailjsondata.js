@@ -1,263 +1,101 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java 37 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java 33 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea"
+ , "c1" : "FileMaker"
+ , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#34"
- , "c1" : "void"
- , "c2" : "setLegend(XDimension2D;boolean;HorizontalAlignment)"
- , "c3" : "1"
- , "c4" : "4"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#46"
+ , "c1" : "SequenceDiagramFileMakerPuma2"
+ , "c2" : "SequenceDiagramFileMakerPuma2(SequenceDiagram;Rose;FileFormatOption)"
+ , "c3" : "6"
+ , "c4" : "13"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#41"
- , "c1" : "double"
- , "c2" : "getLegendWidth()"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#85"
+ , "c1" : "int"
+ , "c2" : "getNbPages()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#45"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#89"
+ , "c1" : "PageSplitter"
+ , "c2" : "create(DrawableSet;Map<Newpage,Double>;boolean;Display)"
+ , "c3" : "1"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#102"
+ , "c1" : "ImageData"
+ , "c2" : "createOne(OutputStream;int;boolean)"
+ , "c3" : "10"
+ , "c4" : "37"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#178"
+ , "c1" : "void"
+ , "c2" : "drawFooter(SequenceDiagramArea;UGraphic;int)"
+ , "c3" : "2"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00188"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#188"
+ , "c1" : "void"
+ , "c2" : "drawHeader(SequenceDiagramArea;UGraphic;int)"
+ , "c3" : "2"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00198"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#198"
+ , "c1" : "PngTitler"
+ , "c2" : "getPngTitler(FontParam;int)"
+ , "c3" : "1"
+ , "c4" : "5"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00207"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#207"
  , "c1" : "boolean"
- , "c2" : "hasLegend()"
+ , "c2" : "isLegendTop()"
  , "c3" : "1"
  , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#49"
- , "c1" : "double"
- , "c2" : "getLegendX()"
- , "c3" : "5"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#59"
- , "c1" : "SequenceDiagramArea"
- , "c2" : "SequenceDiagramArea(double;double)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#64"
- , "c1" : "void"
- , "c2" : "setTitleArea(double;double)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#69"
- , "c1" : "void"
- , "c2" : "setCaptionArea(double;double)"
- , "c3" : "1"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#74"
- , "c1" : "void"
- , "c2" : "setCaptionArea(XDimension2D)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#78"
- , "c1" : "void"
- , "c2" : "setHeaderArea(double;double;double)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#84"
- , "c1" : "void"
- , "c2" : "setFooterArea(double;double;double)"
- , "c3" : "1"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#90"
- , "c1" : "double"
- , "c2" : "getWidth()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#94"
- , "c1" : "double"
- , "c2" : "getHeight()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#99"
- , "c1" : "double"
- , "c2" : "getFooterY()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#103"
- , "c1" : "double"
- , "c2" : "getCaptionY()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#107"
- , "c1" : "double"
- , "c2" : "getLegendY()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#115"
- , "c1" : "double"
- , "c2" : "getTitleX()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00119"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#119"
- , "c1" : "double"
- , "c2" : "getTitleY()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#123"
- , "c1" : "double"
- , "c2" : "getHeaderHeightMargin()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#127"
- , "c1" : "double"
- , "c2" : "getCaptionX()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#131"
- , "c1" : "double"
- , "c2" : "getSequenceAreaX()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#135"
- , "c1" : "double"
- , "c2" : "getSequenceAreaY()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#142"
- , "c1" : "double"
- , "c2" : "getHeaderY()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#146"
- , "c1" : "double"
- , "c2" : "getFooterX(HorizontalAlignment)"
- , "c3" : "4"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#159"
- , "c1" : "double"
- , "c2" : "getHeaderX(HorizontalAlignment)"
- , "c3" : "4"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00172"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#172"
- , "c1" : "void"
- , "c2" : "initFooter(PngTitler;StringBounder)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00179"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#179"
- , "c1" : "void"
- , "c2" : "initHeader(PngTitler;StringBounder)"
- , "c3" : "2"
- , "c4" : "2"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.svg" }
 
 ] 
 , 
@@ -284,17 +122,17 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000003"
- , "c3" : "High risk of strong class coupling"
- , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "4"
+ , "c4" : "8"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -308,279 +146,261 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "18"
+ , "c4" : "16"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000021"
+ , "c3" : "The same method is called several times, might be optimized"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "10"
+ , "c4" : "5"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#10"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00010] The class SequenceDiagramArea contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#34"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method setLegend arguments XDimension2D  dimLegend|boolean  isLegendTop|HorizontalAlignment  horizontalAlignment"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#34"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00034] The argument dimLegend is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000008[00037] The class SequenceDiagramFileMakerPuma2 contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.hasLegend@POLYN167001 the MagicNumber/String  0 should be converted to const"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#46"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00046] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.hasLegend@POLYN167001 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getLegendX@POLYN167157 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getLegendX@POLYN167157 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getLegendX@POLYN167157 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getLegendX@POLYN167157 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#64"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method setTitleArea arguments double  width|double  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#69"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method setCaptionArea arguments double  width|double  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#74"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method setCaptionArea arguments XDimension2D  dim"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#74"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00074] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument fileFormatOption is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#78"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00075] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method setHeaderArea arguments double  headerWidth|double  headerHeight|double  headerMargin"
+ , "c3" : "QC-JAV000006[00089] For method create arguments DrawableSet  drawableSet|Map&lt;Newpage ,Double &gt;  positions|boolean  showFootbox|Display  title"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#84"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#89"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00089] The argument drawableSet is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.create@POLYN189464 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#102"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method setFooterArea arguments double  footerWidth|double  footerHeight|double  footerMargin"
+ , "c3" : "QC-JAV000006[00102] For method createOne arguments OutputStream  os|int  index|boolean  isWithMetadata"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#116"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getTitleX@POLYN170206 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#128"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getCaptionX@POLYN170588 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#132"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getSequenceAreaX@POLYN170754 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#143"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getHeaderY@POLYN171163 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#146"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method getFooterX arguments HorizontalAlignment  align"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getFooterX@POLYN171251 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#154"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getFooterX@POLYN171251 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#159"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00159] For method getHeaderX arguments HorizontalAlignment  align"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getHeaderX@POLYN171785 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.createOne@POLYN190334 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#167"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.getHeaderX@POLYN171785 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#172"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#178"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00172] For method initFooter arguments PngTitler  pngTitler|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00178] For method drawFooter arguments SequenceDiagramArea  area|UGraphic  ug|int  page"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#172"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#178"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00172] The argument pngTitler is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00178] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#174"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.initFooter@POLYN172311 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#175"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.initFooter@POLYN172311 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#179"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00179] For method initHeader arguments PngTitler  pngTitler|StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#179"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#178"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00179] The argument pngTitler is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00178] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.initHeader@POLYN172705 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.drawFooter@POLYN196110 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#182"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#188"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00188] For method drawHeader arguments SequenceDiagramArea  area|UGraphic  ug|int  page"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#188"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00188] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#188"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00188] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea.initHeader@POLYN172705 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.drawHeader@POLYN196765 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#142"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00142] Public method getHeaderY is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#198"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00198] For method getPngTitler arguments FontParam  fontParam|int  page"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#74"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00074] Public method setCaptionArea is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#198"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00198] The argument fontParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#172"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00172] Public method initFooter is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#200"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.getPngTitler@POLYN197428 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.html#179"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00179] Public method initHeader is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#201"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.getPngTitler@POLYN197428 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00208] The same method call diagram.getLegend() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2.isLegendTop@POLYN198192 the MagicNumber/String  false should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramArea.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

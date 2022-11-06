@@ -1,101 +1,65 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/dedication/Noise.java 24 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/dedication/PSystemDedication.java 9 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "net.sourceforge.plantuml.dedication.Noise"
+ , "c1" : "PlainDiagram"
+ , "c2" : "net.sourceforge.plantuml.dedication.PSystemDedication"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.dedication.Noise" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.dedication.PSystemDedication" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#11"
- , "c1" : "Argon2"
- , "c2" : "argon2(byte[];byte[])"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#27"
+ , "c1" : "PSystemDedication"
+ , "c2" : "PSystemDedication(UmlSource;BufferedImage)"
  , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#22"
- , "c1" : "String"
- , "c2" : "computeArgon2String(byte[];byte[])"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#33"
+ , "c1" : "UDrawable"
+ , "c2" : "getRootDrawable(FileFormatOption)"
+ , "c3" : "1"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#42"
+ , "c1" : "BufferedImage"
+ , "c2" : "getBufferedImage(InputStream)"
+ , "c3" : "1"
+ , "c4" : "10"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#62"
+ , "c1" : "DiagramDescription"
+ , "c2" : "getDescription()"
  , "c3" : "1"
  , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#26"
- , "c1" : "byte[]"
- , "c2" : "computeArgon2bytes(byte[];byte[])"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#30"
- , "c1" : "int"
- , "c2" : "shortHash(byte[];byte[])"
- , "c3" : "2"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#41"
- , "c1" : "void"
- , "c2" : "shuffle(byte[];MTRandom)"
- , "c3" : "2"
- , "c4" : "9"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#53"
- , "c1" : "void"
- , "c2" : "xor(byte[];byte[])"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#59"
- , "c1" : "void"
- , "c2" : "xor(byte[];BlumBlumShub)"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#66"
- , "c1" : "byte[]"
- , "c2" : "reverse(byte[];int)"
- , "c3" : "2"
- , "c4" : "6"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.svg" }
 
 ] 
 , 
@@ -125,13 +89,6 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
@@ -139,188 +96,86 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "13"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "8"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class Noise contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#11"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#33"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method argon2 arguments byte[]  buffer|byte[]  salt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#14"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.dedication.Noise.argon2@POLYN158368 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.dedication.Noise.argon2@POLYN158368 the MagicNumber/String  50 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method computeArgon2String arguments byte[]  buffer|byte[]  salt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#26"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method computeArgon2bytes arguments byte[]  buffer|byte[]  salt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#30"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method shortHash arguments byte[]  buffer|byte[]  salt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN159349 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN159349 the MagicNumber/String  0x0F should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN159349 the MagicNumber/String  0xF0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN159349 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#41"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method shuffle arguments byte[]  buffer|MTRandom  rnd"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#41"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument rnd is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00033] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#42"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#42"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00042] For method getBufferedImage arguments InputStream  is"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#42"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00042] The argument is is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.dedication.Noise.shuffle@POLYN160054 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN155175 the MagicNumber/String  'net.sourceforge.plantuml.webp.VP8Decoder' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#47"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN155175 the MagicNumber/String  'decodeFrame' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN155175 the MagicNumber/String  'getFrame' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#53"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method xor arguments byte[]  buffer|byte[]  xor"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#54"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN161027 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN155175 the MagicNumber/String  'getBufferedImage' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method xor arguments byte[]  buffer|BlumBlumShub  rnd"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#59"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument rnd is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#60"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN161446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN155175 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#61"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN161446 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN161446 the MagicNumber/String  0xFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method reverse arguments byte[]  buffer|int  delta"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.dedication.Noise.reverse@POLYN162072 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.dedication.Noise.reverse@POLYN162072 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.dedication.PSystemDedication.getDescription@POLYN156309 the MagicNumber/String  '(Dedication)' should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

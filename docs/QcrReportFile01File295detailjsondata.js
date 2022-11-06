@@ -1,27 +1,45 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/jcckit/graphic/GraphicalElement.java.html" 
- , "texte" : "File src/jcckit/graphic/GraphicalElement.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/graphic/GraphicalElement.java.xml" 
+   "fic1"  : "./qc/src/jcckit/graphic/LineAttributes.java.html" 
+ , "texte" : "File src/jcckit/graphic/LineAttributes.java 0 rule violation " 
+ , "fic2"  : "./qc/src/jcckit/graphic/LineAttributes.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "java.lang.Object"
- , "c2" : "jcckit.graphic.GraphicalElement"
+ , "c1" : "GraphicAttributes"
+ , "c2" : "jcckit.graphic.LineAttributes"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "jcckit.graphic.GraphicalElement" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "jcckit.graphic.LineAttributes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/jcckit/graphic/GraphicalElement.java.html#7"
- , "c1" : "void"
- , "c2" : "renderWith(Renderer)"
+ , "c5" : "00009"
+ , "c5link" : "././qc/src/jcckit/graphic/LineAttributes.java.html#9"
+ , "c1" : "Color"
+ , "c2" : "getLineColor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/jcckit/graphic/LineAttributes.java.html#12"
+ , "c1" : "double"
+ , "c2" : "getLineThickness()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/jcckit/graphic/LineAttributes.java.html#15"
+ , "c1" : "double[]"
+ , "c2" : "getLinePattern()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,9 +48,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/GraphicalElement.java.png" 
+   {"ligne" : "./qc/src/jcckit/graphic/LineAttributes.java.png" 
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/GraphicalElement.java.svg" }
+ , "ligneplantuml" : "./qc/src/jcckit/graphic/LineAttributes.java.svg" }
 
 ] 
 , 
@@ -57,8 +75,10 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/GraphicalElement.java.svg" }
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/jcckit/graphic/LineAttributes.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

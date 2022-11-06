@@ -1,72 +1,99 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/board/BArray.java 7 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/board/BArray.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/board/BNode.java 18 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/board/BNode.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<BNode>"
- , "c2" : "net.sourceforge.plantuml.board.BArray"
+ , "c1" : "java.lang.Object"
+ , "c2" : "net.sourceforge.plantuml.board.BNode"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.board.BArray" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.board.BNode" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#15"
- , "c1" : "void"
- , "c2" : "put(BNode)"
- , "c3" : "2"
- , "c4" : "5"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#25"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BNode.java.html#16"
  , "c1" : "BNode"
- , "c2" : "getCell(int;int)"
+ , "c2" : "BNode(int;String)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#30"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BNode.java.html#21"
+ , "c1" : "void"
+ , "c2" : "addChild(BNode)"
+ , "c3" : "3"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BNode.java.html#32"
  , "c1" : "String"
- , "c2" : "getKey(int;int)"
+ , "c2" : "getName()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#34"
- , "c1" : "Iterator<BNode>"
- , "c2" : "iterator()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#38"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BNode.java.html#36"
  , "c1" : "int"
- , "c2" : "getMaxX()"
+ , "c2" : "getStage()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#42"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BNode.java.html#40"
+ , "c1" : "BNode"
+ , "c2" : "getParent()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BNode.java.html#45"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BNode.java.html#49"
+ , "c1" : "void"
+ , "c2" : "computeX(AtomicInteger)"
+ , "c3" : "3"
+ , "c4" : "6"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BNode.java.html#60"
+ , "c1" : "void"
+ , "c2" : "initBarray(BArray)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BNode.java.html#68"
  , "c1" : "int"
- , "c2" : "getMaxY()"
+ , "c2" : "getX()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,9 +102,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.svg" }
 
 ] 
 , 
@@ -104,9 +131,23 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000003"
+ , "c3" : "High risk of strong class coupling"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000001"
+ , "c3" : "Instance is created within a loop, huge performance impact"
  , "c4" : "1"
 }}
 ,
@@ -121,7 +162,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
- , "c4" : "2"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
@@ -134,56 +175,136 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#9"
+ , "c1" : "00008"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class BArray contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00008] The class BNode contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#15"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#21"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method put arguments BNode  node"
+ , "c3" : "QC-JAV000006[00021] For method addChild arguments BNode  child"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#15"
+ , "c1" : "00021"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#21"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument node is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00021] The argument child is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#25"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method getCell arguments int  x|int  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#30"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method getKey arguments int  x|int  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#31"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.board.BArray.getKey@POLYN151820 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.board.BNode.addChild@POLYN152661 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.html#31"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.board.BArray.getKey@POLYN151820 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.board.BNode.toString@POLYN153440 the MagicNumber/String  '(' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#46"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.board.BNode.toString@POLYN153440 the MagicNumber/String  ') [' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#46"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.board.BNode.toString@POLYN153440 the MagicNumber/String  ']' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#49"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00049] For method computeX arguments AtomicInteger  count"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#49"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00049] The argument count is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00052] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.board.BNode.computeX@POLYN153634 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.board.BNode.computeX@POLYN153634 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.board.BNode.computeX@POLYN153634 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#60"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00060] For method initBarray arguments BArray  array"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#60"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00060] The argument array is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#68"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00068] Public method getX is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#49"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00049] Public method computeX is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.html#60"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00060] Public method initBarray is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/board/BArray.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/board/BNode.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');

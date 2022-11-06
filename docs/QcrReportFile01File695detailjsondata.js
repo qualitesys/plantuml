@@ -1,110 +1,74 @@
 console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
-   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.xml" 
+   "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html" 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java 8 rule violations " 
+ , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.xml" 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractGtile"
- , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileTopDown3"
+ , "c1" : "GtileTopDown3"
+ , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile"
 }} 
 ]
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileTopDown3" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#29"
- , "c1" : "GtileTopDown3"
- , "c2" : "GtileTopDown3(Gtile;Gtile;Gtile)"
- , "c3" : "1"
- , "c4" : "12"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#49"
- , "c1" : "UTranslate"
- , "c2" : "getCoordImpl(String)"
- , "c3" : "3"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#58"
- , "c1" : "Swimlane"
- , "c2" : "getSwimlane(String)"
- , "c3" : "3"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#66"
- , "c1" : "UTranslate"
- , "c2" : "getPos1()"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#17"
+ , "c1" : "GtileWhile"
+ , "c2" : "GtileWhile(Gtile;Gtile;Gtile)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#70"
- , "c1" : "UTranslate"
- , "c2" : "getPos2()"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#21"
+ , "c1" : "StyleSignatureBasic"
+ , "c2" : "getDefaultStyleDefinitionDiamond()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#74"
- , "c1" : "UTranslate"
- , "c2" : "getPos3()"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#25"
+ , "c1" : "Gtile"
+ , "c2" : "getShape1(Gtile;Swimlane;Display;Display)"
  , "c3" : "1"
- , "c4" : "1"
+ , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#79"
- , "c1" : "void"
- , "c2" : "drawUInternal(UGraphic)"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#34"
+ , "c1" : "Gtile"
+ , "c2" : "createWhile(Swimlane;Gtile;Display;Display;Instruction;Gtile)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#86"
- , "c1" : "XDimension2D"
- , "c2" : "calculateDimension(StringBounder)"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#42"
+ , "c1" : "Collection<GConnection>"
+ , "c2" : "getInnerConnections()"
  , "c3" : "1"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#94"
- , "c1" : "Set<Swimlane>"
- , "c2" : "getSwimlanes()"
- , "c3" : "1"
- , "c4" : "5"
+ , "c4" : "6"
 }} 
 ] 
 }} 
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.png" 
+   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.png" 
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.svg" }
+ , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.svg" }
 
 ] 
 , 
@@ -134,90 +98,86 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
- , "c4" : "6"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000010"
+ , "c3" : "MagicNumber Strings and numbers should be converted to constants"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "4"
+ , "c4" : "2"
 }}
  ] 
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#29"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument tile1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#29"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument tile2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#29"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument tile3 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#49"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#25"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method getCoordImpl arguments String  name"
+ , "c3" : "QC-JAV000006[00025] For method getShape1 arguments Gtile  toto|Swimlane  swimlane|Display  test|Display  yes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#49"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#25"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00025] The argument toto is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#58"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#31"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile.getShape1@POLYN156254 the MagicNumber/String  20 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method getSwimlane arguments String  name"
+ , "c3" : "QC-JAV000006[00034] For method createWhile arguments Swimlane  swimlane|Gtile  tmp|Display  test|Display  yes|Instruction  specialOut|Gtile  back"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#58"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#34"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00034] The argument tmp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#79"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method drawUInternal arguments UGraphic  ug"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile.createWhile@POLYN156769 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#79"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00079] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#37"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile.createWhile@POLYN156769 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#86"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile.getInnerConnections@POLYN157506 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
-"data15" : [
-   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.svg" }
+, 
+"data15" : {
+   "fichierplantumlsvg" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWhile.java.fct.svg" 
 
+, 
+}
 };
 console.log('leListeStr 99 main end');
