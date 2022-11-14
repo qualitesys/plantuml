@@ -120,4 +120,15 @@ var datadepend = { "lesdatas" : [
 { "start" : "smetana.core" , "end" : "smetana.core"} ,
 { "start" : "smetana.core" , "end" : "h"} ,
 { "start" : "smetana.core" , "end" : "smetana.core.debug"} ,
-] } :
+]
+ , "lescycles" : [ 
+{ "uncycle" : [ 
+{ "etape" : "smetana.core" } ,
+{ "etape" : "h" } ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h" } ,
+{ "etape" : "smetana.core" } ,
+] } ,
+]
+} ;

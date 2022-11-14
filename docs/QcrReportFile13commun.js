@@ -21,20 +21,20 @@ function doAffecter(aeValStart, aeValEnd) {
 }
 console.log("main01 Debut");
 var lsStr = "";
-lsStr+="<table border='1'>";
+//lsStr+="<table border='1'>";
 for (var liInd=0; liInd<datadepend.lesdatas.length; liInd++) {
 	console.log("main01 "+liInd);
-	lsStr+="<tr><td>"+liInd+"&nbsp;"+datadepend.lesdatas[liInd].start+"</td><td>"+"&nbsp;"+datadepend.lesdatas[liInd].end+"</td></tr>";
+	//lsStr+="<tr><td>"+liInd+"&nbsp;"+datadepend.lesdatas[liInd].start+"</td><td>"+"&nbsp;"+datadepend.lesdatas[liInd].end+"</td></tr>";
 	var leVal1 = datadepend.lesdatas[liInd].start; doTraiter(leVal1);
 	var leVal2 = datadepend.lesdatas[liInd].end  ; doTraiter(leVal2);
 	console.log("main03 taille "+lesPkg.length);
 }
-lsStr+="</table>";
+//lsStr+="</table>";
 lesPkg.sort((a, b) => a.datas.valeur > b.datas.valeur);
 for (var liInd=0; liInd<lesPkg.length; liInd++) {
 	lesPkg[liInd].datas.rang = liInd;
 	for (var liCol=0; liCol<lesPkg.length; liCol++) {
-		lesPkg[liInd].datas.listeappelles[liCol]="";
+	   lesPkg[liInd].datas.listeappelles[liCol]="";
 	}
 }
 for (var liInd=0; liInd<datadepend.lesdatas.length; liInd++) {
@@ -52,13 +52,21 @@ for (var liInd=0; liInd<lesPkg.length; liInd++) {
 	lsStr+="<tr><td>"+liInd+"&nbsp;"+lesPkg[liInd].datas.valeur+"</td>";
 	lesPkg[liInd].datas.rang = liInd;
 	for (var liCol=0; liCol<lesPkg.length; liCol++) {
-		lsStr+="<td>"+lesPkg[liInd].datas.listeappelles[liCol]+"</td>";
+	   var lsBg = "";
+	   if (liInd == liCol) { lsBg = " style='background-color:skyblue'"; }
+	   lsStr+="<td"+lsBg+">"+lesPkg[liInd].datas.listeappelles[liCol]+"</td>";
 	}
-        ltStrOut.add("	lsStr+="</tr>";
+  lsStr+="</tr>";
 }
 lsStr+="</table>";
 //console.log("main02 lsStr "+lsStr);
-var theDivBloc = document.getElementById("madiv");  
+var theDivBloc = document.getElementById("maDiv");  
 theDivBloc.innerHTML = lsStr;
+for (var liInd1=0; liInd1<datadepend.lescycles.length; liInd1++) {
+   console.log("main07 cycle "+liInd1);
+   for (var liInd2=0; liInd2<datadepend.lescycles[liInd1].uncycle.length; liInd2++) {
+      console.log("main08    etape "+liInd2+"  "+datadepend.lescycles[liInd1].uncycle[liInd2].etape);
+   }
+}
 console.log("main99 fin");
 //]]>
