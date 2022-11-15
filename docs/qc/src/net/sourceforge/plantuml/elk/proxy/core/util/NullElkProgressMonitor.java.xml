@@ -56,7 +56,7 @@
 <leniv><indtoken>46</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.668383484095E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.668469558022E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>10</proffinale><profmax>14</profmax><indtoken>1</indtoken><temps>0.001</temps><nbappels>18</nbappels><token>package</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>17</proffinale><profmax>17</profmax><indtoken>2</indtoken><temps>0.001</temps><nbappels>38</nbappels><token>net</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>17</profmax><indtoken>3</indtoken><temps>0.001</temps><nbappels>10</nbappels><token>.</token></leniv>
@@ -102,7 +102,7 @@
 <leniv><noligne>7</noligne><profmin>0</profmin><proffinale>108</proffinale><profmax>141</profmax><indtoken>43</indtoken><temps>0.001</temps><nbappels>54</nbappels><token>)</token></leniv>
 <leniv><noligne>7</noligne><profmin>0</profmin><proffinale>43</proffinale><profmax>108</profmax><indtoken>44</indtoken><temps>0.001</temps><nbappels>81</nbappels><token>;</token></leniv>
 <leniv><noligne>10</noligne><profmin>0</profmin><proffinale>33</proffinale><profmax>64</profmax><indtoken>45</indtoken><temps>0.001</temps><nbappels>285</nbappels><token>}</token></leniv>
-<leniv><noligne>10</noligne><profmin>0</profmin><proffinale>2</proffinale><profmax>33</profmax><indtoken>46</indtoken><temps>0.001</temps><nbappels>18</nbappels><token>TokenDeFin</token></leniv>
+<leniv><noligne>10</noligne><profmin>0</profmin><proffinale>2</proffinale><profmax>33</profmax><indtoken>46</indtoken><temps>0.002</temps><nbappels>18</nbappels><token>TokenDeFin</token></leniv>
 </nbappelspartoken>
 <nbappelsparligne>
 <leniv><noligne>0</noligne><nbappels>0</nbappels></leniv>
