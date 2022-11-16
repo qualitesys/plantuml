@@ -48,10 +48,13 @@ for (var liInd1=0; liInd1<datadepend.lescycles.length; liInd1++) {
    for (var liInd2=0; liInd2<datadepend.lescycles[liInd1].uncycle.length; liInd2++) {
       console.log("main08    etape "+liInd2+"  "+datadepend.lescycles[liInd1].uncycle[liInd2].etape);
    }
-   var leEtapePrec = datadepend.lescycles[liInd1].uncycle[0].etape
+   var leEtapeZero = datadepend.lescycles[liInd1].uncycle[0].etape;
+   var leEtapePrec = leEtapeZero;
    var liTaille    = datadepend.lescycles[liInd1].uncycle.length;
-   for (var liInd2=1; liInd2<liTaille; liInd2++) {
-	    var leEtapeCour = datadepend.lescycles[liInd1].uncycle[liInd2].etape
+   // Boucle sur un element de plus pour le bouclage
+   for (var liInd2=1; liInd2<=liTaille; liInd2++) {
+	    if (liInd2<liTaille) { var leEtapeCour = datadepend.lescycles[liInd1].uncycle[liInd2].etape; }
+	    else                 { var leEtapeCour = leEtapeZero; }
       console.log("main09    entre "+leEtapePrec+" et "+leEtapeCour);
       const resul1 = lesPkg.find(({datas}) => datas.valeur === leEtapePrec);
       const resul2 = lesPkg.find(({datas}) => datas.valeur === leEtapeCour);

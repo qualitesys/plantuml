@@ -126,9 +126,5 @@ var datadepend = { "lesdatas" : [
 { "etape" : "smetana.core" } ,
 { "etape" : "h" } ,
 ] } ,
-{ "uncycle" : [ 
-{ "etape" : "h" } ,
-{ "etape" : "smetana.core" } ,
-] } ,
 ]
 } ;
