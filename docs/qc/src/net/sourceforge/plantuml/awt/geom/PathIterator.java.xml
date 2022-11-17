@@ -195,7 +195,7 @@
 <leniv><indtoken>185</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.668556002162E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.668642394451E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>10</proffinale><profmax>14</profmax><indtoken>1</indtoken><temps>0.001</temps><nbappels>18</nbappels><token>package</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>17</proffinale><profmax>17</profmax><indtoken>2</indtoken><temps>0.001</temps><nbappels>38</nbappels><token>net</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>17</profmax><indtoken>3</indtoken><temps>0.001</temps><nbappels>10</nbappels><token>.</token></leniv>
@@ -281,7 +281,7 @@
 <leniv><noligne>9</noligne><profmin>0</profmin><proffinale>64</proffinale><profmax>64</profmax><indtoken>83</indtoken><temps>0.002</temps><nbappels>44</nbappels><token>int</token></leniv>
 <leniv><noligne>9</noligne><profmin>0</profmin><proffinale>57</proffinale><profmax>64</profmax><indtoken>84</indtoken><temps>0.002</temps><nbappels>43</nbappels><token>SEG_CUBICTO</token></leniv>
 <leniv><noligne>9</noligne><profmin>0</profmin><proffinale>66</proffinale><profmax>66</profmax><indtoken>85</indtoken><temps>0.002</temps><nbappels>28</nbappels><token>=</token></leniv>
-<leniv><noligne>9</noligne><profmin>0</profmin><proffinale>101</proffinale><profmax>113</profmax><indtoken>86</indtoken><temps>0.003</temps><nbappels>319</nbappels><token>java</token></leniv>
+<leniv><noligne>9</noligne><profmin>0</profmin><proffinale>101</proffinale><profmax>113</profmax><indtoken>86</indtoken><temps>0.002</temps><nbappels>319</nbappels><token>java</token></leniv>
 <leniv><noligne>9</noligne><profmin>0</profmin><proffinale>99</proffinale><profmax>113</profmax><indtoken>87</indtoken><temps>0.003</temps><nbappels>64</nbappels><token>.</token></leniv>
 <leniv><noligne>9</noligne><profmin>0</profmin><proffinale>104</proffinale><profmax>117</profmax><indtoken>88</indtoken><temps>0.003</temps><nbappels>195</nbappels><token>awt</token></leniv>
 <leniv><noligne>9</noligne><profmin>0</profmin><proffinale>99</proffinale><profmax>117</profmax><indtoken>89</indtoken><temps>0.003</temps><nbappels>63</nbappels><token>.</token></leniv>
