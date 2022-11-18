@@ -6,7 +6,7 @@ function doTraiter(aeVal) {
 	console.log("main02 resul "+resul);
 	if (resul===undefined) {
 		console.log("main03 pas trouve "+aeVal+" ajoute");
-		var laVar = { "datas" : { "valeur" : aeVal , "rang" : "0" , "listeappelles" : [] , "listecouleurs" : [] , "listetitle" : [] } } ;
+		var laVar = { "datas" : { "valeur" : aeVal , "rang" : "0" , "listeappelles" : [] , "listecouleurs" : [] , "listetitle" : [] , "dansuncycle" : "false"} } ;
 		lesPkg.push(laVar);
 	} else {
 		console.log("main04 "+aeVal+" deja trouve");
@@ -21,6 +21,8 @@ function doAffecter(aeValStart, aeValEnd) {
   lesPkg[resul1.datas.rang].datas.listetitle   [resul2.datas.rang] = "<a title='"+resul1.datas.valeur+" -> "+resul2.datas.valeur+"'>";
 }
 console.log("main01 Debut");
+// Init avec les packages
+var datadepend = datadependPkg;
 var lsStr = "";
 for (var liInd=0; liInd<datadepend.lesdatas.length; liInd++) {
 	console.log("main01 "+liInd);
@@ -76,33 +78,43 @@ for (var liInd1=0; liInd1<datadepend.lescycles.length; liInd1++) {
 	    // resul1 = ligne
 	    // resul2 = colonne
 	    lesPkg[rangEtapePrec].datas.listecouleurs[rangEtapeCour] = "lime"; // vert clair
+	    lesPkg[rangEtapePrec].datas.dansuncycle                  = "true";
 	    lesPkg[rangEtapePrec].datas.listetitle   [rangEtapeCour] = "<a title='Cycle "+liInd1+" Etape "+liInd2+"/"+liTaille+": \n"+leEtapePrec+" -> "+leEtapeCour+"'>";
       leEtapePrec = leEtapeCour;
    }
 }
 lsStr+="<table border='1'>";
 	lsStr+="<tr><td></td>";
+	var lbCyclesSeuls = true;
 	for (var liCol=0; liCol<lesPkg.length; liCol++) {
-	   lsStr+="<td><a title='"+liCol+":"+lesPkg[liCol].datas.valeur+"'>"+liCol+"</a></td>";
+	   if ( lbCyclesSeuls==false || (lbCyclesSeuls==true && lesPkg[liCol].datas.dansuncycle=="true")) {
+	      lsStr+="<td><a title='"+liCol+":"+lesPkg[liCol].datas.valeur+"'>"+liCol+"</a></td>";
+	   }
 	}
 	lsStr+="</tr>";
 for (var liInd=0; liInd<lesPkg.length; liInd++) {
-	lsStr+="<tr><td>"+liInd+"&nbsp;"+lesPkg[liInd].datas.valeur+"</td>";
-	lesPkg[liInd].datas.rang = liInd;
-	for (var liCol=0; liCol<lesPkg.length; liCol++) {
-	   var lsBg = "";
-	   var couleur = lesPkg[liInd].datas.listecouleurs[liCol];
-	   if (couleur!='') { lsBg = " style='background-color:"+couleur+"'"; }
-	   var title = lesPkg[liInd].datas.listetitle[liCol];
-	   if (title===undefined) title="";
-	   lsStr+="<td"+lsBg+">"+title+lesPkg[liInd].datas.listeappelles[liCol]+"</td>";
+	if ( lbCyclesSeuls==false || (lbCyclesSeuls==true && lesPkg[liInd].datas.dansuncycle=="true")) {
+	   lsStr+="<tr><td>"+liInd+"&nbsp;"+lesPkg[liInd].datas.valeur+"</td>";
+	   lesPkg[liInd].datas.rang = liInd;
+	   for (var liCol=0; liCol<lesPkg.length; liCol++) {
+	      if ( lbCyclesSeuls==false || (lbCyclesSeuls==true && lesPkg[liCol].datas.dansuncycle=="true")) {
+	         var lsBg = "";
+	         var couleur = lesPkg[liInd].datas.listecouleurs[liCol];
+	         if (couleur!='' && couleur!==undefined) { lsBg = " style='background-color:"+couleur+"'"; }
+	         var title = lesPkg[liInd].datas.listetitle[liCol];
+	         if (title===undefined) title="";
+	         lsStr+="<td"+lsBg+">"+title+lesPkg[liInd].datas.listeappelles[liCol]+"</td>";
+	      }
+	   }
 	}
   lsStr+="</tr>";
 }
     // on copie la ligne du debut a la fin 
 	lsStr+="<tr><td></td>";
 	for (var liCol=0; liCol<lesPkg.length; liCol++) {
-	   lsStr+="<td><a title='"+liCol+":"+lesPkg[liCol].datas.valeur+"'>"+liCol+"</a></td>";
+	   if ( lbCyclesSeuls==false || (lbCyclesSeuls==true && lesPkg[liCol].datas.dansuncycle=="true")) {
+	      lsStr+="<td><a title='"+liCol+":"+lesPkg[liCol].datas.valeur+"'>"+liCol+"</a></td>";
+	   }
 	}
 	lsStr+="</tr>";
 lsStr+="<br />";
