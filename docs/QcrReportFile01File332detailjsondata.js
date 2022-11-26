@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html" 
- , "texte" : "File src/jcckit/renderer/Graphics2DRenderer.java 70 rule violations " 
+ , "texte" : "File src/jcckit/renderer/Graphics2DRenderer.java 84 rule violations " 
  , "fic2"  : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.xml" 
  , "fic3"  : "" 
 }
@@ -143,7 +143,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "9"
+ , "c4" : "22"
 }}
 ,
 { "ligne" : { "" : ""
@@ -157,7 +157,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -614,7 +614,105 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.render@POLYN202472"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.drawShape@POLYN199666"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#150"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00150] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#162"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00162] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#162"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00162] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#164"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00164] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#168"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00168] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 180 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#173"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00173] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 180 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#180"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00180] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#181"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00181] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#182"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00182] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#183"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00183] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#184"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00184] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#188"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00188] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#189"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00189] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN202472 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""

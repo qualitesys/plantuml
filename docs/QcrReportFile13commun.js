@@ -6,14 +6,14 @@ var giTranche = 0;
 function lfRadioOnClick() {
    const laForme = document.querySelector("input[name='viewconfig']:checked");
    if (null!=laForme) {
-      console.log("lfRadioOnClick radio id :" + laForme.id);
+      //console.log("lfRadioOnClick radio id :" + laForme.id);
       if (laForme.id=='tranche0') {
 	       gbCyclesSeuls = true;
 	       giTranche     = 0
       } else {
 	       gbCyclesSeuls = false;
 	       const liValue = laForme.value;
-         console.log("lfRadioOnClick radio value :" + liValue);
+         //console.log("lfRadioOnClick radio value :" + liValue);
 	       giTranche     = liValue
       }
       doDessiner();
@@ -97,6 +97,7 @@ for (var liInd1=0; liInd1<datadepend.lescycles.length; liInd1++) {
 	    // resul1 = ligne
 	    // resul2 = colonne
 	    lesPkg[rangEtapePrec].datas.listecouleurs[rangEtapeCour] = "lime"; // vert clair
+      lesPkg[rangEtapePrec].datas.listeappelles[rangEtapeCour] += "|C"+liInd1+":"+liInd2+"/"+liTaille;
 	    lesPkg[rangEtapePrec].datas.dansuncycle                  = "true";
 	    lesPkg[rangEtapePrec].datas.listetitle   [rangEtapeCour] = "<a title='Cycle "+liInd1+" Etape "+liInd2+"/"+liTaille+": \n"+leEtapePrec+" -> "+leEtapeCour+"'>";
       leEtapePrec = leEtapeCour;
@@ -108,7 +109,7 @@ function doDessiner() {
 	lsStr+="<tr><td></td><td>Package, class, function</td>";
 	for (var liCol=0; liCol<lesPkg.length; liCol++) {
 	   if ( (gbCyclesSeuls==false && giSTEP*(giTranche-1)<=liCol && liCol<giSTEP*giTranche) || (gbCyclesSeuls==true && lesPkg[liCol].datas.dansuncycle=="true")) {
-	      lsStr+="<td><a title='"+liCol+":"+lesPkg[liCol].datas.valeur+"'>"+liCol+"</a></td>";
+	      lsStr+="<td align='center'><a title='"+liCol+":"+lesPkg[liCol].datas.valeur+"'>"+liCol+"</a></td>";
 	   }
 	}
 	lsStr+="</tr>";
@@ -118,9 +119,9 @@ function doDessiner() {
 	      lesPkg[liInd].datas.rang = liInd;
 	      for (var liCol=0; liCol<lesPkg.length; liCol++) {
 	         if ( (gbCyclesSeuls==false && giSTEP*(giTranche-1)<=liCol && liCol<giSTEP*giTranche)  || (gbCyclesSeuls==true && lesPkg[liCol].datas.dansuncycle=="true")) {
-	            var lsBg = "";
+	            var lsBg = " align='center'";
 	            var couleur = lesPkg[liInd].datas.listecouleurs[liCol];
-	            if (couleur!='' && couleur!==undefined) { lsBg = " style='background-color:"+couleur+"'"; }
+	            if (couleur!='' && couleur!==undefined) { lsBg += " style='background-color:"+couleur+"'"; }
 	            var title = lesPkg[liInd].datas.listetitle[liCol];
 	            if (title===undefined) title="";
 	            lsStr+="<td"+lsBg+">"+title+lesPkg[liInd].datas.listeappelles[liCol]+"</td>";
@@ -133,7 +134,7 @@ function doDessiner() {
 	lsStr+="<tr><td></td><td></td>";
 	for (var liCol=0; liCol<lesPkg.length; liCol++) {
 	   if ( (gbCyclesSeuls==false && giSTEP*(giTranche-1)<=liCol && liCol<giSTEP*giTranche)  || (gbCyclesSeuls==true && lesPkg[liCol].datas.dansuncycle=="true")) {
-	      lsStr+="<td><a title='"+liCol+":"+lesPkg[liCol].datas.valeur+"'>"+liCol+"</a></td>";
+	      lsStr+="<td align='center'><a title='"+liCol+":"+lesPkg[liCol].datas.valeur+"'>"+liCol+"</a></td>";
 	   }
 	}
 	lsStr+="</tr>";
