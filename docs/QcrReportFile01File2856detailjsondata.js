@@ -520,7 +520,7 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#130"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00130] For method printMe list of called methods Object monObjet|String getReviewedWhenN178612|String getVersionN178703|String getPathN178794"
+ , "c3" : "QC-JAV000007[00130] For method printMe list of called methods Object monObjet|java.lang.String getReviewedWhenN178612|java.lang.String getVersionN178703|java.lang.String getPathN178794"
 }} 
 ,
 { "ligne" : {"" : ""

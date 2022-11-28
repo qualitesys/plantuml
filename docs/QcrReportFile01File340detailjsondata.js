@@ -179,7 +179,7 @@ var maDataBlocs = {
  , "c1" : "00025"
  , "c1link" : "./qc/src/jcckit/util/Factory.java.html#25"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00025] For method create list of called methods Object monObjet|String configParameters_getN159686"
+ , "c3" : "QC-JAV000007[00025] For method create list of called methods Object monObjet|java.lang.String configParameters_getN159686"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -200,7 +200,7 @@ var maDataBlocs = {
  , "c1" : "00031"
  , "c1link" : "./qc/src/jcckit/util/Factory.java.html#31"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00031] For method create list of called methods Object monObjet|String configParameters_getN160327"
+ , "c3" : "QC-JAV000007[00031] For method create list of called methods Object monObjet|java.lang.String configParameters_getN160327"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -221,7 +221,7 @@ var maDataBlocs = {
  , "c1" : "00038"
  , "c1link" : "./qc/src/jcckit/util/Factory.java.html#38"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00038] For method createOrGet list of called methods Object monObjet|String configParameters_getN160894"
+ , "c3" : "QC-JAV000007[00038] For method createOrGet list of called methods Object monObjet|java.lang.String configParameters_getN160894"
 }} 
 ,
 { "ligne" : {"" : ""

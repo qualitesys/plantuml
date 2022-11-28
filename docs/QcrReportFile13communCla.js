@@ -98,7 +98,7 @@ function doInitCla() {
 	       // resul1 = ligne
 	       // resul2 = colonne
 	       lesPkgCla[rangEtapePrec].datas.listecouleurs[rangEtapeCour] = "lime"; // vert clair
-         lesPkgCla[rangEtapePrec].datas.listeappelles[rangEtapeCour] += "|C"+liInd1+":"+liInd2+"/"+liTaille;
+         lesPkgCla[rangEtapePrec].datas.listeappelles[rangEtapeCour] += "\nC"+liInd1+":"+liInd2+"/"+liTaille;
 	       lesPkgCla[rangEtapePrec].datas.dansuncycle                  = "true";
 	       lesPkgCla[rangEtapePrec].datas.listetitle   [rangEtapeCour] = "<a title='Cycle "+liInd1+" Etape "+liInd2+"/"+liTaille+": \n"+leEtapePrec+" -> "+leEtapeCour+"'>";
          leEtapePrec = leEtapeCour;

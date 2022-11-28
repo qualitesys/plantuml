@@ -188,7 +188,7 @@ var maDataBlocs = {
  , "c1" : "00009"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#9"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00009] For method create list of called methods Object monObjet|String config_getN178796"
+ , "c3" : "QC-JAV000007[00009] For method create list of called methods Object monObjet|java.lang.String config_getN178796"
 }} 
 ,
 { "ligne" : {"" : ""

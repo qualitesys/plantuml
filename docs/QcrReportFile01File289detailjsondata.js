@@ -138,7 +138,7 @@ var maDataBlocs = {
  , "c1" : "00031"
  , "c1link" : "./qc/src/jcckit/graphic/FontStyle.java.html#31"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00031] For method getFontStyle list of called methods Object monObjet|String config_getN152017"
+ , "c3" : "QC-JAV000007[00031] For method getFontStyle list of called methods Object monObjet|java.lang.String config_getN152017"
 }} 
 ,
 { "ligne" : {"" : ""

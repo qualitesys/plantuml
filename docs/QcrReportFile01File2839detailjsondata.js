@@ -1592,7 +1592,7 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00098] For method clear list of called methods Object monObjet|String StringUtils_repeatStringN431575|int getHeightN431705"
+ , "c3" : "QC-JAV000007[00098] For method clear list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN431575|int getHeightN431705"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3237,7 +3237,7 @@ var maDataBlocs = {
  , "c1" : "00558"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#558"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00558] For method findColorCodes list of called methods Object monObjet|int getWidthN463675|int getHeightN463742|String getStringAtN464270"
+ , "c3" : "QC-JAV000007[00558] For method findColorCodes list of called methods Object monObjet|int getWidthN463675|int getHeightN463742|java.lang.String getStringAtN464270"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5743,7 +5743,7 @@ var maDataBlocs = {
  , "c1" : "01386"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1386"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01386] For method initialiseWithLines list of called methods Object monObjet|String StringUtils_repeatStringN517527"
+ , "c3" : "QC-JAV000007[01386] For method initialiseWithLines list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN517527"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5876,7 +5876,7 @@ var maDataBlocs = {
  , "c1" : "01462"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1462"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01462] For method fixTabs list of called methods Object monObjet|String StringUtils_repeatStringN519794"
+ , "c3" : "QC-JAV000007[01462] For method fixTabs list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN519794"
 }} 
 ,
 { "ligne" : {"" : ""

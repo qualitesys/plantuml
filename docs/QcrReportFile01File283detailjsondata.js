@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00020"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00020] For method getHorizontalAnchor list of called methods Object monObjet|String config_getN163705"
+ , "c3" : "QC-JAV000007[00020] For method getHorizontalAnchor list of called methods Object monObjet|java.lang.String config_getN163705"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -189,7 +189,7 @@ var maDataBlocs = {
  , "c1" : "00039"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00039] For method getVerticalAnchor list of called methods Object monObjet|String config_getN165188"
+ , "c3" : "QC-JAV000007[00039] For method getVerticalAnchor list of called methods Object monObjet|java.lang.String config_getN165188"
 }} 
 ,
 { "ligne" : {"" : ""

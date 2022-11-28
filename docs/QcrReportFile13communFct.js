@@ -98,7 +98,7 @@ function doInitFct() {
 	       // resul1 = ligne
 	       // resul2 = colonne
 	       lesPkgFct[rangEtapePrec].datas.listecouleurs[rangEtapeCour] = "lime"; // vert clair
-         lesPkgFct[rangEtapePrec].datas.listeappelles[rangEtapeCour] += "|C"+liInd1+":"+liInd2+"/"+liTaille;
+         lesPkgFct[rangEtapePrec].datas.listeappelles[rangEtapeCour] += "\nC"+liInd1+":"+liInd2+"/"+liTaille;
 	       lesPkgFct[rangEtapePrec].datas.dansuncycle                  = "true";
 	       lesPkgFct[rangEtapePrec].datas.listetitle   [rangEtapeCour] = "<a title='Cycle "+liInd1+" Etape "+liInd2+"/"+liTaille+": \n"+leEtapePrec+" -> "+leEtapeCour+"'>";
          leEtapePrec = leEtapeCour;

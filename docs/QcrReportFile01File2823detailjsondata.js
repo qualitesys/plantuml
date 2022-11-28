@@ -499,7 +499,7 @@ var maDataBlocs = {
  , "c1" : "00139"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#139"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00139] For method connectLines list of called methods Object monObjet|Object lines_iteratorN192612"
+ , "c3" : "QC-JAV000007[00139] For method connectLines list of called methods Object monObjet|java.lang.Object lines_iteratorN192612"
 }} 
 ,
 { "ligne" : {"" : ""

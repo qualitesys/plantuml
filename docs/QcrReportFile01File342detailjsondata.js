@@ -188,7 +188,7 @@ var maDataBlocs = {
  , "c1" : "00024"
  , "c1link" : "./qc/src/jcckit/util/FlatConfigData.java.html#24"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00024] For method get list of called methods Object monObjet|String getN186529"
+ , "c3" : "QC-JAV000007[00024] For method get list of called methods Object monObjet|java.lang.String getN186529"
 }} 
 ,
 { "ligne" : {"" : ""

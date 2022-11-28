@@ -339,7 +339,7 @@ var maDataBlocs = {
  , "c1" : "00027"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00027] For method get list of called methods Object monObjet|String _configData_getN208300"
+ , "c3" : "QC-JAV000007[00027] For method get list of called methods Object monObjet|java.lang.String _configData_getN208300"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -360,7 +360,7 @@ var maDataBlocs = {
  , "c1" : "00036"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#36"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00036] For method get list of called methods Object monObjet|String _configData_getN208974"
+ , "c3" : "QC-JAV000007[00036] For method get list of called methods Object monObjet|java.lang.String _configData_getN208974"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -388,7 +388,7 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00050] For method getBoolean list of called methods Object monObjet|String _configData_getN210178"
+ , "c3" : "QC-JAV000007[00050] For method getBoolean list of called methods Object monObjet|java.lang.String _configData_getN210178"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -493,7 +493,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00078] For method getInt list of called methods Object monObjet|String _configData_getN212624"
+ , "c3" : "QC-JAV000007[00078] For method getInt list of called methods Object monObjet|java.lang.String _configData_getN212624"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -535,7 +535,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00097] For method getDouble list of called methods Object monObjet|String _configData_getN214207"
+ , "c3" : "QC-JAV000007[00097] For method getDouble list of called methods Object monObjet|java.lang.String _configData_getN214207"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -577,7 +577,7 @@ var maDataBlocs = {
  , "c1" : "00116"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00116] For method getDoubleArray list of called methods Object monObjet|String _configData_getN215884"
+ , "c3" : "QC-JAV000007[00116] For method getDoubleArray list of called methods Object monObjet|java.lang.String _configData_getN215884"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -626,7 +626,7 @@ var maDataBlocs = {
  , "c1" : "00140"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#140"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00140] For method getColor list of called methods Object monObjet|String _configData_getN218295"
+ , "c3" : "QC-JAV000007[00140] For method getColor list of called methods Object monObjet|java.lang.String _configData_getN218295"
 }} 
 ,
 { "ligne" : {"" : ""

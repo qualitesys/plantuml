@@ -467,7 +467,7 @@ var maDataBlocs = {
  , "c1" : "00144"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#144"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00144] For method render list of called methods Object monObjet|jcckit.graphic.GraphicAttributes text_getGraphicAttributesN202570|java.awt.Color ta_getTextColorN202869|String text_getTextN203250|double ta_getFontSizeN203490|java.awt.Font createFontN203733"
+ , "c3" : "QC-JAV000007[00144] For method render list of called methods Object monObjet|jcckit.graphic.GraphicAttributes text_getGraphicAttributesN202570|java.awt.Color ta_getTextColorN202869|java.lang.String text_getTextN203250|double ta_getFontSizeN203490|java.awt.Font createFontN203733"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -579,7 +579,7 @@ var maDataBlocs = {
  , "c1" : "00216"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#216"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00216] For method createFont list of called methods Object monObjet|String attributes_getFontNameN206899|jcckit.graphic.FontStyle attributes_getFontStyleN207104"
+ , "c3" : "QC-JAV000007[00216] For method createFont list of called methods Object monObjet|java.lang.String attributes_getFontNameN206899|jcckit.graphic.FontStyle attributes_getFontStyleN207104"
 }} 
 ,
 { "ligne" : {"" : ""

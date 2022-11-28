@@ -163,7 +163,7 @@ var maDataBlocs = {
  , "c1" : "00022"
  , "c1link" : "./qc/src/jcckit/util/ConfigParametersBasedConfigData.java.html#22"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00022] For method get list of called methods Object monObjet|String _config_getN151741"
+ , "c3" : "QC-JAV000007[00022] For method get list of called methods Object monObjet|java.lang.String _config_getN151741"
 }} 
 ,
 { "ligne" : {"" : ""
