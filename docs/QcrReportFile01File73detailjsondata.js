@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java 93 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java 72 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.xml" 
  , "fic3"  : "" 
 }
@@ -156,35 +156,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "18"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -226,7 +203,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "7"
+ , "c4" : "5"
 }}
  ] 
 ,
@@ -505,13 +482,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#132"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00132] For method multiply list of called methods Object monObjet|int field_multiplyN185385"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#133"
  , "c2" : "MAJOR"
@@ -537,13 +507,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#147"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00147] For method multiplyByMonomial arguments int  degree|int  coefficient"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#147"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00147] For method multiplyByMonomial list of called methods Object monObjet|int field_multiplyN186349"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -578,7 +541,7 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#162"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00162] For method divide list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly field_getZeroN186992|int other_getCoefficientN187120|int field_inverseN187234|int remainder_getDegreeN187490|int field_multiplyN187607|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly other_multiplyByMonomialN187782|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly field_buildMonomialN187898|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly quotient_addOrSubtractN188013|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly remainder_addOrSubtractN188106"
+ , "c3" : "QC-JAV000007[00162] For method divide list of called methods Object monObjet|int other_getCoefficientN187120|int remainder_getDegreeN187490|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly other_multiplyByMonomialN187782|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly quotient_addOrSubtractN188013|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly remainder_addOrSubtractN188106"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -620,7 +583,7 @@ var maDataBlocs = {
  , "c1" : "00188"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#188"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00188] For method toString list of called methods Object monObjet|int getDegreeN188508|int getCoefficientN188665|int field_logN189343"
+ , "c3" : "QC-JAV000007[00188] For method toString list of called methods Object monObjet|int getDegreeN188508|int getCoefficientN188665"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -747,139 +710,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#216"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00216] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String  'x^' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#189"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00189] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 8 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#190"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00190] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#192"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00192] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#193"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00193] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#194"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00194] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String ' - ' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#197"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00197] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#198"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00198] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String ' + ' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#201"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00201] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#201"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00201] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00203"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#203"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00203] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#204"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00204] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String '1' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#205"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00205] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#206"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00206] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 'a' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#208"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00208] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 'a^' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#212"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00212] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#213"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00213] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#214"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00214] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 'x' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#216"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00216] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN188288 the MagicNumber/String 'x^' MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -541,7 +541,7 @@ var maDataBlocs = {
  , "c1" : "00201"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#201"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00201] For method generateCurves list of called methods Object monObjet|int dataPlot_getNumberOfElementsN225407|jcckit.plot.Curve _curveFactory_createN225570"
+ , "c3" : "QC-JAV000007[00201] For method generateCurves list of called methods Object monObjet|int dataPlot_getNumberOfElementsN225407"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/CellSet.java 236 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/CellSet.java 234 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.xml" 
  , "fic3"  : "" 
 }
@@ -445,7 +445,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "8"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -1945,13 +1945,6 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.addAll@POLYN235608"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
- , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN259027"
 }} 
 ,
@@ -1960,13 +1953,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.find@POLYN246565"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.clear@POLYN235745"
 }} 
 ,
 { "ligne" : {"" : ""

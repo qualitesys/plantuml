@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/Diagram.java 419 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/Diagram.java 418 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.xml" 
  , "fic3"  : "" 
 }
@@ -346,7 +346,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "5"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
@@ -2568,13 +2568,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325292"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.getAllDiagramShapes@POLYN315110"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramText.java 31 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramText.java 27 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.xml" 
  , "fic3"  : "" 
 }
@@ -276,13 +276,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "12"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "4"
-}}
  ] 
 ,
 "data13b" : [
@@ -336,13 +329,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#38"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00038] For method centerHorizontallyBetween list of called methods Object monObjet|int fontMeasurer_getWidthForN160472"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00040"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#40"
  , "c2" : "MAJOR"
@@ -364,13 +350,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#45"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00045] For method centerVerticallyBetween list of called methods Object monObjet|int fontMeasurer_getZHeightN160955"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#47"
  , "c2" : "MAJOR"
@@ -389,13 +368,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#51"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00051] For method alignRightEdgeTo arguments int  x"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00051] For method alignRightEdgeTo list of called methods Object monObjet|int fontMeasurer_getWidthForN161391"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -431,13 +403,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#103"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00103] For method setYPos arguments int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#107"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00107] For method getBounds list of called methods Object monObjet|java.awt.geom.Rectangle2D fontMeasurer_getBoundsForN162946"
 }} 
 ,
 { "ligne" : {"" : ""

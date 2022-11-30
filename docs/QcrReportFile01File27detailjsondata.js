@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java 7 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java 6 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.xml" 
  , "fic3"  : "" 
 }
@@ -96,13 +96,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -139,13 +132,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#50"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00050] For method transformAndAddDot arguments Coordinate  pPos"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#50"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00050] For method transformAndAddDot list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D fProjection_rotateN148605|ext.plantuml.com.ctreber.acearth.util.Point2D fProjection_finalizeN148807"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/GraphicalComposite.java.html" 
- , "texte" : "File src/jcckit/graphic/GraphicalComposite.java 13 rule violations " 
+ , "texte" : "File src/jcckit/graphic/GraphicalComposite.java 10 rule violations " 
  , "fic2"  : "./qc/src/jcckit/graphic/GraphicalComposite.java.xml" 
  , "fic3"  : "" 
 }
@@ -111,30 +111,7 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
@@ -233,27 +210,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#60"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00060] In method jcckit.graphic.GraphicalComposite.renderWith@POLYN155519 the MagicNumber/String  ' does not implements GraphicalCompositeRenderer.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.graphic.GraphicalComposite.addElement@POLYN154280"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.graphic.GraphicalComposite.removeAllElements@POLYN154553"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#23"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00023] In the recursive method jcckit.graphic.GraphicalComposite.addElement@POLYN154280 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

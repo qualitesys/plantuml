@@ -170,7 +170,7 @@ var maDataBlocs = {
  , "c1" : "00025"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#25"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00025] For method readFormatInformation list of called methods Object monObjet|int copyBitN167336|int copyBitN167470|int copyBitN167603|int copyBitN167736|int copyBitN168032|int bitMatrix_getHeightN168167|int copyBitN168560|int copyBitN168877|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation FormatInformation_decodeFormatInformationN169011"
+ , "c3" : "QC-JAV000007[00025] For method readFormatInformation list of called methods Object monObjet|int copyBitN167336|int copyBitN167470|int copyBitN167603|int copyBitN167736|int copyBitN168032|int copyBitN168560|int copyBitN168877|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation FormatInformation_decodeFormatInformationN169011"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -324,7 +324,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00064] For method readVersion list of called methods Object monObjet|int bitMatrix_getHeightN169658|int copyBitN170487|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN170622|int copyBitN171290|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN171425"
+ , "c3" : "QC-JAV000007[00064] For method readVersion list of called methods Object monObjet|int copyBitN170487|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN170622|int copyBitN171290|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN171425"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -464,7 +464,7 @@ var maDataBlocs = {
  , "c1" : "00111"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00111] For method readCodewords list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation readFormatInformationN172395|ext.plantuml.com.google.zxing.qrcode.decoder.Version readVersionN172462|ext.plantuml.com.google.zxing.qrcode.decoder.DataMask DataMask_forReferenceN172529|int bitMatrix_getHeightN172662|byte[] version_buildFunctionPatternN172830"
+ , "c3" : "QC-JAV000007[00111] For method readCodewords list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation readFormatInformationN172395|ext.plantuml.com.google.zxing.qrcode.decoder.Version readVersionN172462|ext.plantuml.com.google.zxing.qrcode.decoder.DataMask DataMask_forReferenceN172529|byte[] version_buildFunctionPatternN172830"
 }} 
 ,
 { "ligne" : {"" : ""

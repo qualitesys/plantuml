@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/ACearth.java 114 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/ACearth.java 113 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.xml" 
  , "fic3"  : "" 
 }
@@ -183,7 +183,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -437,7 +437,7 @@ var maDataBlocs = {
  , "c1" : "00163"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00163] For method computePositions list of called methods Object monObjet|int fConf_getIntN213432|ext.plantuml.com.ctreber.acearth.util.Coordinate fConf_getViewPosN213871|ext.plantuml.com.ctreber.acearth.util.Coordinate getSunRelativePositionN214059|ext.plantuml.com.ctreber.acearth.util.Coordinate getOrbitPositionN214239|ext.plantuml.com.ctreber.acearth.util.Coordinate getRandomPositionN214438|ext.plantuml.com.ctreber.acearth.util.Coordinate SunPositionCalculator_getMoonPositionOnEarthN214618|double fConf_getDoubleN215167"
+ , "c3" : "QC-JAV000007[00163] For method computePositions list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Coordinate getSunRelativePositionN214059|ext.plantuml.com.ctreber.acearth.util.Coordinate getOrbitPositionN214239|ext.plantuml.com.ctreber.acearth.util.Coordinate getRandomPositionN214438|ext.plantuml.com.ctreber.acearth.util.Coordinate SunPositionCalculator_getMoonPositionOnEarthN214618"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -564,13 +564,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#197"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00197] In method ext.plantuml.com.ctreber.acearth.ACearth.computePositions@POLYN213155 the MagicNumber/String  'viewRotation' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#202"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00202] For method getSunRelativePosition list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Coordinate fConf_getSunPosN215449"
 }} 
 ,
 { "ligne" : {"" : ""
