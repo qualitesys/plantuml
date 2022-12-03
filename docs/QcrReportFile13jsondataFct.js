@@ -2843,6 +2843,7 @@ var datadependFct = { "lesdatas" : [
 { "start" : "jcckit.data.DataContainer.replaceElementAt@POLYN177162" , "end" : "jcckit.data.DataContainer.notifyListeners@POLYN173161"} ,
 { "start" : "jcckit.data.DataContainer.replaceElementAt@POLYN177162" , "end" : "jcckit.data.DataContainer.throwException@POLYN177929"} ,
 { "start" : "jcckit.data.DataCurve.DataCurve@POLYN155975" , "end" : "jcckit.util.ConfigParameters.getDoubleArray@POLYN215756"} ,
+{ "start" : "jcckit.data.DataCurve.DataCurve@POLYN155975" , "end" : "jcckit.data.DataContainer.addElement@POLYN174689"} ,
 { "start" : "jcckit.data.DataPlot.DataPlot@POLYN151670" , "end" : "jcckit.data.DataContainer.addElement@POLYN174689"} ,
 { "start" : "jcckit.graphic.Anchor.getHorizontalAnchor@POLYN163503" , "end" : "jcckit.util.ConfigParameters.get@POLYN208852"} ,
 { "start" : "jcckit.graphic.Anchor.getHorizontalAnchor@POLYN163503" , "end" : "net.sourceforge.plantuml.cucadiagram.Display.equals@POLYN264151"} ,
