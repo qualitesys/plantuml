@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/awt/geom/XPath2D.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/awt/geom/XPath2D.java 1 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/awt/geom/XPath2D.java 0 rule violation " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/awt/geom/XPath2D.java.xml" 
  , "fic3"  : "" 
 }
@@ -47,24 +47,6 @@ var maDataBlocs = {
 ]
 , 
 "data14" : [
-]
-, 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00005"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XPath2D.java.html#5"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00005] The class XPath2D contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
 ]
 , 
 "data15" : {
