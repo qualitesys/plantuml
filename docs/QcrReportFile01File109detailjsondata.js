@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/cdt/dttree__c.java.html" 
- , "texte" : "File src/gen/lib/cdt/dttree__c.java 265 rule violations " 
+ , "texte" : "File src/gen/lib/cdt/dttree__c.java 259 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/cdt/dttree__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -156,13 +156,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "6"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "110"
@@ -191,48 +184,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00049] The class no_root contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00050] The class has_root contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00051] The class do_search contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00052] The class dt_delete contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00053] The class dt_insert contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00054] The class dt_next contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#58"

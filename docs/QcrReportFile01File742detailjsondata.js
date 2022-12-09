@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java 1171 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java 1172 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.xml" 
  , "fic3"  : "" 
 }
@@ -116,6 +116,13 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
@@ -6818,6 +6825,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#781"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00781] In method net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.compress@POLYN442392 the MagicNumber/String  15 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00803"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#803"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00803] The class Debug contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
