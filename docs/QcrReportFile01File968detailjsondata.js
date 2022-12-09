@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/command/PSystemCommandFactory.java 48 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/command/PSystemCommandFactory.java 47 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.xml" 
  , "fic3"  : "" 
 }
@@ -142,13 +142,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
  , "c4" : "11"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -326,13 +319,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#97"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174513 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00104] The class Step contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

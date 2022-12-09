@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/math/LatexBuilder.java 17 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/math/LatexBuilder.java 15 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.xml" 
  , "fic3"  : "" 
 }
@@ -105,13 +105,6 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "9"
@@ -126,13 +119,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00016] The class LatexBuilder contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00030"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#30"
@@ -166,13 +152,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#50"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.math.LatexBuilder.getImage@POLYN159587 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00053] The class LatexImage contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

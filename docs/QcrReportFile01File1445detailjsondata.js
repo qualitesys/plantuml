@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/jasic/Jasic.java 105 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/jasic/Jasic.java 93 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.xml" 
  , "fic3"  : "" 
 }
@@ -106,13 +106,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "12"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "74"
@@ -127,13 +120,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#13"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00013] The class Jasic contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00018"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#18"
@@ -237,20 +223,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#91"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.jasic.Jasic.tokenize@POLYN268403 the MagicNumber/String  '\n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#112"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00112] The class Token contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00130] The class Parser contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -611,45 +583,10 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00300"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#300"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00300] The class PrintStatement contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00313"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#313"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00313] The class InputStatement contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00329"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#329"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE390[00329] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00338"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#338"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00338] The class AssignStatement contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00353"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#353"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00353] The class GotoStatement contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00368"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#368"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00368] The class IfThenStatement contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -660,24 +597,10 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00388"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#388"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00388] The class VariableExpression contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00397"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#397"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00397] In method net.sourceforge.plantuml.jasic.Jasic.VariableExpression.evaluate@POLYN287799 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00404"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#404"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00404] The class OperatorExpression contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -832,20 +755,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#452"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00452] In method net.sourceforge.plantuml.jasic.Jasic.OperatorExpression.evaluate@POLYN288552 the MagicNumber/String  'Unknown operator.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00472"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#472"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00472] The class NumberValue contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00494"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#494"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00494] The class StringValue contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

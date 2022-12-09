@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/real/RealLine.java 31 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/real/RealLine.java 29 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.xml" 
  , "fic3"  : "" 
 }
@@ -176,13 +176,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "14"
@@ -197,13 +190,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00011] The class RealLine contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00019"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#19"
@@ -363,13 +349,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#96"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN161945 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00119] The class AbstractAbsolute contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

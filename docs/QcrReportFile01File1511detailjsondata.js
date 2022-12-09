@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java 144 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java 134 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.xml" 
  , "fic3"  : "" 
 }
@@ -144,13 +144,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "10"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "56"
@@ -165,13 +158,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00020] The class MJPEGGenerator contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00037"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#37"
@@ -488,13 +474,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00130] The class RIFFHeader contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#131"
  , "c2" : "MAJOR"
@@ -534,13 +513,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#136"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE493[00136] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00156] The class AVIMainHeader contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -677,13 +649,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#204"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00204] The class AVIStreamList contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#205"
  , "c2" : "MAJOR"
@@ -702,13 +667,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#207"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE493[00207] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#224"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00224] The class AVIStreamHeader contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -859,13 +817,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00279"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#279"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00279] The class AVIStreamFormat contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00282"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#282"
  , "c2" : "MAJOR"
@@ -957,13 +908,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#323"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00323] The class AVIMovieList contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00324"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#324"
  , "c2" : "MAJOR"
@@ -982,13 +926,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#326"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE493[00326] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00344"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#344"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00344] The class AVIIndexList contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1055,13 +992,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00378"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#378"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00378] The class AVIIndex contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00379"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#379"
  , "c2" : "MAJOR"
@@ -1087,13 +1017,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#382"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE493[00382] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00401"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#401"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00401] The class AVIJunk contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

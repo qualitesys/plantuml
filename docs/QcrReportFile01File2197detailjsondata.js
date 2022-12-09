@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/Bibliotekon.java 37 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/Bibliotekon.java 36 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.xml" 
  , "fic3"  : "" 
 }
@@ -227,13 +227,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "15"
@@ -248,13 +241,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00018] The class Bibliotekon contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00028"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Bibliotekon.java.html#28"

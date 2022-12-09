@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/DaysAsDates.java 5 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/project/DaysAsDates.java 3 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.xml" 
  , "fic3"  : "" 
 }
@@ -85,13 +85,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "2"
@@ -99,13 +92,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.html#8"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class DaysAsDates contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00018"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.html#18"
@@ -118,13 +104,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.html#21"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.project.DaysAsDates.DaysAsDates@POLYN150064 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00030] The class MyIterator contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

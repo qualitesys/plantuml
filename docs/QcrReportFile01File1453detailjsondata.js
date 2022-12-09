@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/json/JsonObject.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/json/JsonObject.java 105 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/json/JsonObject.java 103 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/json/JsonObject.java.xml" 
  , "fic3"  : "" 
 }
@@ -432,13 +432,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "5"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -993,13 +986,6 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonObject.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00001] The class Member contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonObject.java.html#1"
- , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonObject.Member.hashCode@POLYN366979 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
@@ -1057,13 +1043,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonObject.java.html#1"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonObject.Member.equals@POLYN367783 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonObject.java.html#1"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00001] The class HashIndexTable contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

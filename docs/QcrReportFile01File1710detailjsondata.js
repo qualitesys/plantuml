@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java 53 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java 52 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.xml" 
  , "fic3"  : "" 
 }
@@ -169,13 +169,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
  , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -465,13 +458,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#115"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.project.draw.TimeHeaderSimple.drawTimeFooter@POLYN182601 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderSimple.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00121] The class Pending contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

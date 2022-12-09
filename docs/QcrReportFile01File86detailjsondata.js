@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java 1026 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java 1023 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.xml" 
  , "fic3"  : "" 
 }
@@ -180,13 +180,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "1013"
@@ -208,13 +201,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class Version contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00031"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#31"
@@ -678,13 +664,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00154] The class ECBlocks contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#173"
  , "c2" : "MAJOR"
@@ -696,13 +675,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#174"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00174] In method ext.plantuml.com.google.zxing.qrcode.decoder.Version.ECBlocks.getNumBlocks@POLYN280930 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#190"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00190] The class ECB contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

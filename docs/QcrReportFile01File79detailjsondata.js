@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java 18 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java 17 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.xml" 
  , "fic3"  : "" 
 }
@@ -85,13 +85,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "12"
@@ -113,13 +106,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00018] The class QRCodeWriter contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00022"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html#22"

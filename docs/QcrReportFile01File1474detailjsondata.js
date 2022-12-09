@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/logo/LogoToken.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/logo/LogoToken.java 5 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/logo/LogoToken.java 4 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/logo/LogoToken.java.xml" 
  , "fic3"  : "" 
 }
@@ -56,23 +56,9 @@ var maDataBlocs = {
  , "c3" : "Critical public variable without final modifier"
  , "c4" : "4"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00005"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/LogoToken.java.html#5"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00005] The class LogoToken contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00025"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/LogoToken.java.html#25"

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/command/regex/MyPattern.java 23 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/command/regex/MyPattern.java 22 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.xml" 
  , "fic3"  : "" 
 }
@@ -117,13 +117,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "14"
@@ -150,13 +143,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#16"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00016] For method removeEldestEntry arguments Map.Entry&lt;K ,V &gt;  eldest"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00022] The class MyPattern contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

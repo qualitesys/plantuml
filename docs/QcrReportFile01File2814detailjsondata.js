@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/core/ConfigurationParser.java 1 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/core/ConfigurationParser.java 0 rule violation " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.xml" 
  , "fic3"  : "" 
 }
@@ -64,24 +64,6 @@ var maDataBlocs = {
 ]
 , 
 "data14" : [
-]
-, 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class ConfigurationParser contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
 ]
 , 
 "data15" : {

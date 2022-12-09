@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 883 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 877 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.xml" 
  , "fic3"  : "" 
 }
@@ -1504,13 +1504,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "6"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "348"
@@ -1539,13 +1532,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00019] The class TextGrid contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#69"
@@ -5957,13 +5943,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01495"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1495"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[01495] The class CellColorPair contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "01500"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1500"
  , "c2" : "MAJOR"
@@ -5975,13 +5954,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1501"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE493[01501] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01504"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1504"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[01504] The class CellStringPair contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5999,13 +5971,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01513"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1513"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[01513] The class CellTagPair contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "01518"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1518"
  , "c2" : "MAJOR"
@@ -6017,13 +5982,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1519"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE493[01519] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01523"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1523"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[01523] The class Cell contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -6388,13 +6346,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1622"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01622] For method scale arguments int  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01629"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1629"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[01629] The class LineSegment contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

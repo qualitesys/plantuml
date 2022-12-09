@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java 3 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java 2 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java.xml" 
  , "fic3"  : "" 
 }
@@ -93,13 +93,6 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -108,13 +101,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00004"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java.html#4"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00004] The class ParticipantRange contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00025"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantRange.java.html#25"

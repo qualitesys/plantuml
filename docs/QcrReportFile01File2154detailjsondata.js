@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/stats/TextTable.java 39 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/stats/TextTable.java 36 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.xml" 
  , "fic3"  : "" 
 }
@@ -119,13 +119,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "25"
@@ -140,20 +133,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00012] The class TextTable contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00025] The class Separator contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00028"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#28"
@@ -215,13 +194,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#43"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.stats.TextTable.Separator.getPrinted@POLYN164671 the MagicNumber/String  '+' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00048] The class DataLine contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

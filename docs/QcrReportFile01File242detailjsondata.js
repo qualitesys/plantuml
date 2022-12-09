@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_gvplugin_available_s.java.html" 
- , "texte" : "File src/h/ST_gvplugin_available_s.java 0 rule violation " 
+ , "texte" : "File src/h/ST_gvplugin_available_s.java 1 rule violations " 
  , "fic2"  : "./qc/src/h/ST_gvplugin_available_s.java.xml" 
  , "fic3"  : "" 
 }
@@ -47,6 +47,24 @@ var maDataBlocs = {
 ]
 , 
 "data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "MAJOR"
+ , "c2" : "QC-JAV000008"
+ , "c3" : "The class should be static contains no field, constructor, destructor"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00006"
+ , "c1link" : "./qc/src/h/ST_gvplugin_available_s.java.html#6"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000008[00006] The class ST_gvplugin_available_s contains no field, constructor, finalize. Must contain only static methods, check it"
+}} 
 ]
 , 
 "data15" : {

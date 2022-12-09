@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java 1177 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java 1171 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.xml" 
  , "fic3"  : "" 
 }
@@ -121,13 +121,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "6"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "1129"
@@ -206,13 +199,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#174"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00174] The class Tree contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#201"
  , "c2" : "MINOR"
@@ -231,13 +217,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#208"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.argon2.blake2.Blake2b.Tree.getRoot@POLYN424292 the MagicNumber/String  0L should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#216"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00216] The class Engine contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -6842,13 +6821,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00803"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#803"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00803] The class Debug contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00804"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#804"
  , "c2" : "MINOR"
@@ -7077,20 +7049,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#839"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00839] In method net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Debug.dumpBuffer@POLYN495313 the MagicNumber/String  '\n}\n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00847"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#847"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00847] The class Assert contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00862"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#862"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00862] The class LittleEndian contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -7476,13 +7434,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#917"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00917] In method net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.writeInt@POLYN503613 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00926"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/blake2/Blake2b.java.html#926"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00926] The class Param contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

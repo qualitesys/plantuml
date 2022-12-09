@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java 493 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java 491 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.xml" 
  , "fic3"  : "" 
 }
@@ -200,13 +200,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "455"
@@ -228,13 +221,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00914"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#914"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00914] The class ASCIIMathTeXImg contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00914"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#914"
@@ -275,13 +261,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#914"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00914] The argument str is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00914"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#914"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00914] The class Tupple contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

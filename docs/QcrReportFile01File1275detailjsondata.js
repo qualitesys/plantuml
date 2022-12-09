@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphics.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/eps/EpsGraphics.java 608 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/eps/EpsGraphics.java 606 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphics.java.xml" 
  , "fic3"  : "" 
 }
@@ -585,13 +585,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "524"
@@ -606,13 +599,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphics.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00022] The class EpsGraphics contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphics.java.html#46"
@@ -4349,13 +4335,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphics.java.html#703"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00703] In method net.sourceforge.plantuml.eps.EpsGraphics.drawEps@POLYN337647 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00714"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphics.java.html#714"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00714] The class UrlArea contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

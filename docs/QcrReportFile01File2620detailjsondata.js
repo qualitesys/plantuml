@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java 402 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java 399 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.xml" 
  , "fic3"  : "" 
 }
@@ -168,13 +168,6 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "389"
@@ -189,13 +182,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00017] The class HColorSet contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00035"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#35"
@@ -2357,20 +2343,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#192"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00192] For method register arguments String  s|String  color"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#197"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00197] The class Gradient contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#218"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00218] The class Automatic contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

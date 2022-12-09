@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/debug/SmetanaDebug.java.html" 
- , "texte" : "File src/smetana/core/debug/SmetanaDebug.java 11 rule violations " 
+ , "texte" : "File src/smetana/core/debug/SmetanaDebug.java 10 rule violations " 
  , "fic2"  : "./qc/src/smetana/core/debug/SmetanaDebug.java.xml" 
  , "fic3"  : "" 
 }
@@ -112,13 +112,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "1"
@@ -140,13 +133,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00005"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#5"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00005] The class SmetanaDebug contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00007"
  , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#7"

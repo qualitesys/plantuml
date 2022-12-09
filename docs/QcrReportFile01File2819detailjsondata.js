@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/core/ProcessingOptions.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/core/ProcessingOptions.java 41 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/core/ProcessingOptions.java 40 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/core/ProcessingOptions.java.xml" 
  , "fic3"  : "" 
 }
@@ -316,13 +316,6 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -331,13 +324,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ProcessingOptions.java.html#9"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class ProcessingOptions contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ProcessingOptions.java.html#68"

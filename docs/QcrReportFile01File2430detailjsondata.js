@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/expression/TokenStack.java 55 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/expression/TokenStack.java 53 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.xml" 
  , "fic3"  : "" 
 }
@@ -189,13 +189,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "30"
@@ -210,13 +203,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00019] The class TokenStack contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#62"
@@ -530,13 +516,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#173"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN178577 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00179] The class InternalIterator contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/gvc/gvplugin__c.java.html" 
- , "texte" : "File src/gen/lib/gvc/gvplugin__c.java 62 rule violations " 
+ , "texte" : "File src/gen/lib/gvc/gvplugin__c.java 61 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/gvc/gvplugin__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -69,13 +69,6 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "59"
@@ -90,13 +83,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/gen/lib/gvc/gvplugin__c.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00018] The class gvplugin__c contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00027"
  , "c1link" : "./qc/src/gen/lib/gvc/gvplugin__c.java.html#27"

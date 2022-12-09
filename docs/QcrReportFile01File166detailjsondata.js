@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/label/xlabels__c.java.html" 
- , "texte" : "File src/gen/lib/label/xlabels__c.java 452 rule violations " 
+ , "texte" : "File src/gen/lib/label/xlabels__c.java 451 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/label/xlabels__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -318,13 +318,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "369"
@@ -360,13 +353,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00039] The class xlabels__c contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00041"
  , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#41"

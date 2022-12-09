@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java 93 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java 92 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.xml" 
  , "fic3"  : "" 
 }
@@ -150,13 +150,6 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
  , "c4" : "1"
 }}
 ,
@@ -587,13 +580,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#191"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00191] For method getExistingAssociatedPoints arguments IEntity  entity1|IEntity  entity2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00201] The class Association contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

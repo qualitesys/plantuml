@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sudoku/DLXEngine.java 475 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/sudoku/DLXEngine.java 472 rule violations " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.xml" 
  , "fic3"  : "" 
 }
@@ -217,13 +217,6 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "457"
@@ -238,13 +231,6 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#8"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class dlx_solver contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#51"
@@ -1818,13 +1804,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#526"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00526] In method net.sourceforge.plantuml.sudoku.dlx_solver.shuffle@POLYN366944 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00538"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#538"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00538] The class dlx_generator contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3512,13 +3491,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#750"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00750] Public method generate is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#1065"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[01065] The class DLXEngine contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""

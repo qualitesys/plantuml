@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/TextLink.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/graphic/TextLink.java 1 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/graphic/TextLink.java 0 rule violation " 
  , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/TextLink.java.xml" 
  , "fic3"  : "" 
 }
@@ -73,24 +73,6 @@ var maDataBlocs = {
 ]
 , 
 "data14" : [
-]
-, 
-"data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "MAJOR"
- , "c2" : "QC-JAV000008"
- , "c3" : "The class should be static contains no field, constructor, destructor"
- , "c4" : "1"
-}}
- ] 
-,
-"data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextLink.java.html#8"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00008] The class TextLink contains no field, constructor, finalize. Must contain only static methods, check it"
-}} 
 ]
 , 
 "data15" : {
