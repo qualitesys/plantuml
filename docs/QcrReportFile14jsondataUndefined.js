@@ -46,6 +46,30 @@ var datadependUndefined = { "lesdatas" : [
    {"caller" : "net.sourceforge.plantuml.BlockUmlBuilder"} ,
    {"caller" : "net.sourceforge.plantuml.tim.TContext"} ,
    ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.assertFail" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.exclusiveLowerBound" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.inclusiveLowerBound" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.inclusiveUpperBound" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.readInt" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.readLong" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.writeInt" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.writeLong" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   ]},
    { "undefinedclass" : "org.apache.tools.ant.BuildException" , "callers" : [
    {"caller" : "net.sourceforge.plantuml.ant.PlantUmlTask"} ,
    ]},
@@ -221,30 +245,6 @@ var datadependUndefined = { "lesdatas" : [
    ]},
    { "undefinedclass" : "smetana.core.JUtils.tolower" , "callers" : [
    {"caller" : "gen.lib.common.strcasecmp__c"} ,
-   ]},
-   { "undefinedclass" : "staticnet.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.assertFail" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
-   ]},
-   { "undefinedclass" : "staticnet.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.exclusiveLowerBound" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
-   ]},
-   { "undefinedclass" : "staticnet.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.inclusiveLowerBound" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
-   ]},
-   { "undefinedclass" : "staticnet.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.inclusiveUpperBound" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
-   ]},
-   { "undefinedclass" : "staticnet.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.readInt" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
-   ]},
-   { "undefinedclass" : "staticnet.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.readLong" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
-   ]},
-   { "undefinedclass" : "staticnet.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.writeInt" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
-   ]},
-   { "undefinedclass" : "staticnet.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.writeLong" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
    ]
    }
 ]
