@@ -160,7 +160,7 @@ public class JUtils {
 		return Character.toLowerCase(c);
 	}
 
-	public static CString getenv(CString var) {
+	public static CString getenv(CString myvar) {
 		return null;
 	}
 
