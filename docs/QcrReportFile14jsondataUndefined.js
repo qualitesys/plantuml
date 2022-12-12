@@ -1,4 +1,8 @@
 var datadependUndefined = { "lesdatas" : [
+   { "undefinedclass" : "gen.lib.cgraph.attr__c.AgDataRecName" , "callers" : [
+   {"caller" : "gen.lib.cgraph.edge__c"} ,
+   {"caller" : "gen.lib.cgraph.node__c"} ,
+   ]},
    { "undefinedclass" : "java.lang.Math.max" , "callers" : [
    {"caller" : "net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d"} ,
    {"caller" : "net.sourceforge.plantuml.ugraphic.g2d.DriverTextG2d"} ,
@@ -46,29 +50,40 @@ var datadependUndefined = { "lesdatas" : [
    {"caller" : "net.sourceforge.plantuml.BlockUmlBuilder"} ,
    {"caller" : "net.sourceforge.plantuml.tim.TContext"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.assertFail" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   { "undefinedclass" : "net.sourceforge.plantuml.ErrorUmlType.SYNTAX_ERROR" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.picoweb.PicoWebServer"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.exclusiveLowerBound" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   { "undefinedclass" : "net.sourceforge.plantuml.SkinParam.DEFAULT_PRESERVE_ASPECT_RATIO" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.ugraphic.ImageBuilder"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.inclusiveLowerBound" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_ADDRESSES_IN_BLOCK" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.FillSegment"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.Assert.inclusiveUpperBound" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_BLOCK_SIZE" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Functions"} ,
+   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Initialize"} ,
+   {"caller" : "net.sourceforge.plantuml.argon2.model.Block"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.readInt" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_PREHASH_DIGEST_LENGTH" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Functions"} ,
+   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Initialize"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.readLong" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_PREHASH_SEED_LENGTH" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Functions"} ,
+   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Initialize"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.writeInt" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_QWORDS_IN_BLOCK" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.model.Block"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Engine.LittleEndian.writeLong" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.blake2.Blake2b"} ,
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_SYNC_POINTS" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.FillMemory"} ,
+   {"caller" : "net.sourceforge.plantuml.argon2.model.Instance"} ,
+   ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_VERSION_10" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.FillSegment"} ,
+   ]},
+   { "undefinedclass" : "net.sourceforge.plantuml.graphic.GraphicPosition.BACKGROUND_CORNER_BOTTOM_RIGHT" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.version.PSystemVersion"} ,
    ]},
    { "undefinedclass" : "org.apache.tools.ant.BuildException" , "callers" : [
    {"caller" : "net.sourceforge.plantuml.ant.PlantUmlTask"} ,
@@ -87,6 +102,12 @@ var datadependUndefined = { "lesdatas" : [
    ]},
    { "undefinedclass" : "smetana.core.JUtils.EQ" , "callers" : [
    {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
    {"caller" : "gen.lib.cdt.dtview__c"} ,
    {"caller" : "gen.lib.cgraph.edge__c"} ,
    {"caller" : "gen.lib.cgraph.graph__c"} ,
@@ -201,6 +222,12 @@ var datadependUndefined = { "lesdatas" : [
    { "undefinedclass" : "smetana.core.JUtils.sizeof" , "callers" : [
    {"caller" : "gen.lib.cdt.dtopen__c"} ,
    {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
    {"caller" : "gen.lib.cgraph.attr__c"} ,
    {"caller" : "gen.lib.cgraph.edge__c"} ,
    {"caller" : "gen.lib.cgraph.graph__c"} ,
@@ -220,6 +247,12 @@ var datadependUndefined = { "lesdatas" : [
    ]},
    { "undefinedclass" : "smetana.core.JUtils.strcmp" , "callers" : [
    {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
    {"caller" : "gen.lib.cgraph.rec__c"} ,
    {"caller" : "gen.lib.common.shapes__c"} ,
    {"caller" : "gen.lib.common.utils__c"} ,
@@ -245,6 +278,542 @@ var datadependUndefined = { "lesdatas" : [
    ]},
    { "undefinedclass" : "smetana.core.JUtils.tolower" , "callers" : [
    {"caller" : "gen.lib.common.strcasecmp__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.AGEDGE" , "callers" : [
+   {"caller" : "gen.lib.cgraph.attr__c"} ,
+   {"caller" : "gen.lib.cgraph.edge__c"} ,
+   {"caller" : "gen.lib.cgraph.id__c"} ,
+   {"caller" : "gen.lib.cgraph.imap__c"} ,
+   {"caller" : "gen.lib.common.labels__c"} ,
+   {"caller" : "gen.lib.dotgen.sameport__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.AGINEDGE" , "callers" : [
+   {"caller" : "gen.lib.cgraph.apply__c"} ,
+   {"caller" : "gen.lib.cgraph.attr__c"} ,
+   {"caller" : "gen.lib.cgraph.edge__c"} ,
+   {"caller" : "gen.lib.cgraph.imap__c"} ,
+   {"caller" : "gen.lib.cgraph.obj__c"} ,
+   {"caller" : "gen.lib.cgraph.rec__c"} ,
+   {"caller" : "gen.lib.dotgen.fastgr__c"} ,
+   {"caller" : "gen.lib.dotgen.position__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.AGNODE" , "callers" : [
+   {"caller" : "gen.lib.cgraph.apply__c"} ,
+   {"caller" : "gen.lib.cgraph.attr__c"} ,
+   {"caller" : "gen.lib.cgraph.node__c"} ,
+   {"caller" : "gen.lib.cgraph.obj__c"} ,
+   {"caller" : "gen.lib.cgraph.rec__c"} ,
+   {"caller" : "gen.lib.common.input__c"} ,
+   {"caller" : "gen.lib.common.labels__c"} ,
+   {"caller" : "gen.lib.dotgen.fastgr__c"} ,
+   {"caller" : "gen.lib.gvc.gvc__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.AGOUTEDGE" , "callers" : [
+   {"caller" : "gen.lib.cgraph.apply__c"} ,
+   {"caller" : "gen.lib.cgraph.attr__c"} ,
+   {"caller" : "gen.lib.cgraph.edge__c"} ,
+   {"caller" : "gen.lib.cgraph.obj__c"} ,
+   {"caller" : "gen.lib.cgraph.rec__c"} ,
+   {"caller" : "gen.lib.dotgen.fastgr__c"} ,
+   {"caller" : "gen.lib.dotgen.position__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.AGRAPH" , "callers" : [
+   {"caller" : "gen.lib.cgraph.apply__c"} ,
+   {"caller" : "gen.lib.cgraph.attr__c"} ,
+   {"caller" : "gen.lib.cgraph.graph__c"} ,
+   {"caller" : "gen.lib.cgraph.obj__c"} ,
+   {"caller" : "gen.lib.cgraph.rec__c"} ,
+   {"caller" : "gen.lib.cgraph.subg__c"} ,
+   {"caller" : "gen.lib.common.input__c"} ,
+   {"caller" : "gen.lib.common.labels__c"} ,
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_BOX" , "callers" : [
+   {"caller" : "smetana.core.Z"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_CROW" , "callers" : [
+   {"caller" : "smetana.core.Z"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_CURVE" , "callers" : [
+   {"caller" : "smetana.core.Z"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_DIAMOND" , "callers" : [
+   {"caller" : "smetana.core.Z"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_DOT" , "callers" : [
+   {"caller" : "smetana.core.Z"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_GAP" , "callers" : [
+   {"caller" : "gen.lib.common.arrows__c"} ,
+   {"caller" : "smetana.core.Z"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_NONE" , "callers" : [
+   {"caller" : "gen.lib.common.arrows__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_NORM" , "callers" : [
+   {"caller" : "gen.lib.common.arrows__c"} ,
+   {"caller" : "smetana.core.Z"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_TEE" , "callers" : [
+   {"caller" : "smetana.core.Z"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.BITS_PER_ARROW" , "callers" : [
+   {"caller" : "gen.lib.common.arrows__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.BITS_PER_ARROW_TYPE" , "callers" : [
+   {"caller" : "gen.lib.common.arrows__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.BOTTOM" , "callers" : [
+   {"caller" : "gen.lib.common.shapes__c"} ,
+   {"caller" : "gen.lib.common.splines__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.BOTTOM_IX" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   {"caller" : "gen.lib.dotgen.position__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.CB_UPDATE" , "callers" : [
+   {"caller" : "gen.lib.cgraph.obj__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.CLUSTER" , "callers" : [
+   {"caller" : "gen.lib.dotgen.class2__c"} ,
+   {"caller" : "gen.lib.dotgen.cluster__c"} ,
+   {"caller" : "gen.lib.dotgen.mincross__c"} ,
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.CLUSTER_EDGE" , "callers" : [
+   {"caller" : "gen.lib.dotgen.class2__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.CL_CROSS" , "callers" : [
+   {"caller" : "gen.lib.dotgen.cluster__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.CL_OFFSET" , "callers" : [
+   {"caller" : "gen.lib.dotgen.dotinit__c"} ,
+   {"caller" : "gen.lib.dotgen.position__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DEFAULT_FONTSIZE" , "callers" : [
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DEFAULT_NODEHEIGHT" , "callers" : [
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DEFAULT_NODESEP" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DEFAULT_NODESHAPE" , "callers" : [
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DEFAULT_NODEWIDTH" , "callers" : [
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DEFAULT_RANKSEP" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_ATTACH" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_BAG" , "callers" : [
+   {"caller" : "gen.lib.cdt.dtextract__c"} ,
+   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_CLEAR" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_DELETE" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_DETACH" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_FIRST" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_FLATTEN" , "callers" : [
+   {"caller" : "gen.lib.cdt.dtextract__c"} ,
+   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_FOUND" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_INSERT" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_LAST" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_LIST" , "callers" : [
+   {"caller" : "gen.lib.cdt.dtsize__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_MATCH" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_NEXT" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_OBAG" , "callers" : [
+   {"caller" : "gen.lib.cdt.dtextract__c"} ,
+   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
+   {"caller" : "gen.lib.cdt.dtsize__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_OSET" , "callers" : [
+   {"caller" : "gen.lib.cdt.dtextract__c"} ,
+   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
+   {"caller" : "gen.lib.cdt.dtsize__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_PREV" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_QUEUE" , "callers" : [
+   {"caller" : "gen.lib.cdt.dtsize__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_RENEW" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_SEARCH" , "callers" : [
+   {"caller" : "gen.lib.cdt.dttree__c"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
+   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
+   {"caller" : "gen.lib.cdt.dtview__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_SET" , "callers" : [
+   {"caller" : "gen.lib.cdt.dtextract__c"} ,
+   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.DT_STACK" , "callers" : [
+   {"caller" : "gen.lib.cdt.dtsize__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.EDGETYPEMASK" , "callers" : [
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.EDGE_LABEL" , "callers" : [
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   {"caller" : "gen.lib.common.utils__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.EDGE_XLABEL" , "callers" : [
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ET_CURVED" , "callers" : [
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ET_LINE" , "callers" : [
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ET_NONE" , "callers" : [
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   {"caller" : "gen.lib.common.utils__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.ET_SPLINE" , "callers" : [
+   {"caller" : "gen.lib.dotgen.dotinit__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.FIXEDSHAPE" , "callers" : [
+   {"caller" : "gen.lib.common.shapes__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.FLATEDGE" , "callers" : [
+   {"caller" : "gen.lib.common.splines__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.FLATORDER" , "callers" : [
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   {"caller" : "gen.lib.dotgen.flat__c"} ,
+   {"caller" : "gen.lib.dotgen.mincross__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.GLOBAL" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.GRAPH_LABEL" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.GVBEGIN" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.GVRENDER_PLUGIN" , "callers" : [
+   {"caller" : "gen.lib.gvc.gvlayout__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.GVSPLINES" , "callers" : [
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.HEAD_ID" , "callers" : [
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.HEAD_LABEL" , "callers" : [
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.HUGE_VAL" , "callers" : [
+   {"caller" : "gen.lib.pathplan.shortest__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.IGNORED" , "callers" : [
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   {"caller" : "gen.lib.dotgen.class2__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.INT_MAX" , "callers" : [
+   {"caller" : "gen.lib.common.ns__c"} ,
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   {"caller" : "gen.lib.common.routespl__c"} ,
+   {"caller" : "gen.lib.dotgen.mincross__c"} ,
+   {"caller" : "gen.lib.dotgen.position__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.INT_MIN" , "callers" : [
+   {"caller" : "gen.lib.common.routespl__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.LABEL_AT_BOTTOM" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.LABEL_AT_TOP" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.LAYOUT_USES_RANKDIR" , "callers" : [
+   {"caller" : "gen.lib.gvc.gvlayout__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.LEAFSET" , "callers" : [
+   {"caller" : "gen.lib.dotgen.position__c"} ,
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.LEFT" , "callers" : [
+   {"caller" : "gen.lib.common.shapes__c"} ,
+   {"caller" : "gen.lib.common.splines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.LOCAL" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.LT_HTML" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   {"caller" : "gen.lib.common.labels__c"} ,
+   {"caller" : "gen.lib.common.shapes__c"} ,
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.LT_NONE" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   {"caller" : "gen.lib.common.shapes__c"} ,
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.LT_RECD" , "callers" : [
+   {"caller" : "gen.lib.common.labels__c"} ,
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.MAXRANK" , "callers" : [
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.MAXSHORT" , "callers" : [
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.MILLIPOINT" , "callers" : [
+   {"caller" : "gen.lib.common.splines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.MINRANK" , "callers" : [
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.MIN_FONTSIZE" , "callers" : [
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.MIN_NODEHEIGHT" , "callers" : [
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.MIN_NODESEP" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.MIN_NODEWIDTH" , "callers" : [
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.MYHUGE" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.M_PI" , "callers" : [
+   {"caller" : "gen.lib.common.shapes__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.NEW_RANK" , "callers" : [
+   {"caller" : "gen.lib.dotgen.dotinit__c"} ,
+   {"caller" : "gen.lib.dotgen.mincross__c"} ,
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.NOCLUST" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.NODECARD" , "callers" : [
+   {"caller" : "gen.lib.label.split_q__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.NODENAME_ESC" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.NODE_XLABEL" , "callers" : [
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.NORMAL" , "callers" : [
+   {"caller" : "gen.lib.common.ns__c"} ,
+   {"caller" : "gen.lib.common.splines__c"} ,
+   {"caller" : "gen.lib.common.utils__c"} ,
+   {"caller" : "gen.lib.dotgen.cluster__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   {"caller" : "gen.lib.dotgen.flat__c"} ,
+   {"caller" : "gen.lib.dotgen.mincross__c"} ,
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.RANKDIR_TB" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.REGULAREDGE" , "callers" : [
+   {"caller" : "gen.lib.common.splines__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.RIGHT" , "callers" : [
+   {"caller" : "gen.lib.common.shapes__c"} ,
+   {"caller" : "gen.lib.common.splines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.SAMERANK" , "callers" : [
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.SEARCHSIZE" , "callers" : [
+   {"caller" : "gen.lib.common.ns__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.SELFEDGE" , "callers" : [
+   {"caller" : "gen.lib.common.splines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.SINKRANK" , "callers" : [
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.SOURCERANK" , "callers" : [
+   {"caller" : "gen.lib.dotgen.rank__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.SQRT2" , "callers" : [
+   {"caller" : "gen.lib.common.shapes__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.TAIL_ID" , "callers" : [
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.TAIL_LABEL" , "callers" : [
+   {"caller" : "gen.lib.common.postproc__c"} ,
+   {"caller" : "gen.lib.common.utils__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.TOP" , "callers" : [
+   {"caller" : "gen.lib.common.shapes__c"} ,
+   {"caller" : "gen.lib.common.splines__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.TOP_IX" , "callers" : [
+   {"caller" : "gen.lib.common.input__c"} ,
+   {"caller" : "gen.lib.dotgen.position__c"} ,
+   ]},
+   { "undefinedclass" : "smetana.core.Macro.VIRTUAL" , "callers" : [
+   {"caller" : "gen.lib.dotgen.cluster__c"} ,
+   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
+   {"caller" : "gen.lib.dotgen.fastgr__c"} ,
+   {"caller" : "gen.lib.dotgen.flat__c"} ,
+   {"caller" : "gen.lib.dotgen.mincross__c"} ,
    ]
    }
 ]
