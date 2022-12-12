@@ -5436,6 +5436,7 @@ var maDataBlocs = {
   { "child"  : "(1) org.stathissideris.ascii2image.text.StringUtils" }, 
   { "child"  : "(1) org.stathissideris.ascii2image.text.TextGrid" }, 
   { "child"  : "(1) smetana.core.ACCESS" }, 
+  { "child"  : "(1) smetana.core.JUtils" }, 
   { "child"  : "(1) smetana.core.Macro" }, 
   { "child"  : "(1) smetana.core.Memory" }, 
   { "child"  : "(1) smetana.core.OFFSET" }, 
@@ -18885,6 +18886,11 @@ var maDataBlocs = {
 }},
 {"ligne" : {
    "classe"  : "(1) smetana.core.CString" ,
+"children" : [
+]
+}},
+{"ligne" : {
+   "classe"  : "(1) smetana.core.JUtils" ,
 "children" : [
 ]
 }},

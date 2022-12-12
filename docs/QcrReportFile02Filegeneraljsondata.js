@@ -2578,6 +2578,7 @@ var mavar =
 ' { "namespace":"smetana.core" , "classe":"CFunctionAbstract" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"smetana.core" , "classe":"CStarStar" , "nbMethodes":"3" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"smetana.core" , "classe":"CString" , "nbMethodes":"24" , "nbComplexite":"2.00"} ,' + 
+' { "namespace":"smetana.core" , "classe":"JUtils" , "nbMethodes":"35" , "nbComplexite":"1.95"} ,' + 
 ' { "namespace":"smetana.core" , "classe":"Macro" , "nbMethodes":"292" , "nbComplexite":"1.04"} ,' + 
 ' { "namespace":"smetana.core" , "classe":"Memory" , "nbMethodes":"6" , "nbComplexite":"1.50"} ,' + 
 ' { "namespace":"smetana.core" , "classe":"OFFSET" , "nbMethodes":"8" , "nbComplexite":"1.13"} ,' + 

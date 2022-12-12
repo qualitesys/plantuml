@@ -10780,6 +10780,10 @@ class "smetana.core.CString" {
 Nb methods :24
 Complexity :2.00
 }
+class "smetana.core.JUtils" {
+Nb methods :35
+Complexity :1.95
+}
 class "smetana.core.Macro" {
 Nb methods :292
 Complexity :1.04
