@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/util/Factory.java.html" 
- , "texte" : "File src/jcckit/util/Factory.java 14 rule violations " 
+ , "texte" : "File src/jcckit/util/Factory.java 17 rule violations " 
  , "fic2"  : "./qc/src/jcckit/util/Factory.java.xml" 
  , "fic3"  : "" 
 }
@@ -123,6 +123,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "5"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "3"
+}}
  ] 
 ,
 "data13b" : [
@@ -157,6 +164,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00025"
  , "c1link" : "./qc/src/jcckit/util/Factory.java.html#25"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00025] For method create list of called methods Object monObjet|java.lang.String configParameters_getN159686"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#25"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00025] The argument configParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -171,6 +185,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00031"
  , "c1link" : "./qc/src/jcckit/util/Factory.java.html#31"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00031] For method create list of called methods Object monObjet|java.lang.String configParameters_getN160327"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#31"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00031] The argument configParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -180,6 +201,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/Factory.java.html#38"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00038] For method createOrGet arguments ConfigParameters  configParameters|Object  defaultObject"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#38"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00038] For method createOrGet list of called methods Object monObjet|java.lang.String configParameters_getN160894"
 }} 
 ,
 { "ligne" : {"" : ""

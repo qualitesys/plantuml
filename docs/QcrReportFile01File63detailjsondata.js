@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java 4 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java 5 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.xml" 
  , "fic3"  : "" 
 }
@@ -87,6 +87,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
+}}
  ] 
 ,
 "data13b" : [
@@ -95,6 +102,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#18"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00018] For method toBufferedImage arguments BitMatrix  matrix|int  fore|int  back"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#18"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00018] For method toBufferedImage list of called methods Object monObjet|int matrix_getWidthN145509|int matrix_getHeightN145584"
 }} 
 ,
 { "ligne" : {"" : ""

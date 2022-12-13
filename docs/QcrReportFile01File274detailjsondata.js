@@ -259,7 +259,7 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00070] For method drawPlot list of called methods Object monObjet|jcckit.graphic.Renderer createRendererN179966"
+ , "c3" : "QC-JAV000007[00070] For method drawPlot list of called methods Object monObjet|jcckit.graphic.Renderer createRendererN179966|jcckit.graphic.GraphicalElement[] plot_getCurvesN180039|jcckit.graphic.GraphicalElement plot_getAnnotationN180386"
 }} 
 ,
 { "ligne" : {"" : ""

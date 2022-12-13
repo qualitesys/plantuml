@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java 140 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java 144 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.xml" 
  , "fic3"  : "" 
 }
@@ -132,6 +132,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "6"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "4"
+}}
  ] 
 ,
 "data13b" : [
@@ -161,6 +168,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#20"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00020] For method applyMaskPenaltyRule2 arguments ByteMatrix  matrix"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#20"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00020] For method applyMaskPenaltyRule2 list of called methods Object monObjet|byte[][] matrix_getArrayN170912|int matrix_getWidthN170987|int matrix_getHeightN171062"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -245,6 +259,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#39"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00039] For method applyMaskPenaltyRule3 arguments ByteMatrix  matrix"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#39"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00039] For method applyMaskPenaltyRule3 list of called methods Object monObjet|byte[][] matrix_getArrayN172288|int matrix_getWidthN172363|int matrix_getHeightN172438"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -761,6 +782,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#101"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00101] For method applyMaskPenaltyRule4 list of called methods Object monObjet|byte[][] matrix_getArrayN177419|int matrix_getWidthN177494|int matrix_getHeightN177569|int matrix_getHeightN178166"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#101"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00101] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -1022,6 +1050,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#161"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00161] For method applyMaskPenaltyRule1Internal arguments ByteMatrix  matrix|boolean  isHorizontal"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#161"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00161] For method applyMaskPenaltyRule1Internal list of called methods Object monObjet|byte[][] matrix_getArrayN181653"
 }} 
 ,
 { "ligne" : {"" : ""

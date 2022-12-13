@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html" 
- , "texte" : "File src/jcckit/plot/CartesianCoordinateSystem.java 47 rule violations " 
+ , "texte" : "File src/jcckit/plot/CartesianCoordinateSystem.java 49 rule violations " 
  , "fic2"  : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.xml" 
  , "fic3"  : "" 
 }
@@ -157,6 +157,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "4"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
+}}
  ] 
 ,
 "data13b" : [
@@ -214,6 +221,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#58"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00058] For method createView arguments GraphPoint  origin|AxisParameters  xAxisParameters|AxisParameters  yAxisParameters"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#58"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00058] For method createView list of called methods Object monObjet|double origin_getXN181959|double origin_getYN182119"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -291,6 +305,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#90"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00090] For method createTicsAndGrid arguments boolean  isXAxis|double  low|double  high|AxisParameters  parameters"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#90"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00090] For method createTicsAndGrid list of called methods Object monObjet|double[] parameters_calculateTicsN184595"
 }} 
 ,
 { "ligne" : {"" : ""

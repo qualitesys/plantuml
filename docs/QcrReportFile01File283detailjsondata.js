@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/Anchor.java.html" 
- , "texte" : "File src/jcckit/graphic/Anchor.java 12 rule violations " 
+ , "texte" : "File src/jcckit/graphic/Anchor.java 14 rule violations " 
  , "fic2"  : "./qc/src/jcckit/graphic/Anchor.java.xml" 
  , "fic3"  : "" 
 }
@@ -112,6 +112,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "2"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
+}}
  ] 
 ,
 "data13b" : [
@@ -120,6 +127,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00020] For method getHorizontalAnchor arguments ConfigParameters  config|String  key|Anchor  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#20"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00020] For method getHorizontalAnchor list of called methods Object monObjet|java.lang.String config_getN163705"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -155,6 +169,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00039] For method getVerticalAnchor arguments ConfigParameters  config|String  key|Anchor  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#39"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00039] For method getVerticalAnchor list of called methods Object monObjet|java.lang.String config_getN165188"
 }} 
 ,
 { "ligne" : {"" : ""

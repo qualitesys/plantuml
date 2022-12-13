@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/Plot.java.html" 
- , "texte" : "File src/jcckit/plot/Plot.java 54 rule violations " 
+ , "texte" : "File src/jcckit/plot/Plot.java 57 rule violations " 
  , "fic2"  : "./qc/src/jcckit/plot/Plot.java.xml" 
  , "fic3"  : "" 
 }
@@ -252,7 +252,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "1"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
@@ -290,6 +290,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#59"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00059] For method setCoordinateSystem arguments CoordinateSystem  coordinateSystem"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#59"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00059] For method setCoordinateSystem list of called methods Object monObjet|jcckit.graphic.GraphicalElement coordinateSystem_getViewN216270|jcckit.graphic.ClippingShape coordinateSystem_getClippingShapeN216344|jcckit.transformation.Transformation coordinateSystem_getTransformationN216418"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -512,6 +519,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#201"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00201] For method generateCurves list of called methods Object monObjet|int dataPlot_getNumberOfElementsN225407"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#201"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00201] The argument dataPlot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -577,6 +591,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#220"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00220] For method fillCurve arguments int  curveIndex|DataCurve  dataCurve"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#220"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00220] For method fillCurve list of called methods Object monObjet|int dataCurve_getNumberOfElementsN226782"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java 204 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java 206 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.xml" 
  , "fic3"  : "" 
 }
@@ -279,7 +279,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "6"
+ , "c4" : "8"
 }}
  ] 
 ,
@@ -695,6 +695,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#226"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00226] For method terminateBits arguments int  numDataBytes|BitArray  bits"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#226"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00226] For method terminateBits list of called methods Object monObjet|int bits_getSizeN246711"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1171,6 +1178,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#388"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00388] For method appendLengthInfo arguments int  numLetters|int  version|Mode  mode|BitArray  bits"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00388"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#388"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00388] For method appendLengthInfo list of called methods Object monObjet|int mode_getCharacterCountBitsN255825"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java 70 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java 71 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.xml" 
  , "fic3"  : "" 
 }
@@ -196,7 +196,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "4"
+ , "c4" : "5"
 }}
  ] 
 ,
@@ -521,6 +521,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#162"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00162] For method divide arguments GF256Poly  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#162"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00162] For method divide list of called methods Object monObjet|int other_getCoefficientN187120|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly other_multiplyByMonomialN187782"
 }} 
 ,
 { "ligne" : {"" : ""

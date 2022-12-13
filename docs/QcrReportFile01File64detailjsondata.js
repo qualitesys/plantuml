@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/common/BitArray.java 88 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/common/BitArray.java 89 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.xml" 
  , "fic3"  : "" 
 }
@@ -268,7 +268,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
@@ -677,6 +677,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#121"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00121] For method appendBitArray arguments BitArray  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#121"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00121] For method appendBitArray list of called methods Object monObjet|int other_getSizeN181186"
 }} 
 ,
 { "ligne" : {"" : ""

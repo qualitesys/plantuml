@@ -726,7 +726,7 @@ var maDataBlocs = {
  , "c1" : "00250"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#250"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00250] For method createTicLabelFormat list of called methods Object monObjet|jcckit.util.Format Format_createN297605"
+ , "c3" : "QC-JAV000007[00250] For method createTicLabelFormat list of called methods Object monObjet|jcckit.util.Format Format_createN297605|jcckit.util.ConfigParameters c_getNodeN297721"
 }} 
 ,
 { "ligne" : {"" : ""

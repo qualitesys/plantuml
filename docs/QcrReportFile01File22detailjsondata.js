@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java 64 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java 65 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.xml" 
  , "fic3"  : "" 
 }
@@ -137,7 +137,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
@@ -259,6 +259,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#103"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00103] For method getYMidPoint arguments Point3D  pPrev|Point3D  pCurr"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#103"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00103] For method getYMidPoint list of called methods Object monObjet|double pPrev_getYN177555|double pPrev_getZN177693|double pCurr_getYN177850|double pCurr_getZN177924"
 }} 
 ,
 { "ligne" : {"" : ""

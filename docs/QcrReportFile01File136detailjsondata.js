@@ -3434,7 +3434,7 @@ var maDataBlocs = {
  , "c1" : "00959"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#959"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00959] For method compassPort list of called methods Object monObjet|int invflip_sideN586243|double invflip_angleN586575"
+ , "c3" : "QC-JAV000007[00959] For method compassPort list of called methods Object monObjet|char compass_charAtN579132|smetana.core.CString compass_plus_N579227|int invflip_sideN586243|double invflip_angleN586575"
 }} 
 ,
 { "ligne" : {"" : ""

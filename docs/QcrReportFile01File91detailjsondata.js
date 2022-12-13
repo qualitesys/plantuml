@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java 161 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java 163 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.xml" 
  , "fic3"  : "" 
 }
@@ -263,7 +263,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "3"
+ , "c4" : "5"
 }}
  ] 
 ,
@@ -308,6 +308,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#153"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00153] For method embedTypeInfo arguments ErrorCorrectionLevel  ecLevel|int  maskPattern|ByteMatrix  matrix"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#153"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00153] For method embedTypeInfo list of called methods Object monObjet|int matrix_getWidthN234478|int matrix_getHeightN234847"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -476,6 +483,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#208"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00208] For method embedDataBits arguments BitArray  dataBits|int  maskPattern|ByteMatrix  matrix"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#208"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00208] For method embedDataBits list of called methods Object monObjet|int matrix_getWidthN236680|int matrix_getHeightN236779|boolean dataBits_getN237750"
 }} 
 ,
 { "ligne" : {"" : ""

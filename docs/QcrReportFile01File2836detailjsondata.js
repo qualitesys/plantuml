@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/GridPattern.java 146 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/GridPattern.java 147 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.xml" 
  , "fic3"  : "" 
 }
@@ -185,7 +185,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
@@ -258,6 +258,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#37"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00037] For method isMatchedBy arguments TextGrid  grid"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#37"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00037] For method isMatchedBy list of called methods Object monObjet|StringBuffer grid_getRowN190061"
 }} 
 ,
 { "ligne" : {"" : ""
