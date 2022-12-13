@@ -712,7 +712,7 @@ var maDataBlocs = {
  , "c1" : "00209"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#209"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00209] For method createAxis list of called methods Object monObjet|boolean c_getBooleanN295011|double c_getDoubleN295112|double c_getDoubleN295213|double c_getDoubleN295314|java.lang.String c_getN295574|double c_getDoubleN295973|boolean c_getBooleanN296074|double c_getDoubleN296293|double c_getDoubleN296424|int c_getIntN296555|jcckit.util.TicLabelFormat createTicLabelFormatN296848|boolean c_getBooleanN297239"
+ , "c3" : "QC-JAV000007[00209] For method createAxis list of called methods Object monObjet|jcckit.util.TicLabelFormat createTicLabelFormatN296848"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -726,7 +726,7 @@ var maDataBlocs = {
  , "c1" : "00250"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#250"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00250] For method createTicLabelFormat list of called methods Object monObjet|jcckit.util.Format Format_createN297605|jcckit.util.ConfigParameters c_getNodeN297721"
+ , "c3" : "QC-JAV000007[00250] For method createTicLabelFormat list of called methods Object monObjet|jcckit.util.Format Format_createN297605"
 }} 
 ,
 { "ligne" : {"" : ""

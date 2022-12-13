@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java 43 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java 42 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.xml" 
  , "fic3"  : "" 
 }
@@ -137,7 +137,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -308,13 +308,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#114"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00114] For method findEdgeCrossing arguments Point3D  pPrev|Point3D  pCurr"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#114"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00114] For method findEdgeCrossing list of called methods Object monObjet|double pCurr_getZN170099|double pCurr_getXN170285|double pCurr_getYN170493"
 }} 
 ,
 { "ligne" : {"" : ""

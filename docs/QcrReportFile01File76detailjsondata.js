@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java 234 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java 233 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.xml" 
  , "fic3"  : "" 
 }
@@ -164,7 +164,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -209,13 +209,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#29"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00029] For method readVersion arguments BitMatrix  bitMatrix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#29"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00029] For method readVersion list of called methods Object monObjet|int bitMatrix_getHeightN212449"
 }} 
 ,
 { "ligne" : {"" : ""

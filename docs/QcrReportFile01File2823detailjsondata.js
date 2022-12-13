@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java 123 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java 121 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.xml" 
  , "fic3"  : "" 
 }
@@ -203,7 +203,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "4"
+ , "c4" : "2"
 }}
  ] 
 ,
@@ -234,13 +234,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#35"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00035] For method createOpenFromBoundaryCells arguments TextGrid  grid|CellSet  boundaryCells|int  cellWidth|int  cellHeight|boolean  allRound"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#35"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00035] For method createOpenFromBoundaryCells list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN187272"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -325,13 +318,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#83"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00083] For method growEdgesFromCell arguments TextGrid  workGrid|int  cellWidth|int  cellHeight|boolean  allRound|TextGrid.Cell  cell|TextGrid.Cell  previousCell|CellSet  visitedCells"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00083] For method growEdgesFromCell list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN190557"
 }} 
 ,
 { "ligne" : {"" : ""

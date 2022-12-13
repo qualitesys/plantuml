@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java 23 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java 25 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.xml" 
  , "fic3"  : "" 
 }
@@ -138,11 +138,34 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "2"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
  , "c4" : "1"
 }}
 ,
@@ -165,13 +188,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "5"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
 }}
  ] 
 ,
@@ -291,13 +307,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#94"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00094] For method transformPolygonPoints list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D[] pPolygon_getPointsN159080"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#94"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00094] The argument pPolygon is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -335,6 +344,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#108"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00108] For method addEdgeXing arguments EdgeCrossing  pEdgeXing"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.generateScanBits@POLYN155978"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#54"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00054] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.generateScanBits@POLYN155978 the MagicNumber/String 64 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#59"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00059] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.generateScanBits@POLYN155978 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ]
 , 

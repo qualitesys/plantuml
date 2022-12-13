@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractionGrid.java 48 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractionGrid.java 51 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.xml" 
  , "fic3"  : "" 
 }
@@ -165,6 +165,13 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -175,7 +182,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -197,13 +204,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
 }}
  ] 
 ,
@@ -419,13 +419,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#113"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00113] For method getDistinctShapes list of called methods Object monObjet|java.util.ArrayList nonBlank_breakIntoDistinctBoundariesN176910"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#121"
  , "c2" : "MAJOR"
@@ -541,7 +534,35 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170422"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.AbstractionGrid.getDistinctShapes@POLYN176686"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#29"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00029] In the recursive method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170422 the MagicNumber/String 'Making AbstractionGrid using buffer:' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#31"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00031] In the recursive method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170422 the MagicNumber/String '...and the following CellSet:' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#69"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00069] In the recursive method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170422 the MagicNumber/String '...the resulting AbstractionGrid is:' MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java 33 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java 32 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.xml" 
  , "fic3"  : "" 
 }
@@ -149,7 +149,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -257,13 +257,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#126"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00126] For method render arguments PixelCanvas  pCanvas|Projection  pProjection"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#126"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00126] For method render list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D pProjection_rotateN158599|ext.plantuml.com.ctreber.acearth.util.Point2D pProjection_finalizeN158905|java.awt.Graphics2D pCanvas_getGraphics2DN159236"
 }} 
 ,
 { "ligne" : {"" : ""

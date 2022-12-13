@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/JUtils.java.html" 
- , "texte" : "File src/smetana/core/JUtils.java 141 rule violations " 
+ , "texte" : "File src/smetana/core/JUtils.java 140 rule violations " 
  , "fic2"  : "./qc/src/smetana/core/JUtils.java.xml" 
  , "fic3"  : "" 
 }
@@ -433,7 +433,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -548,13 +548,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#60"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00060] For method strtol arguments CString  str|CString[]  endptr|int  base"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/smetana/core/JUtils.java.html#60"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00060] For method strtol list of called methods Object monObjet|smetana.core.CString end_plus_N191102"
 }} 
 ,
 { "ligne" : {"" : ""

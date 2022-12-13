@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/label/split_q__c.java.html" 
- , "texte" : "File src/gen/lib/label/split_q__c.java 207 rule violations " 
+ , "texte" : "File src/gen/lib/label/split_q__c.java 225 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/label/split_q__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -111,12 +111,35 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "17"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "7"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -1603,6 +1626,132 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#301"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00301] In method gen.lib.label.split_q__c.InitPVars@POLYN224646 the MagicNumber/String  'InitPVars' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.split_q__c.Classify@POLYN220213"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#224"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00224] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String '4qyy2dpbkziuubssvfwb8u1sh' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#224"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00224] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 'Classify' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#227"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00227] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#228"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00228] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#228"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00228] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#229"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00229] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#229"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00229] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#230"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00230] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#233"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00233] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#235"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00235] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#236"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00236] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#237"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00237] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#239"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00239] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#240"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00240] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#240"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00240] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#242"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00242] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String '4qyy2dpbkziuubssvfwb8u1sh' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/gen/lib/label/split_q__c.java.html#242"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00242] In the recursive method gen.lib.label.split_q__c.Classify@POLYN220213 the MagicNumber/String 'Classify' MUST BE CONVERTED to const"
 }} 
 ]
 , 

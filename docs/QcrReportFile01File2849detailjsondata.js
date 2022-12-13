@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/Memory.java.html" 
- , "texte" : "File src/smetana/core/Memory.java 19 rule violations " 
+ , "texte" : "File src/smetana/core/Memory.java 18 rule violations " 
  , "fic2"  : "./qc/src/smetana/core/Memory.java.xml" 
  , "fic3"  : "" 
 }
@@ -144,7 +144,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -217,13 +217,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#22"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00022] For method identityHashCode arguments CString  data"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00022] For method identityHashCode list of called methods Object monObjet|int data_getUidN150074"
 }} 
 ,
 { "ligne" : {"" : ""

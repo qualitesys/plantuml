@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramComponent.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramComponent.java 38 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramComponent.java 37 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramComponent.java.xml" 
  , "fic3"  : "" 
 }
@@ -102,13 +102,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
 }}
  ] 
 ,
@@ -237,13 +230,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramComponent.java.html#53"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00053] For method createClosedFromBoundaryCells arguments TextGrid  grid|CellSet  cells|int  cellWidth|int  cellHeight|boolean  allRound"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramComponent.java.html#53"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00053] For method createClosedFromBoundaryCells list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN162415|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN163082"
 }} 
 ,
 { "ligne" : {"" : ""

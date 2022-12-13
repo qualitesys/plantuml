@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/BarFactory.java.html" 
- , "texte" : "File src/jcckit/plot/BarFactory.java 16 rule violations " 
+ , "texte" : "File src/jcckit/plot/BarFactory.java 15 rule violations " 
  , "fic2"  : "./qc/src/jcckit/plot/BarFactory.java.xml" 
  , "fic3"  : "" 
 }
@@ -105,13 +105,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "3"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -141,13 +134,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#28"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00028] For method createSymbol arguments GraphPoint  point|GraphicAttributes  attributes|Hint  hintForNextPoint|Hint  hintFromPreviousCurve"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#28"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00028] For method createSymbol list of called methods Object monObjet|double position_getXN167325|double position_getYN167400|double point_getXN167475|double point_getYN167592"
 }} 
 ,
 { "ligne" : {"" : ""

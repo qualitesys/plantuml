@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java 25 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java 24 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.xml" 
  , "fic3"  : "" 
 }
@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -148,13 +148,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#22"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00022] For method buildGenerator arguments int  degree"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00022] For method buildGenerator list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly lastGenerator_multiplyN150637"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -196,7 +189,7 @@ var maDataBlocs = {
  , "c1" : "00034"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00034] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly buildGeneratorN151629|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly info_multiplyByMonomialN152089|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly[] info_divideN152207|int[] remainder_getCoefficientsN152338"
+ , "c3" : "QC-JAV000007[00034] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly buildGeneratorN151629"
 }} 
 ,
 { "ligne" : {"" : ""

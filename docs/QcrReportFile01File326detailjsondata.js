@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/SimpleCurve.java.html" 
- , "texte" : "File src/jcckit/plot/SimpleCurve.java 28 rule violations " 
+ , "texte" : "File src/jcckit/plot/SimpleCurve.java 27 rule violations " 
  , "fic2"  : "./qc/src/jcckit/plot/SimpleCurve.java.xml" 
  , "fic3"  : "" 
 }
@@ -112,13 +112,6 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
  , "c4" : "1"
 }}
  ] 
@@ -276,13 +269,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#89"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00089] For method addPoint arguments GraphPoint  point|Hint  hintFromPreviousCurve"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#89"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00089] For method addPoint list of called methods Object monObjet|jcckit.plot.Hint symbol_getHintForNextPointN180694|jcckit.plot.Hint symbol_getHintForNextCurveN180768"
 }} 
 ,
 { "ligne" : {"" : ""

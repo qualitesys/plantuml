@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_dtlink_s.java.html" 
- , "texte" : "File src/h/ST_dtlink_s.java 17 rule violations " 
+ , "texte" : "File src/h/ST_dtlink_s.java 16 rule violations " 
  , "fic2"  : "./qc/src/h/ST_dtlink_s.java.xml" 
  , "fic3"  : "" 
 }
@@ -146,13 +146,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "3"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -203,13 +196,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#50"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00050] For method getTheField arguments OFFSET  offset"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#50"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00050] For method getTheField list of called methods Object monObjet|smetana.core.OFFSET offset_negativeN158955"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java 142 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java 141 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.xml" 
  , "fic3"  : "" 
 }
@@ -165,7 +165,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -196,13 +196,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#52"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00052] For method render arguments Diagram  diagram|BufferedImage  image|RenderingOptions  options"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00052] For method render list of called methods Object monObjet|java.util.ArrayList diagram_getAllDiagramShapesN207561|float diagram_getMinimumOfCellDimensionN208362|float diagram_getMinimumOfCellDimensionN210906|java.util.ArrayList diagram_getTextObjectsN216051|int diagram_getCellWidthN218313|int diagram_getCellHeightN218675"
 }} 
 ,
 { "ligne" : {"" : ""
